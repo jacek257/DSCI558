@@ -1,0 +1,2158 @@
+Jason Winer	Jason Winer	0.9991463422775269
+Jan de Bont	Jan de Bont	0.999060869216919
+Mark Levin	Mark Levin	0.9990875720977783
+Tony Scott	Oz Scott	2.0056893158034578E-13
+Brad Lewis	Brad Lewis	0.9991458654403687
+Lone Scherfig	Lone Scherfig	0.9990642070770264
+Mark Rosman	Mark Rosman	0.9990324974060059
+William Dieterle	William Dieterle	0.9991170167922974
+Leigh Janiak	Leigh Janiak	0.998981237411499
+Joe Roth	Joe Roth	0.9991068840026855
+Susan Seidelman	Susan Seidelman	0.9993222951889038
+Edward Norton	Edward Norton	0.9990179538726807
+Juan Carlos Pineiro Escoriaza	Juan Carlos Pineiro Escoriaza	0.999285876750946
+Rupert Wyatt	Rupert Wyatt	0.9991893768310547
+David Lean	David Lean	0.999091386795044
+Christopher Nolan	Christopher Nolan	0.9991896152496338
+Ronald Neame	Ronald Neame	0.9992262125015259
+Jacques Tourneur	Jacques Tourneur	0.9989639520645142
+Stephen Milburn Anderson	Stephen John Anderson	1.320345471410994E-13
+John Whitesell	John Whitesell	0.999111533164978
+David Hughes	David A. Hughes	9.275733799758365E-14
+Harold Becker	Harold Becker	0.9990297555923462
+Ron Shelton	Ron Shelton	0.9992451667785645
+Fred Durst	Fred Durst	0.999285101890564
+Steven Knight	Steven Knight	0.9991251230239868
+Roland Emmerich	Roland Emmerich	0.9992145299911499
+Mark Webber	Mark Webber	0.9991692304611206
+Maxim Korostyshevsky	Maksim Korostyshevsky	9.028894846401306E-14
+John Milius	John Milius	0.9992140531539917
+David Koepp	David Koepp	0.9990741014480591
+Todd Verow	Todd Verow	0.9991903305053711
+Lee Sholem	Lee Sholem	0.9991579055786133
+Louie Psihoyos	Louie Psihoyos	0.9992384314537048
+Peter Medak	Peter Medak	0.9993295669555664
+Tod Browning	Tod Browning	0.9991933107376099
+Amy Berg	Amy Berg	0.9991937875747681
+Alex Garland	Alex Garland	0.9992337822914124
+Wally Pfister	Wally Pfister	0.998997688293457
+Mennan Yapo	Mennan Yapo	0.999215841293335
+Craig William Macneill	Craig William Macneill	0.9991636276245117
+Verena Paravel	Verena Paravel	0.9991060495376587
+Alex Kurtzman	Alex Kurtzman	0.9990512132644653
+Andy Cadiff	Andy Cadiff	0.999151349067688
+Florian Henckel von Donnersmarck	Florian Henckel von Donnersmarck	0.9991470575332642
+Scott Stewart	Scott Stewart	0.9991072416305542
+Charlie McDowell	Charlie McDowell	0.9991402626037598
+mink	mink	0.9991587400436401
+Charles B. Pierce	Charles B. Pierce	0.9990463852882385
+Amos Kollek	Amos Kollek	0.999273419380188
+Danny Boyle	Danny Boyle	0.9991047382354736
+Stanley Tong	Stanley Tong	0.9992438554763794
+Gregory Hatanaka	Gregory Hatanaka	0.9991344213485718
+Rawson Marshall Thurber	Rawson Marshall Thurber	0.9991217851638794
+Harold Ramis	Harold Ramis	0.9993200302124023
+Delbert Mann	Delbert Mann	0.9992457628250122
+Ray Enright	Ray Enright	0.9989192485809326
+Gene Wilder	Gene Wilder	0.9992531538009644
+Richard Ledes	Richard Ledes	0.9990817308425903
+Lorene Scafaria	Lorene Scafaria	0.9990123510360718
+Todd Solondz	Todd Solondz	0.9991068840026855
+David Lynch	David Lynch	0.9991645812988281
+Steve \'Spaz\' Williams	Steve \'Spaz\' Williams	0.9991096258163452
+Woody Allen	Woody Allen	0.9990943670272827
+Jon S. Baird	Jon S. Baird	0.9991292953491211
+Gregory Poirier	Gregory Poirier	0.9992880821228027
+Wes Ball	Wes Ball	0.9991182088851929
+Arthur H. Nadel	Arthur H. Nadel	0.9989702701568604
+Menahem Golan	Menahem Golan	0.9990065097808838
+Miguel Arteta	Miguel Arteta	0.9992671012878418
+Carlos Saldanha	Carlos Saldanha	0.9990262985229492
+Andy Fickman	Andy Fickman	0.9992837905883789
+Nils Gaup	Nils Gaup	0.9990403652191162
+Leslye Headland	Leslye Headland	0.9989372491836548
+Kevin Greutert	Kevin Greutert	0.9992156028747559
+Elizabeth Chai Vasarhelyi	Elizabeth Chai Vasarhelyi	0.9990552663803101
+Karen Moncrieff	Karen Moncrieff	0.99907386302948
+Keith Gordon	Seth Gordon	1.211614494714755E-13
+Ramin Bahrani	Ramin Bahrani	0.998982310295105
+Leigh Scott	Leigh Scott	0.9990595579147339
+Kimberly Peirce	Kimberly Peirce	0.9992210865020752
+Mike Flanagan	Mike Flanagan	0.9989684820175171
+Martin Sheen	Martin Sheen	0.9989566802978516
+Gary Goldman	Gary Goldman	0.9990725517272949
+Gordon Douglas	Gordon M. Douglas	0.0
+Alejandro Monteverde	Alejandro Monteverde	0.9989796876907349
+Oleg Egorov	Oleg Egorov	0.9992623329162598
+Etan Cohen	Herman Cohen	1.912324329922041E-13
+John Roberts	Johannes Roberts	1.1016362111817071E-13
+Chris Moore	Rich Moore	1.7684708948986771E-13
+Robert Aldrich	Robert Aldrich	0.9992834329605103
+Bilge Ebiri	Bilge Ebiri	0.9989267587661743
+Richard Franklin	Richard Franklin	0.999255895614624
+Jason Moore	John Moore	1.196299325876768E-13
+Joe Camp	Joe Camp	0.9989315271377563
+Jim Gillespie	Jim Gillespie	0.9990839958190918
+Preston A. Whitmore II	Preston A. Whitmore II	0.9992414712905884
+Gary Nelson	Gary Nelson	0.9991943836212158
+Ken Wiederhorn	Ken Wiederhorn	0.9992121458053589
+Nicolás López	Nicolás López	0.9990603923797607
+James C. Strouse	James C. Strouse	0.9990384578704834
+Peter H. Hunt	Peter H. Hunt	0.9991234540939331
+Graeme Campbell	Graeme Campbell	0.999271035194397
+J.B. Rogers	J.B. Rogers	0.9992692470550537
+Michael Sucsy	Michael Sucsy	0.9991674423217773
+Gil Junger	Gil Junger	0.9991695880889893
+Jean Hewitt	Jason Hewitt	0.0
+Rian Johnson	Rian Johnson	0.9991879463195801
+Stephen J. Anderson	Stephen John Anderson	1.7402114024420677E-14
+Christopher Coppola	Christopher Coppola	0.9992181062698364
+Frank Coraci	Frank Coraci	0.9991899728775024
+Herbert Ross	Herbert Ross	0.9990373849868774
+Lars von Trier	Lars von Trier	0.9989916086196899
+Nicholas Stoller	Nicholas Stoller	0.9991276264190674
+Kamal Ahmed	Kamal Ahmed	0.9989444017410278
+Nick Grinde	Nick Grinde	0.9989229440689087
+Robert Redford	Robert Redford	0.9990408420562744
+James McTeigue	James McTeigue	0.9989585876464844
+Carl Reiner	Carl Reiner	0.9989302158355713
+Jessie Nelson	Jessie Nelson	0.9990955591201782
+Wesley Ruggles	Wesley Ruggles	0.9992609024047852
+Billy Wilder	Billy Wilder	0.9990943670272827
+Hector Babenco	Hector Babenco	0.9992653131484985
+Marisa Silver	Marisa Silver	0.9992015361785889
+Robert Lieberman	Robert H. Lieberman	0.0
+Atom Egoyan	Atom Egoyan	0.9992712736129761
+Robert Day	Robert Day	0.9992527961730957
+Paris Barclay	Paris Barclay	0.9989323616027832
+Fletcher Markle	Peter Markle	2.181973135159665E-14
+Jonas Pate	Jonas Pate	0.9991644620895386
+Sarah Adina Smith	Sarah Adina Smith	0.9990953207015991
+Bryan Johnson	Alan Johnson	7.262351391914765E-14
+Gary Chapman	Gary Chapman	0.9990397095680237
+Rob Williams	Tod Williams	1.0279032806133001E-13
+Andrew Bujalski	Andrew Bujalski	0.9990427494049072
+Mike Newell	Mike Newell	0.9992039203643799
+David Twohy	David Twohy	0.9990899562835693
+David M. Rosenthal	David M. Rosenthal	0.9992272853851318
+Brandon Ho	Brandon Ho	0.9992278814315796
+Robert Benton	Robert Benton	0.9991486072540283
+Don Taylor	Don Taylor	0.9989948272705078
+Herschel Faber	Herschel Faber	0.9992872476577759
+David Worth	David Worth	0.9990214109420776
+Michael Gornick	Michael Gornick	0.9991278648376465
+Deon Taylor	Don Taylor	2.1887492632124278E-13
+Kriv Stenders	Kriv Stenders	0.9991295337677002
+Robert Vince	Robert Vince	0.999325156211853
+William Malone	William Malone	0.9990715980529785
+Declan O\'Brien	Declan O\'Brien	0.9992440938949585
+Geoffrey Wright	Geoffrey Wright	0.9992104768753052
+Phillip Rhee	Phillip Rhee	0.9991214275360107
+Mark Raso	Mark Raso	0.9989738464355469
+David Yates	David Yates	0.9989655017852783
+Miguel �?ngel Vivas	Miguel �?ngel Vivas	0.9989936351776123
+Sam Peckinpah	Sam Peckinpah	0.9991637468338013
+André De Toth	André De Toth	0.9991922378540039
+Oren Peli	Oren Peli	0.9992583990097046
+Gene Kelly	Gene Kelly	0.9993147850036621
+Gonzalo López-Gallego	Gonzalo López-Gallego	0.9988964796066284
+Guy Hamilton	Guy Hamilton	0.9993247985839844
+Brett Morgen	Brett Morgen	0.9990840554237366
+Antonio Margheriti	Antonio Margheriti	0.9992663860321045
+David Schwimmer	David Schwimmer	0.9990590810775757
+Arthur Hiller	Arthur Hiller	0.998985767364502
+Susanna White	Susanna White	0.9992880821228027
+James DeMonaco	James DeMonaco	0.9993096590042114
+Terry O. Morse	Terry O. Morse	0.9991476535797119
+Jean Yarbrough	Jean Yarbrough	0.9991635084152222
+Tim Johnson	Eric Johnson	1.3777817591247715E-13
+Natalie Bible\'	Natalie Bible\'	0.9991805553436279
+Julien Duvivier	Julien Duvivier	0.9990880489349365
+John Crowley	John Crowley	0.9990940093994141
+Robert Wise	Robert Wise	0.9989436268806458
+Jennifer Westfeldt	Jennifer Westfeldt	0.9992352724075317
+John Woo	John Woo	0.9989985227584839
+Joshua Logan	Joshua Logan	0.9991168975830078
+Ray Gower	Ray Gower	0.9989866018295288
+Jason Banker	Jason Banker	0.9990048408508301
+Ondi Timoner	Ondi Timoner	0.9989351034164429
+John Hughes	John Hughes	0.9992108345031738
+Richard Williams	Richard Williams	0.999051570892334
+Marc Abraham	Marc Abraham	0.9991650581359863
+Zalman King	Zalman King	0.9991556406021118
+Chris Robinson	Chris Robinson	0.9992058277130127
+Bruce Hunt	Bruce Hunt	0.9990285634994507
+Mike Gabriel	Mike Gabriel	0.9992620944976807
+Tom Holland	Tom Holland	0.9991470575332642
+Marc Fienberg	Marc Fienberg	0.9993036985397339
+Tony Randel	Tony Randel	0.9992213845252991
+Stacy Title	Stacy Title	0.9991697072982788
+Marc Webb	Jack Webb	6.198389918736849E-14
+Raoul Ruiz	Raoul Ruiz	0.9992049932479858
+James Whale	James Whale	0.9991745948791504
+Scott S. Anderson	Scott S. Anderson	0.9989789724349976
+John Pogue	John Pogue	0.9991660118103027
+Dean Jones	Andrew Jones	0.0
+Tim Fywell	Tim Fywell	0.9989445805549622
+Jim Sheridan	Jim Sheridan	0.9990746974945068
+Patricia Riggen	Patricia Riggen	0.9991759061813354
+Fritz Lang	Fritz Lang	0.9990861415863037
+Damon Santostefano	Damon Santostefano	0.9992085695266724
+Alex Cox	Alex Cox	0.9990289211273193
+Nicholas Meyer	Nicholas Meyer	0.9989721775054932
+Alison Bagnall	Alison Bagnall	0.9992003440856934
+Bette Gordon	Seth Gordon	8.788042044289082E-14
+Kent Jones	Dean Jones	2.281422121531984E-13
+Katja von Garnier	Katja von Garnier	0.9991142749786377
+Caleb Deschanel	Caleb Deschanel	0.9989715814590454
+George Miller	George Miller	0.9990317821502686
+Lambert Hillyer	Lambert Hillyer	0.9991079568862915
+Matthew Robbins	Matthew Robbins	0.9990572929382324
+David O. Russell	David O. Russell	0.9991235733032227
+Scott Speer	Scott Speer	0.9990643262863159
+Edmund Goulding	Edmund Goulding	0.9990184307098389
+Kristine Peterson	Kristine Peterson	0.9991153478622437
+Roland Joffé	Roland Joffé	0.999172568321228
+Richard C. Sarafian	Richard C. Sarafian	0.9990807175636292
+Ashton Root	Ashton Root	0.9989978075027466
+Tom Tykwer	Tom Tykwer	0.9990906715393066
+Oren Moverman	Oren Moverman	0.9992128610610962
+Bill Paxton	Bill Paxton	0.9990425109863281
+Amy Heckerling	Amy Heckerling	0.9990369081497192
+Akiva Schaffer	Akiva Schaffer	0.9990396499633789
+Nimród Antal	Nimród Antal	0.9992513656616211
+David Zucker	David Zucker	0.9991044998168945
+Andrew Scheinman	Andrew Scheinman	0.9990222454071045
+Todd Holland	Tom Holland	4.753051183431327E-14
+Ivan Reitman	Ivan Reitman	0.9991275072097778
+Mike Nichols	Mike Nichols	0.9990018606185913
+David Wain	David Wain	0.999305009841919
+Tamara Jenkins	Tamara Jenkins	0.9990078210830688
+Edwin L. Marin	Edwin L. Marin	0.9991257190704346
+George Scribner	George Scribner	0.9991799592971802
+Tom McGrath	Tom McGrath	0.9990631341934204
+William Byron Hillman	William Byron Hillman	0.9991036653518677
+Charles Barton	Charles Barton	0.9990962743759155
+Norman Z. McLeod	Norman McLeod	0.0
+Dan Nelson	David Nelson	1.6203251034744431E-13
+W. Scott Peake	W. Scott Peake	0.9989540576934814
+Emile Ardolino	Emile Ardolino	0.9991655349731445
+Jim Mickle	Jim Mickle	0.9991776943206787
+Chris Renaud	Chris Renaud	0.9991946816444397
+Richard Curtis	Richard Curtis	0.9991112947463989
+John Polson	John Polson	0.9992178678512573
+Bruce Malmuth	Bruce Malmuth	0.9992023706436157
+Charles Grosvenor	Charles Grosvenor	0.9992272853851318
+Chuck Sheetz	Chuck Sheetz	0.9993494153022766
+Richard Linklater	Richard Linklater	0.9990575313568115
+Ralph E. Portillo	Ralph Portillo	2.707029377404819E-14
+Dennis Iliadis	Dennis Iliadis	0.9989917278289795
+Alfonso Cuarón	Alfonso Cuarón	0.9992078542709351
+John Badham	John Badham	0.9992784261703491
+Jon Amiel	Jon Amiel	0.9989503622055054
+Adam Bhala Lough	Adam Bhala Lough	0.999279797077179
+Alfonso Gomez-Rejon	Alfonso Gomez-Rejon	0.9990301132202148
+Norman Jewison	Norman Jewison	0.9990749359130859
+David Hugh Jones	David Hugh Jones	0.999245285987854
+W.S. Van Dyke	W.S. Van Dyke	0.9990894794464111
+Walt Becker	Walter Becker	1.2776203163998578E-13
+William Eubank	Will Eubank	9.125802191830776E-14
+Fred M. Wilcox	Fred Wilcox	4.337934904948687E-14
+Warren Beatty	Warren Beatty	0.9991198778152466
+Chris Mason Johnson	Chris Mason Johnson	0.9991497993469238
+Kaige Chen	Kaige Chen	0.9990246295928955
+Melvin Frank	Melvin Frank	0.9990792274475098
+Damien Chazelle	Damien Chazelle	0.9991672039031982
+Rob Kuhns	Rob Kuhns	0.9991735219955444
+Ron Underwood	Ron Underwood	0.9989947080612183
+Jun Falkenstein	Jun Falkenstein	0.9991616010665894
+Alex Gibney	Alex Gibney	0.9989973306655884
+Courtney Solomon	Courtney Solomon	0.9991006255149841
+Dorothy Ann Puzo	Dorothy Ann Puzo	0.9991171956062317
+William C. McGann	William McGann	1.8806310675412163E-13
+John Moore	John Moore	0.9991816282272339
+Chris Messina	Chris Messina	0.9991503953933716
+John Ottman	John Ottman	0.9991075992584229
+Herbert L. Strock	Herbert L. Strock	0.9992952346801758
+Ron Shelton	Lynn Shelton	1.1811963896140448E-13
+Howard Zieff	Howard Zieff	0.9989974498748779
+Phillip Borsos	Phillip Borsos	0.9991468191146851
+John Madden	John Madden	0.9990822076797485
+Bronwen Hughes	Bronwen Hughes	0.9991046190261841
+Shlomi Eldar	Shlomi Eldar	0.9992238283157349
+Fisher Stevens	Fisher Stevens	0.9991065263748169
+George Gallo	George Gallo	0.9991800785064697
+Kevin Bray	Kevin Bray	0.9990582466125488
+Roger Holzberg	Roger Holzberg	0.9992020130157471
+Max Ophüls	Max Ophüls	0.9992179870605469
+Stuart Gordon	Stuart Gordon	0.999129056930542
+Alex R. Johnson	Alex R. Johnson	0.9991549253463745
+Howard Franklin	Howard Franklin	0.9990962743759155
+Ernest R. Dickerson	Ernest R. Dickerson	0.9989476203918457
+Nick Moore	Nick Moore	0.9990336894989014
+David Lister	David Lister	0.9990586042404175
+Joe Swanberg	Joe Swanberg	0.9991469383239746
+William Friedkin	William Friedkin	0.9989614486694336
+Ben Stiller	Ben Stiller	0.9991093873977661
+Kevin Tancharoen	Kevin Tancharoen	0.9990972280502319
+Thomas Bezucha	Thomas Bezucha	0.9990866184234619
+Roy Del Ruth	Roy Del Ruth	0.9990324974060059
+Michael Hoffman	Michael Hoffman	0.9991655349731445
+Josh Johnson	John Johnson	1.1077648672495888E-13
+Adam Brooks	Adam Brooks	0.9991786479949951
+John Frankenheimer	John Frankenheimer	0.9991779327392578
+James B. Clark	Duane B. Clark	2.6980613313724693E-14
+Rodrigo Ojeda-Beck	Rodrigo Ojeda-Beck	0.9991186857223511
+Forest Whitaker	Forest Whitaker	0.9991178512573242
+Harry Bromley Davenport	Harry Bromley Davenport	0.9990320205688477
+David Steinberg	David Steinberg	0.9989943504333496
+Dante Tomaselli	Dante Tomaselli	0.998888373374939
+Robert Siodmak	Robert Siodmak	0.9991163015365601
+Lawrence Guterman	Lawrence Guterman	0.999144434928894
+Justin Krumb	Justin Krumb	0.9992493391036987
+Helen Hunt	Helen Hunt	0.9989519119262695
+Ted Kotcheff	Ted Kotcheff	0.9991128444671631
+Inon Shampanier	Inon Shampanier	0.9990664720535278
+Chris Walas	Chris Walas	0.9990721940994263
+Isabel Coixet	Isabel Coixet	0.9990702867507935
+Peter Hewitt	Peter Hewitt	0.9990452527999878
+Mark Herman	Mark Herman	0.9991075992584229
+Fred Gerber	Fred Gerber	0.9992344379425049
+Jack Hill	Jack Hill	0.999280571937561
+Prachya Pinkaew	Prachya Pinkaew	0.9991569519042969
+John Glen	John Glen	0.999052882194519
+Shaun Monson	Shaun Monson	0.9991563558578491
+Roger Corman	Roger Corman	0.9990907907485962
+Richard Brooks	Richard Brooks	0.99892258644104
+Baz Luhrmann	Baz Luhrmann	0.9992245435714722
+Jon M. Chu	Jon M. Chu	0.9991027116775513
+David Webb Peoples	David Webb Peoples	0.9989815950393677
+Hal Roach	Jay Roach	1.1433173472633756E-13
+Frank Henenlotter	Frank Henenlotter	0.9991856813430786
+Robert Clouse	Robert Clouse	0.999201774597168
+Rick Rosenthal	Rick Rosenthal	0.9992672204971313
+Peter Kassovitz	Peter Kassovitz	0.9991929531097412
+Joel Zwick	Jesse Zwick	8.318639424216914E-14
+Raoul Walsh	Raoul Walsh	0.9991593360900879
+Vincente Minnelli	Vincente Minnelli	0.9991673231124878
+Joel Schumacher	Joel Schumacher	0.9991545677185059
+Edward Zwick	Edward Zwick	0.999187707901001
+Arthur Lubin	Arthur Lubin	0.9992159605026245
+Liam Lynch	Liam Lynch	0.9989656209945679
+Marc Forster	Marc Forster	0.9990792274475098
+Rupert Sanders	Rupert Sanders	0.9990015029907227
+Russ Meyer	Russ Meyer	0.9991329312324524
+Rob Epstein	Rob Epstein	0.9992043972015381
+Steve Gordon	Steve Gordon	0.9990214109420776
+Alexander Mackendrick	Alexander Mackendrick	0.9992853403091431
+Orson Welles	Cory Welles	0.0
+Josh Trank	Josh Trank	0.9991207122802734
+Jason Eisener	Jason Eisener	0.9992643594741821
+Robert Mandel	Robert Mandel	0.9991639852523804
+Guillermo del Toro	Guillermo del Toro	0.9992687702178955
+Frank Marshall	Frank Marshall	0.9990513324737549
+Marcus Nispel	Marcus Nispel	0.9991250038146973
+Edgar G. Ulmer	Edgar G. Ulmer	0.999207615852356
+Paul F. Ryan	Paul F. Ryan	0.9990929365158081
+Reginald Le Borg	Reginald Le Borg	0.9990904927253723
+Todd Field	Todd Field	0.9990988969802856
+Alan Johnson	Alex R. Johnson	7.416484960887093E-14
+Chris Moore	Chris Moore	0.9990899562835693
+John Hamburg	John Hamburg	0.9989533424377441
+Gavin O\'Connor	Gavin O\'Connor	0.9991127252578735
+Sean Robinson	Anna Robinson	6.3016070667003005E-15
+Don Taylor	Deon Taylor	3.366262753571811E-14
+Patrick McGuinn	Patrick McGuinn	0.9991124868392944
+Bob Dolman	Bob Dolman	0.9991248846054077
+Paul Brickman	Paul Brickman	0.999076247215271
+Breck Eisner	Breck Eisner	0.9991331100463867
+James R. Gorrie	James R. Gorrie	0.9988492727279663
+Andrew Bergman	Andrew Bergman	0.9992110729217529
+Lana Wachowski	Andy Wachowski	7.647251294663412E-14
+Matthew Vaughn	Matthew Vaughn	0.9992260932922363
+Michael Curtiz	Michael Curtiz	0.9992083311080933
+Carlo Nicoletta	Carlo Nicoletta	0.9990947246551514
+Michael A. Simpson	Michael A. Simpson	0.9989000558853149
+Jim Simpson	Jim Simpson	0.9991143941879272
+Arlene Sanford	Arlene Sanford	0.9990816116333008
+Mark Steven Johnson	Mark Steven Johnson	0.9991390705108643
+John Huston	John Huston	0.9990882873535156
+Stephen Gaghan	Stephen Gaghan	0.9992491006851196
+Joseph L. Mankiewicz	Joseph L. Mankiewicz	0.9991271495819092
+Edward Ludwig	Edward Ludwig	0.9992749094963074
+Simon Moore	Simon Moore	0.9991919994354248
+Ramón Menéndez	Ramón Menéndez	0.9991634488105774
+Eric Schaeffer	Eric Schaeffer	0.9991134405136108
+Oz Scott	Tony Scott	5.803419810684884E-14
+Philip Kaufman	Philip Kaufman	0.998968780040741
+Wolfgang Petersen	Wolfgang Petersen	0.999332070350647
+Danny Pang	Danny Pang	0.9992311000823975
+Craig Clyde	Craig Clyde	0.9992263317108154
+Wes Anderson	Wes Anderson	0.9991835355758667
+Etan Cohen	Etan Cohen	0.9990429878234863
+Andy Capper	Andy Capper	0.9990689754486084
+Sidney J. Furie	Sydney J. Furie	0.0
+Jean Negulesco	Jean Negulesco	0.9991594552993774
+Russ Parr	Russ Parr	0.9992109537124634
+Craig Gillespie	Craig Gillespie	0.999215841293335
+George Waggner	George Waggner	0.9990241527557373
+Dan O\'Bannon	Dan O\'Bannon	0.9992382526397705
+David Gelb	David Gelb	0.9992804527282715
+Carol Frank	Carol Frank	0.9992067813873291
+Joe Dante	Joe Dante	0.9990440607070923
+John McTiernan	John McTiernan	0.9990357160568237
+Len Talan	Len Talan	0.9992169141769409
+Sam Esmail	Sam Esmail	0.9990568161010742
+Darren Doane	Darren Doane	0.9990967512130737
+Todd Phillips	Toby Phillips	0.0
+Boaz Yakin	Boaz Yakin	0.9990451335906982
+Dan Scanlon	Dan Scanlon	0.999189019203186
+Elia Kazan	Elia Kazan	0.999091386795044
+Víctor García	Victor García	0.0
+Mike Johnson	Tim Johnson	9.988287730548426E-14
+Howard Franklin	Carl Franklin	0.0
+Buzz Kulik	Buzz Kulik	0.999113917350769
+David Swift	David Swift	0.9989423751831055
+Jonathan Glazer	Jonathan Glazer	0.9992697238922119
+Aaron Moorhead	Aaron Scott Moorhead	0.0
+David Bowers	David Bowers	0.9992016553878784
+Douglas Cheek	Douglas Cheek	0.999111533164978
+Frank De Felitta	Frank De Felitta	0.9992071390151978
+Carter Smith	Larry Smith	1.1446167635670995E-13
+Jeremy Gardner	Jeremy Gardner	0.9991241693496704
+Asif Kapadia	Asif Kapadia	0.9991062879562378
+Max Winkler	Max Winkler	0.9991463422775269
+Christopher Leone	Christopher Leone	0.9989290237426758
+Jeff Newitt	Jeff Newitt	0.9990756511688232
+John Byrum	John Byrum	0.9990102052688599
+Michael Moore	Michael Moore	0.9991145133972168
+Steve Miner	Steve Miner	0.9990230798721313
+John D. Hancock	John Lee Hancock	6.944999995017395E-14
+John Wells	John Wells	0.9992375373840332
+Luca Bercovici	Luca Bercovici	0.9991310834884644
+Brian Herzlinger	Brian Herzlinger	0.9992820024490356
+James L. Brooks	James L. Brooks	0.9991065263748169
+Joel Zwick	Joel Zwick	0.9990459680557251
+Bryan Johnson	Bryan Johnson	0.9991617202758789
+David Robert Mitchell	David Robert Mitchell	0.9991662502288818
+Max Mayer	Max Mayer	0.9991101026535034
+Wil Shriner	Wil Shriner	0.9992135763168335
+Fran Rubel Kuzui	Fran Rubel Kuzui	0.9990940093994141
+Catherine Hardwicke	Catherine Hardwicke	0.999153733253479
+Joe Wilson	Joe Wilson	0.9992046356201172
+Kevin Costner	Kevin Costner	0.9992786645889282
+Irving Cummings	Irving Cummings	0.9991534948348999
+Steve Oedekerk	Steve Oedekerk	0.9992249011993408
+Andrew L. Stone	Andrew L. Stone	0.9991966485977173
+Steve Beck	Steve Beck	0.9992097616195679
+William Tyler Smith	William Tyler Smith	0.9991657733917236
+Phillip Noyce	Phillip Noyce	0.9989128112792969
+Oliver Parker	Oliver Parker	0.9989933967590332
+Lexi Alexander	Lexi Alexander	0.9992086887359619
+John Lee Hancock	John Lee Hancock	0.9991456270217896
+Sam Raimi	Sam Raimi	0.9992854595184326
+Kevin Lima	Kevin Lima	0.9992161989212036
+Gabriela Tagliavini	Gabriela Tagliavini	0.9992769956588745
+Nicolas Roeg	Nicolas Roeg	0.9990293979644775
+Walt Becker	Walt Becker	0.9991116523742676
+Mike Johnson	Neil Johnson	2.099950360899116E-14
+Ringo Lam	Ringo Lam	0.9990290403366089
+George Seaton	George Seaton	0.9991347789764404
+Nick Hurran	Nick Hurran	0.9990952014923096
+Michael Gornick	Lisa Gornick	9.083847633513734E-14
+M. Blash	M. Blash	0.9989696741104126
+Allan Arkush	Allan Arkush	0.9989868402481079
+James Vanderbilt	James Vanderbilt	0.9990483522415161
+George Cukor	George Cukor	0.999137282371521
+Angelina Jolie	Angelina Jolie	0.9989675283432007
+Dean Jones	Dean Jones	0.999110221862793
+Isaac Feder	Isaac Feder	0.9990127086639404
+Jesse Zwick	Jesse Zwick	0.9990640878677368
+Fede Alvarez	Fede Alvarez	0.9990683794021606
+Jerry London	Jerry London	0.9990476369857788
+David Fisher	David Lee Fisher	1.4635364589069694E-13
+Mike Binder	Mike Binder	0.9990686178207397
+Sam Pillsbury	Sam Pillsbury	0.999138355255127
+Sylvia Soska	Sylvia Soska	0.9991741180419922
+Robert Duvall	Robert Duvall	0.9989631772041321
+Dean Parisot	Dean Parisot	0.9991328716278076
+Ed Harris	Denny Harris	0.0
+Seth Gordon	Seth Gordon	0.9992581009864807
+Shari Robertson	Mary Robertson	8.517437379311141E-14
+Eric England	Eric England	0.999093770980835
+Rob Bowman	Rob Bowman	0.9990400075912476
+Robert Z. Leonard	Robert Z. Leonard	0.999152421951294
+Alrick Brown	Mark Brown	1.6277809924080365E-14
+Adam Egypt Mortimer	Adam Egypt Mortimer	0.9990782737731934
+Caroline Thompson	Caroline Thompson	0.9990864992141724
+Clark Gregg	Clark Gregg	0.9991194009780884
+James Cameron	James Cameron	0.9991092681884766
+Frederik Du Chau	Frederik Du Chau	0.9990452527999878
+Megan Griffiths	Mark Griffiths	7.315452226191316E-14
+Hamilton Luske	Hamilton Luske	0.9989277124404907
+Lawrence Jordan	Lawrence Jordan	0.9992820024490356
+Ben Ramsey	Ben Ramsey	0.9990705847740173
+Preston Sturges	Preston Sturges	0.9991750717163086
+Sam Shepard	Sam Shepard	0.9989960193634033
+Sean S. Cunningham	Sean S. Cunningham	0.999152660369873
+Greg Francis	Greg Francis	0.9990100860595703
+Errol Morris	Errol Morris	0.9991916418075562
+Ron Howard	Ron Howard	0.9990641474723816
+John Simpson	John Simpson	0.9990530014038086
+Terence Fisher	Terence Fisher	0.9990279674530029
+Stuart Gillard	Stuart Gillard	0.9990783929824829
+Daniel Haller	Daniel Haller	0.9991018772125244
+Daniel Espinosa	Daniel Espinosa	0.9989000558853149
+Dean Jones	Andy Jones	3.839932048005888E-14
+Mark Waters	Mark Waters	0.9990280866622925
+John Hillcoat	John Hillcoat	0.9992225170135498
+Michael Cuesta	Michael Cuesta	0.9991072416305542
+Malcolm D. Lee	Malcolm D. Lee	0.9991542100906372
+Steven Zaillian	Steven Zaillian	0.9989477396011353
+D.J. Caruso	D.J. Caruso	0.9990692138671875
+Dean DeBlois	Dean DeBlois	0.9990458488464355
+Lee H. Katzin	Lee H. Katzin	0.9991370439529419
+Gregory Jacobs	Gregory Jacobs	0.9991497993469238
+Barry Cook	Barry Cook	0.9990004301071167
+Gary Fleder	Gary Fleder	0.99903804063797
+Dyan Cannon	Danny Cannon	1.9329832263363482E-14
+Henry Hathaway	Henry Hathaway	0.999016523361206
+Jerry Schatzberg	Jerry Schatzberg	0.9992809295654297
+Tarsem Singh	Tarsem Singh	0.999224066734314
+Al Reinert	Al Reinert	0.9989885091781616
+J Blakeson	J Blakeson	0.9991302490234375
+Neal Israel	Neal Israel	0.9990764856338501
+Peter Weir	Peter Weir	0.9990122318267822
+Theodore Gershuny	Theodore Gershuny	0.9990758895874023
+Frank E. Johnson	Alex R. Johnson	0.0
+Susanna White	Sam White	0.0
+James Glickenhaus	James Glickenhaus	0.9991625547409058
+Todd Holland	Todd Holland	0.9989826679229736
+Jonas Åkerlund	Jonas Åkerlund	0.9989748001098633
+Francis Ford Coppola	Francis Ford Coppola	0.9990042448043823
+John Lyde	John Lyde	0.9990893602371216
+Rob Zombie	Rob Zombie	0.999126672744751
+Jeff Malmberg	Jeff Malmberg	0.9991739988327026
+Denny Harris	Ed Harris	0.0
+Alex Kendrick	Alex Kendrick	0.9990947246551514
+Cecil B. DeMille	Cecil B. DeMille	0.9990824460983276
+Eric Walter	Eric Walter	0.9992181062698364
+Steven Shainberg	Steven Shainberg	0.9992365837097168
+Lewis Allen	Lewis Allen	0.9992721080780029
+Joe Nussbaum	Joe Nussbaum	0.9990918636322021
+Tennyson Bardwell	Tennyson Bardwell	0.9989259243011475
+Harold Young	Harold Young	0.9990220069885254
+Charles Kaufman	Charles Kaufman	0.9992839097976685
+John Howley	John Howley	0.9991124868392944
+Jean-Luc Godard	Jean-Luc Godard	0.9990007877349854
+Carl Franklin	Howard Franklin	6.188055439153989E-14
+Frank Tashlin	Frank Tashlin	0.9993561506271362
+Martin Scorsese	Martin Scorsese	0.9992202520370483
+Christopher Folino	Christopher Folino	0.9990170001983643
+Stephen Reynolds	Stephen Reynolds	0.9992064237594604
+Michaël R. Roskam	Michaël R. Roskam	0.9990628957748413
+Sidney Lanfield	Sidney Lanfield	0.9990544319152832
+Ole Bornedal	Ole Bornedal	0.999152421951294
+Nora Ephron	Nora Ephron	0.9991128444671631
+Paul McGuigan	Paul McGuigan	0.99918532371521
+Charles Chaplin	Charles Chaplin	0.9989782571792603
+Pierre Morel	Pierre Morel	0.9990655183792114
+Christopher McQuarrie	Christopher McQuarrie	0.9989172220230103
+Simon Wells	Simon Wells	0.9990949630737305
+Wolfgang Reitherman	Wolfgang Reitherman	0.9991251230239868
+Rob Schmidt	Rob Schmidt	0.9993151426315308
+Randall Wallace	Randall Wallace	0.9989897012710571
+Todd Haynes	Todd Haynes	0.9990912675857544
+Tim Hill	Tim Hill	0.9991683959960938
+Robert De Niro	Robert De Niro	0.9991461634635925
+John S. Robertson	John S. Robertson	0.9991557598114014
+Rob Reiner	Rob Reiner	0.9990160465240479
+Norman Z. McLeod	Norman Z. McLeod	0.999004602432251
+Mark Swan	Mark Swan	0.9989089965820312
+Tony Aloupis	Tony Aloupis	0.9990578889846802
+George Fitzmaurice	George Fitzmaurice	0.9992692470550537
+Seth MacFarlane	Seth MacFarlane	0.9990310668945312
+Gabe Polsky	Gabe Polsky	0.9990068674087524
+Adrian Lyne	Adrian Lyne	0.9991719722747803
+Charles B. Griffith	Charles B. Griffith	0.9992749691009521
+Scott Sanders	Scott Sanders	0.9990196228027344
+Jodie Foster	Jodie Foster	0.9990420341491699
+Brad Anderson	Brad Anderson	0.9991381168365479
+Guy Ferland	Guy Ferland	0.9990015029907227
+Brian Helgeland	Brian Helgeland	0.9990673661231995
+Lewis R. Foster	Lewis R. Foster	0.9990444183349609
+Rob Minkoff	Rob Minkoff	0.9990655183792114
+Dan Gildark	Dan Gildark	0.9989908933639526
+Arthur Cullipher	Arthur Cullipher	0.999211311340332
+Garry Marshall	Garry Marshall	0.9991136789321899
+Stephen Frears	Stephen Frears	0.9991945028305054
+Sam Jaeger	Sam Jaeger	0.9990700483322144
+Daniel Attias	Daniel Attias	0.9990489482879639
+Peter Davis	Peter Davis	0.9992971420288086
+Richard Lang	Richard Lang	0.9992886781692505
+Jason Reitman	Ivan Reitman	1.0382225983064045E-14
+Alistair Legrand	Alistair Legrand	0.9991202354431152
+Robert McCallum	Robert McCallum	0.9992685317993164
+John Curran	John J. Curran	2.667416526373756E-14
+Sean McGarry	Sean McGarry	0.9991452693939209
+Fred Walton	Fred Walton	0.9989117383956909
+Lou Howe	Lou Howe	0.999144434928894
+Paul Haggis	Paul Haggis	0.9990806579589844
+Valerie Breiman	Valerie Breiman	0.9991090297698975
+John Ford	John Ford	0.9989320039749146
+David Gordon Green	David Gordon Green	0.9989842176437378
+Larry Ferguson	Larry Ferguson	0.9991339445114136
+Reginald Hudlin	Reggie Hudlin	8.459268577504578E-14
+Tiller Russell	Tiller Russell	0.9991258382797241
+John H. Williams	Ron Williams	0.0
+Alexandre O. Philippe	Alexandre O. Philippe	0.9991021156311035
+Brian Avenet-Bradley	Brian Avenet-Bradley	0.9991191625595093
+Danny Leiner	Danny Leiner	0.999229907989502
+Jay Russell	Jay Russell	0.9991263151168823
+Joel Gallen	Joel Gallen	0.9990866184234619
+Drake Doremus	Drake Doremus	0.9989521503448486
+Mark Tonderai	Mark Tonderai	0.9989558458328247
+Byron Howard	Byron Howard	0.9991554021835327
+Peyton Reed	Peyton Reed	0.9991240501403809
+Chuck Jones	Chuck Jones	0.9991074800491333
+Paul Michael Glaser	Paul Michael Glaser	0.9991651773452759
+Arthur Penn	Arthur Penn	0.9989484548568726
+Kate Barker-Froyland	Kate Barker-Froyland	0.9992729425430298
+Fred Schepisi	Fred Schepisi	0.9990940093994141
+Charles Herman-Wurmfeld	Charles Herman-Wurmfeld	0.9991724491119385
+Erle C. Kenton	Erle C. Kenton	0.999048113822937
+Joel Potrykus	Joel Potrykus	0.9992308616638184
+James Mangold	James Mangold	0.999121904373169
+Tom Donahue	Tom Donahue	0.9992907047271729
+Keenen Ivory Wayans	Keenen Ivory Wayans	0.9990439414978027
+John A. Davis	John A. Davis	0.9991202354431152
+John Michael Williams	John H. Williams	0.0
+Colin Teague	Colin Teague	0.9992001056671143
+Irene Lusztig	Irene Lusztig	0.9991254806518555
+Jimmy Hayward	Jimmy Hayward	0.9991402626037598
+Alexander Payne	Alexander Payne	0.9992154836654663
+William Dear	William Dear	0.9990540742874146
+Sam Weisman	Sam Weisman	0.9990534782409668
+Florent-Emilio Siri	Florent Emilio Siri	5.852592444965249E-14
+Doug McHenry	Doug McHenry	0.9992333650588989
+Scott Cooper	Scott Cooper	0.9990963935852051
+John N. Smith	John N. Smith	0.9991172552108765
+Tim Miller	Tim Miller	0.999199390411377
+Craig Brewer	Craig Brewer	0.9989873170852661
+Dyan Cannon	Dyan Cannon	0.9990993738174438
+Les Mayfield	Les Mayfield	0.9992355108261108
+Christian Cantamessa	Christian Cantamessa	0.9991147518157959
+Tony Gilroy	Tony Gilroy	0.9990838766098022
+Deborah Brock	Deborah Brock	0.9990386962890625
+Dennis Dugan	Dennis Dugan	0.9991850852966309
+Antony Hoffman	Anthony Hoffman	3.338308294620167E-14
+Jim Jarmusch	Jim Jarmusch	0.9992365837097168
+Ken Scott	Ken Scott	0.9990367889404297
+Jason Friedberg	Jason Friedberg	0.9990992546081543
+Sean Baker	Sean Baker	0.9990737438201904
+Sally Mattison	Sally Mattison	0.9990428686141968
+Frank Capra	Frank Capra	0.9989533424377441
+Alan Taylor	Alan Taylor	0.9991545677185059
+Scott Waugh	Scott Waugh	0.9993166923522949
+Kathryn Bigelow	Kathryn Bigelow	0.9988638162612915
+Stuart Gilmore	Stuart Gilmore	0.998981237411499
+Hunter G. Williams	Hunter G. Williams	0.9991384744644165
+Mira Nair	Mira Nair	0.9991194009780884
+Kenneth Johnson	Kenneth Johnson	0.9993648529052734
+Tamra Davis	Tamra Davis	0.9992330074310303
+Richard Gabai	Richard Gabai	0.9990397691726685
+Stanley Kubrick	Stanley Kubrick	0.9991124868392944
+John Orrichio	John Orrichio	0.9991672039031982
+Joseph Losey	Joseph Losey	0.9991645812988281
+Donald G. Jackson	Douglas Jackson	9.926986939716095E-14
+Yarrow Cheney	Yarrow Cheney	0.9990540742874146
+Robert Kurtzman	Robert Kurtzman	0.9992347955703735
+Alex R. Johnson	Alan Johnson	1.0368214364050565E-14
+Jeff Lieberman	Jeff Lieberman	0.9991358518600464
+Hark Tsui	Hark Tsui	0.99908447265625
+Stephen Kay	Stephen Kay	0.9990664720535278
+Vicky Jenson	Vicky Jenson	0.9992554187774658
+Jim Henson	Jim Henson	0.9991376399993896
+Luiso Berdejo	Luis A. Berdejo	1.3113915877695226E-13
+George Sluizer	George Sluizer	0.999160885810852
+John Roberts	John Roberts	0.9990017414093018
+Peter Nicks	Peter Nicks	0.9989883899688721
+John Hyams	John Hyams	0.9991452693939209
+Alejandro Amenábar	Alejandro Amenábar	0.9991754293441772
+Jesús Franco	Jesús Franco	0.9991124868392944
+Brad Bird	Brad Bird	0.999242901802063
+Jared Hess	Jared Hess	0.9990707635879517
+David Duchovny	David Duchovny	0.9990862607955933
+Ira Sachs	Ira Sachs	0.999220609664917
+Jonathan Lynn	Jonathan Lynn	0.9991333484649658
+Adam McKay	Adam McKay	0.9991668462753296
+Dan Harris	Damien Harris	7.869564239626134E-14
+Ralph C. Bluemke	Ralph C. Bluemke	0.9989924430847168
+Donovan Cook	Donovan Cook	0.9992313385009766
+Bruce Robinson	Bruce Robinson	0.9989267587661743
+Tom Putnam	Tom Putnam	0.9991559386253357
+Howard R. Cohen	Howard R. Cohen	0.998949408531189
+E. Elias Merhige	E. Elias Merhige	0.9990419149398804
+Victor Levin	Victor Levin	0.9991798400878906
+Johanna Hamilton	Johanna Hamilton	0.9990551471710205
+Duwayne Dunham	Duwayne Dunham	0.9989328384399414
+Fred Zinnemann	Fred Zinnemann	0.9990633726119995
+Matthew Chapman	Matthew Chapman	0.9991979598999023
+Tom Dey	Tom Dey	0.9990726709365845
+Adam Wingard	Adam Wingard	0.9991683959960938
+Ford Beebe	Ford I. Beebe	9.19441321581109E-14
+Noel Black	Noel Black	0.9992629289627075
+William Peter Blatty	William Peter Blatty	0.9992821216583252
+David Fincher	David Fincher	0.9991291761398315
+Eugene Marner	Eugene Marner	0.9992361068725586
+Evan Oppenheimer	Evan Oppenheimer	0.9991542100906372
+Lewis Milestone	Lewis Milestone	0.9991040229797363
+Tom Laughlin	Tom Laughlin	0.9991540908813477
+Larry Karaszewski	Larry Karaszewski	0.9991132020950317
+Lauren Greenfield	Lauren Greenfield	0.9991358518600464
+Gregory Colbert	Gregory Colbert	0.9992499351501465
+Stuart Heisler	Stuart Heisler	0.9990484714508057
+Gary Winick	Gary Winick	0.9992601871490479
+Greg Beeman	Greg Beeman	0.999133825302124
+Danny Cannon	Danny Cannon	0.9991801977157593
+Noam Murro	Noam Murro	0.9990962743759155
+Carl Franklin	Carl Franklin	0.9989831447601318
+Henry Jaglom	Henry Jaglom	0.9989235401153564
+Herschel Daugherty	Herschel Daugherty	0.9992504119873047
+Matthew Leutwyler	Matthew Leutwyler	0.999157190322876
+Lewis MacAdams	Lewis MacAdams	0.9992314577102661
+Henry Levin	Henry Levin	0.9991878271102905
+Craig Johnson	Eric Johnson	2.9463285516851886E-14
+Desmond Davis	Desmond Davis	0.9990627765655518
+Buck Henry	Buck Henry	0.9990978240966797
+Petra Costa	Petra Costa	0.9990918636322021
+Andrew Stevens	Andrew Stevens	0.999123215675354
+Will Canon	Will Canon	0.9991217851638794
+Brad Peyton	Brad Peyton	0.9991192817687988
+Randal Kleiser	Randal Kleiser	0.9991093873977661
+Frank Lloyd	Frank Lloyd	0.9988983869552612
+Walter Hill	Walter Hill	0.9991532564163208
+Travis Mathews	Travis Mathews	0.9990894794464111
+Bob Peterson	Bob Peterson	0.9990988969802856
+Sidney Salkow	Sidney Salkow	0.9990041255950928
+Mark Levinson	Barry Levinson	1.5845143122930616E-13
+Robert Zemeckis	Robert Zemeckis	0.999099850654602
+R.J. Cutler	R.J. Cutler	0.9993119835853577
+Carroll Ballard	Carroll Ballard	0.99913489818573
+Martin Brest	Martin Brest	0.9991711378097534
+Frank Borzage	Frank Borzage	0.9990044832229614
+Philip Gardiner	Philip Gardiner	0.9990442991256714
+Peter Markle	Fletcher Markle	0.0
+Mitch Davis	Mitch Davis	0.9990381002426147
+Harry Basil	Harry Basil	0.9993489980697632
+Josh Forbes	Josh Forbes	0.9991334676742554
+Tom Hooper	Tobe Hooper	1.3373257037353758E-13
+Seth Gordon	Steve Gordon	7.500096599550102E-14
+Charles Shyer	Charles Shyer	0.9991657733917236
+Tony Goldwyn	Tony Goldwyn	0.9991481304168701
+Dan Harris	Ed Harris	5.784640412617899E-15
+Brett Ratner	Brett Ratner	0.9990546703338623
+Taika Waititi	Taika Waititi	0.9990718364715576
+Sam Firstenberg	Sam Firstenberg	0.9990518093109131
+J.C. Calciano	J. C. Calciano	2.0617181735720774E-13
+Tara Anaïse	Tara Anaïse	0.998979389667511
+Vincent Sherman	Vincent Sherman	0.99906325340271
+Anatole Litvak	Anatole Litvak	0.9991497993469238
+Fraser Clarke Heston	Fraser C. Heston	1.734308904171103E-13
+Joseph Kosinski	Joseph Kosinski	0.9990404844284058
+Buster Keaton	Buster Keaton	0.9990602731704712
+Jeff Blyth	Jeff Blyth	0.9991061687469482
+John Schultz	John Schultz	0.9992420673370361
+Lake Bell	Lake Bell	0.9992634057998657
+Charles Vidor	Charles Vidor	0.9993212223052979
+Don Gronquist	Don Gronquist	0.9991775751113892
+Alan Shapiro	Alan Shapiro	0.9992299675941467
+Rosemary Rodriguez	Robert Rodriguez	1.649132626247926E-13
+Tim Garrick	Tim Garrick	0.9990897178649902
+Burt Kennedy	Burt Kennedy	0.9991105794906616
+Robert Young	Robert M. Young	3.69537401709568E-14
+Don Weis	Don Weis	0.9991234540939331
+Franklin J. Schaffner	Franklin J. Schaffner	0.9988864660263062
+Ed Gass-Donnelly	Ed Gass-Donnelly	0.9991269707679749
+Gia Coppola	Gia Coppola	0.9991409778594971
+George Englund	George Englund	0.9991986751556396
+Otto Preminger	Otto Preminger	0.9991916418075562
+Sydney Pollack	Sydney Pollack	0.9991946220397949
+Stefan Ruzowitzky	Stefan Ruzowitzky	0.9990302324295044
+George Tillman Jr.	George Tillman Jr.	0.9991621971130371
+Brian Brough	Brian Brough	0.9990402460098267
+Timur Bekmambetov	Timur Bekmambetov	0.9989721775054932
+John Lasseter	John Lasseter	0.999230146408081
+Harrison Smith	Harry Smith	0.0
+Chris Miller	Chris Miller	0.9990818500518799
+Betty Thomas	Betty Thomas	0.9992802143096924
+Rob Letterman	Rob Letterman	0.999214768409729
+Jay Roach	Jay Roach	0.9991127252578735
+Bill Duke	Bill Duke	0.9993278980255127
+Rod Daniel	Rod Daniel	0.9989503622055054
+Mike Hodges	Mike Hodges	0.9990237951278687
+Martin B. Cohen	Martin B. Cohen	0.9990594387054443
+Bobcat Goldthwait	Bob Goldthwait	8.666120799487656E-14
+Mark Duplass	Mark Duplass	0.9991034269332886
+Jon Kasdan	Jon Kasdan	0.9989680051803589
+Scott Frank	Scott Frank	0.9991508722305298
+Phil Morrison	Bill Morrison	0.0
+Eric Brevig	Eric Brevig	0.9990366697311401
+Mel Smith	Mel Smith	0.9992302060127258
+Marc Webb	Marc Webb	0.9990619421005249
+Lloyd Kaufman	Lloyd Kaufman	0.9989184141159058
+Don Cheadle	Don Cheadle	0.999226450920105
+Jerry Jameson	Jerry Jameson	0.9991945028305054
+Stuart Beattie	Stuart Beattie	0.999272346496582
+Marc Evans	Marc Evans	0.9991741180419922
+Monte Hellman	Monte Hellman	0.9988948106765747
+Brian G. Hutton	Brian G. Hutton	0.9991466999053955
+Ron Howard	Byron Howard	8.869202708415916E-14
+James Ivory	James Ivory	0.9991539716720581
+Chuck Russell	Chuck Russell	0.9991447925567627
+Stuart Walker	Stuart Walker	0.9992446899414062
+Joe Charbanic	Joe Charbanic	0.9989936351776123
+Jack Bender	Jack Bender	0.9990921020507812
+Charles Martin Smith	Charles Martin Smith	0.9991856813430786
+Timothy Björklund	Timothy Björklund	0.9991545677185059
+Tod Williams	Ron Williams	9.134307757873925E-14
+David Anspaugh	David Anspaugh	0.9989210367202759
+David Frankel	David Frankel	0.9992064237594604
+Stanley Donen	Stanley Donen	0.9989025592803955
+Stephen Hopkins	Stephen Hopkins	0.9991360902786255
+Matt Williams	Matt Williams	0.9992760419845581
+Stanley Nelson	Stanley Nelson	0.9991098642349243
+Lauren Greenfield	Luke Greenfield	0.0
+James Bridges	James Bridges	0.999024510383606
+Graham Baker	Graham Baker	0.9990741014480591
+Riley Stearns	Riley Stearns	0.9992722272872925
+David Yarovesky	David Yarovesky	0.9991194009780884
+William A. Seiter	William A. Seiter	0.9992345571517944
+Emilio Estevez	Emilio Estevez	0.9989975690841675
+Adam Simon	Adam Simon	0.9991241097450256
+Gregor Jordan	Gregor Jordan	0.999083399772644
+David Kellogg	David Kellogg	0.9991426467895508
+James Gartner	James Gartner	0.9990140199661255
+William Fruet	William Fruet	0.9991706609725952
+Robert Altman	Robert Altman	0.9989837408065796
+Elgin James	Elgin James	0.9991631507873535
+Peter Brook	Peter Brook	0.9990451335906982
+Davis Guggenheim	Davis Guggenheim	0.9991912841796875
+Ken Kwapis	Ken Kwapis	0.9991186857223511
+Lea Thompson	J. Lee Thompson	1.532522074737877E-13
+Ronnie Del Carmen	Ronnie del Carmen	1.1871300925787864E-13
+Aaron Seltzer	Aaron Seltzer	0.9989888668060303
+Charles Sturridge	Charles Sturridge	0.9990696907043457
+Crystal Moselle	Crystal Moselle	0.9990670680999756
+William Keighley	William Keighley	0.9991773366928101
+Carter Smith	Carter B. Smith	4.814959805106607E-14
+Brian Gibson	Brian Gibson	0.9990012645721436
+Gabriele Muccino	Gabriele Muccino	0.9991241693496704
+Douglas Sirk	Douglas Sirk	0.9990756511688232
+Lewis Teague	Lewis Teague	0.9991616010665894
+James Ponsoldt	James Ponsoldt	0.9990917444229126
+Roy William Neill	Roy William Neill	0.9990236759185791
+Tom McCarthy	Tom McCarthy	0.9990459680557251
+Paul Thomas Anderson	Paul Thomas Anderson	0.9991804361343384
+Niels Arden Oplev	Niels Arden Oplev	0.9991039037704468
+Karel Reisz	Karel Reisz	0.9992293119430542
+David Jung	David Jung	0.9991097450256348
+Robert Greene	Robert Greene	0.9991978406906128
+Tom Gries	Tom Gries	0.9992430210113525
+John Gulager	John Gulager	0.9991612434387207
+Dominic Sena	Dominic Sena	0.9991998672485352
+Danny DeVito	Danny DeVito	0.9991976022720337
+Albert Brooks	Albert Brooks	0.9991846084594727
+Alfred Sole	Alfred Sole	0.9991669654846191
+Lajos Koltai	Lajos Koltai	0.999025821685791
+Gregory Wilson	Roy Wilson	4.288328928612507E-14
+John Carl Buechler	John Carl Buechler	0.9991065263748169
+Lee Toland Krieger	Lee Toland Krieger	0.999113917350769
+Paul Wendkos	Paul Wendkos	0.9990414381027222
+John H. Williams	John H. Williams	0.9990009069442749
+Sean Penn	Sean Penn	0.9989075660705566
+Jon Turteltaub	Jon Turteltaub	0.9991962909698486
+Bryan Singer	Bryan Singer	0.9991109371185303
+Mary Lambert	Mary Lambert	0.9990777969360352
+Andrew P. Jones	Andrew Jones	1.3556592914215626E-13
+Andrew Jarecki	Andrew Jarecki	0.9991488456726074
+Ishi Rudell	Ishi Rudell	0.9991967678070068
+John Antonelli	John Antonelli	0.999113917350769
+Andrew R. Jones	Andrew Jones	1.3972944166735363E-13
+Terry Zwigoff	Terry Zwigoff	0.9991291761398315
+Ti West	Ti West	0.9990487098693848
+Melanie Mayron	Melanie Mayron	0.9992175102233887
+William Castle	William Castle	0.9992625713348389
+John Fasano	John Fasano	0.9990754127502441
+Tyler Shields	Tyler Shields	0.9991822242736816
+Howard Deutch	Howard Deutch	0.9989768266677856
+Joe Lynch	Joe Lynch	0.9990941286087036
+Dennie Gordon	Dennie Gordon	0.998988151550293
+Robert Harmon	Robert Harmon	0.9992276430130005
+Kevin Tenney	Kevin Tenney	0.9990248680114746
+Bobby Farrelly	Bobby Farrelly	0.999147891998291
+Raja Gosnell	Raja Gosnell	0.9990566968917847
+Tom McGrath	Liam McGrath	6.035983209562099E-14
+Juan Piquer Simón	Juan Piquer Simón	0.9991763830184937
+Michelangelo Antonioni	Michelangelo Antonioni	0.9990252256393433
+Hugh Wilson	Hugh Wilson	0.9989558458328247
+David Auburn	David Auburn	0.9991121888160706
+Àlex Pastor	Alex Pastor	0.0
+Joshua Safdie	Joshua Safdie	0.9990410804748535
+Ralph Levy	Ralph Levy	0.9991216659545898
+Kent Jones	Kent Jones	0.99908447265625
+Richard Kelly	Richard Kelly	0.9990106821060181
+Kelly Asbury	Kelly Asbury	0.9992474317550659
+Jack Conway	Jack Conway	0.9992035031318665
+Michael Anderson	Michael Anderson	0.9992334246635437
+Bryan Forbes	Bryan Forbes	0.9990673065185547
+Carol Reed	Carol Reed	0.9990586042404175
+Joan Micklin Silver	Joan Micklin Silver	0.9991567134857178
+Darren Lynn Bousman	Darren Lynn Bousman	0.9989790916442871
+Nikita Zubarev	Nikita Zubarev	0.9991530179977417
+Nicholas Hytner	Nicholas Hytner	0.9992034435272217
+John Erick Dowdle	John Erick Dowdle	0.9990978240966797
+Larry Clark	Larry Clark	0.9992079734802246
+Kenny Ortega	Kenny Ortega	0.9992058277130127
+Roger Donaldson	Roger Donaldson	0.9991332292556763
+Anthony Minghella	Anthony Minghella	0.999140739440918
+Renny Harlin	Renny Harlin	0.9991245269775391
+Hal Ashby	Hal Ashby	0.9991438388824463
+Andrew Fleming	Andrew Fleming	0.9991340637207031
+Robert Dalva	Robert Dalva	0.9989993572235107
+Bud Townsend	Bud Townsend	0.9993326663970947
+Jason Wise	Jason Wise	0.999003529548645
+David Butler	David Butler	0.998923659324646
+Brian Robbins	Brian Robbins	0.9993542432785034
+Charles Walters	Charles Walters	0.999070405960083
+Todd Phillips	Todd Phillips	0.9991186857223511
+William A. Fraker	William A. Fraker	0.9989544153213501
+Joss Whedon	Joss Whedon	0.9991531372070312
+Ryûhei Kitamura	Ryuhei Kitamura	2.0623493147617356E-13
+Rich Moore	Rich Moore	0.9991050958633423
+Martin Weisz	Martin Weisz	0.99913489818573
+Mark Levin	Marc Levin	1.380379100954232E-13
+Brian Yuzna	Brian Yuzna	0.9989761114120483
+Tom DeSimone	Tom DeSimone	0.9991164207458496
+Theodore Witcher	Theodore Witcher	0.998923659324646
+Andrew Adamson	Andrew Adamson	0.9990065097808838
+Matt Reeves	Matt Reeves	0.9992667436599731
+Jeff Kanew	Jeff Kanew	0.9991022348403931
+Jennifer Chambers Lynch	Jennifer Chambers Lynch	0.9990843534469604
+Holly Goldberg Sloan	Holly Goldberg Sloan	0.9991859197616577
+Jarrad Paul	Jarrad Paul	0.9991402626037598
+Jonathan Frakes	Jonathan Frakes	0.9989786148071289
+Neil Jordan	Neil Jordan	0.999021053314209
+Sam Mendes	Sam Mendes	0.9991871118545532
+Mark Neveldine	Mark Neveldine	0.9991730451583862
+Charlie Kaufman	Charles Kaufman	0.0
+Ami Canaan Mann	Ami Canaan Mann	0.9989638328552246
+Ric Roman Waugh	Ric Roman Waugh	0.999117374420166
+Carl Miller	Paul Miller	4.180070664063472E-14
+Roberts Gannaway	Robert Gannaway	2.1618502073130624E-13
+Luke Greenfield	Luke Greenfield	0.9990278482437134
+Nikolaj Arcel	Nicolaj Arcel	6.667737058150972E-15
+Gina Kim	Gina Kim	0.9992458820343018
+Mark Robson	Mark Robson	0.999050498008728
+Douglas McGrath	Douglas McGrath	0.9991605281829834
+Hal Barwood	Hal Barwood	0.9991042613983154
+Roko Belic	Roko Belic	0.9990357160568237
+Joseph H. Lewis	Joseph H. Lewis	0.9991929531097412
+Kurt Wimmer	Kurt Wimmer	0.9990942478179932
+Harald Zwart	Harald Zwart	0.9991519451141357
+Victor Halperin	Victor Halperin	0.9990730285644531
+Robert Tinnell	Robert Tinnell	0.9989243745803833
+Shunji Iwai	Shunji Iwai	0.9988871812820435
+Trent Cooper	Trent Cooper	0.999131441116333
+Christian Duguay	Christian Duguay	0.9993636608123779
+Joe Giannone	Joe Giannone	0.9989187717437744
+Terrence Malick	Terrence Malick	0.9991157054901123
+Steven Sawalich	Steven Sawalich	0.9990907907485962
+Ben Affleck	Ben Affleck	0.9990166425704956
+Frank R. Strayer	Frank Strayer	0.0
+Thor Freudenthal	Thor Freudenthal	0.9989962577819824
+Bart Freundlich	Bart Freundlich	0.9992181062698364
+Alexandre Aja	Alexandre Aja	0.9990798234939575
+Tom Brady	Tom Brady	0.9989627599716187
+Timothy Armstrong	Timothy Armstrong	0.9990310668945312
+Bert I. Gordon	Bert I. Gordon	0.9990191459655762
+Marcus Dunstan	Marcus Dunstan	0.998999834060669
+Phil Karlson	Phil Karlson	0.9990566968917847
+J.J. Abrams	J.J. Abrams	0.999213695526123
+Meir Zarchi	Meir Zarchi	0.9993475675582886
+Steve Barron	Steve Barron	0.9991482496261597
+Carter	Carter	0.9990037679672241
+Colin Minihan	Colin Minihan	0.9992812871932983
+Gregory Nava	Gregory Nava	0.999177098274231
+George Miller	George T. Miller	9.391860661574214E-14
+Garth Jennings	Garth Jennings	0.9992923736572266
+Edward Dmytryk	Edward Dmytryk	0.9990512132644653
+Stephanie Soechtig	Stephanie Soechtig	0.9990551471710205
+George Bowers	George Bowers	0.9991697072982788
+Frank Oz	Frank Oz	0.9988745450973511
+F. Gary Gray	F. Gary Gray	0.9990561008453369
+Mel Brooks	Mel Brooks	0.9991412162780762
+Ken Scott	Jake Scott	7.189409657881729E-14
+Xavier Gens	Xavier Gens	0.9991934299468994
+Will Speck	Will Speck	0.9992043972015381
+Joel Coen	Joel Coen	0.9992846250534058
+Don Jones	Andy Jones	1.912347775794021E-13
+Alan Johnson	Rian Johnson	1.341693005611419E-13
+Victor Sjöström	Victor Sjöström	0.9993038177490234
+Iwao Takamoto	Iwao Takamoto	0.9991545081138611
+Marc-Andre Samson	Marc-Andre Samson	0.999268651008606
+Danfung Dennis	Danfung Dennis	0.9989161491394043
+Russell Mulcahy	Russell Mulcahy	0.9991587400436401
+Cameron Crowe	Cameron Crowe	0.9989923238754272
+Jenée LaMarque	Jenée LaMarque	0.9991137981414795
+Marc Silver	Marc Silver	0.9991492033004761
+Kevin Reynolds	Kevin Reynolds	0.9990500211715698
+Dave Green	Dave Green	0.999039888381958
+Patrick Creadon	Patrick Creadon	0.9990612268447876
+Peter Cattaneo	Peter Cattaneo	0.9992716312408447
+Phil Morrison	Phil Morrison	0.998923659324646
+Daniel Barnz	Daniel Barnz	0.9989814162254333
+Robert A. Emmons Jr.	Robert Downey Jr.	1.5729826024612342E-13
+John Quinn	John Quinn	0.9992750883102417
+Steve Kroschel	Steve Kroschel	0.9990282654762268
+Jerry Dugan	Jerry Dugan	0.9989749193191528
+Harry A. Pollard	Harry A. Pollard	0.9991248846054077
+Thomas Carter	Thomas Carter	0.9991874694824219
+Philippe Mora	Philippe Mora	0.9990091323852539
+Nick Moore	Rich Moore	5.42790943756314E-14
+Bryan Michael Stoller	Bryan Michael Stoller	0.9989948272705078
+Wim Wenders	Wim Wenders	0.9988898038864136
+Jeremy Haft	Jeremy Haft	0.9992016553878784
+Jeffrey Bloom	Jeffrey Bloom	0.9992085695266724
+Joseph M. Newman	Joseph Newman	2.135289930711281E-14
+Allen Coulter	Allen Coulter	0.9989666938781738
+Jackie Kong	Jackie Kong	0.9991278648376465
+Alex Proyas	Alex Proyas	0.9991599321365356
+David Mamet	David Mamet	0.9990838766098022
+Gregory Ratoff	Gregory Ratoff	0.9989969730377197
+Stephen Sommers	Stephen Sommers	0.999083399772644
+Mark Mylod	Mark Mylod	0.9991663694381714
+Shinji Aramaki	Shinji Aramaki	0.9989950656890869
+Robert G. Vignola	Robert Vignola	1.0566331474061788E-13
+Joseph Ruben	Joseph Ruben	0.9991430044174194
+Nicole Holofcener	Nicole Holofcener	0.9991904497146606
+Michael J. Mantsourani Jr.	Michael Anderson Jr.	2.993185059074581E-14
+Frank Whaley	Frank Whaley	0.9990566968917847
+Anthony Hickox	Anthony Hickox	0.9991477727890015
+Jeannot Szwarc	Jeannot Szwarc	0.9990582466125488
+Barry Skolnick	Barry Skolnick	0.9992176294326782
+Richard LaGravenese	Richard LaGravenese	0.9990298748016357
+John Cassavetes	John Cassavetes	0.9991065263748169
+Gregory McClatchy	Gregory McClatchy	0.999090850353241
+David Carson	David Carson	0.9991599321365356
+James Burrows	James Burrows	0.9991254210472107
+John G. Avildsen	John G. Avildsen	0.9992260336875916
+Michael Biehn	Michael Biehn	0.9990545511245728
+Randall Miller	Randall Miller	0.9990684986114502
+John Musker	John Musker	0.9993284940719604
+Roy Knyrim	Roy Knyrim	0.9991105794906616
+Robert Luketic	Robert Luketic	0.9993804693222046
+Josh Boone	Josh Boone	0.9991207122802734
+Michael J. Sheridan	Michael J. Sheridan	0.9989567995071411
+Steven E. de Souza	Steven E. de Souza	0.999187707901001
+Freddie Francis	Freddie Francis	0.999218225479126
+George Tillman Jr.	George Stevens Jr.	0.0
+Mike Johnson	Eric Johnson	2.2975335013403902E-14
+Scott Derrickson	Scott Derrickson	0.999219536781311
+Yvan Attal	Yvan Attal	0.9989633560180664
+Christopher Miller	Chris Miller	1.4025590313725828E-13
+Neil Burger	Neil Burger	0.9991425275802612
+Barry Tubb	Barry Tubb	0.9991722106933594
+Robert J. Rosenthal	Robert J. Rosenthal	0.9992218017578125
+Colin Trevorrow	Colin Trevorrow	0.9991850852966309
+Bryan Buckley	Bryan Buckley	0.9990324974060059
+Joe May	Joe May	0.9991592168807983
+Scott Schirmer	Scott Schirmer	0.9992754459381104
+Sherrie Rose	Sherman A. Rose	1.0517354673798829E-13
+David Hackl	David Hackl	0.9990978240966797
+Guy Ritchie	Guy Ritchie	0.9991446733474731
+Sergey Bodrov	Sergey Bodrov	0.9990102052688599
+Christopher Cain	Christopher Cain	0.9992498159408569
+Liv Ullmann	Liv Ullmann	0.9991095066070557
+Tay Garnett	Tay Garnett	0.9991922378540039
+Donald Petrie	Donald Petrie	0.9990402460098267
+Ava DuVernay	Ava DuVernay	0.9992609024047852
+Rebecca Miller	Rebecca Miller	0.9990800619125366
+Stuart Baird	Stuart Baird	0.9990254640579224
+Irving Rapper	Irving Rapper	0.9991741180419922
+John Moore	Jason Moore	2.40609280139888E-14
+Kirk De Micco	Kirk De Micco	0.9990521669387817
+Amos Gitai	Amos Gitai	0.999165415763855
+Patrick Brice	Patrick Brice	0.9992855787277222
+Seth Kearsley	Seth Kearsley	0.999091625213623
+John Bonito	John Bonito	0.9990280866622925
+Mark Stouffer	Mark Stouffer	0.9991272687911987
+John Schlesinger	John Schlesinger	0.9992662668228149
+Nick Broomfield	Nick Broomfield	0.9990988969802856
+Bob Clark	Bob Clark	0.9990742206573486
+Blake Edwards	Blake Edwards	0.9992324113845825
+Ari Kirschenbaum	Ari Kirschenbaum	0.9990990161895752
+Gregory La Cava	Gregory La Cava	0.999014139175415
+Walter Lang	Walter Lang	0.9989570379257202
+Lewis Seiler	Lew Seiler	3.797464272426105E-15
+Howard Higgin	Howard Higgin	0.9993172883987427
+Daniel Alfredson	Daniel Alfredson	0.9990929365158081
+Julie Anne Robinson	Julie Ann Robinson	4.771197339666945E-14
+Irving Pichel	Irving Pichel	0.998930811882019
+John Irvin	John Irvin	0.9989427328109741
+Jimmy Huston	Jimmy Huston	0.9990801811218262
+George Marshall	Rob Marshall	0.0
+David Schmoeller	David Schmoeller	0.9989973306655884
+Sergio Leone	Sergio Leone	0.99910569190979
+Kinji Fukasaku	Kinji Fukasaku	0.9992444515228271
+Tom Hooper	Tom Hooper	0.9990203380584717
+Rob Cohen	Rob Cohen	0.9989583492279053
+Tony Bancroft	Tony Bancroft	0.9992666244506836
+Clif Prowse	Clif Prowse	0.998866081237793
+Adam Rifkin	Adam Rifkin	0.9990251064300537
+Douglas Trumbull	Douglas Trumbull	0.9993209838867188
+Josh Schwartz	Josh Schwartz	0.9991472959518433
+Bill Weber	Bill Weber	0.9991180896759033
+Matthew O\'Callaghan	Matthew O\'Callaghan	0.9990056753158569
+Paul Weitz	Paul Weitz	0.9991148710250854
+Daniel Schechter	Daniel Schechter	0.9990633130073547
+Henry Koster	Henry Koster	0.9990015625953674
+Norman Taurog	Norman Taurog	0.9991468191146851
+Sarah Robertson	Mary Robertson	6.387141385450282E-14
+Scott J. Gill	Scott J. Gill	0.9991257190704346
+Paul Weiland	Paul Weiland	0.9989221096038818
+Stephen J. Anderson	Stephen Anderson	0.0
+Lee Harry	Lee Harry	0.9990990161895752
+Jonathan Liebesman	Jonathan Liebesman	0.999018669128418
+Andrew Droz Palermo	Andrew Droz Palermo	0.9990712404251099
+Spike Jonze	Spike Jonze	0.9988797903060913
+Kat Candler	Kat Candler	0.9989570379257202
+Nicolas Winding Refn	Nicolas Winding Refn	0.9991792440414429
+Peter Sollett	Peter Sollett	0.9991626739501953
+Mitchell Lichtenstein	Mitchell Lichtenstein	0.9992146492004395
+Michael Schultz	Michael Schultz	0.9991140365600586
+Ian Corson	Ian Corson	0.9990342855453491
+Marisa Silver	Marc Silver	2.0191542597527805E-14
+Shira Piven	Shira Piven	0.9990032911300659
+Tom Stoppard	Tom Stoppard	0.999117374420166
+Simon West	Simon West	0.9990701675415039
+Marah Strauch	Marah Strauch	0.9990873336791992
+Rudolph Maté	Rudolph Maté	0.9989662170410156
+Bob Hathcock	Bob Hathcock	0.9992738962173462
+Stephen Milburn Anderson	Stephen Anderson	1.9779299285395662E-15
+Frank E. Johnson	Rian Johnson	1.2385600357822657E-13
+John Warren	John Warren	0.9990392923355103
+Steve Carr	Steve Carr	0.9990700483322144
+Peter Jackson	Peter Jackson	0.9990274906158447
+Rhys Thomas	Ralph Thomas	8.910729684501184E-14
+Olivier Megaton	Olivier Megaton	0.9991414546966553
+Dito Montiel	Dito Montiel	0.9992139339447021
+Andrew Marton	Andrew Marton	0.9991899728775024
+Peter Chelsom	Peter Chelsom	0.9991805553436279
+Bernhard Wicki	Bernhard Wicki	0.9989986419677734
+Mark A.Z. Dippé	Mark A.Z. Dippé	0.9990202188491821
+Elliott Lester	Elliott Lester	0.9991744756698608
+Kevin Brodie	Kevin Brodie	0.9992460012435913
+Adam Rodgers	Adam Rodgers	0.998977541923523
+Baltasar Kormákur	Baltasar Kormákur	0.9992548227310181
+Lois Weber	Lois Weber	0.9991700053215027
+Ryan Murphy	Ryan Murphy	0.9990979433059692
+Mario Van Peebles	Mario Van Peebles	0.9992926120758057
+Tim Story	Tim Story	0.9990100860595703
+Conrad Vernon	Conrad Vernon	0.9990248680114746
+John Guillermin	John Guillermin	0.9991213083267212
+Georges Méliès	Georges Méliès	0.9991638660430908
+Maurice Joyce	Maurice Joyce	0.9992607831954956
+Len Wiseman	Len Wiseman	0.999093770980835
+Sidney J. Furie	Sidney J. Furie	0.9992811679840088
+Chris Buck	Chris Buck	0.9988903999328613
+John Sanford	John Sanford	0.9991949796676636
+Ken Hughes	Ken Hughes	0.9991018772125244
+Sean Branney	Sean Branney	0.9991025924682617
+Alex Ross Perry	Alex Ross Perry	0.9989625811576843
+Allan Dwan	Allan Dwan	0.9991863965988159
+Robert Mulligan	Robert Mulligan	0.9989986419677734
+Paul Bartel	Paul Bartel	0.9992042779922485
+Victor Schertzinger	Victor Schertzinger	0.999292254447937
+Billy Ray	Billy Ray	0.9991194009780884
+Scott Spiegel	Scott Spiegel	0.9992616176605225
+Chris Williams	Chris Williams	0.9991816282272339
+Michael Flynn	Michael Flynn	0.9991948008537292
+Todd Tucker	David Tucker	6.277563782382603E-14
+Spike Lee	Spike Lee	0.9989141225814819
+Casper Andreas	Casper Andreas	0.9992414712905884
+Ann Raffaela Lupo	Ann Raffaela Lupo	0.9989256858825684
+Jeff Burr	Jeff Burr	0.9991468191146851
+Pat O\'Connor	Pat O\'Connor	0.998967170715332
+Lisa Gottlieb	Carl Gottlieb	0.0
+Arnold Laven	Arnold Laven	0.9992679357528687
+David Twohy	David N. Twohy	1.5971897198915896E-13
+Kyle Balda	Kyle Balda	0.9990320205688477
+Ted Demme	Ted Demme	0.9989742040634155
+Zach Braff	Zach Braff	0.9989932775497437
+Lloyd Bacon	Lloyd Bacon	0.9992305040359497
+Cody Cameron	Cody Cameron	0.9991399049758911
+Tom Mankiewicz	Tom Mankiewicz	0.999075174331665
+Jack Donohue	Jack Donohue	0.9991776943206787
+Nate Meyer	Nate Meyer	0.9991751909255981
+Arthur Rankin Jr.	Arthur Rankin Jr.	0.9993429183959961
+David Cronenberg	David Cronenberg	0.9991134405136108
+Kees Van Oostrum	Kees Van Oostrum	0.9989864826202393
+Mimi Leder	Mimi Leder	0.9992542266845703
+J.S. Cardone	J.S. Cardone	0.999082088470459
+Roberto Benabib	Roberto Benabib	0.9993118047714233
+Babak Najafi	Babak Najafi	0.9991828203201294
+Margaret Brown	Mark Brown	1.8826818359504727E-13
+Curtis Harrington	Curtis Harrington	0.9990544319152832
+Jason Reitman	Jason Reitman	0.9991024732589722
+Ang Lee	Ang Lee	0.999228835105896
+David Jacobson	David Jacobson	0.9990572929382324
+Kenneth Lonergan	Kenneth Lonergan	0.9990849494934082
+Phil Alden Robinson	Phil Alden Robinson	0.9990646839141846
+Franc Roddam	Franc Roddam	0.9991151094436646
+Bennett Miller	Bennett Miller	0.9992673397064209
+Archie Mayo	Archie Mayo	0.9989978075027466
+Joey Travolta	Joey Travolta	0.999238133430481
+Mark Rydell	Mark Rydell	0.9992972612380981
+Don Bluth	Don Bluth	0.9989628791809082
+Sean Donnelly	Dennis Donnelly	7.357992931307858E-14
+BJ McDonnell	B.J. McDonnell	1.7528633980499336E-13
+Austin Stark	Austin Stark	0.9989866018295288
+Roger Michell	Roger Michell	0.9992830753326416
+James Wong	James Wong	0.9990211725234985
+Samuel Bayer	Samuel Bayer	0.999113917350769
+Julien Temple	Julien Temple	0.9993166923522949
+Daniel Mann	Daniel Mann	0.9990437030792236
+Tom Elkins	Tom Elkins	0.9989838600158691
+James Bobin	James Bobin	0.9989053010940552
+Shane Ryan	Shane Ryan	0.999199390411377
+Simon Fellows	Simon Fellows	0.9991003274917603
+Jamie Babbit	Jamie Babbit	0.9990330934524536
+Rupert Wainwright	Rupert Wainwright	0.9988865852355957
+Andrzej Bartkowiak	Andrzej Bartkowiak	0.999212384223938
+Kevin R. Hershberger	Kevin R. Hershberger	0.9993325471878052
+Brian Taylor	Ray Taylor	1.7601836600680126E-13
+Marc Lawrence	Marc Lawrence	0.9990640878677368
+Michael Laughlin	Michael Laughlin	0.9989997148513794
+Reginald Hudlin	Reginald Hudlin	0.9989807605743408
+Robert Schwentke	Robert Schwentke	0.9991862773895264
+Jack Sholder	Jack Sholder	0.9989014863967896
+Raman Hui	Raman Hui	0.9990485906600952
+Fred F. Sears	Fred F. Sears	0.9992069005966187
+Robert Gordon	Robert Gordon	0.9989516735076904
+Alan Parker	Alan Parker	0.9991492033004761
+Wayne Wang	Wayne Wang	0.9992203116416931
+Edward Buzzell	Edward N. Buzzell	0.0
+Nicholaus Goossen	Nicholaus Goossen	0.9990067481994629
+Jack Heller	Jack Heller	0.9990962743759155
+Andrew Leman	Andrew H. Leman	2.1254360576226927E-14
+Carter Smith	Harry Smith	0.0
+Curtis Bernhardt	Curtis Bernhardt	0.9991225004196167
+Randy Barbato	Randy Barbato	0.9990252256393433
+Kevin Macdonald	Kevin Macdonald	0.999282956123352
+Des McAnuff	Des McAnuff	0.999069333076477
+Steve Trenbirth	Steven Trenbirth	2.6265183875485293E-14
+Martin Campbell	Martin Campbell	0.9990509748458862
+Charles de Lauzirika	Charles de Lauzirika	0.9992589950561523
+Barry Sonnenfeld	Barry Sonnenfeld	0.9990676641464233
+Adam Shankman	Adam Shankman	0.9990788698196411
+Chris Rock	Chris Rock	0.9991797208786011
+Ben Younger	Ben Younger	0.9992444515228271
+George C. Wolfe	George C Wolfe	4.632744722240546E-14
+Tobe Hooper	Tom Hooper	1.6366325883507976E-13
+Chris Dowling	Chris Dowling	0.9991346597671509
+Tom Roberts	John Roberts	1.4983812259526663E-13
+Zal Batmanglij	Zal Batmanglij	0.9991334676742554
+Hiroyuki Okiura	Hiroyuki Okiura	0.9991430044174194
+John Sturges	John Sturges	0.9989155530929565
+Tommy O\'Haver	Tommy O\'Haver	0.9992015361785889
+Zoltan Korda	Zoltan Korda	0.9992755651473999
+Kat Coiro	Kat Coiro	0.9992715120315552
+Brian Pimental	Brian Pimental	0.9990276098251343
+Robert Hall	Robert Hall	0.9989880323410034
+Dan Fogelman	Dan Fogelman	0.9989529848098755
+Chris Noonan	Chris Noonan	0.9991289377212524
+Heitor Dhalia	Heitor Dhalia	0.9992139339447021
+Trey Parker	Trey Parker	0.9990530014038086
+Dale Rosenbloom	Dale Rosenbloom	0.9990744590759277
+James Gunn	James Gunn	0.9991050958633423
+Phillip J. Roth	Philip J. Roth	1.2608325130204334E-14
+Rowland V. Lee	Rowland V. Lee	0.9989814758300781
+Sean Anders	Sean Anders	0.9989709854125977
+Michael Dinner	Michael Dinner	0.999280571937561
+Marcos Siega	Marcos Siega	0.9993174076080322
+Sam Irvin	Sam Irvin	0.9990489482879639
+John Murlowski	John Murlowski	0.9991058111190796
+Mary Harron	Mary Harron	0.9991039037704468
+Chico Colvard	Chico Colvard	0.9991843700408936
+Jim Sharman	Jim Sharman	0.9990463256835938
+Dagen Merrill	Dagen Merrill	0.999298095703125
+Victor Heerman	Victor Heerman	0.9990227222442627
+Stephen Metcalfe	Stephen Metcalfe	0.9991915225982666
+John Boorman	John Boorman	0.9990971088409424
+Elliott Nugent	Elliott Nugent	0.9991053342819214
+Peter Werner	Peter Werner	0.9991734027862549
+Anthony Stacchi	Anthony Stacchi	0.9991339445114136
+Fred C. Newmeyer	Fred Newmeyer	4.244554265898405E-14
+Noel Nosseck	Noel Nosseck	0.999158501625061
+Vincent McEveety	Vincent McEveety	0.9990302324295044
+Klay Hall	Klay Hall	0.9991852045059204
+Chris Columbus	Chris Columbus	0.9989457130432129
+Eugene Jarecki	Eugene Jarecki	0.999017596244812
+Alan Johnson	Alan Johnson	0.9992234706878662
+Ciarán Foy	Ciaran Foy	4.50475533340499E-14
+Gus Van Sant	Gus Van Sant	0.9990459680557251
+Stephen Herek	Stephen Herek	0.9992367029190063
+Jerry Zucker	Jerry Zucker	0.9991791248321533
+James Ward Byrkit	James Ward Byrkit	0.9989504814147949
+Byron Howard	Ron Howard	7.05742295116149E-14
+Judd Apatow	Judd Apatow	0.9992388486862183
+Taylor Hackford	Taylor Hackford	0.9991153478622437
+Roger Vadim	Roger Vadim	0.9992284774780273
+Terence H. Winkless	Terence H. Winkless	0.9991452693939209
+Rouben Mamoulian	Rouben Mamoulian	0.9991207122802734
+John Sayles	John Sayles	0.9989469051361084
+Eli Roth	Eli Roth	0.999077320098877
+Rich Moore	Chris Moore	1.2716763135144776E-13
+Peter Sattler	Peter Sattler	0.9990216493606567
+Norman Panama	Norman Panama	0.9990143775939941
+Shana Feste	Shana Feste	0.9991658926010132
+Melville Shavelson	Melville Shavelson	0.999253511428833
+Eduardo Sánchez	Eduardo Sánchez	0.9991496801376343
+Victor Salva	Victor Salva	0.9991707801818848
+Sara Hirsh Bordo	Sara Hirsh Bordo	0.9991370439529419
+Maclain Nelson	Maclain Nelson	0.9989727735519409
+Alfred L. Werker	Alfred L. Werker	0.9991073608398438
+Patrick Hughes	Patrick Hughes	0.9990397691726685
+Stanley Kramer	Stanley Kramer	0.9991421699523926
+Rob Marshall	Rob Marshall	0.9991092681884766
+Alan Brown	Alan Brown	0.99907386302948
+Thomas Vinterberg	Thomas Vinterberg	0.9992866516113281
+Justin Lin	Justin Lin	0.998967707157135
+Jeff Wadlow	Jeff Wadlow	0.9991573095321655
+Jonathan Levine	Jonathan Levine	0.999169111251831
+Tony Scott	Tony Scott	0.9990652799606323
+John Farrow	John Farrow	0.9990677833557129
+Carl Rinsch	Carl Erik Rinsch	1.0103534355725488E-13
+M. Night Shyamalan	M. Night Shyamalan	0.9990259408950806
+Steve Gordon	Steven E. Gordon	1.6660827719620214E-13
+Dominique Othenin-Girard	Dominique Othenin-Girard	0.9989523887634277
+Frederick Wiseman	Frederick Wiseman	0.9990391731262207
+Steve Martino	Steve Martino	0.9990860223770142
+Fred C. Brannon	Fred C. Brannon	0.9991883039474487
+Brandon Camp	Brandon Camp	0.9990037679672241
+J. Mackye Gruber	J. Mackye Gruber	0.9991592168807983
+Ovidio G. Assonitis	Ovidio G. Assonitis	0.9991210699081421
+Vivi Friedman	Vivi Friedman	0.9991483688354492
+Lance Rivera	Lance Rivera	0.9990438222885132
+Kevin Hooks	Kevin Hooks	0.9989553689956665
+Shane Carruth	Shane Carruth	0.9992290735244751
+Harley Cokeliss	Harley Cokeliss	0.9990546703338623
+Helmut Schleppi	Helmut Schleppi	0.9990770816802979
+Trey Parker	Albert Parker	5.1807896080807714E-14
+Christopher N. Rowley	Christopher N. Rowley	0.9991326332092285
+Will Gluck	Will Gluck	0.9991763830184937
+Gregory Hoblit	Gregory Hoblit	0.9990798234939575
+Greydon Clark	Greydon Clark	0.9990537166595459
+Allen Hughes	Ken Hughes	1.7951635458094556E-13
+Michael Tiddes	Michael Tiddes	0.9992688894271851
+Steve Mims	Steve Mims	0.999212384223938
+Daniel Stamm	Daniel Stamm	0.9991873502731323
+Shûsuke Kaneko	Shusuke Kaneko	1.7968546301479899E-13
+David Stevens	David Stevens	0.9992774724960327
+James Cruze	James Cruze	0.9991128444671631
+Alejandro Agresti	Alejandro Agresti	0.9990313053131104
+Rowdy Herrington	Rowdy Herrington	0.9989699125289917
+Nae Caranfil	Nae Caranfil	0.9992454051971436
+Steven Brill	Steven Brill	0.9991729259490967
+Tim Johnson	Neil Johnson	1.3244508029371105E-13
+Bruce Joel Rubin	Bruce Joel Rubin	0.9990768432617188
+Richard Rush	Richard Rush	0.9989986419677734
+Justin Zackham	Justin Zackham	0.9990123510360718
+Lee Tamahori	Lee Tamahori	0.998953104019165
+Martin Ritt	Martin Ritt	0.9991388320922852
+Marcus Graves	Marcus Graves	0.9991787672042847
+Dean Jones	Kent Jones	2.2717143108048204E-13
+Mike Thurmeier	Mike Thurmeier	0.9990687370300293
+Peter Hyams	Peter Hyams	0.9991406202316284
+Byron Haskin	Byron Haskin	0.9991796016693115
+Dallas Jenkins	Dallas Jenkins	0.9991017580032349
+George Roy Hill	George Roy Hill	0.9992109537124634
+Andrew Niccol	Andrew Niccol	0.9990812540054321
+J.T. Tepnapa	J.T. Tepnapa	0.999042272567749
+Rick Famuyiwa	Rick Famuyiwa	0.9992741346359253
+Mora Stephens	Mora Stephens	0.9990048408508301
+David S. Goyer	David S. Goyer	0.9991386532783508
+Jonathan Kaplan	Jonathan Kaplan	0.9991647005081177
+Peter Howitt	Peter Howitt	0.9991474151611328
+James B. Clark	James B. Clark	0.9989767074584961
+Tyler Benjamin	Tyler Benjamin	0.9993164539337158
+Rory Kennedy	Rory Kennedy	0.9990715980529785
+Abe Levitow	Abe Levitow	0.9991811513900757
+John R. Leonetti	John R. Leonetti	0.999262809753418
+Robert Young	Roger Young	1.5900528235659322E-13
+Craig Singer	Craig Singer	0.9989488124847412
+Francis Lawrence	Francis Lawrence	0.9991873502731323
+Tommy Chong	Tommy Chong	0.9992016553878784
+Steve Rash	Steve Rash	0.9991363286972046
+George Archainbaud	George Archainbaud	0.9991185665130615
+Luis Llosa	Luis Llosa	0.9990313053131104
+Marielle Heller	Marielle Heller	0.9990953207015991
+Luis Mandoki	Luis Mandoki	0.9991962909698486
+David Chirchirillo	David Chirchirillo	0.9992183446884155
+Nicholas Kalikow	Nicholas Kalikow	0.9990212917327881
+Alfred E. Green	Alfred E. Green	0.9991202354431152
+Michael Ritchie	Michael Ritchie	0.9991580247879028
+Abel Ferrara	Abel Ferrara	0.9991917610168457
+Joe Wright	Jon Wright	0.0
+Herman Hoffman	Herman Hoffman	0.9992783069610596
+Geoff Murphy	Geoff Murphy	0.9990518093109131
+Nicholas Webster	Nicholas Webster	0.9991294145584106
+Irvin Kershner	Irvin Kershner	0.9989340305328369
+Victor Fleming	Victor Fleming	0.9991315603256226
+Jack Haley Jr.	Jack Haley Jr.	0.9990527629852295
+Seth Grossman	Seth Grossman	0.9992188215255737
+Robby Benson	Robby Benson	0.9991148710250854
+Alexander Hall	Alexander Hall	0.999164342880249
+Roy Ward Baker	Roy Ward Baker	0.9990262985229492
+Luke Greenfield	Lauren Greenfield	1.1203006838184093E-13
+Michael Tuchner	Michael Tuchner	0.9992994070053101
+Pete Travis	Pete Travis	0.9990769624710083
+Don Roos	Don Roos	0.9991623163223267
+Roberts Gannaway	Roberts Gannaway	0.9991285800933838
+Debra Granik	Debra Granik	0.9990499019622803
+Douglas McKeown	Douglas McKeown	0.9989955425262451
+Franco Zeffirelli	Franco Zeffirelli	0.9990519285202026
+Emir Kusturica	Emir Kusturica	0.9992280006408691
+Howard Hawks	Howard Hawks	0.9991536140441895
+Tod Williams	Matt Williams	3.679402363842253E-14
+Jack Smight	Jack Smight	0.999215841293335
+Clare Kilner	Clare Kilner	0.9991251230239868
+Lizzie Borden	Lizzie Borden	0.9990720152854919
+Frank De Felitta	Raymond De Felitta	2.0188686402429663E-14
+David Kendall	David Kendall	0.9991350173950195
+Jaume Collet-Serra	Jaume Collet-Serra	0.9993002414703369
+Liza Johnson	Neil Johnson	1.7847512747207195E-13
+Neill Blomkamp	Neill Blomkamp	0.9990651607513428
+Harry d\'Abbadie d\'Arrast	Harry d\'Abbadie d\'Arrast	0.9992634057998657
+Ernie Barbarash	Ernie Barbarash	0.9990296363830566
+Mel Gibson	Mel Gibson	0.9990220069885254
+Harve Foster	Harve Foster	0.9990298748016357
+Todd Strauss-Schulson	Todd Strauss-Schulson	0.9992348551750183
+Shawn Ku	Shawn Ku	0.9989455938339233
+Pierre Coffin	Pierre Coffin	0.9991437196731567
+David Slade	David Slade	0.9991662502288818
+Don Siegel	Don Siegel	0.9991462230682373
+Sidney Lumet	Sidney Lumet	0.9991581439971924
+Antti Jokinen	Antti Jokinen	0.9989824295043945
+Michael Mayer	Michael Mayer	0.9990286827087402
+Steve Boyum	Steve Boyum	0.9990729689598083
+Tony Richardson	Tony Richardson	0.9991323947906494
+Jean-Pierre Jeunet	Jean-Pierre Jeunet	0.9990648031234741
+Ralph Nelson	Ralph Nelson	0.9990646839141846
+Mark Romanek	Mark Romanek	0.999143660068512
+Nicholas Ray	Nicholas Ray	0.9990437030792236
+Liza Johnson	Tim Johnson	1.9198320233906885E-13
+Jay Chandrasekhar	Jay Chandrasekhar	0.9991753697395325
+Ralph Ziman	Ralph Ziman	0.998953104019165
+�?lex de la Iglesia	Eloy de la Iglesia	0.0
+Laslo Benedek	Laslo Benedek	0.9990785121917725
+Peter Segal	Peter Segal	0.9992666244506836
+Joe Johnston	Joe Johnston	0.9990621209144592
+David S. Ward	David S. Ward	0.9992200136184692
+Boris Sagal	Boris Sagal	0.9990226030349731
+Andrew Davis	Andrew Davis	0.9990084171295166
+Kenneth Branagh	Kenneth Branagh	0.9991110563278198
+Denzel Washington	Denzel Washington	0.9989454746246338
+Richard Ayoade	Richard Ayoade	0.9991799592971802
+Larry Charles	Larry Charles	0.9991912841796875
+George A. Romero	George A. Romero	0.998950719833374
+Stanley Kramer	Wayne Kramer	1.202747482772354E-13
+Alan Johnson	Bryan Johnson	0.0
+D.M.W. Greer	DMW Greer	1.1789354215085979E-13
+Lothar Mendes	Lothar Mendes	0.9993062019348145
+Samantha Buck	Samantha Buck	0.9991157054901123
+Sandy Tung	Sandy Tung	0.9990189075469971
+Kevin Connor	Kevin Connor	0.9990495443344116
+Earl Barton	Charles Barton	0.0
+Steve Barron	Steven Barron	1.3359480893499615E-13
+Joe Carnahan	Joe Carnahan	0.9990707635879517
+Richard Thorpe	Richard Thorpe	0.9990051984786987
+Joseph Lee	Jieho Lee	2.6431539452260143E-14
+Olatunde Osunsanmi	Olatunde Osunsanmi	0.99913489818573
+Joe Chappelle	Joe Chappelle	0.9989430904388428
+Carl Schultz	Carl Schultz	0.9991985559463501
+Alan Metter	Alan Metter	0.9989330768585205
+Ryan Coogler	Ryan Coogler	0.9992004632949829
+Dan Sallitt	Dan Sallitt	0.999225378036499
+Jim Fall	Jim Fall	0.9992432594299316
+Roger Kumble	Roger Kumble	0.9991459846496582
+Matia Karrell	Matia Karrell	0.999214768409729
+A. Edward Sutherland	A. Edward Sutherland	0.999031662940979
+Eric Morgret	Eric Morgret	0.9992256164550781
+James Westby	James Westby	0.9990521669387817
+Ed Harris	Ed Harris	0.9991471767425537
+Mitchell Leisen	Mitchell Leisen	0.998977541923523
+Justin Kurzel	Justin Kurzel	0.9991246461868286
+Adam Green	Adam Green	0.9992094039916992
+Ernest B. Schoedsack	Ernest B. Schoedsack	0.9990873336791992
+Asger Leth	Asger Leth	0.999109148979187
+John McNaughton	John McNaughton	0.9990748167037964
+Sam Wood	Sam Wood	0.9989989995956421
+William Cameron Menzies	William Cameron Menzies	0.9991921186447144
+Clark Johnson	Clark Johnson	0.9991893768310547
+William A. Graham	William A. Graham	0.9991564750671387
+Gary J. Tunnicliffe	Gary J. Tunnicliffe	0.9990254640579224
+Ken Finkleman	Ken Finkleman	0.9992575645446777
+Jennifer Phang	Jennifer Phang	0.9991599321365356
+George Cameron Romero	George A. Romero	7.117020866956661E-14
+Rich Moore	Nick Moore	5.815212542189738E-14
+Richard Schenkman	Richard Schenkman	0.9991192817687988
+Mike Figgis	Mike Figgis	0.9990986585617065
+Tibor Takács	Tibor Takács	0.9990674257278442
+Scott Hicks	Scott Hicks	0.9991737604141235
+Renée Taylor	Deon Taylor	1.3752169433604855E-13
+Lee Daniels	Lee Daniels	0.9990516901016235
+Michael Pressman	Michael Pressman	0.9992198944091797
+Guy Jenkin	Guy Jenkin	0.9993019104003906
+Victor Saville	Victor Saville	0.9988969564437866
+Nir Paniry	Nir Paniry	0.9992854595184326
+Richard Gray	Richard Gray	0.9990448951721191
+George Stevens	George Stevens	0.999153733253479
+Thom Eberhardt	Thom Eberhardt	0.9992115497589111
+John Berry	John Berry	0.9989199638366699
+Michael Lembeck	Michael Lembeck	0.9992185831069946
+John Fox	Josh Fox	0.0
+Edward F. Cline	Edward F. Cline	0.9991041421890259
+T.C. Christensen	T.C. Christensen	0.9990131855010986
+Paul W.S. Anderson	Paul Thomas Anderson	8.897577634522577E-14
+Eric Valette	Eric Valette	0.9990852475166321
+Jonathan Demme	Jonathan Demme	0.9992098808288574
+James Franco	Jesús Franco	1.739537875723729E-13
+David R. Ellis	David R. Ellis	0.999314546585083
+Don Taylor	Jud Taylor	2.767600364649795E-14
+Bob Saget	Bob Saget	0.9990921020507812
+John Schmidt	John Schmidt	0.9990578889846802
+Barbara Kopple	Barbara Kopple	0.9990386962890625
+LeVar Burton	LeVar Burton	0.9992471933364868
+Nicholas Stoller	Nick Stoller	5.461164459292112E-16
+Mark Sandrich	Mark Sandrich	0.999010443687439
+E. Max Frye	E. Max Frye	0.9990112781524658
+Kim Longinotto	Kim Longinotto	0.999252200126648
+Leslie Goodwins	Leslie Goodwins	0.9991450309753418
+Nick Park	Nick Park	0.9991515874862671
+Michael Lehmann	Michael Lehmann	0.9991042017936707
+Penny Marshall	Penny Marshall	0.9991327524185181
+Hal Walker	Hal Walker	0.9991976022720337
+Martha Coolidge	Martha Coolidge	0.9990670680999756
+David Lewis	David Lewis	0.9991902112960815
+Samuel Armstrong	Samuel Armstrong	0.9989674091339111
+Rob Williams	Ron Williams	0.0
+Nicolas Rossier	Nicolas Rossier	0.9990204572677612
+William Beaudine	William Beaudine	0.9991899132728577
+William Lau	William Lau	0.9990257024765015
+Sofia Coppola	Sofia Coppola	0.9990798234939575
+Sunu Gonera	Sunu Gonera	0.9991756677627563
+Bill Pohlad	Bill Pohlad	0.9990997314453125
+Michael Crichton	Charles Crichton	0.0
+Adam Coleman Howard	Adam Coleman Howard	0.999107837677002
+Sylvester Stallone	Sylvester Stallone	0.9991531372070312
+Steven Spielberg	Steven Spielberg	0.999275803565979
+Omar Ashmawey	Omar Ashmawey	0.999079704284668
+Tim Hunter	Tim Hunter	0.999204158782959
+Dan Gilroy	Dan Gilroy	0.9993177652359009
+Susanna Fogel	Susanna Fogel	0.999077320098877
+Hal Hartley	Hal Hartley	0.9990864992141724
+Eric Meza	Eric Meza	0.9990489482879639
+Ralph E. Portillo	Ralph E. Portillo	0.9989790916442871
+Peter Hedges	Peter Hedges	0.9992572069168091
+Jerry Paris	Jerry Paris	0.9991340637207031
+Gordon Parks	Gordon Parks	0.99921715259552
+Michael Cristofer	Michael Cristofer	0.9992108345031738
+James Orr	James Orr	0.9990020990371704
+Tim Johnson	Tim Johnson	0.999213457107544
+Mike Judge	Mike Judge	0.9990302324295044
+Richard Rich	Richard Rich	0.9991267919540405
+Peter Cornwell	Stephen Cornwell	2.3710378346569923E-14
+Matt Williams	Tod Williams	1.698213814851305E-14
+Leigh Whannell	Leigh Whannell	0.999150276184082
+Christopher Neil	Christopher Neil	0.9991459846496582
+Leon Ichaso	Leon Ichaso	0.9991121292114258
+Ken Harrison	Ken Harrison	0.9992498159408569
+Doug Dearth	Doug Dearth	0.999142050743103
+Bradley King	Bradley King	0.9990570545196533
+Dennis Donnelly	Dennis Donnelly	0.9991192817687988
+Greg Berlanti	Greg Berlanti	0.9990465641021729
+Graeme Clifford	Graeme Clifford	0.9990724325180054
+Stewart Raffill	Stewart Raffill	0.9991521835327148
+Michael Palm	Michael Palm	0.9990338087081909
+Gil Cates Jr.	Gil Cates Jr.	0.999139666557312
+Darin Scott	Darin Scott	0.9991446733474731
+Joe Wilson	Roy Wilson	1.0888691884996041E-13
+�?lex de la Iglesia	�?lex de la Iglesia	0.9992257356643677
+Estlin Feigley	Estlin Feigley	0.9991774559020996
+Marc Silver	Marisa Silver	8.398766708148098E-14
+Stephen Sayadian	Stephen Sayadian	0.9989804029464722
+Frank Darabont	Frank Darabont	0.9991439580917358
+Gillian Armstrong	Gillian Armstrong	0.9990345239639282
+Herb Gardner	Erik Gardner	1.8564009108146956E-13
+Paul W.S. Anderson	Paul W.S. Anderson	0.9993084669113159
+Bill Condon	Bill Condon	0.9991291761398315
+Mark Osborne	Mark Osborne	0.999010443687439
+Joseph Zito	Joseph Zito	0.9992014169692993
+Stiles White	Stiles White	0.9990508556365967
+John Dahl	John Dahl	0.9992964267730713
+Juan Feldman	Juan Feldman	0.9990664720535278
+Delmer Daves	Delmer Daves	0.9989849328994751
+Michael J. Hein	Michael J. Hein	0.9992377758026123
+Raoul Peck	Ron Peck	3.0957505845917097E-14
+Tom Six	Tom Six	0.9989770650863647
+Lynn Shelton	Ron Shelton	0.0
+Dave Moody	Dave Moody	0.9989688396453857
+John Magary	John Magary	0.9991815090179443
+Bob Byington	Bob Byington	0.9990612268447876
+Burt Reynolds	Burt Reynolds	0.9992621541023254
+Alejandro Jodorowsky	Alejandro Jodorowsky	0.9989798069000244
+Peter Bogdanovich	Peter Bogdanovich	0.9990278482437134
+Corey Yuen	Corey Yuen	0.9989444017410278
+Bob Rafelson	Bob Rafelson	0.9991756677627563
+James Algar	James Algar	0.9992721080780029
+Michael Apted	Michael Apted	0.9989782571792603
+Gilles Paquet-Brenner	Gilles Paquet-Brenner	0.9989672899246216
+Peter Lepeniotis	Peter Lepeniotis	0.9990662336349487
+Denny Harris	Denny Harris	0.9992560148239136
+Matt Walsh	Matt Walsh	0.9991437196731567
+Alejandro González Iñárritu	Alejandro González Iñárritu	0.998924970626831
+Jay Lowi	Jay Lowi	0.9992668628692627
+Paul Verhoeven	Paul Verhoeven	0.9991241693496704
+Clarence Brown	Clarence Brown	0.9990650415420532
+Michael Gottlieb	Michael Gottlieb	0.9991886615753174
+Maya Forbes	Maya Forbes	0.9990127086639404
+Peter Manoogian	Peter Manoogian	0.9991904497146606
+Sean McNamara	Sean McNamara	0.9992976188659668
+Tod Williams	Tod Williams	0.9992121458053589
+Fletcher Markle	Fletcher Markle	0.9990342855453491
+Andrew Stevens	Alex Stevens	0.0
+Lana Wachowski	Lana Wachowski	0.9990131855010986
+Jack Arnold	Jack Arnold	0.9992494583129883
+Adam Lipsius	Adam Lipsius	0.9991468191146851
+Seth Gordon	Keith Gordon	6.109397926792881E-14
+Daniel Petrie	Daniel Petrie	0.9991253614425659
+Michael Tollin	Michael Tollin	0.9991791248321533
+Iain Softley	Iain Softley	0.9991859197616577
+Stewart Hendler	Stewart Hendler	0.99920654296875
+Josef von Sternberg	Josef von Sternberg	0.9990465641021729
+Doug Ellin	Doug Ellin	0.9991463422775269
+Turner Ross	Turner Ross	0.9988893270492554
+Simon J. Smith	Simon Smith	0.0
+Don Coscarelli	Don Coscarelli	0.9990534782409668
+Curtis Hanson	Curtis Hanson	0.9990226030349731
+Jamie Blanks	Jamie Blanks	0.9989916086196899
+Matty Beckerman	Matty Beckerman	0.9990620613098145
+Michael Cimino	Michael Cimino	0.9992414712905884
+Iva Radivojevic	Iva Radivojevic	0.9989945888519287
+Mikael Salomon	Michael Salomon	2.3662039870336014E-14
+Anton Corbijn	Anton Corbijn	0.9990988969802856
+Robert Parrish	Robert Parrish	0.9991563558578491
+Larry Swerdlove	Larry Swerdlove	0.9990652799606323
+Denis Villeneuve	Denis Villeneuve	0.998986005783081
+James Frawley	James Frawley	0.9991737604141235
+John Keitel	John Keitel	0.9990593194961548
+Dee Rees	Dee Rees	0.9991792440414429
+Joseph Graham	Joseph Graham	0.9989981651306152
+Takashi Shimizu	Takashi Shimizu	0.999275803565979
+J.C. Chandor	J.C. Chandor	0.999029278755188
+James W. Horne	James W. Horne	0.9992395639419556
+Leo McCarey	Leo McCarey	0.999160885810852
+Worth Keeter	Worth Keeter	0.9990096092224121
+Tommy Lee Wallace	Tommy Lee Wallace	0.9991481304168701
+Stephen Surjik	Stephen Surjik	0.999234676361084
+Jon Watts	Jon Watts	0.9989696741104126
+John Carney	John Carney	0.9992740154266357
+Tommy Wirkola	Tommy Wirkola	0.9992074966430664
+Yurek Bogayevicz	Yurek Bogayevicz	0.99931800365448
+Rian Johnson	Bryan Johnson	1.4803093375658632E-13
+Dave Fleischer	Dave Fleischer	0.9991259574890137
+Steve Gordon	Seth Gordon	1.0347188465200871E-14
+Mike Cahill	Mike Cahill	0.9991649389266968
+Tom Moore	Tom Moore	0.9991945028305054
+Jesse Zwick	Joel Zwick	7.112308653264496E-14
+Bryn Evans	Brian Evans	1.517840215493893E-13
+Robert Rossen	Robert Rossen	0.9990760087966919
+Ken Olin	Ken Olin	0.9989222288131714
+S.F. Brownrigg	S.F. Brownrigg	0.9990800619125366
+Paul Schrader	Paul Schrader	0.9992860555648804
+Paul Talbot	Paul Talbot	0.9990838766098022
+Liza Johnson	Paul Johnson	0.0
+Gary Sherman	Gary A. Sherman	0.0
+Henrik Ruben Genz	Henrik Ruben Genz	0.9989439249038696
+Alan J. Pakula	Alan J. Pakula	0.9989762306213379
+Trent Cooper	Matt Cooper	0.0
+Tim Robbins	Tim Robbins	0.9990262985229492
+Gavin Wiesen	Gavin Wiesen	0.9990861415863037
+John Cameron Mitchell	John Cameron Mitchell	0.9990383386611938
+Francis Lawrence	Marc Lawrence	9.165504320134479E-14
+David Heeley	David Heeley	0.9991965293884277
+John Requa	John Requa	0.9992308616638184
+David Mackay	David Mackay	0.9991527795791626
+Michael Crichton	Michael Crichton	0.9991271495819092
+Ethan Coen	Ethan Coen	0.9991313219070435
+David DeCoteau	David DeCoteau	0.999146580696106
+Bob Fosse	Bob Fosse	0.9989842176437378
+Peter Farrelly	Peter Farrelly	0.9989945888519287
+Joseph Sargent	Joseph Sargent	0.9990930557250977
+Peter MacDonald	Peter MacDonald	0.999109148979187
+Allen Hughes	Albert Hughes	0.0
+Craig Mazin	Craig Mazin	0.9990320205688477
+William A. Wellman	William Wellman	1.694647026873053E-13
+John Krokidas	John Krokidas	0.9989856481552124
+Andy Tennant	Andrew Tennant	6.991005403701386E-14
+Clint Eastwood	Clint Eastwood	0.9989283084869385
+Jonathan Dillon	Jonathan Dillon	0.9989241361618042
+Ulu Grosbard	Ulu Grosbard	0.9990185499191284
+T. Hee	T. Hee	0.999125599861145
+Antoine Fuqua	Antoine Fuqua	0.9989811182022095
+Quentin Tarantino	Quentin Tarantino	0.9991087913513184
+David Silverman	David Silverman	0.9991357326507568
+Robert C. Ramirez	Robert Ramirez	0.0
+Ryan Smith	Harry Smith	8.41990390712706E-14
+John Pasquin	John Pasquin	0.9992547035217285
+Angela Robinson	Anna Robinson	5.847540062841466E-14
+Richard Tuggle	Richard Tuggle	0.9990987777709961
+Cal Brunker	Cal Brunker	0.9991497993469238
+Marco Schnabel	Marco Schnabel	0.999072790145874
+Ryan Smith	Larry Smith	0.0
+Barry Levinson	Barry Levinson	0.9990211725234985
+Jeremiah S. Chechik	Jeremiah S. Chechik	0.9989454746246338
+Joon-ho Bong	Joon-ho Bong	0.9989947080612183
+Eric Hendershot	Eric Hendershot	0.9990785121917725
+Joseph G. Quinn	John Quinn	1.703882667554099E-13
+John Singleton	John Singleton	0.9991040229797363
+Gil Kenan	Gil Kenan	0.998977541923523
+Alan Brown	Angie Brown	1.6008163761585537E-13
+Cary Joji Fukunaga	Cary Joji Fukunaga	0.9993159770965576
+Eric Karson	Eric Karson	0.999183177947998
+Michael D. Akers	Michael Akers	0.0
+Todd Graff	Todd Graff	0.9990962743759155
+William Girdler	William Girdler	0.9991207122802734
+Ken Carpenter	John Carpenter	2.0092189020946664E-14
+John Carpenter	John Carpenter	0.9990462064743042
+Phil Traill	Phil Traill	0.9990655183792114
+Ken Annakin	Ken Annakin	0.9993079900741577
+William Grefe	William Grefe	0.9992531538009644
+Harmony Korine	Harmony Korine	0.9991369247436523
+Steven Lisberger	Steven Lisberger	0.9989726543426514
+David Seltzer	David Seltzer	0.9990514516830444
+Jerry Sangiuliano	Jerry Sangiuliano	0.9990534782409668
+Kurt Hale	Kurt Hale	0.9991887807846069
+Amy Rice	Amy Rice	0.9990485906600952
+Anand Tucker	Anand Tucker	0.9990700483322144
+P.J. Hogan	P.J. Hogan	0.9990499019622803
+Tom Hanks	Tom Hanks	0.9990092515945435
+Peter Cornwell	Peter Cornwell	0.9993546009063721
+Michael Stephenson	Michael Paul Stephenson	4.753175866681163E-14
+Mark L. Lester	Mark L. Lester	0.99910569190979
+Gareth Edwards	Gareth Edwards	0.9990984201431274
+Jack Hill	James Hill	0.0
+Orson Welles	Orson Welles	0.9989681243896484
+Nacho Vigalondo	Nacho Vigalondo	0.9991083145141602
+Rowan Joffe	Rowan Joffe	0.9993313550949097
+John R. Cherry III	John R. Cherry III	0.9991450309753418
+David Ayer	David Ayer	0.9989796876907349
+Jake Schreier	Jake Schreier	0.9992713928222656
+Michael Bay	Michael Bay	0.9990764856338501
+Christopher Guest	Christopher Guest	0.9989311695098877
+Simon Wincer	Simon Wincer	0.9989872574806213
+John Bruno	John Bruno	0.9991847276687622
+Alan Johnson	Neil Johnson	1.6687496382557926E-13
+Jim Abrahams	Jim Abrahams	0.9990936517715454
+Rob Cohen	Robert Cohen	7.265218429034631E-15
+Richard Fleischer	Richard Fleischer	0.9990252256393433
+John Stockwell	John Stockwell	0.9992923736572266
+Tom Shadyac	Tom Shadyac	0.9991308450698853
+Lowell Sherman	Lowell Sherman	0.9988960027694702
+Edgar Wright	Edgar Wright	0.9990575313568115
+Hayden Schlossberg	Hayden Schlossberg	0.9990214109420776
+Don Chaffey	Don Chaffey	0.9992643594741821
+Adam Gierasch	Adam Gierasch	0.9990968704223633
+Derick Martini	Derick Martini	0.9990838766098022
+Gary Walkow	Gary Walkow	0.9991600513458252
+Jon Favreau	Jon Favreau	0.9991346597671509
+Doug Liman	Doug Liman	0.9990549087524414
+Ryan Little	Ryan Little	0.999059796333313
+Gavin Hood	Gavin Hood	0.9992759227752686
+Richard Quine	Richard Quine	0.9991482496261597
+Phil Weinstein	Phil Weinstein	0.9990917444229126
+Héctor Olivera	Héctor Olivera	0.9992467164993286
+Daniel Millican	Daniel Millican	0.9991928339004517
+James Wan	James Wan	0.999352753162384
+Dan Harris	Denny Harris	0.0
+Richard Elfman	Richard Elfman	0.9990495443344116
+John Wayne	John Wayne	0.9992934465408325
+Robert Stevenson	Robert Stevenson	0.9989839792251587
+Gene Saks	Gene Saks	0.9992460012435913
+Jim McBride	Jim McBride	0.999235987663269
+Liz Garbus	Liz Garbus	0.9988843202590942
+Cedric Sundstrom	Cedric Sundstrom	0.9992964267730713
+Jon Avnet	Jon Avnet	0.9992364645004272
+Astra Taylor	Astra Taylor	0.9990243911743164
+Joel Edgerton	Joel Edgerton	0.9991673231124878
+John Luessenhop	John Luessenhop	0.9990943670272827
+Marcus Raboy	Marcus Raboy	0.9991199970245361
+Michael Winner	Michael Winner	0.9989955425262451
+David M. Evans	David Evans	0.0
+Rupert Goold	Rupert Goold	0.9992032051086426
+Hal Needham	Hal Needham	0.9991410970687866
+Daniel Barber	Daniel Barber	0.999144971370697
+Peter Svatek	Peter Svatek	0.9991923570632935
+Dennis Lee	Dennis Lee	0.9992696046829224
+Keith Gordon	Keith Gordon	0.9989880323410034
+Brian Taylor	Brian Taylor	0.9989413022994995
+James Foley	James Foley	0.9992223978042603
+John Landis	John Landis	0.9989417791366577
+Gabor Csupo	Gabor Csupo	0.9989721775054932
+Matt Thompson	Matthew Thompson	8.082906089237896E-14
+Stuart Orme	Stuart Orme	0.9992423057556152
+Steven R. Monroe	Steven R. Monroe	0.9992237091064453
+Anne Fletcher	Anne Fletcher	0.9990941286087036
+Alan Rudolph	Alan Rudolph	0.9991741180419922
+Phil Joanou	Phil Joanou	0.9991617202758789
+J. Lee Thompson	J. Lee Thompson	0.9990895986557007
+McG	McG	0.9991676807403564
+Mick Jackson	Mick Jackson	0.9990925788879395
+George McCowan	George McCowan	0.9990873336791992
+Greg Mottola	Greg Mottola	0.9992139339447021
+Steven Soderbergh	Steven Soderbergh	0.9990712404251099
+Herb Freed	Herb Freed	0.9992523193359375
+Kevin Allen	Kevin Allen	0.9989136457443237
+Dennis Fallon	Dennis Fallon	0.9989578723907471
+David Miller	David Miller	0.9990646243095398
+Rob Diamond	Rob Diamond	0.9991234540939331
+Ivan Reitman	Jason Reitman	1.494105268109655E-13
+Brian Henson	Brian Henson	0.9991933107376099
+Lynn Shelton	Lynn Shelton	0.9990771412849426
+Kirk Wise	Kirk Wise	0.9992008209228516
+Roger Spottiswoode	Roger Spottiswoode	0.9991313219070435
+Andrew V. McLaglen	Andrew V. McLaglen	0.9991382360458374
+Michael Winterbottom	Michael Winterbottom	0.999051570892334
+Jim Wynorski	Jim Wynorski	0.9992377758026123
+George Ratliff	George Ratliff	0.9989726543426514
+David Thomas	Dave Thomas	1.9388944659873286E-13
+Mark Pavia	Mark Pavia	0.9991531372070312
+Michael Dougherty	Michael Dougherty	0.99912428855896
+Hector Barron	Hector Barron	0.9992156028747559
+Zack Snyder	Zack Snyder	0.9990102052688599
+Philip D\'Antoni	Phil D\'Antoni	2.300135179978541E-13
+Arthur Allan Seidelman	Arthur Allan Seidelman	0.9993268251419067
+Robert Scheerer	Robert Scheerer	0.9992049932479858
+Michael Caton-Jones	Michael Caton-Jones	0.9992752075195312
+Robert Butler	Robert Butler	0.9989770650863647
+Jean-Jacques Annaud	Jean-Jacques Annaud	0.9991132020950317
+Eric Forsberg	Eric Forsberg	0.9991645812988281
+Karyn Kusama	Karyn Kusama	0.999047577381134
+Eric Goldberg	Evan Goldberg	4.638401970591963E-15
+William Wyler	William Wyler	0.9992213249206543
+Franco Amurri	Franco Amurri	0.999146044254303
+Rusty Nelson	Gary Nelson	0.0
+Rodman Flender	Rodman Flender	0.999116063117981
+George P. Cosmatos	George P. Cosmatos	0.999122142791748
+Zach Helm	Zach Helm	0.9992120265960693
+Troy Miller	Troy Miller	0.9991180896759033
+Tim McCann	Tim McCann	0.999069333076477
+James Signorelli	James Signorelli	0.9990118741989136
+Savage Steve Holland	Savage Steve Holland	0.9990198612213135
+Nancy Savoca	Nancy Savoca	0.9990876913070679
+Terry George	Terry George	0.9991037249565125
+Carl Gottlieb	Carl Gottlieb	0.9991527199745178
+Andrew Douglas	Andrew Douglas	0.9991554021835327
+Jean-Marc Vallée	Jean-Marc Vallée	0.9991286993026733
+Hannah Fidell	Hannah Fidell	0.9990075826644897
+David Soren	David Soren	0.9991257190704346
+Newt Arnold	Newt Arnold	0.9990583658218384
+Kurt Neumann	Kurt Neumann	0.9991353750228882
+Chris Weitz	Chris Weitz	0.9993503093719482
+Arish Fyzee	Arish Fyzee	0.9989417791366577
+Dennis Hopper	Dennis Hopper	0.9991962909698486
+Sidney Franklin	Sidney Franklin	0.9992372989654541
+Colin Higgins	Colin Higgins	0.9989749193191528
+Ted Geoghegan	Ted Geoghegan	0.998986005783081
+Gore Verbinski	Gore Verbinski	0.9991700649261475
+Lenny Abrahamson	Lenny Abrahamson	0.9991241693496704
+Tom Harper	Tom Harper	0.9990233182907104
+Sherman A. Rose	Sherman A. Rose	0.9992693662643433
+Jason Moore	Jason Moore	0.9989631175994873
+Gina Prince-Bythewood	Gina Prince-Bythewood	0.9992994070053101
+Hideo Nakata	Hideo Nakata	0.9991421699523926
+Brad Silberling	Brad Silberling	0.9992254972457886
+David M. Evans	David Mickey Evans	0.0
+Steve Wolsh	Steve Wolsh	0.9992332458496094
+Matt Johnson	Tim Johnson	1.216250543204303E-13
+Josef Rusnak	Josef Rusnak	0.9993276596069336
+Anthony Mann	Anthony Mann	0.9991563558578491
+Douglas Aarniokoski	Douglas Aarniokoski	0.9991809129714966
+Ari Sandel	Ari Sandel	0.9989961385726929
+James Gray	James Gray	0.9992738366127014
+Rian Johnson	Alan Johnson	1.5116145910942097E-13
+James W. Roberson	James W. Roberson	0.999100923538208
+Tobe Hooper	Tobe Hooper	0.9991883039474487
+Irwin Allen	Irwin Allen	0.9992169141769409
+Lawrence Kasdan	Lawrence Kasdan	0.9991648197174072
+Fred Olen Ray	Fred Olen Ray	0.9991735219955444
+Max Joseph	Max Joseph	0.9991980791091919
+Jean-Claude Van Damme	Jean-Claude Van Damme	0.9991011619567871
+Alrick Brown	Arvin Brown	3.9588636053166856E-14
+Bruce Beresford	Bruce Beresford	0.9991364479064941
+John McKenna	Jon McKenna	0.0
+Elliot Silverstein	Elliot Silverstein	0.9992285966873169
+Jeff London	Jerry London	0.0
+Lee Unkrich	Lee Unkrich	0.9990130662918091
+Phil Roman	Phil Roman	0.9990866184234619
+Rodrigo García	Rodrigo García	0.9990063905715942
+Jeremy Snead	Jeremy Snead	0.9990586638450623
+Brian Levant	Brian Levant	0.9991644620895386
+Werner Herzog	Werner Herzog	0.9990514516830444
+Richard Loncraine	Richard Loncraine	0.999036431312561
+Bruce D. Clark	Bruce D. Clark	0.9991053342819214
+Michael Radford	Michael Radford	0.999092698097229
+Robert Eggers	Robert Eggers	0.9992501735687256
+Samuel Fuller	Samuel Fuller	0.9992311000823975
+Peter Askin	Peter Askin	0.9990363121032715
+Joe Pytka	Joseph Pytka	0.0
+Michael Polish	Michael Polish	0.9990973472595215
+Jesse Hibbs	Jesse Hibbs	0.999021053314209
+Michael A. Nickles	Michael A. Nickles	0.9991856813430786
+John Maybury	John Maybury	0.9991073608398438
+Sturla Gunnarsson	Sturla Gunnarsson	0.9992170333862305
+Gisaburo Sugii	Gisaburo Sugii	0.9990811347961426
+Harry Beaumont	Harry Beaumont	0.9989883899688721
+Andrew Shapter	Andrew Shapter	0.9990521669387817
+Thomas Mignone	Thomas Mignone	0.9992969036102295
+Peter Hutchings	Peter Hutchings	0.9990944862365723
+Lisa Azuelos	Lisa Azuelos	0.9991834163665771
+Brett Haley	Brett Haley	0.9990301132202148
+Chris Wedge	Chris Wedge	0.9989817142486572
+Stephen Daldry	Stephen Daldry	0.9991323947906494
+Mervyn LeRoy	Mervyn LeRoy	0.9992390871047974
+Saul Dibb	Saul Dibb	0.998938798904419
+Darren Aronofsky	Darren Aronofsky	0.9991109371185303
+John Fox	John Fox	0.9991992712020874
+Stuart Rosenberg	Stuart Rosenberg	0.9990432262420654
+Edward Bernds	Edward Bernds	0.9990377426147461
+George Marshall	George Marshall	0.9992400407791138
+Khalil Sullins	Khalil Sullins	0.9991598129272461
+Larry Stewart	Larry Stewart	0.9991308450698853
+Lincoln Ruchti	Lincoln Ruchti	0.9991780519485474
+Famke Janssen	Famke Janssen	0.9992958307266235
+Tina Hirsch	Bettina Hirsch	0.0
+Udayan Prasad	Udayan Prasad	0.9992115497589111
+George Pal	George Pal	0.9989801645278931
+Henry King	Henry King	0.9991356134414673
+Nima Nourizadeh	Nima Nourizadeh	0.9990929365158081
+Luis Prieto	Luis Prieto	0.9990172386169434
+Noah Baumbach	Noah Baumbach	0.9992914199829102
+Albert Band	Albert Band	0.9992499351501465
+Peter Berg	Peter Berg	0.9990670680999756
+Irwin Winkler	Irwin Winkler	0.9991073608398438
+Elizabeth Banks	Elizabeth Banks	0.9991703033447266
+Jayson Thiessen	Jayson Thiessen	0.9991705417633057
+Yen Tan	Yen Tan	0.9992754459381104
+Michel Gondry	Michel Gondry	0.9993022680282593
+Stanley M. Brooks	James L. Brooks	1.5908567594768303E-13
+Mikael Salomon	Mikael Salomon	0.9991621971130371
+Anthony DiBlasi	Anthony DiBlasi	0.9992197751998901
+Bruce McCulloch	Bruce McCulloch	0.9990764856338501
+James Bolton	James Bolton	0.9989831447601318
+John Hough	John Hough	0.9990233182907104
+Neil LaBute	Neil LaBute	0.999017596244812
+Ralph Bakshi	Ralph Bakshi	0.9989278316497803
+Burr Steers	Burr Steers	0.9992896318435669
+Jack Clayton	Jack Clayton	0.9990291595458984
+Howard McCain	Howard McCain	0.999174952507019
+Jake Kasdan	Jake Kasdan	0.9990534782409668
+Thomas S. Hammock	Thomas S. Hammock	0.9991439580917358
+Norman Tokar	Norman Tokar	0.9991543292999268
+Tim Burton	Tim Burton	0.999006986618042
+Jeff Orlowski	Jeff Orlowski	0.9989364147186279
+William Dickerson	William Dickerson	0.9992349147796631
+Karey Kirkpatrick	Karey Kirkpatrick	0.9992140531539917
+Gary David Goldberg	Gary David Goldberg	0.998964786529541
+Jim Wilson	Jim Wilson	0.9989696741104126
+Gregg Araki	Gregg Araki	0.9990379810333252
+Donald P. Borchers	Donald P. Borchers	0.9990507364273071
+Paul Thomas Anderson	Paul W.S. Anderson	1.9408941413692066E-13
+Frank Hall Green	Frank Hall Green	0.9989615678787231
+Kevin Smith	Kevin Smith	0.999029278755188
+Charles Jarrott	Charles Jarrott	0.9991214275360107
+Jorge Michel Grau	Jorge Michel Grau	0.9991527795791626
+Patrick Gambuti Jr.	Patrick Gambuti Jr.	0.999015212059021
+Joe Wright	Joe Wright	0.998913049697876
+Steve Carver	Steve Carver	0.9991642236709595
+Genndy Tartakovsky	Genndy Tartakovsky	0.9990278482437134
+Kevin Spacey	Kevin Spacey	0.9990133047103882
+Richard Benjamin	Richard Benjamin	0.9993051290512085
+Shane Black	Shane Black	0.9990507364273071
+Phyllida Lloyd	Phyllida Lloyd	0.9992315769195557
+Mark Brown	Mark Brown	0.99910569190979
+Dorothy Arzner	Dorothy Arzner	0.9989670515060425
+Shekhar Kapur	Shekhar Kapur	0.9991304874420166
+Damian Harris	Damien Harris	1.8905893289702241E-13
+Liza Johnson	Clark Johnson	1.029980408687875E-13
+John Waters	John Waters	0.9990553855895996
+Tyler Gillett	Tyler Gillett	0.9991148710250854
+Eric Steel	Eric Steel	0.9990807175636292
+Isaac Florentine	Isaac Florentine	0.9991558790206909
+Patrick Lussier	Patrick Lussier	0.9993020296096802
+Karl Freund	Karl W. Freund	9.618077411984241E-14
+Busby Berkeley	Busby Berkeley	0.9992798566818237
+Peter Cousens	Peter Cousens	0.9992226362228394
+José Padilha	José Padilha	0.9992862939834595
+Charles Band	Charles Band	0.9991668462753296
+George Roy Hill	George W. Hill	5.525037011558896E-14
+Derik Wingo	Derik Wingo	0.9991316795349121
+Danny Cannon	Dyan Cannon	2.1965452189336848E-13
+Michael Gordon	Michael Gordon	0.9992046356201172
+Robert Rodriguez	Robert Rodriguez	0.9991574287414551
+John Gray	John Gray	0.9991413354873657
+King Vidor	King Vidor	0.9991929531097412
+Penelope Spheeris	Penelope Spheeris	0.9989346265792847
+Bryan Johnson	Rian Johnson	1.1181501010466485E-13
+Craig Shapiro	Craig Shapiro	0.999215841293335
+Jerry P. Jacobs	Jerry P. Jacobs	0.9991177320480347
+Kyle Patrick Alvarez	Kyle Patrick Alvarez	0.999218225479126
+Louis Leterrier	Louis Leterrier	0.9990121126174927
+Kirk Jones	Kirk Jones	0.9992176294326782
+James C. Strouse	Jason Strouse	1.5689050536157878E-13
+Joe Ranft	Joe Ranft	0.9992996454238892
+Richard Lester	Richard Lester	0.9991816282272339
+George Sidney	George Sidney	0.9991568326950073
+Gordon Hessler	Gordon Hessler	0.9991141557693481
+Fritz Kiersch	Fritz Kiersch	0.9991302490234375
+David Dobkin	David Dobkin	0.9990570545196533
+Harold P. Warren	Hal P. Warren	8.239825380167154E-14
+Justin Chadwick	Justin Chadwick	0.9992369413375854
+Jeffrey Schwarz	Jeffrey Schwarz	0.9990664124488831
+Marshall Curry	Marshall Curry	0.9989913702011108
+Mikael Håfström	Mikael Håfström	0.9989429712295532
+Robert Iscove	Robert Iscove	0.9991158246994019
+Richard Donner	Richard Donner	0.9991462230682373
+Edward Burns	Edward Burns	0.9991289377212524
+E.L. Katz	E.L. Katz	0.9992274045944214
+Ridley Scott	Ridley Scott	0.9989618062973022
+David Mirkin	David Mirkin	0.9993489980697632
+Paul Feig	Paul Feig	0.9992022514343262
+Barbet Schroeder	Barbet Schroeder	0.9990379810333252
+Jocelyn Moorhouse	Jocelyn Moorhouse	0.9989873170852661
+Joe Pytka	Joe Pytka	0.9990553855895996
+Tom Holland	Todd Holland	1.0467598603224396E-13
+Charles T. Kanganis	Charles T. Kanganis	0.9990112781524658
+Andrew Sipes	Andrew Sipes	0.9992445707321167
+Wen-Han Shih	Wen-Han Shih	0.999183177947998
+Courteney Cox	Courteney Cox	0.9991885423660278
+Larry Cohen	Larry Cohen	0.9990065097808838
+Nancy Meyers	Nancy Meyers	0.9989992380142212
+Jesse Moss	Jesse Moss	0.999097466468811
+David Salle	David Salle	0.9991509914398193
+Harry Hook	Harry Hook	0.9990977048873901
+Wes Craven	Wes Craven	0.9990891218185425
+Paul Sapiano	Paul Sapiano	0.9992140531539917
+Niki Caro	Niki Caro	0.9990013837814331
+Andy Tennant	Andy Tennant	0.9990218877792358
+Peter Yates	Peter Yates	0.9990577697753906
+Menno Meyjes	Menno Meyjes	0.9991234540939331
+Ericson Core	Ericson Core	0.9990416765213013
+Todor Chapkanov	Todor Chapkanov	0.9990086555480957
+Oz Scott	Oz Scott	0.9989906549453735
+Chris Lofing	Chris Lofing	0.9991545677185059
+Gus Holwerda	Gus Holwerda	0.9993470907211304
+Gregg Toland	Gregg Toland	0.998990535736084
+Dan Rush	Dan Rush	0.9989640712738037
+Robert Pulcini	Robert Pulcini	0.9991382360458374
+Mike Marvin	Mike Marvin	0.9989372491836548
+Frank Perry	Frank Perry	0.9991884827613831
+Terry T. Miller	Troy Miller	0.0
+Josh Johnson	Josh Johnson	0.9990230798721313
+Fred M. Wilcox	Fred McLeod Wilcox	6.673275213670005E-14
+Stan Ferguson	Dustin Ferguson	2.228988884743141E-13
+Robert Hiltzik	Robert Hiltzik	0.9989790916442871
+Sheldon Lettich	Sheldon Lettich	0.9989560842514038
+Peter Markle	Peter Markle	0.9991198778152466
+George Clooney	George Clooney	0.9991533160209656
+Jerry Rees	Jerry Rees	0.9992092847824097
+Sterlin Harjo	Sterlin Harjo	0.9991887807846069
+Don Jones	Dean Jones	6.613288340345455E-14
+Brett Donowho	Brett Donowho	0.9990999102592468
+Michael Mann	Michael Mann	0.9991042613983154
+Dwight H. Little	Dwight Little	0.0
+Aleksander Bach	Aleksander Bach	0.9989030361175537
+Jennifer Blanc	Jean-Pierre Blanc	0.0
+William Brent Bell	William Brent Bell	0.9989135265350342
+Charles Kinnane	Charles Kinnane	0.9988799095153809
+Bette Gordon	Steve Gordon	0.0
+Jonathan Mostow	Jonathan Mostow	0.9991421699523926
+Paul Sabella	Paul Sabella	0.9990742206573486
+Fielder Cook	Fielder Cook	0.9990494251251221
+George Lucas	George Lucas	0.9989585876464844
+Rod Lurie	Rod Lurie	0.9990253448486328
+Azazel Jacobs	Azazel Jacobs	0.9989969730377197
+Clara Mamet	Clara Mamet	0.9992674589157104
+Barbara Peeters	Barbara Peeters	0.9991199970245361
+William Lustig	William Lustig	0.9990638494491577
+Michael Wadleigh	Michael Wadleigh	0.999165415763855
+Kevin Rodney Sullivan	Kevin Rodney Sullivan	0.9992278814315796
+Bernard Rose	Bernard Rose	0.9991642236709595
+Kurt Engfehr	Kurt Engfehr	0.9988964796066284
+Jesse Dylan	Jesse Dylan	0.9990383386611938
+Robert Resnikoff	Robert Resnikoff	0.9991159439086914
+Oliver Stone	Oliver Stone	0.999251127243042
+Alfred Hitchcock	Alfred Hitchcock	0.9990106821060181
+Shawn Levy	Shawn Levy	0.9992256760597229
+Rob Epstein	Robert Epstein	1.5845696066038584E-13
+Steve Pink	Steve Pink	0.9991632699966431
+Tom DiCillo	Tom DiCillo	0.9992556571960449
+Francis Veber	Francis Veber	0.9992587566375732
+Deon Taylor	Deon Taylor	0.9990137219429016
+Kirby Dick	Kirby Dick	0.9990721940994263
+Marc Lawrence	Francis Lawrence	5.400477767346541E-14
+Paolo Mazzucato	Paulo Mazzucato	1.6201020288774542E-13
+Jonathan M. Goldstein	Jonathan M. Goldstein	0.999159574508667
+Sophie Barthes	Sophie Barthes	0.9991925954818726
+Agnieszka Holland	Agnieszka Holland	0.9992094039916992
+Taylor Sheridan	Taylor Sheridan	0.9991039037704468
+Bill L. Norton	Bill L. Norton	0.9989616870880127
+Ernst Lubitsch	Ernst Lubitsch	0.9991439580917358
+Charles Ferguson	Charles Ferguson	0.9992380142211914
+Michael Stephenson	Michael Stephenson	0.9989570379257202
+Roberta Findlay	Roberta Findlay	0.999152660369873
+Jason Hull	Jason Hull	0.9991424083709717
+Jordan Galland	Jordan Galland	0.999264121055603
+Ben Coccio	Ben Coccio	0.9990265369415283
+Ishirô Honda	Ishirô Honda	0.9991439580917358
+D.A. Pennebaker	D.A. Pennebaker	0.9990702867507935
+Robert Florey	Robert Florey	0.999229907989502
+Curtis Graham	Curtis Graham	0.9988985061645508
+Tony Maylam	Tony Maylam	0.9990319609642029
+Christopher Ashley	Christopher Ashley	0.9991632699966431
+Terry Gilliam	Terry Gilliam	0.9991140365600586
+Rachel Boynton	Rachel Boynton	0.9989964962005615
+Marvin J. Chomsky	Marvin J. Chomsky	0.999157190322876
+Kris Swanberg	Kris Swanberg	0.9989526271820068
+Jack Bernhard	Jack Bernhard	0.9992655515670776
+Steve Hickner	Stephen Hickner	4.020340579002045E-14
+Rian Johnson	Neil Johnson	0.0
+Jim Russell	Jay Russell	2.880339941709574E-14
+Milos Forman	Milos Forman	0.9991598129272461
+Gary Ross	Gary Ross	0.9991673231124878
+Irving Reis	Irving G. Reis	8.862360037454817E-14
+Craig Johnson	Clark Johnson	1.416739853687607E-13
+David Hand	David D. Hand	2.0572100609388827E-13
+Budd Boetticher	Budd Boetticher	0.9990600347518921
+Nick Cassavetes	Nick Cassavetes	0.9989843964576721
+Zachary Donohue	Zachary Donohue	0.9992649555206299
+John Cromwell	John Cromwell	0.9989519119262695
+Steven Hilliard Stern	Steven Hilliard Stern	0.9992207288742065
+John Herzfeld	John Herzfeld	0.9990543723106384
+Jody Wheeler	Jody Wheeler	0.9990259408950806
+Sam Taylor	Sam Taylor	0.9992871284484863
+Rob Marshall	George Marshall	4.872717965340341E-14
+James Neilson	James Neilson	0.999167799949646
+Michael Almereyda	Michael Almereyda	0.9990251064300537

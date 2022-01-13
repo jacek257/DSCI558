@@ -1,0 +1,34 @@
+predicates:
+   MovieTitle/2:
+      - closed
+   DirectorName/2:
+      - closed
+   MovieBlock/2:
+      - closed
+      - block
+   DirectorBlock/2:
+      - closed
+      - block
+   DirectorOf/2:
+      - closed
+   SimMovie/2:
+      - closed
+   SimDir/2:
+      - closed
+   SameMovie/2:
+      - open
+   SameDir/2:
+      - open
+
+observations:
+  MovieTitle: ./data/movie_obs.txt
+  MovieBlock: ./data/movie_block_obs.txt
+  DirectorName: ./data/directors_obs.txt
+  DirectorBlock: ./data/director_block_obs.txt
+  DirectorOf: ./data/directorOf_obs.txt
+  SimMovie: ./data/sim_movie_obs.txt
+  SimDir: ./data/sim_dir_obs.txt
+
+targets:
+  SameMovie: ./data/sim_movie_targets.txt
+  SameDir: ./data/sim_dir_targets.txt

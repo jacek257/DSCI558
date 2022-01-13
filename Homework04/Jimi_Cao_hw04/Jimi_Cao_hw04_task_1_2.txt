@@ -1,0 +1,34 @@
+select distinct ?pres ?presLabel ?birthDate ?startDate ?endDate ?term where {
+  {
+    ?uni wdt:P31/wdt:P279* wd:Q3918 .
+    ?uni p:P488 ?chairStatement .
+    ?chairStatement ps:P488 ?pres ;
+                   pq:P580 ?startDate ;
+                   pq:P582 ?endDate .
+    ?pres wdt:P569 ?birthDate . }
+  union
+  {
+    ?pres p:P39 ?position.
+    ?position ps:P39 wd:Q4376769;
+              pq:P580 ?startDate;
+              pq:P582 ?endDate.
+    ?pres wdt:P569 ?birthDate .
+  }
+  union
+  {
+    ?pres p:P39 ?position.
+    ?position ps:P39 wd:Q212071 ;
+              pq:P580 ?startDate;
+              pq:P582 ?endDate.
+    ?pres wdt:P569 ?birthDate .
+  }
+  bind( ?endDate - ?startDate as ?term )
+  filter (?term < 365)
+  
+  optional {
+    ?pres rdfs:label ?presLabel . 
+    filter(lang(?presLabel) = "en")
+  }
+}
+order by ?presLabel
+LIMIT 20

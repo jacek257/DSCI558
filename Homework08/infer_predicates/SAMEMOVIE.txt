@@ -1,0 +1,3493 @@
+Wacko	Wacko	0.9991893768310547
+Escape Plan	Escape Plan	0.9991428852081299
+Prisoners	Prisoners	0.9990864992141724
+Somebody Up There Likes Me	Somebody Up There Likes Me	0.9991590976715088
+Juno	Junior	6.973624287623728E-14
+The Deer Hunter	The Deer Hunter	0.99900221824646
+The Lone Ranger	The Lone Ranger	0.9989359378814697
+Shopworn	Shopworn	0.9992233514785767
+Candyman	Candyman	0.9989767074584961
+Tarantula	Tarantula	0.9990593194961548
+Behind the Red Door	Behind the Red Door	0.9991281032562256
+The Fugitive	The Fugitive	0.9991755485534668
+The Other Boleyn Girl	The Other Boleyn Girl	0.9993025064468384
+Mamma Mia!	Mamma Mia!	0.9991865158081055
+The Puppet Masters	The Puppet Masters	0.9989645481109619
+Children of the Corn	Children of the Corn	0.9992293119430542
+Shark Tale	Shark Tale	0.9989930391311646
+Extreme Justice	Extreme Justice	0.9991769790649414
+Singin\' in the Rain	Singin\' in the Rain	0.9989839792251587
+Ray	Ray	0.9992642402648926
+The Ladies Man	The Ladies Man	0.9990436434745789
+The Collector	The Collection	3.983017596840589E-14
+The Story of Seabiscuit	The Story of Seabiscuit	0.9989833831787109
+Land of the Dead	Diary of the Dead	1.0128899265550786E-13
+The Nest	The Nest	0.9989570379257202
+War and Peace	War and Peace	0.9991008043289185
+Lucas	Lucas	0.9991557598114014
+Tourist Trap	Tourist Trap	0.9991777539253235
+Forever Young	Forever Young	0.9990767240524292
+Another 48 Hrs.	Another 48 Hrs.	0.9990123510360718
+Crossover	Crossover	0.9990577697753906
+Crime Wave	Crime Wave	0.9990440607070923
+Bridesmaids	Bridesmaids	0.9990473985671997
+That\'s Entertainment! III	That\'s Entertainment! III	0.9991127252578735
+Regression	Regression	0.999159574508667
+Day of the Dead	Day of the Dead	0.9991248846054077
+The Hangover	The Hangover Part II	0.0
+Iron Man	Iron Man	0.9992209672927856
+The Neverending Story III	The NeverEnding Story III	9.613914075641897E-14
+Running Free	Running Free	0.9991775751113892
+Hoosiers	Hoosiers	0.999190092086792
+For Love of the Game	For Love of the Game	0.9990596175193787
+The Specialist	The Specialist	0.9991211891174316
+All Dogs Go to Heaven 2	All Dogs Go To Heaven 2	0.0
+THX 1138	THX 1138	0.9990848302841187
+Air Force	Air Force	0.9991003274917603
+The Island	The Island	0.9991297721862793
+Looper	Looper	0.9990322589874268
+I Spit on Your Grave 2	I Spit On Your Grave	2.0038687031866294E-14
+Stuart Little	Stuart Little	0.9991146922111511
+The Muppets	The Muppets	0.9991238117218018
+Lenny	Lenny	0.9992797374725342
+Doom	Doom	0.9989571571350098
+Empire of the Sun	Empire of the Sun	0.9990725517272949
+Lethal Weapon	Lethal Weapon	0.9990886449813843
+Diary of the Dead	Survival of the Dead	1.900743153366094E-13
+Revenge of the Ninja	Revenge of the Ninja	0.9991457462310791
+First Blood	First Blood	0.9991254806518555
+The Crew	The Crew	0.9990750551223755
+Up in the Air	Up in the Air	0.9990763664245605
+Stuck on You	Stuck on You	0.9989054203033447
+True Grit	True Grit	0.9990512132644653
+Wild at Heart	Wild At Heart	0.0
+Vulgar	Vulgar	0.9992369413375854
+Double Edge	Double Edge	0.9990020990371704
+On Valentine\'s Day	On Valentine\'s Day	0.9992284774780273
+Apollo 13	Apollo 13	0.9992163181304932
+The Singles 2nd Ward	The Singles Ward	1.0767898210454E-13
+Rush Hour	Rush Hour 2	1.3268622040939898E-13
+Rush Hour	Rush Hour 3	8.971201738297921E-14
+Will Penny	Will Penny	0.9990711212158203
+Avenging Force	Avenging Force	0.9990404844284058
+America\'s Sweethearts	America\'s Sweethearts	0.9991995096206665
+Barefoot	Barefoot	0.9990670680999756
+No Strings Attached	No Strings Attached	0.9991359710693359
+Machete	Machete	0.9990175366401672
+Over the Hedge	Over the Hedge	0.9991674423217773
+Ted 2	Ted	1.3801979036661555E-13
+Zipper	Zipper	0.9990392923355103
+Now You See Me	Now You See Me	0.9989058971405029
+The Last Straw	The Last Straw	0.9990880489349365
+The Proposal	The Proposal	0.9991970062255859
+Trust Me	Trust Me	0.9991196393966675
+Caveman	Caveman	0.9989920854568481
+Ted	Ted 2	3.594538471670024E-14
+Scary Movie 3	Scary Movie 3	0.9991855621337891
+Scary Movie 3	Scary Movie 4	0.0
+The Stunt Man	The Stunt Man	0.9991768598556519
+Jaws	Jaws	0.999118447303772
+Scary Movie 4	Scary Movie 4	0.9992671012878418
+The Tingler	The Tingler	0.9990999698638916
+Scary Movie 4	Scary Movie 3	7.800678099344552E-14
+Safelight	Safelight	0.9991970062255859
+The Animal	The Animal	0.9992477893829346
+Mental	Mental	0.9990534782409668
+RV	RV	0.9990105628967285
+Scary Movie 5	Scary Movie 3	5.36926155392161E-14
+Rudy	Rudy	0.9989733695983887
+Scary Movie 5	Scary Movie 4	1.5487037921622232E-13
+The Vampire Lovers	The Vampire Lovers	0.9991402626037598
+Unforgiven	Unforgiven	0.9989347457885742
+Some Kind of Wonderful	Some Kind of Wonderful	0.9991780519485474
+The Heartbreak Kid	The Heartbreak Kid	0.9990864992141724
+Pearl Harbor	Pearl Harbor	0.9991743564605713
+The Running Man	The Running Man	0.9990662336349487
+Ice Age	Ice Age	0.999138593673706
+Harry Potter and the Chamber of Secrets	Harry Potter and the Sorcerer\'s Stone	0.0
+Love Me or Leave Me	Love Me Or Leave Me	6.322373858171429E-14
+My Favorite Spy	My Favorite Spy	0.9990980625152588
+Behaving Badly	Behaving Badly	0.9990367889404297
+The Hand That Rocks the Cradle	The Hand that Rocks the Cradle	1.540899569399401E-13
+The Pack	The Pack	0.9991124868392944
+Tell Me Lies	Tell Me Lies	0.9991500377655029
+Cars	Cars	0.999068021774292
+The Call of Cthulhu	The Call of Cthulhu	0.9990701675415039
+Rage of Honor	Rage of Honor	0.9990460872650146
+Last Shift	Last Shift	0.9992349147796631
+Red Dust	Red Dust	0.9990526437759399
+The Invisible Man Returns	The Invisible Man Returns	0.9990545511245728
+The Adventures of Rocky & Bullwinkle	The Adventures of Rocky & Bullwinkle	0.9989105463027954
+Windsor Drive	Windsor Drive	0.9989842176437378
+Copperhead	Copperhead	0.999137282371521
+The Apartment	The Apartment	0.999184250831604
+The Incredibles 2	The Incredibles	1.7453761688972919E-13
+Old School	Old School	0.9990376234054565
+Kidnap	Kidnap	0.9991501569747925
+JFK	JFK	0.9990841150283813
+Full Metal Jacket	Full Metal Jacket	0.9992055892944336
+A Brave Heart: The Lizzie Velasquez Story	A Brave Heart: The Lizzie Velasquez Story	0.9990073442459106
+Definitely, Maybe	Definitely, Maybe	0.9991365671157837
+Don\'t Look Back	Don\'t Look Back	0.9990947246551514
+The Naked Gun 2½: The Smell of Fear	The Naked Gun 2 1/2: The Smell of Fear	0.0
+The Second Best Exotic Marigold Hotel	The Second Best Exotic Marigold Hotel	0.9993084669113159
+Superstar	Superstar	0.9991111755371094
+Shadow of the Vampire	Shadow of the Vampire	0.9990267157554626
+Marathon Man	Marathon Man	0.999019980430603
+Ninja	Ninja	0.9992436170578003
+Zookeeper	Zookeeper	0.999143123626709
+Twins	Twins	0.9989097118377686
+Houseboat	Houseboat	0.9992953538894653
+The Last Exorcism	The Last Exorcism	0.9992474317550659
+Superman Returns	Superman Returns	0.9993346929550171
+Client 9: The Rise and Fall of Eliot Spitzer	Client 9: The Rise and Fall of Eliot Spitzer	0.9992061853408813
+Wayne\'s World	Wayne\'s World	0.9991580247879028
+The Score	The Score	0.9990692138671875
+Soul Man	Soul Man	0.9990204572677612
+Revenge of the Nerds	Revenge of the Nerds	0.9990824460983276
+Creed	Creed	0.9991641044616699
+Body Snatchers	Body Snatchers	0.9990614652633667
+Arthur Christmas	Arthur Christmas	0.9989974498748779
+The Adventures of Tintin	The Adventures of Tintin	0.999077320098877
+Zoom	Zoom	0.9991286993026733
+The First Time	The First Time	0.9990406036376953
+Knight and Day	Knight & Day	0.0
+Junebug	Junebug	0.9990251064300537
+Vanity Fair	Vanity Fair	0.999151349067688
+Zero Day	Zero Day	0.999154806137085
+Trouble in Paradise	Trouble in Paradise	0.9992929697036743
+Mary Poppins	Mary Poppins	0.9992865324020386
+Munchie Strikes Back	Munchie Strikes Back	0.9990525245666504
+Pacific Rim	Pacific Rim	0.9990564584732056
+2001: A Space Odyssey	2001: A Space Odyssey Re-release	2.106299753753052E-13
+Lost in America	Lost in America	0.9991128444671631
+Sudden Death	Sudden Death	0.9991437196731567
+Sphere	Sphere	0.9991405010223389
+The Ladykillers	The Ladykillers	0.9990360736846924
+Munchies	Munchies	0.9990057945251465
+The Karate Kid	The Karate Kid Part II	5.235247389138824E-14
+So Proudly We Hail!	So Proudly We Hail!	0.9989562034606934
+Foul Play	Foul Play	0.9991198778152466
+Kids of the Round Table	Kids of the Round Table	0.9992028474807739
+The Expendables	The Expendables	0.9990617036819458
+My Fair Lady	My Fair Lady	0.9989203214645386
+The Mexican	The Mexican	0.9991536736488342
+Sugar Hill	Sugar Hill	0.9992406368255615
+The Chaperone	The Chaperone	0.9990330934524536
+Ghostbusters II	Ghostbusters 2	0.0
+Red Sonja	Red Sonja	0.9990805387496948
+Half Baked	Half Baked	0.9991977214813232
+War of the Worlds	War of the Worlds	0.9991798400878906
+Aliens	Aliens	0.9993287324905396
+Mata Hari	Mata Hari	0.9989518523216248
+Think Like a Man	Think Like a Man Too	2.3075245598851157E-13
+Pollyanna	Pollyanna	0.9992170333862305
+Jumanji	Jumanji	0.9991649389266968
+Miss Congeniality 2: Armed and Fabulous	Miss Congeniality 2 - Armed and Fabulous	0.0
+Maverick	Maverick	0.998986005783081
+The Town That Dreaded Sundown	The Town That Dreaded Sundown	0.999082088470459
+Secret in Their Eyes	Secret in Their Eyes	0.9991350173950195
+The Whisperer in Darkness	The Whisperer In Darkness	5.3943232259517915E-14
+Deep in My Heart	Deep in My Heart	0.9990266561508179
+Rushmore	Rushmore	0.9991235733032227
+Rounders	Rounders	0.9991374015808105
+As I Stand	As I Stand	0.9990664720535278
+Not Another Teen Movie	Not Another Teen Movie	0.9992618560791016
+The Moderns	The Moderns	0.9989428520202637
+Dorian Blues	Dorian Blues	0.9990516901016235
+The Protector	The Protector	0.9991021156311035
+The Wait	The Wait	0.9991978406906128
+Coneheads	Coneheads	0.9989215135574341
+Under Siege	Under Siege	0.9991586208343506
+Evel Knievel	Evel Knievel	0.9989855289459229
+The Dark Place	The Dark Place	0.9990345239639282
+Double Jeopardy	Double Jeopardy	0.999077558517456
+Aloha	Aloha	0.999274492263794
+The Eagle and the Hawk	The Eagle and the Hawk	0.9992120265960693
+Moulin Rouge!	Moulin Rouge!	0.9992599487304688
+X-Men Origins: Wolverine	X-Men Origins - Wolverine	2.4709806073562428E-14
+Crimes and Misdemeanors	Crimes and Misdemeanors	0.9991497993469238
+Scaramouche	Scaramouche	0.9993230104446411
+The Texas Chainsaw Massacre 2	The Texas Chainsaw Massacre	1.0310358117401539E-13
+The Current	The Current	0.9992913007736206
+Air Bud	Air Bud	0.9991734027862549
+All I Want for Christmas	All I Want for Christmas	0.9990643262863159
+Men, Women & Children	Men, Women & Children	0.9992153644561768
+Dope	Dope	0.9990551471710205
+The Producers	The Producers	0.999320387840271
+Ghost Rider	Ghost Rider	0.9990987777709961
+The Nun\'s Story	The Nun\'s Story	0.9991452693939209
+Love in the Afternoon	Love in the Afternoon	0.9991421699523926
+Autopsy	Autopsy	0.999123215675354
+The Court Jester	The Court Jester	0.9992138147354126
+Jaws 2	Jaws 2	0.9991123676300049
+How to Steal a Million	How to Steal a Million	0.9990392923355103
+Take Me Out to the Ball Game	Take Me Out to the Ball Game	0.9989922046661377
+The Magnificent Seven	The Magnificent Seven	0.9989166259765625
+Hope Springs	Hope Springs	0.9989451169967651
+Elf	Elf	0.9989360570907593
+Freaks	Freaks	0.9989824295043945
+You Can\'t Take It With You	You Can\'t Take It With You	0.9988937377929688
+The Postman	The Postman	0.9993646144866943
+The Haunting in Connecticut 2: Ghosts of Georgia	The Haunting in Connecticut 2: Ghosts of Georgia	0.9992427825927734
+Harry Potter and the Half-Blood Prince	Harry Potter and the Half-Blood Prince	0.9989372491836548
+Quest for Camelot	Quest For Camelot	1.8922596779422096E-13
+High Noon	High Noon	0.9992105960845947
+Sleepy Hollow	Sleepy Hollow	0.9990459680557251
+Clerks	Clerks	0.999098539352417
+Ouija	Ouija	0.9991322755813599
+Sea of Love	Sea of Love	0.9990552663803101
+The Queen of Versailles	The Queen of Versailles	0.9992098808288574
+Lilies of the Field	Lilies of the Field	0.9990447759628296
+The Human Centipede II (Full Sequence)	The Human Centipede III (Final Sequence)	1.5802098941430226E-13
+Kick-Ass	Kick-Ass	0.9991564750671387
+Tomboy	Tomboy	0.9990906715393066
+Crash	Crash	0.9990290403366089
+Cheaper by the Dozen 2	Cheaper by the Dozen 2	0.9989771842956543
+Surrogates	Surrogates	0.9991304874420166
+Heartbreakers	Heartbreakers	0.9991370439529419
+It\'s Complicated	It\'s Complicated	0.9990251064300537
+Continental Divide	Continental Divide	0.9992200136184692
+Love Crazy	Love Crazy	0.9991798400878906
+Dolphin Tale 2	Dolphin Tale 2	0.9991990327835083
+Annie	Annie	0.9991083145141602
+The King of Comedy	The King of Comedy	0.9989800453186035
+House Party 3	House Party 3	0.9990057945251465
+Made of Honor	Made of Honor	0.9991351962089539
+The Vanishing Prairie	The Vanishing Prairie	0.9991765022277832
+Contracted	Contracted	0.9990425109863281
+Thunderstruck	Thunderstruck	0.9992988109588623
+The Yearling	The Yearling	0.9992899894714355
+Mildred Pierce	Mildred Pierce	0.9990918636322021
+Horrible Bosses 2	Horrible Bosses 2	0.9990172386169434
+Anatomy of a Murder	Anatomy of a Murder	0.9990801811218262
+Control	Control	0.9992002248764038
+Scream	Scream 4	4.53520379616653E-14
+Scream	Scream 3	6.828193050448196E-15
+Scream	Scream 2	1.2968901126619858E-13
+Homefront	Homefront	0.9990636110305786
+The Last House on the Left	The Last House on the Left	0.9989858269691467
+Dangerous Game	Dangerous Game	0.9990670680999756
+Drive	Drive	0.9989989995956421
+The Doors	The Doors	0.9990873336791992
+The Diary of a Teenage Girl	The Diary Of A Teenage Girl	1.763529507972303E-13
+35 and Ticking	35 And Ticking	9.047206343468228E-15
+American Reunion	American Reunion	0.9991997480392456
+American Pie 2	American Pie 2	0.9990116357803345
+You\'re Not You	You\'re Not You	0.9993607997894287
+The Last Survivors	The Last Survivors (The Well)	2.0108887428468836E-13
+Avengers: Age of Ultron	Avengers: Age of Ultron	0.998938798904419
+The Border	The Border	0.9990386962890625
+Big Sur	Big Sur	0.9990465044975281
+Collateral	Collateral	0.9990758895874023
+The Tigger Movie	The Tigger Movie	0.999096691608429
+A Clockwork Orange	A Clockwork Orange	0.9991251230239868
+The Mummy Returns	The Mummy Returns	0.9991272687911987
+Alpha and Omega	Alpha and Omega	0.9991353750228882
+John Q	John Q	0.9991928339004517
+The Man from U.N.C.L.E.	The Man From U.N.C.L.E.	1.9451195482859257E-13
+Heaven Knows What	Heaven Knows What	0.9990801811218262
+Undercover Kids	Undercover Kids	0.9991707801818848
+It Takes Two	It Takes Two	0.9992305040359497
+Rio Bravo	Rio Bravo	0.9991046190261841
+Wassup Rockers	Wassup Rockers	0.9990633726119995
+Creep	Creep	0.998958945274353
+Unfinished Business	Unfinished Business	0.9991210699081421
+The Painted Veil	The Painted Veil	0.9990395307540894
+The Purge	The Purge 3	7.019616821406921E-14
+The Mist	The Mist	0.9989446401596069
+Batman Returns	Batman Returns	0.9989116191864014
+Of Unknown Origin	Of Unknown Origin	0.9990036487579346
+The Smurfs	The Smurfs	0.9992927312850952
+Decoy	Decoy	0.9991621971130371
+White Bird in a Blizzard	White Bird in a Blizzard	0.9990499019622803
+Smart Money	Smart Money	0.999142050743103
+Neighbors	Neighbors	0.9990783929824829
+Phone Booth	Phone Booth	0.9990973472595215
+Felt	Felt	0.9989180564880371
+Pet Sematary II	Pet Sematary Two	0.0
+The Dark Knight	The Dark Knight Rises	1.6705805846745775E-13
+Saving Private Ryan	Saving Private Ryan	0.9990838766098022
+From Dusk Till Dawn	From Dusk Till Dawn	0.9992274045944214
+Easy Rider	Easy Rider	0.9991968870162964
+The Beach Girls	The Beach Girls	0.9991374015808105
+Murders in the Rue Morgue	Murders in the Rue Morgue	0.9990037679672241
+Igor	Igor	0.9990350008010864
+The Hunchback of Notre Dame	The Hunchback of Notre Dame	0.9990280866622925
+Balto	Balto	0.9990769624710083
+Youngblood	Youngblood	0.9992576837539673
+It\'s a Mad, Mad, Mad, Mad World	It\'s a Mad, Mad, Mad, Mad World	0.9992965459823608
+Your Sister\'s Sister	Your Sister\'s Sister	0.9991865158081055
+Tales of Terror	Tales of Terror	0.9989506006240845
+Horns	Horns	0.9992835521697998
+Alice in Wonderland	Alice in Wonderland	0.9989829063415527
+Rebecca of Sunnybrook Farm	Rebecca of Sunnybrook Farm	0.9990519285202026
+The Godfather: Part II	The Godfather	6.78853335849515E-14
+Ghost	Ghost	0.9991339445114136
+Warning Sign	Warning Sign	0.9990620613098145
+The Bridge at Remagen	The Bridge at Remagen	0.9990943670272827
+Ceremony	Ceremony	0.9990869760513306
+Iceman	Iceman	0.9992372989654541
+Titanic	Titanic	0.9992579817771912
+Going My Way	Going My Way	0.9989744424819946
+Lord of War	Lord of War	0.9991218447685242
+Girl Most Likely	Girl Most Likely	0.9991940259933472
+Class Action	Class Action	0.9990353584289551
+Crumb	Crumb	0.9992674589157104
+After Hours	After Hours	0.9991953372955322
+Boogie Nights	Boogie Nights	0.9991703033447266
+Fat Albert	Fat Albert	0.9991356134414673
+The Secret Garden	The Secret Garden	0.9990609884262085
+The Amazing Spider-Man 2	The Amazing Spider-Man 2	0.9989665746688843
+Juno	Juno	0.999313473701477
+Analyze This	Analyze That	1.0664701137171398E-13
+The Stupids	The Stupids	0.9991723299026489
+Scooby-Doo 2: Monsters Unleashed	Scooby-Doo 2: Monsters Unleashed	0.9990428686141968
+The Adventures of Sherlock Holmes	The Adventures of Sherlock Holmes	0.9990115165710449
+Batman v Superman: Dawn of Justice	Batman v Superman: Dawn of Justice	0.999160885810852
+Two-Bit Waltz	Two-Bit Waltz	0.9989883899688721
+Race to Space	Race to Space	0.9991648197174072
+Men in Black II	Men in Black II	0.999235987663269
+A Walk in the Woods	A Walk In The Woods	9.019309143943818E-14
+Dark City	Dark City	0.9989606142044067
+Dreamcatcher	Dreamcatcher	0.9991933107376099
+Black Hawk Down	Black Hawk Down	0.9991686344146729
+A Foreign Affair	A Foreign Affair	0.9991919994354248
+Rio 2	Rio 2	0.999125599861145
+Experimenter	Experimenter	0.9993174076080322
+Horse Crazy	Horse Crazy Too	0.0
+Shadow of a Doubt	Shadow of a Doubt	0.9992190599441528
+Clerks II	Clerks II	0.999199390411377
+Meet Dave	Meet Dave	0.9992234706878662
+Bon Voyage, Charlie Brown (and Don\'t Come Back!!)	Bon Voyage, Charlie Brown (And Don\'t Come Back)	6.353563644168406E-14
+The Apple Dumpling Gang	The Apple Dumpling Gang	0.9990489482879639
+Song of the South	Song of the South	0.999233603477478
+Midnight Crossing	Midnight Crossing	0.9990264177322388
+Music Within	Music Within	0.9991525411605835
+The Firm	The Firm	0.9992480278015137
+Sorority House Massacre	Sorority House Massacre	0.9991245269775391
+The Beautiful Truth	The Beautiful Truth	0.998961329460144
+Dial M for Murder	Dial M for Murder	0.9990490674972534
+Step Up Revolution	Step Up Revolution	0.9991055727005005
+Platinum Blonde	Platinum Blonde	0.9991620779037476
+Think Like a Man	Think Like a Man	0.9990677833557129
+The Wedding Planner	The Wedding Planner	0.999204158782959
+Think Like a Man Too	Think Like a Man Too	0.9990248680114746
+Below	Below	0.9991756677627563
+Frances	Frances	0.9992549419403076
+Terminator 2: Judgment Day	Terminator 2: Judgment Day	0.999251127243042
+Vibes	Vibes	0.9991741180419922
+3 Ninjas: High Noon at Mega Mountain	3 Ninjas: High Noon at Mega Mountain	0.9990526437759399
+Superman II	Superman II	0.9991503953933716
+Hard Rain	Hard Rain	0.9992104768753052
+Dark Awakening	Dark Awakening	0.9992385506629944
+Transporter 3	Transporter 3	0.9989663362503052
+Mimic	Mimic	0.9990428686141968
+The Jungle Book 2	The Jungle Book 2	0.9991210699081421
+The Devil and Max Devlin	The Devil & Max Devlin	0.0
+Godzilla	Godzilla	0.999060869216919
+Meru	Meru	0.9989688396453857
+Bordertown	Bordertown	0.9990040063858032
+Baby on Board	Baby on Board	0.999199628829956
+The Guru	The Guru	0.9991581439971924
+Dangerous Minds	Dangerous Minds	0.9990622997283936
+Back to the Future	Back to the Future Part II	4.0986131995919203E-14
+Death Race	Death Race	0.9991551637649536
+Spy Game	Spy Game	0.9990854263305664
+The Manchurian Candidate	The Manchurian Candidate	0.9990555047988892
+Me, Myself & Irene	Me, Myself & Irene	0.9991457462310791
+The Deep	The Deep	0.9991403222084045
+G.I. Jane	G.I. Jane	0.9990602135658264
+Act of Violence	Act of Violence	0.9993594884872437
+Melinda and Melinda	Melinda and Melinda	0.9992210268974304
+Remember Me	Remember Me	0.9993540048599243
+The Brave One	The Brave One	0.9990940093994141
+The Opposite of Sex	The Opposite of Sex	0.9992567300796509
+25th Hour	25th Hour	0.9990615844726562
+Cadence	Cadence	0.9990267157554626
+The End of Love	The End of Love	0.9990997910499573
+Prom	Prom	0.998902440071106
+Krampus	Krampus	0.9993299245834351
+Rambo: First Blood Part II	Rambo: First Blood Part II	0.9989774227142334
+Superbad	Superbad	0.9992350339889526
+Creepshow	Creepshow	0.9991097450256348
+Ghoulies	Ghoulies	0.9992019534111023
+Grand Champion	Grand Champion	0.9990822076797485
+The Bridge	The Bridge	0.9991886615753174
+Rat Race	Rat Race	0.9990252256393433
+The Victim	The Victim	0.9991128444671631
+Dumb and Dumber To	Dumb and Dumber	2.5936366955910594E-15
+Spider-Man 2	Spider-Man 2	0.9989827871322632
+Pi	Pi	0.9990350008010864
+Spider-Man 2	Spider-Man 3	2.8183301843003918E-14
+Get on the Bus	Get on the Bus	0.99904465675354
+Spider-Man 3	Spider-Man 3	0.9991647005081177
+Spider-Man 3	Spider-Man 2	0.0
+The Seven Year Itch	The Seven Year Itch	0.999140202999115
+The Uninvited	The Uninvited	0.9991317987442017
+The Mars Underground	The Mars Underground	0.999101996421814
+The Flintstones	The Flintstones	0.9990549087524414
+Thirteen Days	Thirteen Days	0.9991658926010132
+\'night, Mother	\'Night Mother	0.0
+Space Warriors	Space Warriors	0.9989874362945557
+I\'ll See You in My Dreams	I\'ll See You in My Dreams	0.9991480112075806
+State of Grace	State of Grace	0.9990065097808838
+Little Big League	Little Big League	0.9992107152938843
+Coffin	Coffin	0.999110221862793
+Imagine That	Imagine That	0.998993992805481
+Junior	Juno	1.0524342356800498E-13
+Fury	Fury	0.9993202686309814
+The Silence of the Lambs	The Silence of the Lambs	0.9991085529327393
+Coffee and Cigarettes	Coffee and Cigarettes	0.9990311861038208
+Black Angel	Black Angel	0.9990477561950684
+Benji	Benji	0.9990167617797852
+Analyze This	Analyze This	0.9991095066070557
+Second Sight	Second Sight	0.9990079402923584
+Never Forever	Never Forever	0.9990320205688477
+Underdogs	Underdogs	0.9989751577377319
+Pan	Pan	0.9989882707595825
+12 Rounds	12 Rounds	0.999091386795044
+Hot Pursuit	Hot Pursuit	0.999160647392273
+The Amityville Horror	The Amityville Horror	0.9992570877075195
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	The Chronicles of Narnia: The Lion, The Witch and The Wardrobe	1.3490463357957588E-13
+Quantum of Solace	Quantum of Solace	0.9991661310195923
+The Longshots	The Longshots	0.9990549087524414
+Closer	Closer	0.9991248846054077
+Two Bits	Two Bits	0.9993065595626831
+The Chamber	The Chamber	0.9991805553436279
+The War of the Roses	The War of the Roses	0.9992589950561523
+Spy Kids: All the Time in the World in 4D	Spy Kids: All the Time in the World in 4D	0.9993071556091309
+Happy	Happy	0.999001145362854
+San Andreas	San Andreas	0.9990147352218628
+The Contract	The Contract	0.9989808797836304
+Inside Out	Inside Out	0.9990694522857666
+Joshua	Joshua	0.9989955425262451
+The Eagle	The Eagle	0.999066948890686
+Godzilla, King of the Monsters!	Godzilla, King of the Monsters!	0.9990699291229248
+The Greatest Game Ever Played	The Greatest Game Ever Played	0.9990795850753784
+Nothing But the Truth	Nothing But the Truth	0.9991763830184937
+The Silent Scream	The Silent Scream	0.9990085363388062
+An American Tail: Fievel Goes West	An American Tail - Fievel Goes West	7.686565143064095E-14
+The Singles Ward	The Singles Ward	0.999207079410553
+The Hangover Part II	The Hangover	1.370237067256988E-13
+Rocky II	Rocky III	8.716319360073735E-14
+Rescue Dawn	Rescue Dawn	0.9992777109146118
+Tangerine	Tangerine	0.999036431312561
+The Jerk	The Jerk	0.9990922212600708
+Permanent Vacation	Permanent Vacation	0.9990501403808594
+Killer\'s Kiss	Killer\'s Kiss	0.9991271495819092
+College Road Trip	College Road Trip	0.9990929365158081
+I, Robot	I, Robot	0.999091386795044
+Glory	Glory	0.9991459846496582
+Back to the Future	Back to the Future Part III	1.6310337683320825E-13
+The Sentinel	The Sentinel	0.9990798234939575
+Time After Time	Time After Time	0.9990092515945435
+A Few Good Men	A Few Good Men	0.9989988803863525
+Death Riders	Death Riders	0.9989348649978638
+The Mechanic	The Mechanic	0.9989821910858154
+The Devil\'s Advocate	The Devil\'s Advocate	0.9991387128829956
+The Cell	The Cell	0.9992350339889526
+Supergirl	Supergirl	0.9991632699966431
+X-Men	X-Men	0.9991084337234497
+Addams Family Values	Addams Family Values	0.9993182420730591
+Take Me Home	Take Me Home	0.9992130398750305
+Captains Courageous	Captains Courageous	0.999101996421814
+Saw V	Saw V	0.9991352558135986
+Chain Reaction	Chain Reaction	0.9990783929824829
+Lassie	Lassie	0.9990150928497314
+Batman	Batman	0.9990190267562866
+Jungle Book	Jungle Book	0.9991112947463989
+Hitman	Hitman	0.9989433288574219
+My Amityville Horror	My Amityville Horror	0.9991836547851562
+Hellbound: Hellraiser II	Hellbound: Hellraiser II	0.9990540742874146
+Cahill U.S. Marshal	Cahill U.S. Marshal	0.9991830587387085
+On the Doll	On the Doll	0.9990843534469604
+King Kong Lives	King Kong	1.712212389557398E-14
+Fat, Sick & Nearly Dead	Fat, Sick & Nearly Dead 2	2.0630110846627664E-13
+The King and I	The King and I	0.999025821685791
+All Is Lost	All Is Lost	0.9992053508758545
+Francis	Francis	0.9991957545280457
+Envy	Envy	0.9991132020950317
+The Story of Us	The Story of Us	0.9991809129714966
+Orphan	Orphan	0.9991806745529175
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Fellowship of the Ring	1.4364688095697825E-13
+The Watch	The Watch	0.9991579055786133
+Men in Black II	Men in Black III	1.0526329834907935E-13
+Action Jackson	Action Jackson	0.9991952180862427
+The Last Airbender	The Last Airbender	0.9990561008453369
+Dolphin Tale	Dolphin Tale 2	0.0
+Showtime	Showtime	0.9991068840026855
+Mistress America	Mistress America	0.9993126392364502
+Sinister	Sinister	0.998985230922699
+The Initiation	The Initiation	0.9991680979728699
+The Girl Next Door	The Girl Next Door	0.9990329146385193
+The Fighter	The Fighter	0.9991214275360107
+Sleepaway Camp II: Unhappy Campers	Sleepaway Camp II: Unhappy Campers	0.9991425275802612
+Crave	Crave	0.9992390871047974
+Hitman: Agent 47	Hitman: Agent 47	0.9989699125289917
+Dead End	Dead End	0.99901282787323
+Beverly Hills Cop II	Beverly Hills Cop II	0.9991521835327148
+Billie	Billie	0.9990473985671997
+Miracle on 34th Street	Miracle on 34th Street	0.9992278814315796
+Critters 3	Critters 3	0.9990428686141968
+Odd Thomas	Odd Thomas	0.9989825487136841
+The Player	The Player	0.9991428852081299
+All Good Things	All Good Things	0.9990557432174683
+Some Like It Hot	Some Like It Hot	0.9989826679229736
+Ultraviolet	Ultraviolet	0.9991227388381958
+The Siege	The Siege	0.9989223480224609
+Cavemen	Cavemen	0.9990551471710205
+Original Sin	Original Sin	0.9991803169250488
+The Girl in the Park	The Girl in the Park	0.9992870092391968
+Dawn of the Dead	Dawn of the Dead	0.9990674257278442
+The Girl with the Dragon Tattoo	The Girl with the Dragon Tattoo	0.9990649223327637
+Behind Enemy Lines	Behind Enemy Lines	0.9989985227584839
+The Social Network	The Social Network	0.9990098476409912
+Innocent Blood	Innocent Blood	0.9990214109420776
+The Catered Affair	The Catered Affair	0.9990943670272827
+Stripes	Stripes	0.9990411996841431
+Frogs	Frogs	0.9991626739501953
+Permanent Record	Permanent Record	0.9991211891174316
+The Front Page	The Front Page	0.9991748332977295
+Knowing	Knowing	0.9991554021835327
+Diary of a Wimpy Kid: Dog Days	Diary of a Wimpy Kid: Dog Days	0.9992245435714722
+Bad Teacher	Bad Teacher	0.999213457107544
+Edgar G. Ulmer - The Man Off-screen	Edgar G. Ulmer: The Man Off-Screen	4.248595629496345E-14
+Lara Croft Tomb Raider: The Cradle of Life	Lara Croft Tomb Raider - The Cradle of Life	1.144562011357389E-13
+Heidi	Heidi	0.9990808963775635
+The Conjuring	The Conjuring	0.998961329460144
+Breaking and Entering	Breaking and Entering	0.9990723133087158
+Celebrity	Celebrity	0.999136209487915
+Journey to the Center of the Earth	Journey to the Center of the Earth	0.9990522861480713
+Who Framed Roger Rabbit	Who Framed Roger Rabbit	0.9990270137786865
+Alice Sweet Alice	Alice, Sweet Alice (Communion)	0.0
+When a Stranger Calls	When a Stranger Calls Back	0.0
+Shakespeare in Love	Shakespeare in Love	0.9991801977157593
+The Twilight Saga: Eclipse	The Twilight Saga: Eclipse	0.9992667436599731
+The Burning	The Burning	0.9990622997283936
+At the Edge of the World	At the Edge of the World	0.9991207122802734
+Bogus	Bogus	0.9990726709365845
+Caught	Caught	0.9991607666015625
+Blizzard	Blizzard	0.9990034103393555
+Point Break	Point Break	0.9992576837539673
+Mission: Impossible - Rogue Nation	Mission: Impossible Rogue Nation	4.973258065673995E-14
+The Amazing Spider-Man	The Amazing Spider-Man 2	1.2270457240071749E-14
+From Hell	From Hell	0.9991289973258972
+Angie	Angie	0.9991872310638428
+Crazy Love	Crazy Love	0.9991180300712585
+Racing Extinction	Racing Extinction	0.9990911483764648
+The Karate Kid, Part III	The Karate Kid	0.0
+Big Sky	Big Sky	0.9991892576217651
+The Man Who Wasn\'t There	The Man Who Wasn\'t There	0.9990018606185913
+Big Eyes	Big Eyes	0.999032735824585
+Alien Abduction	Alien Abduction	0.9990777969360352
+Major League II	Major League II	0.9990311861038208
+Heathers	Heathers	0.9990209341049194
+The Dilemma	The Dilemma	0.9990886449813843
+Reasonable Doubt	Reasonable Doubt	0.9990681409835815
+Rocky IV	Rocky III	0.0
+Class Act	Class Act	0.9989597797393799
+A Goofy Movie	A Goofy Movie	0.9988927841186523
+Jurassic World	Jurassic World	0.9991037845611572
+The Rainmaker	The Rainmaker	0.999199390411377
+Deliver Us from Evil	Deliver Us from Evil	0.9990767240524292
+The Time Machine	The Time Machine	0.9992727041244507
+The Scarlet Letter	The Scarlet Letter	0.9990819692611694
+Green Lantern	Green Lantern	0.9990383386611938
+Kiss of Death	Kiss of Death	0.999097466468811
+Evolution	Evolution	0.9991669654846191
+Go West	Go West	0.9989652633666992
+Free Willy 3: The Rescue	Free Willy 3: The Rescue	0.999215841293335
+Beowulf	Beowulf	0.9991177320480347
+American Psycho	American Psycho	0.9990644454956055
+The Godfather	The Godfather, Part III	0.0
+Invasion of the Body Snatchers	Invasion of the Body Snatchers	0.9991463422775269
+Fargo	Fargo	0.999104380607605
+Think Like a Man Too	Think Like a Man	1.2575598657034448E-13
+City Girl	City Girl	0.9990732669830322
+Ocean\'s Thirteen	Ocean\'s Thirteen	0.9993280172348022
+L.A. Story	L.A. Story	0.9991023540496826
+Fallen	Fallen	0.9991720914840698
+Our Brand Is Crisis	Our Brand Is Crisis	0.9990038871765137
+Splash	Splash	0.9990334510803223
+Treasure Planet	Treasure Planet	0.9989645481109619
+Armed and Dangerous	Armed and Dangerous	0.9991129636764526
+Mr. Deeds Goes to Town	Mr. Deeds Goes to Town	0.9990440607070923
+Equilibrium	Equilibrium	0.9990774989128113
+Close Encounters of the Third Kind	Close Encounters of the Third Kind	0.9992814064025879
+Little Boy	Little Boy	0.9990767240524292
+Dirty Work	Dirty Work	0.99913489818573
+The Birdcage	The Birdcage	0.9989407062530518
+Kiss Me Again	Kiss Me Again	0.9990478754043579
+On Moonlight Bay	On Moonlight Bay	0.9990902543067932
+The Misfits	The Misfits	0.9992302656173706
+White Rabbit	White Rabbit	0.9990599155426025
+The Host	The Host	0.9989374876022339
+Pieces of April	Pieces of April	0.9992878437042236
+Black Sheep	Black Sheep	0.9990733861923218
+Insomnia	Insomnia	0.9991238117218018
+Camp	Camp	0.9992227554321289
+Test	Test	0.9991517066955566
+Season of the Witch	Season of the Witch	0.9991610050201416
+Cover Girl	Cover Girl	0.9991962909698486
+Only God Forgives	Only God Forgives	0.9991205930709839
+Stowaway	Stowaway	0.999233603477478
+Steve Jobs	Steve Jobs	0.9992737770080566
+World War Z	World War Z	0.9989577531814575
+Playback	Playback	0.9989267587661743
+Mortal Kombat: Annihilation	Mortal Kombat: Annihilation	0.9992411136627197
+Goats	Goats	0.9990670680999756
+Little Nicky	Little Nicky	0.9989801645278931
+Black Dynamite	Black Dynamite	0.9990429878234863
+Once I Was a Beehive	Once I Was A Beehive	0.0
+The Nutcracker	The Nutcracker	0.9991763830184937
+Anastasia	Anastasia	0.9990355968475342
+The Thing on the Doorstep	The Thing at the Doorstep	4.133872131867507E-14
+Kicking & Screaming	Kicking & Screaming	0.9989989995956421
+The Karate Kid, Part III	The Karate Kid Part II	3.9322708365310474E-14
+Men in Black	Men in Black III	1.7553001424325948E-13
+Iron Man	Iron Man 2	0.0
+Tuck Everlasting	Tuck Everlasting	0.9991481304168701
+2001: A Space Odyssey	2001: A Space Odyssey	0.9990495443344116
+Are We There Yet?	Are We There Yet?	0.9992600679397583
+St. Vincent	St. Vincent	0.999060869216919
+Filth	Filth	0.9990174770355225
+Summer Magic	Summer Magic	0.9991393089294434
+Operation Dumbo Drop	Operation Dumbo Drop	0.9991172552108765
+Magic Mike	Magic Mike	0.9991723299026489
+Peace, Love, & Misunderstanding	Peace, Love, & Misunderstanding	0.9990009069442749
+Fandango	Fandango	0.9991025924682617
+Valentine\'s Day	Valentine\'s Day	0.9992849826812744
+Boomerang	Boomerang	0.9990564584732056
+Wrong Turn	Wrong Turn	0.9991500377655029
+Donnie Darko	Donnie Darko	0.999125599861145
+Are We Done Yet?	Are We Done Yet?	0.9990917444229126
+Road House	Road House	0.9989547729492188
+Wilson	Wilson	0.9990625381469727
+The Hills Have Eyes	The Hills Have Eyes	0.9991689920425415
+Gods and Generals	Gods and Generals	0.9991085529327393
+A Nightmare on Elm Street	A Nightmare on Elm Street	0.9991775751113892
+Trancers	Trancers	0.9991580247879028
+Treasure Island	Treasure Island	0.9989941120147705
+Scream 4	Scream 2	1.635788401434246E-13
+Scream 4	Scream 3	1.560110141117857E-13
+Scream 4	Scream 4	0.9990330934524536
+Funny Face	Funny Face	0.9991583824157715
+Scream 2	Scream 4	1.1663924221003846E-13
+Scream 2	Scream 2	0.9993102550506592
+Scream 2	Scream 3	0.0
+Scream 3	Scream 2	1.0347940630458033E-13
+The Dark Knight	The Dark Knight	0.9991376399993896
+The End of the Tour	The End Of The Tour	1.1619976085942146E-13
+Marley & Me	Marley & Me	0.9992251396179199
+Scream 3	Scream 3	0.999111533164978
+Scream 3	Scream 4	1.1553797740586347E-13
+Homeward Bound II: Lost in San Francisco	Homeward Bound II - Lost in San Francisco	0.0
+DragonHeart	Dragonheart	0.0
+2010	2010	0.9990988969802856
+Teeth	Teeth	0.999015212059021
+Three Smart Girls	Three Smart Girls Grow Up	1.2582172987957857E-13
+Cry-Baby	Cry-Baby	0.9989560842514038
+Easy A	Easy A	0.9989957809448242
+Midway to Heaven	Midway to Heaven	0.9991875290870667
+Matilda	Matilda	0.9990772008895874
+Analyze That	Analyze That	0.9991477727890015
+Last Days	Last Days	0.999151349067688
+Beyond the Law	Beyond the Law	0.9991137981414795
+Flashback	Flashback	0.999241292476654
+Adam\'s Rib	Adam\'s Rib	0.999081015586853
+Nanny McPhee	Nanny McPhee	0.999091386795044
+Me and Earl and the Dying Girl	Me and Earl and the Dying Girl	0.9990432262420654
+Tusk	Tusk	0.9990782737731934
+I Now Pronounce You Chuck & Larry	I Now Pronounce You Chuck & Larry	0.9990068674087524
+Superhero Movie	Superhero Movie	0.999160885810852
+The Nut Job	The Nut Job	0.9992178082466125
+Boiling Pot	Boiling Pot	0.9990472793579102
+Labyrinth	Labyrinth	0.9991213083267212
+Non-Stop	Non-Stop	0.9991133213043213
+Outlander	Outlander	0.9989683628082275
+Bus Stop	Bus Stop	0.999164342880249
+Step Up	Step Up	0.9991229772567749
+Wildlike	Wildlike	0.9991847276687622
+Spy	Spy	0.9992848634719849
+Gone	Gone	0.999112069606781
+The Godfather: Part II	The Godfather, Part III	1.8075944658180881E-13
+The Duchess	The Duchess	0.9990079402923584
+Brüno	Brüno	0.9992808103561401
+The Prisoner of Zenda	The Prisoner of Zenda	0.9991121292114258
+Fracture	Fracture	0.9990689754486084
+First Kid	First Kid	0.9992556571960449
+Pitch Black	Pitch Black	0.9991835355758667
+The Gallows	The Gallows	0.9990670680999756
+You Can\'t Cheat an Honest Man	You Can\'t Cheat an Honest Man	0.9989582300186157
+American Sniper	American Sniper	0.999029278755188
+Sabrina	Sabrina	0.9992847442626953
+Blow	Blow	0.9991103410720825
+The Family Stone	The Family Stone	0.9991213083267212
+The Old Dark House	The Old Dark House	0.9992128610610962
+Jeepers Creepers II	Jeepers Creepers 2	1.7068655787811499E-13
+The Revenant	The Revenant	0.9991103410720825
+Deliverance	Deliverance	0.9991214275360107
+The Family Man	The Family Man	0.9990164041519165
+Dark Corners	Dark Corners	0.998991847038269
+The Intern	The Intern	0.9990521669387817
+Cat People	Cat People	0.9992543458938599
+The Santa Clause 3: The Escape Clause	The Santa Clause 3: The Escape Clause	0.9990236759185791
+Paper Towns	Paper Towns	0.9991083145141602
+Halloween	H2: Halloween II	1.664027395693532E-13
+For All Mankind	For All Mankind	0.9991477727890015
+Dreamgirls	Dreamgirls	0.9990952014923096
+The Big Broadcast of 1938	The Big Broadcast of 1937	1.0614842745016936E-13
+Blast from the Past	Blast From the Past	1.1886391664776147E-13
+A Good Day to Die Hard	A Good Day To Die Hard	0.0
+Fortress	Fortress	0.999194860458374
+Unfaithful	Unfaithful	0.9992811679840088
+Memphis Belle	Memphis Belle	0.9989725351333618
+Scream	Scream	0.999319314956665
+Amusement	Amusement	0.9991862177848816
+The Beastmaster	The Beastmaster	0.9992388486862183
+Adam	Adam	0.9990592002868652
+Scream 4	Scream	0.0
+We Are Your Friends	We Are Your Friends	0.9992274045944214
+Rocky IV	Rocky II	1.2477905265029926E-13
+Frankenweenie	Frankenweenie	0.9991790056228638
+Scream 2	Scream	2.043733970035974E-13
+Scream 3	Scream	0.0
+Hansel and Gretel	Hansel and Gretel	0.9991773366928101
+Shall We Dance	Shall We Dance	0.9989627599716187
+The Magnificent Seven Ride!	The Magnificent Seven Ride!	0.9990297555923462
+Jeepers Creepers	Jeepers Creepers 2	4.4578286916875653E-14
+Self/less	Self/less	0.9989593029022217
+The Crucible	The Crucible	0.9990445375442505
+Fantastic Voyage	Fantastic Voyage	0.9991835355758667
+Mr. Smith Goes to Washington	Mr. Smith Goes to Washington	0.9991399049758911
+The Departed	The Departed	0.9990067481994629
+Bangkok Dangerous	Bangkok Dangerous	0.999157190322876
+Playing for Keeps	Playing for Keeps	0.9991121292114258
+The Three Musketeers	The Three Musketeers	0.9991309642791748
+Crazy, Stupid, Love.	Crazy, Stupid, Love.	0.9989744424819946
+Sunshine Superman	Sunshine Superman	0.9989628791809082
+A Man Called Horse	A Man Called Horse	0.9992120265960693
+The Undefeated	The Undefeated	0.9990411996841431
+Rope	Rope	0.99920654296875
+Troll	Troll	0.9990589618682861
+Shrink	Shrink	0.9991753101348877
+My Blue Heaven	My Blue Heaven	0.9992396831512451
+Transformers	Transformers	0.9990016222000122
+Confessions of a Dangerous Mind	Confessions of a Dangerous Mind	0.9992070198059082
+Final Exam	Final Exam	0.999174952507019
+Rocky II	Rocky II	0.999187707901001
+Demolition	Demolition	0.9992552995681763
+The Majestic	The Majestic	0.9989403486251831
+Funny People	Funny People	0.9992088079452515
+Buffy the Vampire Slayer	Buffy the Vampire Slayer	0.998967170715332
+Defiance	Defiance	0.9990745782852173
+Lucky Me	Lucky Me	0.9992103576660156
+Dodge City	Dodge City	0.9990930557250977
+Hurricane of Fun: The Making of Wet Hot	Hurricane Of Fun: The Making Of Wet Hot	0.0
+Top Gun	Top Gun	0.9991062879562378
+Cake	Cake	0.9991683959960938
+Forgetting Sarah Marshall	Forgetting Sarah Marshall	0.999068021774292
+Harry Potter and the Order of the Phoenix	Harry Potter And The Order Of The Phoenix: The IMAX Experience	1.893651759650363E-14
+Johnny English	Johnny English	0.9990406036376953
+Target Earth	Target Earth	0.9991827011108398
+Beyond the Sea	Beyond the Sea	0.9992091655731201
+Thinner	Thinner	0.9989413619041443
+The Pit and the Pendulum	The Pit and the Pendulum	0.9990988969802856
+At the Circus	At the Circus	0.9990675449371338
+What Happened to Kerouac?	What Happened to Kerouac?	0.9991313219070435
+Where the Heart Is	Where the Heart Is	0.9988486766815186
+A Life Less Ordinary	A Life Less Ordinary	0.9990148544311523
+Tower of London	Tower of London	0.9991213083267212
+Black Fury	Black Fury	0.9990774989128113
+Analyze That	Analyze This	0.0
+The Bourne Identity	The Bourne Identity	0.9991177320480347
+The Thing Called Love	The Thing Called Love	0.9990733861923218
+Defying Gravity	Defying Gravity	0.9991053342819214
+Mother and Child	Mother and Child	0.9992083311080933
+The Jungle Book	The Jungle Book	0.9991215467453003
+Raggedy Ann & Andy: A Musical Adventure	Raggedy Ann & Andy: A Musical Adventure	0.9990707635879517
+Diary of the Dead	Dawn of the Dead	1.2090461044714316E-14
+Unstoppable	Unstoppable	0.999109148979187
+3:10 to Yuma	3:10 to Yuma	0.9992308616638184
+All About Eve	All About Eve	0.999068021774292
+The Smurfs	The Smurfs 2	0.0
+Terminator Genisys	Terminator Genisys	0.9990857839584351
+A Little Princess	A Little Princess	0.999214768409729
+The War of the Worlds	The War of the Worlds	0.998989462852478
+Eraser	Eraser	0.9992618560791016
+The Big Red One	The Big Red One	0.9990696907043457
+Baby Boy	Baby Boy	0.9991196393966675
+Traffic	Traffic	0.9991993308067322
+My Santa	My Santa	0.9992659091949463
+My Life	My Life	0.999210000038147
+2012	2012	0.9991796016693115
+Laid to Rest	Laid to Rest	0.9991744756698608
+The Mangler	The Mangler	0.9990208148956299
+Vendetta	Vendetta	0.9990404844284058
+Wanted	Wanted	0.9991031885147095
+Devil\'s Doorway	Devil\'s Doorway	0.9991886615753174
+New Guy	New Guy	0.9991486072540283
+Horrible Bosses	Horrible Bosses	0.999038577079773
+The Way Back	The Way Back	0.9991480112075806
+Road to Singapore	Road to Singapore	0.9992567300796509
+Atlantis: The Lost Empire	Atlantis - The Lost Empire	8.930557031730513E-14
+The Paperboy	The Paperboy	0.9990869760513306
+The Godfather: Part III	The Godfather, Part III	1.9955743871605258E-13
+Diary of a Wimpy Kid	Diary of a Wimpy Kid	0.9990482330322266
+Closer to the Moon	Closer To The Moon	1.9398652335075178E-13
+Jupiter Ascending	Jupiter Ascending	0.9992212057113647
+Superman and the Mole-Men	Superman and the Mole-Men	0.9991304874420166
+Dawn of the Planet of the Apes	Dawn Of The Planet Of The Apes	4.381539144633802E-14
+The Holy Mountain	The Holy Mountain	0.9991487264633179
+Fast Five	Fast Five	0.999081015586853
+Father of the Bride	Father of the Bride: Part II	0.0
+The Four Feathers	The Four Feathers	0.9990260601043701
+Pirates of the Caribbean: At World\'s End	Pirates of the Caribbean: At Worlds End	0.0
+The Cellar	The Cellar	0.999179482460022
+Planet of the Apes	Planet of the Apes	0.9991015195846558
+Kid Galahad	Kid Galahad	0.9991087913513184
+8 Mile	8 Mile	0.9990741014480591
+The New World	The New World	0.9991782903671265
+Hot Tub Time Machine	Hot Tub Time Machine	0.9992185831069946
+The Jimmy Show	The Jimmy Show	0.9992023706436157
+The Holiday	The Holiday	0.9991112947463989
+There Will Be Blood	There Will Be Blood	0.9989200830459595
+World Trade Center	World Trade Center	0.9990614652633667
+Frost/Nixon	Frost/Nixon	0.9989362955093384
+Speechless	Speechless	0.9989184141159058
+Wild Child	Wild Child	0.9991562962532043
+A Haunted House 2	A Haunted House 2	0.9992036819458008
+City Lights	City Lights	0.9990029335021973
+The Purge	The Purge	0.9991989135742188
+State of the Union	State of the Union	0.999064564704895
+The Skeleton Key	The Skeleton Key	0.9991216659545898
+Sicario	Sicario	0.9989879131317139
+Babel	Babel	0.999199628829956
+Percy Jackson & the Olympians: The Lightning Thief	Percy Jackson & the Olympians: The Lightning Thief	0.9991027116775513
+Delirious	Delirious	0.9991641044616699
+The Last of the Mohicans	The Last of the Mohicans	0.9989285469055176
+The Fog	The Fog	0.9991154670715332
+Morituri	Morituri	0.9990829825401306
+The Secret of NIMH	The Secret of NIMH	0.9992049932479858
+Kill Your Darlings	Kill Your Darlings	0.9993113875389099
+Schlock	Schlock	0.9989364147186279
+Teacher\'s Pet	Teacher\'s Pet	0.9993641376495361
+Contact	Contact	0.9990354776382446
+Fool\'s Gold	Fool\'s Gold	0.9991626739501953
+The Unknown Known	The Unknown Known	0.9989970922470093
+Terror Train	Terror Train	0.9989924430847168
+The Son of No One	The Son of No One	0.9990204572677612
+Touch of Evil	Touch of Evil	0.9991064071655273
+The Iron Giant	The Iron Giant	0.9991567134857178
+Get Smart	Get Smart	0.9990262985229492
+Agent Cody Banks	Agent Cody Banks	0.9990701675415039
+Year of the Dragon	Year of the Dragon	0.9992454051971436
+Werewolf of London	Werewolf of London	0.9991424083709717
+White Lightning	White Lightning	0.9990677833557129
+The Judge	The Judge	0.9991468191146851
+The Hangover Part II	The Hangover Part III	3.521103425648507E-14
+Payback	Payback	0.9991838932037354
+Conspiracy Theory	Conspiracy Theory	0.9991600513458252
+Hide and Seek	Hide and Seek	0.9989786148071289
+A Knight\'s Tale	A Knight\'s Tale	0.9991170167922974
+Legends of the Fall	Legends of the Fall	0.9992421865463257
+Shamus	Shamus	0.9992156028747559
+Quarantine	Quarantine	0.9990681409835815
+First Knight	First Knight	0.9990432262420654
+(500) Days of Summer	500 Days of Summer	0.0
+From Here to Eternity	From Here to Eternity	0.999032735824585
+The Sound of Music	The Sound of Music	0.9990636110305786
+Diary of a Wimpy Kid: Rodrick Rules	Diary of a Wimpy Kid 2: Rodrick Rules	1.5398657487466182E-14
+Parasite	Parasite	0.9990878105163574
+Cinderella Man	Cinderella Man	0.9990891218185425
+Raiders of the Lost Ark	Raiders of the Lost Ark	0.9988706111907959
+Monkey Business	Monkey Business	0.999137282371521
+The Gingerbread Man	The Gingerbread Man	0.9992616176605225
+In a Lonely Place	In a Lonely Place	0.9990142583847046
+Apocalypse Now	Apocalypse Now Redux	6.38923050751139E-14
+The Texas Chain Saw Massacre	The Texas Chainsaw Massacre	2.188225085343349E-14
+Streamers	Streamers	0.9991308450698853
+Money Monster	Money Monster	0.9991651773452759
+Fast & Furious	Fast & Furious 6	1.471405327224326E-13
+The Underneath	The Underneath	0.9991226196289062
+Bird on a Wire	Bird on a Wire	0.9993674755096436
+Spartacus	Spartacus	0.9991035461425781
+The Midnight Swim	The Midnight Swim	0.99915611743927
+Copenhagen	Copenhagen	0.9992556571960449
+The Savages	The Savages	0.9990456104278564
+Quiz Show	Quiz Show	0.9993294477462769
+Unbreakable	Unbreakable	0.9989727735519409
+Open Windows	Open Windows	0.9991772174835205
+Night and Day	Night and Day	0.9991124868392944
+Casper	Casper	0.9991406202316284
+When a Stranger Calls	When a Stranger Calls	0.9990648031234741
+Arthur	Arthur	0.9990249872207642
+Prison	Prison	0.9990783929824829
+House of Wax	House of Wax	0.9990872144699097
+Team America: World Police	Team America: World Police	0.9991248846054077
+Cloud 9	Cloud 9	0.9991414546966553
+The Ring Two	The Ring Two	0.9990326166152954
+Big Trouble in Little China	Big Trouble in Little China	0.9992140531539917
+A Simple Plan	A Simple Plan	0.9990252256393433
+Ransom	Ransom	0.9992091655731201
+Son of Paleface	Son of Paleface	0.9990864992141724
+Michael	Michael	0.9990633130073547
+Maladies	Maladies	0.9992306232452393
+Hot Tub Time Machine	Hot Tub Time Machine 2	1.2834653858369988E-13
+Zero Dark Thirty	Zero Dark Thirty	0.9992040395736694
+The Hottie & the Nottie	The Hottie and the Nottie	0.0
+Killers	Killers	0.9991835355758667
+Pretty Woman	Pretty Woman	0.9990208148956299
+Major League	Major League II	0.0
+The Big Picture	The Big Picture	0.9992197751998901
+Larger Than Life	Larger Than Life	0.9992121458053589
+Pompeii	Pompeii	0.9993377923965454
+Planes	Planes	0.9991226196289062
+Village of the Damned	Village of the Damned	0.9990725517272949
+Partners	Partners	0.9991648197174072
+Frankenstein Meets the Wolf Man	Frankenstein Meets the Wolf Man	0.9991005659103394
+To Kill a Mockingbird	To Kill A Mockingbird	4.8765773862612105E-14
+Harry Potter and the Goblet of Fire	Harry Potter and the Goblet of Fire	0.9991171360015869
+Two Moon Junction	Two Moon Junction	0.9990679025650024
+The Grudge 2	The Grudge 2	0.9989833831787109
+My Bloody Valentine	My Bloody Valentine 3-D	0.0
+Porky\'s	Porky\'s	0.9990440607070923
+Leatherface: Texas Chainsaw Massacre III	Leatherface: The Texas Chainsaw Massacre III	1.1923430721493683E-13
+The Haunted Mansion	The Haunted Mansion	0.9989538192749023
+Risky Business	Risky Business	0.9990819692611694
+Meet the Parents	Meet the Parents	0.9991390705108643
+Lawless	Lawless	0.9990726709365845
+The Crystal Ball	The Crystal Ball	0.9992238283157349
+47 Ronin	47 Ronin	0.99927818775177
+Volcano	Volcano	0.9991680383682251
+Re-Animator	Re-Animator	0.9990845918655396
+Stardust Memories	Stardust Memories	0.9991923570632935
+Johnny English Reborn	Johnny English Reborn	0.9991637468338013
+Foxes	Foxes	0.9990679025650024
+White Fang	White Fang	0.9990717172622681
+Best Kept Secret	Best Kept Secret	0.9992095232009888
+The Outlaw Josey Wales	The Outlaw Josey Wales	0.9991106986999512
+Virus	Virus	0.9990659952163696
+Crank: High Voltage	Crank 2: High Voltage	7.333552303834603E-14
+Bridge to Terabithia	Bridge to Terabithia	0.9991493225097656
+Elysium	Elysium	0.9991970062255859
+Back Street	Back Street	0.9991295337677002
+Modern Love	Modern Love	0.9993219375610352
+Hud	Hud	0.9991201758384705
+Identity	Identity	0.9989964365959167
+Halloween III: Season of the Witch	Halloween III - Season of the Witch	1.6036660660436602E-13
+Spawn	Spawn	0.9991859793663025
+Jack Reacher 2	Jack Reacher 2	0.9992309808731079
+Tomorrowland	Tomorrowland	0.9991886615753174
+Step Brothers	Step Brothers	0.9993189573287964
+Walking and Talking	Walking and Talking	0.9989486932754517
+High Society	High Society	0.9992271661758423
+Goldfinger	Goldfinger	0.9992190599441528
+The Big One	The Big One	0.9990371465682983
+Leap Year	Leap Year	0.9990500211715698
+Palo Alto	Palo Alto	0.9990921020507812
+Orange County	Orange County	0.9989344477653503
+The Town	The Town	0.99908447265625
+Homeward Bound: The Incredible Journey	Homeward Bound - The Incredible Journey	0.0
+Gardens of Stone	Gardens of Stone	0.999099612236023
+Joe	Joe	0.9991090297698975
+Far and Away	Far and Away	0.9992474317550659
+My Little Eye	My Little Eye	0.9990673065185547
+Guardians of the Galaxy	Guardians of the Galaxy	0.9991720914840698
+The Campaign	The Campaign	0.9991254806518555
+Miracle in the Rain	Miracle in the Rain	0.9991345405578613
+South Central	South Central	0.9991599321365356
+U.S. Marshals	U.S. Marshals	0.9989807605743408
+The Invisible Man\'s Revenge	The Invisible Man\'s Revenge	0.9989641904830933
+The Times of Harvey Milk	The Times of Harvey Milk	0.998896598815918
+Out of Time	Out of Time	0.9991923570632935
+Knocked Up	Knocked Up	0.9991738796234131
+Sounder	Sounder	0.9991089105606079
+Young Guns II	Young Guns II	0.9991846084594727
+Blue Sky	Blue Sky	0.9990849494934082
+Diary of a Wimpy Kid: Rodrick Rules	Diary of a Wimpy Kid: Dog Days	0.0
+Spun	Spun	0.9991590976715088
+One Missed Call	One Missed Call	0.9992331266403198
+Turbo	Turbo	0.9989032745361328
+Best Worst Movie	Best Worst Movie	0.9991865158081055
+I Spit on Your Grave	I Spit On Your Grave	4.025824609115748E-14
+The Swan Princess: Escape from Castle Mountain	The Swan Princess II: Escape from Castle Mountain	0.0
+The Sting	The Sting	0.9991344213485718
+Beautiful Joe	Beautiful Joe	0.9992104768753052
+Final Justice	Final Justice	0.9991308450698853
+A Haunted House	A Haunted House 2	1.0547501592831146E-13
+The Bounty Hunter	The Bounty Hunter	0.9990967512130737
+Gettysburg	Gettysburg	0.9992597103118896
+Amateur Porn Star Killer	Amateur Porn Star Killer 2	4.974144739763181E-14
+Grown Ups	Grown Ups	0.9990651607513428
+Avatar	Avatar	0.9991134405136108
+The Relic	The Relic	0.9992935657501221
+The World\'s End	The World\'s End	0.9990700483322144
+Shark Lake	Shark Lake	0.999184250831604
+The Swan Princess	The Swan Princess	0.9991741180419922
+Perfect Stranger	Perfect Stranger	0.9990630149841309
+Rio	Rio 2	8.862133032624953E-14
+Contraband	Contraband	0.9991474151611328
+Welcome to Me	Welcome to Me	0.9991856813430786
+People Places Things	People Places Things	0.9990972876548767
+Good Kill	Good Kill	0.9991075992584229
+Mean Streets	Mean Streets	0.999219536781311
+Fathers\' Day	Fathers\' Day	0.9991409778594971
+Wedding Crashers	Wedding Crashers	0.999164342880249
+Minions	Minions	0.9990184903144836
+Under the Skin	Under the Skin	0.9991229772567749
+Shooter	Shooter	0.9992384910583496
+The Fault in Our Stars	The Fault In Our Stars	3.145782787906948E-14
+The Barefoot Executive	The Barefoot Executive	0.9991695880889893
+300	300	0.9991472959518433
+The Invisible War	The Invisible War	0.9990417957305908
+Ace Ventura: Pet Detective	Ace Ventura: Pet Detective	0.9990296363830566
+RoboCop	RoboCop	0.9991463422775269
+Stagecoach	Stagecoach	0.9990392923355103
+Manhattan	Manhattan	0.9991248846054077
+RED 2	Red 2	1.868670555750171E-13
+Man About Town	Man About Town	0.9991782903671265
+Tangled	Tangled	0.9991865158081055
+The Bostonians	The Bostonians	0.9990947246551514
+Congo	Congo	0.9990459084510803
+Kick-Ass 2	Kick-Ass 2	0.9991049766540527
+Sox	Sox	0.9991186857223511
+First Daughter	First Daughter	0.9991823434829712
+Win Win	Win Win	0.9991912841796875
+Family Plan	Family Plan	0.9990020990371704
+The Fast and the Furious	The Fast and the Furious	0.9992051124572754
+Van Helsing	Van Helsing	0.9990754127502441
+Jingle All the Way	Jingle All the Way	0.9990386962890625
+The Appaloosa	The Appaloosa	0.99892258644104
+Species	Species	0.9991486072540283
+Asylum	Asylum	0.9990421533584595
+Daredevil	Daredevil	0.9990500211715698
+Hallows\' Eve	Hallows\' Eve	0.9991034269332886
+American Beauty	American Beauty	0.9990733861923218
+Love & Other Drugs	Love and Other Drugs	2.55967664598844E-14
+Hoffa	Hoffa	0.9991470575332642
+Phantom of the Opera	Phantom of the Opera	0.9991205930709839
+The Lake House	The Lake House	0.9990578889846802
+The World Changes	The World Changes	0.9989464282989502
+King Lear	King Lear	0.9991210699081421
+Premonition	Premonition	0.9990906715393066
+Don\'t Tell Mom the Babysitter\'s Dead	Don\'t Tell Mom the Babysitter\'s Dead	0.9992510080337524
+Tom and Huck	Tom and Huck	0.9990763664245605
+Coma	Coma	0.999138593673706
+The Tall Target	The Tall Target	0.9989879131317139
+Three Kings	Three Kings	0.9990919828414917
+Wanted: Dead or Alive	Wanted: Dead or Alive	0.999332070350647
+The Food of the Gods	The Food of the Gods	0.9990052580833435
+Racing Stripes	Racing Stripes	0.9990465641021729
+The East	The East	0.9991425275802612
+Red Planet	Red Planet	0.999051570892334
+tom thumb	tom thumb	0.999197244644165
+American Outlaws	American Outlaws	0.9993084669113159
+Christine	Christine	0.9990051984786987
+School of Rock	School of Rock	0.9991997480392456
+Flirt	Flirt	0.9991620779037476
+The Unspeakable Act	The Unspeakable Act	0.9990322589874268
+Transformers: Age of Extinction	Transformers: Age of Extinction	0.9993025064468384
+Clerks	Clerks II	9.30112445938526E-14
+River\'s Edge	River\'s Edge	0.9991353750228882
+The Postman Always Rings Twice	The Postman Always Rings Twice	0.999059796333313
+Maid in Manhattan	Maid in Manhattan	0.9991921186447144
+Pixels	Pixels	0.9990276098251343
+The Lady from Shanghai	The Lady From Shanghai	0.0
+Underworld	Underworld	0.9990334510803223
+Hell and Back Again	Hell and Back Again	0.998931884765625
+Mallrats	Mallrats	0.9991034269332886
+The Bride	The Bride	0.9988911747932434
+Firewall	Firewall	0.9988534450531006
+The Age of Innocence	The Age of Innocence	0.9990847110748291
+Soccer Mom	Soccer Mom	0.9990372657775879
+If I Stay	If I Stay	0.998995304107666
+Disclosure	Disclosure	0.9989849328994751
+Resident Evil	Resident Evil	0.9990161657333374
+The Village	The Village	0.9991999864578247
+After Words	After Words	0.9989709854125977
+People Like Us	People Like Us	0.999006986618042
+1984	1984	0.9992696046829224
+The Juror	The Juror	0.999043345451355
+The Borrowers	The Borrowers	0.9991815090179443
+Requiem for a Dream	Requiem for a Dream	0.9990044832229614
+Space Chimps	Space Chimps	0.9990620613098145
+Amazing Grace	Amazing Grace	0.9990801811218262
+Predator 2	Predator 2	0.9992316961288452
+Friends with Benefits	Friends With Benefits	4.9050363380362394E-14
+Hitch	Hitch	0.9990609884262085
+From Beyond	From Beyond	0.9990367889404297
+The Collection	The Collector	2.2901545568797255E-13
+Hollow Man	Hollow Man	0.9991309642791748
+Life	Life	0.9990180730819702
+Blink	Blink	0.9991539716720581
+Alvin and the Chipmunks	Alvin and the Chipmunks	0.9991483688354492
+Crusoe	Crusoe	0.9991642832756042
+Jeffrey	Jeffrey	0.9991316795349121
+xXx: State of the Union	xXx: State of the Union	0.9989711046218872
+Secretary	Secretary	0.9991716742515564
+Missed Connections	Missed Connections	0.9992839097976685
+Edward Scissorhands	Edward Scissorhands	0.999042272567749
+Divergent	Divergent	0.999083399772644
+The Jewel of the Nile	The Jewel of the Nile	0.9990273714065552
+With a Song in My Heart	With a Song in My Heart	0.9990688562393188
+Hot Tub Time Machine 2	Hot Tub Time Machine 2	0.9990745782852173
+Niagara	Niagara	0.9989997148513794
+Joe Dirt	Joe Dirt	0.9993040561676025
+Hansel & Gretel: Witch Hunters	Hansel and Gretel: Witch Hunters	0.0
+The Day After Tomorrow	The Day After Tomorrow	0.9990972280502319
+The Apple	The Apple	0.9990243911743164
+Minds in the Water	Minds In The Water	1.9217940227470726E-13
+Buck Privates	Buck Privates	0.9989852905273438
+Never Let Me Go	Never Let Me Go	0.9991437196731567
+Disturbia	Disturbia	0.9989464282989502
+How to Train Your Dragon 2	How to Train Your Dragon 2	0.9993126392364502
+Muppets Most Wanted	Muppets Most Wanted	0.9990203380584717
+Shake Hands with the Devil	Shake Hands With the Devil	1.4405125109786567E-14
+Dancer in the Dark	Dancer in the Dark	0.9991151094436646
+Blow-Up	Blow-Up	0.9992289543151855
+Star Trek: First Contact	Star Trek: First Contact	0.9991304874420166
+1971	1971	0.9993296265602112
+How to Train Your Dragon 3	How to Train Your Dragon 2	1.8382356455157872E-13
+Down to the Bone	Down to the Bone	0.9991018772125244
+Clambake	Clambake	0.9991147518157959
+Shark Night 3D	Shark Night 3D	0.9991835355758667
+Do the Right Thing	Do the Right Thing	0.9989279508590698
+The Wizard	The Wizard	0.9991614818572998
+Invincible	Invincible	0.9990266561508179
+Contagion	Contagion	0.999117374420166
+Saw III	Saw III	0.9992170333862305
+Head Above Water	Head Above Water	0.9990428686141968
+Grown Ups 2	Grown Ups	0.0
+Seize the Day	Seize the Day	0.9990329146385193
+Superman III	Superman III	0.9991737604141235
+Seabiscuit	Seabiscuit	0.9990451335906982
+That Thing You Do!	That Thing You Do!	0.9990944862365723
+Robot Wars	Robot Wars	0.9992320537567139
+Wish I Was Here	Wish I Was Here	0.9991313219070435
+How High	How High	0.9992192983627319
+Back to School	Back to School	0.9990160465240479
+Tremors	Tremors	0.9992425441741943
+National Lampoon\'s Vacation	National Lampoon\'s Vacation	0.9990103244781494
+Malicious	Malicious	0.9992479085922241
+The Woman in Black 2: Angel of Death	The Woman in Black 2 Angel of Death	2.807811390348209E-14
+Five Dances	Five Dances	0.9990999698638916
+Nico the Unicorn	Nico The Unicorn	4.197148203532834E-14
+Nightcrawler	Nightcrawler	0.9992578625679016
+El Dorado	El Dorado	0.9992309808731079
+Ali	Ali	0.9990146160125732
+The Last Flight of Noah\'s Ark	The Last Flight of Noah\'s Ark	0.9991172552108765
+The Climb	The Climb	0.9991722106933594
+Dawn of the Dead	Land of the Dead	1.472055984053089E-13
+The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers (Extended)	2.001271327475851E-13
+The Divorcee	The Divorcée	0.0
+Nebraska	Nebraska	0.9991418123245239
+Vacancy	Vacancy	0.9991515874862671
+Steel Magnolias	Steel Magnolias	0.9990719556808472
+Running on Empty	Running on Empty	0.9992662668228149
+Mean Machine	Mean Machine	0.9990243911743164
+Lady in the Dark	Lady in the Dark	0.9990087747573853
+Furious 7	Furious 7	0.9990870952606201
+Untitled Wolverine Sequel	Untitled Wolverine Sequel	0.9991379976272583
+Martian Child	Martian Child	0.9990689754486084
+The Quiet American	The Quiet American	0.9991812705993652
+Let\'s Make Love	Let\'s Make Love	0.9992184638977051
+Biohazardous	Biohazardous	0.9991786479949951
+The Virginian	The Virginian	0.9993332624435425
+The New Daughter	The New Daughter	0.9992501735687256
+Medicine Man	Medicine Man	0.9990187883377075
+Lethal Weapon 2	Lethal Weapon	1.7387739197679414E-13
+Son of Dracula	Son of Dracula	0.9991259574890137
+Back to the Future Part III	Back to the Future Part III	0.9992489814758301
+Super 8	Super 8	0.9991978406906128
+Bambi II	Bambi II	0.9991495013237
+In the Name of the Father	In the Name of the Father	0.9990406036376953
+Clerks II	Clerks	7.014860562001499E-14
+The Best of Me	The Best Of Me	1.8420970315530943E-13
+Lethal Weapon 4	Lethal Weapon	1.0642518360722344E-13
+Ride Along	Ride Along 2	1.3764187814686857E-13
+Lethal Weapon 3	Lethal Weapon	0.0
+The Cokeville Miracle	The Cokeville Miracle	0.9989259243011475
+Interiors	Interiors	0.9989314079284668
+Night at the Museum: Battle of the Smithsonian	Night at the Museum 2: Battle of the Smithsonian	2.0525986780487587E-13
+Scary Movie	Scary Movie	0.9989632368087769
+Dracula\'s Daughter	Dracula\'s Daughter	0.9988644123077393
+Runaway	Runaway	0.9991151094436646
+The Hangover Part III	The Hangover	0.0
+Deep Rising	Deep Rising	0.9988715648651123
+Good People	Good People	0.9990379810333252
+Get Hard	Get Hard	0.9990112781524658
+Inside Man	Inside Man	0.9993259906768799
+The Other Woman	The Other Woman	0.9991873502731323
+Man on the Moon	Man on the Moon	0.9992367029190063
+Easy Money	Easy Money	0.9990906715393066
+Scissors	Scissors	0.999118447303772
+Agent Cody Banks 2: Destination London	Agent Cody Banks 2: Destination London	0.9990592002868652
+Fight Club	Fight Club	0.9991635084152222
+The Human Experience	The Human Experience	0.9991919994354248
+The Devil\'s Own	The Devil\'s Own	0.9992859363555908
+Unexpected	Unexpected	0.9990271329879761
+The Comebacks	The Comebacks	0.9990361928939819
+Carrie	Carrie	0.9992345571517944
+More American Graffiti	More American Graffiti	0.9991545677185059
+The Finest Hours	The Finest Hours	0.9991121292114258
+The Vagrant	The Vagrant	0.9990297555923462
+Clash of the Titans	Clash of the Titans	0.9990564584732056
+House at the End of the Street	House at the End of the Street	0.9991261959075928
+Fantastic Four	Fantastic Four	0.9989405870437622
+The Beach	The Beach	0.9992736577987671
+Epic	Epic	0.9991613626480103
+The Other Side of Heaven	The Other Side of Heaven	0.9991351366043091
+Big Fat Liar	Big Fat Liar	0.9991873502731323
+The Evil Dead	The Evil Dead	0.9990675449371338
+Bottle Rocket	Bottle Rocket	0.9993069171905518
+Senna	Senna	0.9989392757415771
+The Cowboys	The Cowboys	0.999192476272583
+Paranormal Activity 2	Paranormal Activity 2	0.9989631175994873
+Love Actually	Love Actually	0.9991658926010132
+Dirty Dancing: Havana Nights	Dirty Dancing: Havana Nights	0.9991496801376343
+Duplicity	Duplicity	0.9992133378982544
+The Devil Inside	The Devil Inside	0.9990277290344238
+My Girl 2	My Girl 2	0.9989910125732422
+Diary of the Dead	Land of the Dead	1.8265663775333257E-13
+Lost Horizon	Lost Horizon	0.9990564584732056
+Blood Work	Blood Work	0.9991676807403564
+The Peacemaker	The Peacemaker	0.9990885257720947
+Precious Life	Precious Life	0.9992086887359619
+Kill Me Three Times	Kill Me Three Times	0.9990624189376831
+Catch-22	Catch-22	0.9990376234054565
+The Incredible Journey	The Incredible Journey	0.9991741180419922
+Fort Worth	Fort Worth	0.9992775917053223
+Stonewall	Stonewall	0.9989320039749146
+Batman Begins	Batman Begins	0.9990607500076294
+Ben-Hur	Ben-Hur	0.9992806911468506
+That\'s Entertainment!	That\'s Entertainment, Part 2	0.0
+Absolute Power	Absolute Power	0.9989185333251953
+Last Man Standing	Last Man Standing	0.9990799427032471
+World War Z 2	World War Z 2	0.9992592334747314
+Legion	Legion	0.9991599321365356
+Nowhere to Run	Nowhere to Run	0.9991109371185303
+New Year\'s Eve	New Year\'s Eve	0.9991757869720459
+Escape to Witch Mountain	Escape to Witch Mountain	0.999179482460022
+Capote	Capote	0.9988882541656494
+Proof of Life	Proof of Life	0.9990867972373962
+Bad Girls	Bad Girls	0.9990198612213135
+Spellbound	Spellbound	0.9989733099937439
+Thumbelina	Thumbelina	0.9990993738174438
+Death Proof	Death Proof	0.9992192983627319
+Argo	Argo	0.9990719556808472
+Fame	Fame	0.9989804029464722
+Anacondas: The Hunt for the Blood Orchid	Anacondas: The Hunt for the Blood Orchid	0.9989932775497437
+Poseidon	Poseidon	0.9990662336349487
+Megamind	Megamind	0.9991046190261841
+Amy	Amy	0.9992067813873291
+French Kiss	French Kiss	0.9990221261978149
+Honeymoon	Honeymoon	0.9990757703781128
+Magnolia	Magnolia	0.999271035194397
+*batteries not included	*batteries not included	0.9991363286972046
+The Watcher	The Watcher	0.9990520477294922
+Harry Potter and the Order of the Phoenix	Harry Potter and the Order of the Phoenix	0.9990978240966797
+Firelight	Firelight	0.9991395473480225
+The Maze Runner	The Maze Runner	0.9991886615753174
+House on Haunted Hill	House On Haunted Hill	2.1515921639833624E-13
+Crashing	Crashing	0.999178409576416
+Despicable Me 2	Despicable Me	5.889999452795072E-14
+Mame	Mame	0.9991487264633179
+5 Flights Up	5 Flights Up	0.9991363286972046
+The Human Centipede III (Final Sequence)	The Human Centipede III (Final Sequence)	0.9990605115890503
+The Craft	The Craft	0.9990943670272827
+Curious George 3: Back to the Jungle	Curious George 3: Back to the Jungle	0.9989298582077026
+Drop Zone	Drop Zone	0.9989391565322876
+The Aviator	The Aviator	0.9991166591644287
+Concrete Blondes	Concrete Blondes	0.998866081237793
+Heist	Heist	0.9991503953933716
+The Collector	The Collector	0.9990102052688599
+TRON	TRON	0.9991651773452759
+Way Out West	Way Out West	0.9990166425704956
+Gilda	Gilda	0.9992033243179321
+Trader Horn	Trader Horn	0.99920654296875
+The Conquerors	The Conquerors	0.9991610050201416
+Red Army	Red Army	0.9989222288131714
+Hot Shots! Part Deux	Hot Shots! Part Deux	0.9992249608039856
+The Twilight Saga: Breaking Dawn - Part 1	The Twilight Saga: Breaking Dawn Part 2	8.443687914659603E-14
+Dark Passage	Dark Passage	0.9990240335464478
+Flicka	Flicka	0.9993158578872681
+Kronos	Kronos	0.9990110397338867
+Out of the Past	Out of the Past	0.9991757869720459
+Survivor	Survivor	0.9992083311080933
+Radio	Radio	0.9991322755813599
+Gladiator	Gladiator	0.999038815498352
+The Visit	The Visit	0.9992433786392212
+Porky\'s II: The Next Day	Porky\'s II: The Next Day	0.9991719722747803
+Chloe	Chloe	0.9991447925567627
+Mad Max: Fury Road	Mad Max: Fury Road	0.9991880655288696
+Fiddler on the Roof	Fiddler on the Roof	0.9990463852882385
+Bean	Bean	0.9989242553710938
+Sweet November	Sweet November	0.9988653659820557
+The Perfect Storm	The Perfect Storm	0.9989778995513916
+Edge of Darkness	Edge of Darkness	0.9990217685699463
+The Last Supper	The Last Supper	0.9991085529327393
+Greenberg	Greenberg	0.9992350339889526
+Osa	Osa	0.999070405960083
+Arlo and Julie	Arlo and Julie	0.9992750883102417
+Star Trek: Generations	Star Trek Generations	0.0
+Life Partners	Life Partners	0.999049186706543
+Terminator Salvation	Terminator Salvation	0.9991806745529175
+My Girl	My Girl	0.9990930557250977
+Assassins	Assassins	0.9991930723190308
+Paulie	Paulie	0.9991824626922607
+True Colors	True Colors	0.9990799427032471
+The 40-Year-Old Virgin	The 40 Year Old Virgin	2.0906426546549173E-13
+We Are Still Here	We Are Still Here	0.9990991353988647
+One, Two, Three	One, Two, Three	0.9990816116333008
+Inside Llewyn Davis	Inside Llewyn Davis	0.9990674257278442
+Awakenings	Awakenings	0.9991124868392944
+Men in Black 3	Men in Black	9.522978651303748E-14
+Season of Miracles	Season of Miracles	0.9991575479507446
+The Rocker	The Rocker	0.9992200136184692
+Tabloid	Tabloid	0.9991295337677002
+Abandon	Abandon	0.9990580081939697
+Thor: The Dark World	Thor: The Dark World	0.9992130994796753
+I, Frankenstein	I, Frankenstein	0.9991780519485474
+Serendipity	Serendipity	0.9989548921585083
+The Invisible Woman	The Invisible Woman	0.9991782903671265
+Miami Vice	Miami Vice	0.999137282371521
+Creepshow 2	Creepshow 2	0.9993078708648682
+Masterminds	Masterminds	0.9991496801376343
+The Human Centipede II (Full Sequence)	The Human Centipede II (Full Sequence)	0.999160885810852
+Waterworld	Waterworld	0.9991042613983154
+Eyes of a Stranger	Eyes of a Stranger	0.9990326166152954
+Mr. & Mrs. Smith	Mr. & Mrs. Smith	0.9991000890731812
+Morgan	Morgan	0.9991409778594971
+Vantage Point	Vantage Point	0.9991992712020874
+Wide Awake	Wide Awake	0.9989346265792847
+No Reservations	No Reservations	0.9990477561950684
+¡Three Amigos!	Three Amigos!	1.1703286180875933E-13
+The Dunwich Horror	The Dunwich Horror	0.9990929365158081
+She\'s the Man	She\'s the Man	0.9989835023880005
+Popeye	Popeye	0.9992014169692993
+Deadfall	Deadfall	0.9990170001983643
+Dark Ride	Dark Ride	0.9991238117218018
+End of Days	End of Days	0.9989389181137085
+Wanderlust	Wanderlust	0.9990154504776001
+Little Miss Marker	Little Miss Marker	0.9990769624710083
+Tales of the Grim Sleeper	Tales Of The Grim Sleeper	1.4423304130900538E-13
+The Danish Girl	The Danish Girl	0.9991501569747925
+Insidious	Insidious	0.9990452527999878
+Mr. Magorium\'s Wonder Emporium	Mr. Magorium\'s Wonder Emporium	0.9992995262145996
+The Usual Suspects	The Usual Suspects	0.9989564418792725
+Loser	Loser	0.9991782903671265
+Taps	Taps	0.9990665912628174
+White Zombie	White Zombie	0.9992518424987793
+Love and Death	Love and Death	0.9989714622497559
+Listening	Listening	0.9992371797561646
+Underdog	Underdog	0.999000072479248
+Back to the Future Part II	Back to the Future	3.0958065311178758E-15
+The Net	The Net	0.9991116523742676
+Born American	Born American	0.9991912841796875
+Fantastic 4: Rise of the Silver Surfer	Fantastic Four: Rise of the Silver Surfer	2.0760957531704193E-15
+Silent Running	Silent Running	0.9990071058273315
+1941	1941	0.9990830421447754
+Despicable Me 2	Despicable Me 2	0.9991568326950073
+The Incredible Hulk	The Incredible Hulk	0.9990274906158447
+American Graffiti	American Graffiti	0.9990805387496948
+Dodgeball: A True Underdog Story	Dodgeball - A True Underdog Story	0.0
+The Queen	The Queen	0.9992032051086426
+The Hangover Part III	The Hangover Part II	1.584301673141983E-13
+Big Momma\'s House	Big Momma\'s House	0.9990583658218384
+Amateur	Amateur	0.9991276264190674
+Halloween II	Halloween	4.472447463917638E-14
+Cabin Fever	Cabin Fever	0.9992103576660156
+Scrooged	Scrooged	0.9990936517715454
+The Great Debaters	The Great Debaters	0.9989508390426636
+The Illusionist	The Illusionist	0.9991744756698608
+Caddyshack II	Caddyshack II	0.9990983009338379
+Torture Chamber	Torture Chamber	0.9991409778594971
+American Flyers	American Flyers	0.99904465675354
+Suzy	Suzy	0.9990805387496948
+The Divergent Series: Allegiant	The Divergent Series: Ascendant	1.5016236680747558E-13
+Sex Tape	Sex Tape	0.9992890357971191
+The Godfather	The Godfather	0.9990407228469849
+Cavalcade	Cavalcade	0.9990445375442505
+Casablanca	Casablanca	0.9989446401596069
+Despicable Me	Despicable Me	0.9990549087524414
+Philadelphia	Philadelphia	0.998965859413147
+You\'re Next	You\'re Next	0.9992809295654297
+Monte Walsh	Monte Walsh	0.9991949796676636
+Airplane II: The Sequel	Airplane 2 - The Sequel	2.1978355550442141E-13
+Fletch Lives	Fletch Lives	0.9990676641464233
+My Man Godfrey	My Man Godfrey	0.999038577079773
+Kite	Kite	0.9991321563720703
+Resolution	Resolution	0.9991505146026611
+The Last Seduction	The Last Seduction	0.9991917610168457
+George of the Jungle	George of the Jungle	0.9991037845611572
+Moonbase	Moonbase	0.9991567134857178
+Devil\'s Due	Devil\'s Due	0.9990360736846924
+Blood Diamond	Blood Diamond	0.9989709258079529
+Hearts and Minds	Hearts and Minds	0.9992610216140747
+Charade	Charade	0.9989243745803833
+Underdog Kids	Underdog Kids	0.9990390539169312
+What\'s Your Number?	What\'s Your Number?	0.9992303848266602
+A Haunted House 2	A Haunted House	3.309738212122458E-14
+28 Days	28 Days	0.9990829825401306
+No Escape	No Escape	0.9989874362945557
+The Last Man on Earth	The Last Man on Earth	0.999169111251831
+GoldenEye	GoldenEye	0.9991505146026611
+Iron Man 3	Iron Man 3	0.9990172386169434
+The Harvest	The Harvest	0.9989970922470093
+Something Wicked	Something Wicked	0.9991008043289185
+Stay	Stay	0.9991272687911987
+Air	Air	0.9990917444229126
+Pawn Sacrifice	Pawn Sacrifice	0.9989314079284668
+Cruel Intentions	Cruel Intentions	0.9991030693054199
+Bad Boys II	Bad Boys II	0.9990624189376831
+Gremlins	Gremlins	0.9991275072097778
+Final Destination 3	Final Destination 3	0.9992245435714722
+The Parent Trap	The Parent Trap	0.9992163181304932
+Cruising	Cruising	0.999143660068512
+Westward Ho, the Wagons!	Westward Ho the Wagons!	3.889421133795347E-14
+Hotel Transylvania 2	Hotel Transylvania 2	0.9990434646606445
+The Bodyguard	The Bodyguard	0.9991205930709839
+Advantageous	Advantageous	0.9992307424545288
+Mortal Kombat	Mortal Kombat	0.999182939529419
+Pride and Prejudice and Zombies	Pride and Prejudice and Zombies	0.9993693828582764
+The Incredible Shrinking Man	The Incredible Shrinking Man	0.9989833831787109
+Iron Man 2	Iron Man 2	0.9991610050201416
+Overboard	Overboard	0.9992928504943848
+Hatchet	Hatchet II	1.625724701343964E-13
+The Black Stallion Returns	The Black Stallion Returns	0.9992420673370361
+Amos & Andrew	Amos & Andrew	0.9990507364273071
+101 Dalmatians	101 Dalmatians	0.9990444183349609
+The Devil\'s Rejects	The Devil\'s Rejects	0.998908281326294
+Silverado	Silverado	0.9991099834442139
+The Manitou	The Manitou	0.9989521503448486
+The Unbelievers	The Unbelievers	0.9991655349731445
+A Perfect World	A Perfect World	0.9990736246109009
+Unfaithfully Yours	Unfaithfully Yours	0.9991775751113892
+Munich	Munich	0.9990993738174438
+Despicable Me	Despicable Me 2	1.8652583682254517E-14
+Choose Me	Choose Me	0.9993215799331665
+Shutter Island	Shutter Island	0.9990997314453125
+Drinking Buddies	Drinking Buddies	0.9991884231567383
+Bandits	Bandits	0.9992002248764038
+The Wolfpack	The Wolfpack	0.9990648031234741
+Brand: A Second Coming	Brand: A Second Coming	0.9991768598556519
+Striptease	Striptease	0.9991517066955566
+Juice	Juice	0.9990296363830566
+The Other Guys	The Other Guys	0.9992049932479858
+Ex Machina	Ex Machina	0.9990879893302917
+To the Wonder	To The Wonder	0.0
+Miss Congeniality	Miss Congeniality	0.9991499185562134
+Terri	Terri	0.999218225479126
+Death Race 2000	Death Race 2000	0.9990800619125366
+The Tourist	The Tourist	0.9991761445999146
+The Twilight Saga: Breaking Dawn - Part 2	The Twilight Saga: Breaking Dawn Part 2	7.390863908298545E-14
+American Ultra	American Ultra	0.9989793300628662
+Marked for Death	Marked for Death	0.9989514350891113
+Progeny	Progeny	0.9991117715835571
+Angel III: The Final Chapter	Angel III: The Final Chapter	0.9992843866348267
+I Spit on Your Grave 2	I Spit on Your Grave 2	0.9991270303726196
+A Bronx Tale	A Bronx Tale	0.9991941452026367
+Final Destination	Final Destination	0.998916745185852
+Tightrope	Tightrope	0.9991296529769897
+Bully	Bully	0.9991459846496582
+The American Scream	The American Scream	0.9992501139640808
+Robin Hood: Prince of Thieves	Robin Hood: Prince of Thieves	0.9990918636322021
+Cockfighter	Cockfighter	0.9990102052688599
+Junior	Junior	0.9991624355316162
+The Arrival	The Arrival	0.9991967678070068
+Othello	Othello	0.9990049600601196
+Mars Attacks!	Mars Attacks!	0.9990476369857788
+Lake Placid	Lake Placid	0.9992637634277344
+Forces of Nature	Forces of Nature	0.999117374420166
+Psycho	Psycho	0.9989135265350342
+The Seven-Ups	The Seven-Ups	0.9992191791534424
+Unity	Unity	0.9990782737731934
+The Tree of Life	The Tree of Life	0.9991664886474609
+City Hall	City Hall	0.999232292175293
+Sidewalks of New York	Sidewalks of New York	0.9991880655288696
+Grizzly	Grizzly	0.9991118907928467
+Night at the Museum: Battle of the Smithsonian	Night at the Museum: Secret of the Tomb	9.125962111651217E-14
+Into the Grizzly Maze	Into The Grizzly Maze	1.5504188644738237E-13
+The Petrified Forest	The Petrified Forest	0.999285101890564
+Death of a Salesman	Death of a Salesman	0.9990653991699219
+Ada	Ada	0.9992207288742065
+Predators	Predators	0.9991735219955444
+1776	1776	0.9989887475967407
+Twisted	Twisted	0.9990602731704712
+The Wolf of Wall Street	The Wolf of Wall Street	0.9992091655731201
+Drive Angry	Drive Angry	0.9990870952606201
+Hellraiser: Revelations	Hellraiser: Revelations	0.9990564584732056
+I Am Sam	I Am Sam	0.9991196393966675
+Redwoods	Redwoods	0.9991356134414673
+Before I Go to Sleep	Before I Go to Sleep	0.9991438388824463
+Toys	Toys	0.9992465972900391
+Resident Evil: Retribution	Resident Evil: Retribution	0.9991450309753418
+Raging Bull	Raging Bull	0.9989757537841797
+The Train Robbers	The Train Robbers	0.9989782571792603
+The Witch	The Witch	0.9989447593688965
+Entourage	Entourage	0.9991861581802368
+A Little Game	A Little Game	0.9990979433059692
+How to Beat the High Co$t of Living	How to Beat the High Cost of Living	0.0
+Faults	Faults	0.9990473985671997
+Hotel Transylvania	Hotel Transylvania 2	8.455595842645283E-14
+Misbegotten	Misbegotten	0.9992779493331909
+Tom and Jerry: The Movie	Tom and Jerry: The Movie	0.9991558790206909
+Independence Day	Independence Day Resurgence	1.8697943313019522E-13
+The Thin Blue Line	The Thin Blue Line	0.9992151260375977
+Yours, Mine & Ours	Yours, Mine & Ours	0.9991563558578491
+The Man Who Would Be King	The Man Who Would Be King	0.9989669322967529
+Jurassic Park III	Jurassic Park III	0.9992353916168213
+1918	1918	0.9990665912628174
+RoboCop 2	Robocop 2	0.0
+The Neverending Story II: The Next Chapter	The Neverending Story II: The Next Chapter	0.9991095066070557
+Guardians of the Galaxy Vol. 2	Guardians of the Galaxy 2	9.539845448975834E-14
+Speed	Speed	0.9991111755371094
+Unhinged	Unhinged	0.9990193843841553
+Fat, Sick & Nearly Dead	Fat, Sick and Nearly Dead	0.0
+Camille	Camille	0.9992538690567017
+Home Alone 2: Lost in New York	Home Alone 2: Lost in New York	0.9990523457527161
+Amateur Porn Star Killer	Amateur Porn Star Killer	0.9992318153381348
+Hatchet III	Hatchet III	0.9989601373672485
+Toy Story	Toy Story	0.9990862607955933
+The Sandlot	The Sandlot	0.9990794658660889
+Coming to America	Coming to America	0.9990500211715698
+Men at Work	Men at Work	0.9991434812545776
+The Fisher King	The Fisher King	0.9990320205688477
+The Simpsons Movie	The Simpsons Movie	0.9990742206573486
+Bride Wars	Bride Wars	0.9990276098251343
+One Good Turn	One Good Turn	0.9989609718322754
+Lifeforce	Lifeforce	0.9989776611328125
+Soldiers of Fortune	Soldiers of Fortune	0.9990086555480957
+Dawn of the Dead	Diary of the Dead	0.0
+All the Boys Love Mandy Lane	All the Boys Love Mandy Lane	0.9991379976272583
+Dracula	Dracula	0.9990658760070801
+Askari	Askari	0.9991229772567749
+I\'ll Be Home for Christmas	I\'ll Be Home for Christmas	0.9992551803588867
+Navy Seals	Navy Seals	0.998897910118103
+Your Friends & Neighbors	Your Friends & Neighbors	0.9993034601211548
+Hitman\'s Run	Hitman\'s Run	0.9991388320922852
+The Crow	The Crow	0.999187707901001
+The Grey	The Grey	0.9991394281387329
+The Gift	The Gift	0.9990259408950806
+Galaxy Quest	Galaxy Quest	0.9990804195404053
+Space Cowboys	Space Cowboys	0.9991263747215271
+The Pink Panther	The Pink Panther	0.9989421367645264
+Lara Croft: Tomb Raider	Lara Croft - Tomb Raider	1.341660344020973E-13
+Nothing Sacred	Nothing Sacred	0.9990850687026978
+I Love You, Man	I Love You, Man	0.99901282787323
+Casino Royale	Casino Royale	0.9990962743759155
+Mr. Peabody & Sherman	Mr. Peabody & Sherman	0.9991979598999023
+A Haunted House	A Haunted House	0.9992345571517944
+The Living Desert	The Living Desert	0.9989426136016846
+Interstellar	Interstellar	0.9990551471710205
+Avanti!	Avanti!	0.9990715980529785
+Ed Wood	Ed Wood	0.9990699291229248
+A Dangerous Place	A Dangerous Place	0.9991856813430786
+Immortal Beloved	Immortal Beloved	0.9991636276245117
+Rascal	Rascal	0.9993263483047485
+The Wraith	The Wraith	0.999097466468811
+The Diabolical	The Diabolical	0.9989657402038574
+Friday After Next	Friday After Next	0.9989997148513794
+Big Bad Mama	Big Bad Mama	0.9988981485366821
+The Last Samurai	The Last Samurai	0.9991661310195923
+Never Back Down	Never Back Down	0.9990897178649902
+Waxwork	Waxwork	0.9993033409118652
+Demonic	Demonic	0.999129056930542
+Almost Famous	Almost Famous	0.9992203712463379
+Starman	Starman	0.9991022348403931
+Love Kills	Love Kills	0.9989680051803589
+A Night in Casablanca	A Night in Casablanca	0.9990992546081543
+The Hills Have Eyes Part II	The Hills Have Eyes	1.0226287725694297E-13
+The Barretts of Wimpole Street	The Barretts of Wimpole Street	0.9992105960845947
+Cheetah	Cheetah	0.9989960193634033
+The Bling Ring	The Bling Ring	0.9992145299911499
+Wildcats	Wildcats	0.9990323781967163
+The Nutty Professor	The Nutty Professor	0.9990322589874268
+Peter Pan	Peter Pan	0.999199390411377
+The Texas Chainsaw Massacre: The Beginning	The Texas Chainsaw Massacre: The Beginning	0.9991142749786377
+The Unknown Man	The Unknown Man	0.9992402791976929
+Be Cool	Be Cool	0.9990526437759399
+Hocus Pocus	Hocus Pocus	0.9992706775665283
+Trapped	Trapped	0.9990055561065674
+Muck	Muck	0.999130129814148
+Saw VI	Saw VI	0.9991569519042969
+Harry Potter and the Chamber of Secrets	Harry Potter and the Chamber of Secrets	0.999083399772644
+Fallen Angel	Fallen Angel	0.9988811016082764
+Hitchcock/Truffaut	Hitchcock/Truffaut	0.9991136789321899
+Piranha	Piranha	0.9991021156311035
+Hot Rod	Hot Rod	0.9991884827613831
+Foreign Correspondent	Foreign Correspondent	0.9991457462310791
+U Turn	U-Turn	9.183124638316442E-14
+Halloween II	Halloween II	0.9991852045059204
+Selma	Selma	0.9990208148956299
+The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey Extended Edition	2.493168974222748E-13
+Letters to Juliet	Letters to Juliet	0.9989966154098511
+Fever Pitch	Fever Pitch	0.9989300966262817
+Escape from Planet Earth	Escape From Planet Earth	0.0
+Tooth Fairy	The Tooth Fairy	1.111843093721393E-13
+White Fang 2: Myth of the White Wolf	White Fang 2: Myth of the White Wolf	0.9992181062698364
+Wall Street	Wall Street	0.999117374420166
+Les Girls	Les Girls	0.9990546703338623
+Fireflies in the Garden	Fireflies in the Garden	0.9990458488464355
+City Slickers	City Slickers	0.9992098808288574
+Lost Highway	Lost Highway	0.9989196062088013
+Jungle 2 Jungle	Jungle 2 Jungle	0.9991519451141357
+Revenge of the Nerds II: Nerds in Paradise	Revenge of the Nerds II: Nerds in Paradise	0.9991716146469116
+Around the World in 80 Days	Around the World in 80 Days	0.9991908073425293
+How to Train Your Dragon 3	How To Train Your Dragon 3	0.0
+How to Train Your Dragon 2	How To Train Your Dragon 3	5.071038871478674E-14
+The Dukes of Hazzard	The Dukes of Hazzard	0.9992426633834839
+Street Fight	Street Fight	0.999200701713562
+The Gambler	The Gambler	0.9991308450698853
+2 Fast 2 Furious	2 Fast 2 Furious	0.9991859197616577
+Midway	Midway	0.9990736246109009
+The Walk	The Walk	0.999335527420044
+Diary of the Dead	Diary of the Dead	0.9992153644561768
+Cheap Thrills	Cheap Thrills	0.9989880323410034
+The Signal	The Signal	0.9989955425262451
+The Brothers Grimm	The Brothers Grimm	0.9992135763168335
+Top Five	Top Five	0.999207615852356
+The Wild Stallion	The Wild Stallion	0.9990049600601196
+True Confession	True Confession	0.9992036819458008
+The Overnight	The Overnight	0.9990870952606201
+Nightfall	Nightfall	0.9992576837539673
+The Maltese Falcon	The Maltese Falcon	0.9990102052688599
+Life of Pi	Life of Pi	0.9989619255065918
+Call Me Lucky	Call Me Lucky	0.9991316199302673
+Beaches	Beaches	0.9993041753768921
+Pit Stop	Pit Stop	0.9991952180862427
+The Carpetbaggers	The Carpetbaggers	0.9992908239364624
+The Heiress	The Heiress	0.9990599155426025
+Bedtime Stories	Bedtime Stories	0.9992806911468506
+Air America	Air America	0.9992152452468872
+The Final Destination	The Final Destination	0.9990185499191284
+Always	Always	0.9991697072982788
+Accepted	Accepted	0.9990643262863159
+Australia	Australia	0.9991675615310669
+The Guys	The Guys	0.999107837677002
+Marnie	Marnie	0.9990758895874023
+God Bless the Child	God Bless The Child	1.9084310954459172E-13
+Gummo	Gummo	0.9992945194244385
+Eliminators	Eliminators	0.9991819858551025
+Sleepers	Sleepers	0.9990754127502441
+To Live and Die in L.A.	To Live and Die in L.A.	0.9991095066070557
+Cold Steel	Cold Steel	0.998944878578186
+Chicago	Chicago	0.999121904373169
+Psycho II	Psycho II	0.9990421533584595
+Dead Man Walking	Dead Man Walking	0.9990619421005249
+Independence Day: Resurgence	Independence Day Resurgence	0.0
+Down in the Valley	Down in the Valley	0.9991368651390076
+The Hangover	The Hangover Part III	2.2305601647416157E-13
+The Overnighters	The Overnighters	0.9991343021392822
+Cynthia	Cynthia	0.999003529548645
+Marwencol	Marwencol	0.9991823434829712
+The Little Giant	The Little Giant	0.9991897344589233
+Get Carter	Get Carter	0.9991904497146606
+Going Overboard	Going Overboard	0.9990898370742798
+The Philadelphia Story	The Philadelphia Story	0.9989744424819946
+Twelve O\'Clock High	Twelve O\'Clock High	0.9988775253295898
+Malone	Malone	0.9993542432785034
+Assassination Games	Assassination Games	0.9990639686584473
+The Frighteners	The Frighteners	0.9991322755813599
+Pennies from Heaven	Pennies From Heaven	0.0
+Reservoir Dogs	Reservoir Dogs	0.9989124536514282
+Father of the Bride	Father of the Bride	0.9990445375442505
+Captain America: The Winter Soldier	Captain America: The Winter Soldier	0.9991018772125244
+Working Girl	Working Girl	0.999018669128418
+Snatch.	Snatch	0.0
+Frank	Frank	0.9991755485534668
+6 Years	6 Years	0.9989557266235352
+The Skateboard Kid II	The Skateboard Kid II	0.9990884065628052
+Big Red	Big Red	0.9991171360015869
+Beverly Hills Cop	Beverly Hills Cop	0.9991147518157959
+The Cable Guy	The Cable Guy	0.9989808797836304
+My Tutor	My Tutor	0.9991880655288696
+10,000 BC	10,000 B.C.	0.0
+The Smurfs 2	The Smurfs 2	0.9990416169166565
+The Sitter	The Sitter	0.9992252588272095
+Doug\'s 1st Movie	Doug\'s 1st Movie	0.9990856647491455
+The Karate Kid, Part II	The Karate Kid	2.9098929212392766E-14
+Up in Smoke	Up in Smoke	0.9991797208786011
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	0.9990760087966919
+Wayne\'s World 2	Wayne\'s World 2	0.999017596244812
+The First Power	The First Power	0.9989969730377197
+Captive	Captive	0.9990154504776001
+House Party	House Party	0.9991681575775146
+The Paleface	The Paleface	0.9990392923355103
+Sudden Impact	Sudden Impact	0.9991514682769775
+Dredd	Dredd	0.9990262985229492
+Million Dollar Baby	Million Dollar Baby	0.999117374420166
+Valley Girl	Valley Girl	0.9989887475967407
+The Wrong Man	The Wrong Man	0.9990763664245605
+RocketMan	RocketMan	0.9992266893386841
+Leave It to Beaver	Leave It to Beaver	0.9992313385009766
+The Van	The Van	0.9991962909698486
+Butch Cassidy and the Sundance Kid	Butch Cassidy and the Sundance Kid	0.9989801645278931
+Miles Ahead	Miles Ahead	0.9990679025650024
+Firefox	Firefox	0.9993757009506226
+The Money Pit	The Money Pit	0.9990172386169434
+Black Swan	Black Swan	0.9989356994628906
+The Treasure of the Sierra Madre	The Treasure of the Sierra Madre	0.9992055892944336
+Auteur	Auteur	0.999192476272583
+The Young Victoria	The Young Victoria	0.9990947246551514
+Love Letters	Love Letters	0.9989835023880005
+Topper	Topper	0.9989733695983887
+The Pirates! Band of Misfits	The Pirates! Band of Misfits	0.9990726709365845
+The Switch	The Switch	0.9991180896759033
+The Haunting	The Haunting	0.9991041421890259
+Dark Blue	Dark Blue	0.9991573095321655
+Hannibal	Hannibal	0.9990571737289429
+Results	Results	0.999087929725647
+Soldier in the Rain	Soldier in the Rain	0.9991432428359985
+Chestnut: Hero of Central Park	Chestnut: Hero of Central Park	0.9990273118019104
+Duck Soup	Duck Soup	0.999289870262146
+Winter\'s Bone	Winter\'s Bone	0.9989796876907349
+How to Deal	How to Deal	0.9990887641906738
+The Beaver	The Beaver	0.9990473985671997
+It\'s My Party	It\'s My Party	0.9990315437316895
+The Return of the Living Dead	The Return of the Living Dead	0.9990246295928955
+Stargate	Stargate	0.9990730285644531
+If You Build It	If You Build It	0.999066948890686
+All Quiet on the Western Front	All Quiet on the Western Front	0.9990401268005371
+April Love	April Love	0.9991474151611328
+The Octagon	The Octagon	0.9991154670715332
+Sherlock Holmes and the Secret Weapon	Sherlock Holmes and the Spider Woman	1.168580477609732E-13
+Dirty Dancing	Dirty Dancing	0.9990437030792236
+Kings of the Sun	Kings of the Sun	0.9990252256393433
+National Lampoon\'s Christmas Vacation	National Lampoon\'s Christmas Vacation	0.9991854429244995
+Libeled Lady	Libeled Lady	0.9990681409835815
+The Art of Getting By	The Art of Getting By	0.9992165565490723
+Stand by Me	Stand by Me	0.9991520047187805
+Jakob the Liar	Jakob the Liar	0.9990619421005249
+Burning Blue	Burning Blue	0.999163031578064
+Conan the Barbarian	Conan the Barbarian	0.9991726875305176
+Victor Victoria	Victor Victoria	0.9991320371627808
+Skyline	Skyline	0.9992989301681519
+Thor	Thor	0.9990004301071167
+Leviathan	Leviathan	0.9989534616470337
+Life as We Know It	Life as We Know It	0.9989843368530273
+Hatchet	Hatchet	0.9991174936294556
+The Hurt Locker	The Hurt Locker	0.9991946220397949
+TRON: Legacy	Tron Legacy	0.0
+Posse	Posse	0.9991650581359863
+Noah	Noah	0.9990805387496948
+Pulp Fiction	Pulp Fiction	0.9990737438201904
+Sleepaway Camp III: Teenage Wasteland	Sleepaway Camp III: Teenage Wasteland	0.9991116523742676
+The Grifters	The Grifters	0.9990978240966797
+I Am Legend	I Am Legend	0.9990421533584595
+A Four Letter Word	A Four Letter Word	0.9991958141326904
+Amadeus	Amadeus	0.9989889860153198
+Independence Day	Independence Day	0.9991528987884521
+Rosencrantz & Guildenstern Are Dead	Rosencrantz and Guildenstern Are Dead	0.0
+Marlene Dietrich: Her Own Song	Marlene Dietrich: Her Own Song	0.9991350173950195
+Durango Kids	Durango Kids	0.9990372657775879
+Elena	Elena	0.9992102384567261
+Cyrus	Cyrus	0.9991959929466248
+Stuart Little 2	Stuart Little	0.0
+Beastly	Beastly	0.9991955757141113
+Man of the Year	Man of the Year	0.9989715814590454
+Clueless	Clueless	0.9991917610168457
+Elektra	Elektra	0.9992117285728455
+Cobb	Cobb	0.999214768409729
+Legally Blonde	Legally Blonde	0.9992201328277588
+Hard to Kill	Hard to Kill	0.9992979764938354
+Hancock	Hancock	0.9991052150726318
+Stunts	Stunts	0.9990445971488953
+The Haunting in Connecticut	The Haunting in Connecticut	0.9992187023162842
+Rush Hour 2	Rush Hour 3	1.6766298906959604E-13
+Rush Hour 2	Rush Hour 2	0.9991735219955444
+Chasing Amy	Chasing Amy	0.9990271329879761
+For Keeps?	For Keeps	9.27859202773558E-14
+Jason and the Argonauts	Jason and the Argonauts	0.9991309642791748
+Minority Report	Minority Report	0.9991422891616821
+My Little Pony: Equestria Girls - Friendship Games	My Little Pony: Equestria Girls	1.421737754652222E-13
+Spy Kids	Spy Kids	0.9991129636764526
+Just a Kiss	Just a Kiss	0.9991105794906616
+Thelma & Louise	Thelma & Louise	0.9990613460540771
+Trainwreck	Trainwreck	0.9992079734802246
+Soldier	Soldier	0.9992196559906006
+Rush Hour 3	Rush Hour 3	0.9988952875137329
+Rush Hour 3	Rush Hour 2	1.4644058535240312E-13
+Daybreakers	Daybreakers	0.9990876913070679
+Look Who\'s Talking	Look Who\'s Talking, Too	7.781247841160896E-14
+The Boys from Brazil	The Boys from Brazil	0.9991419315338135
+Dr. Caligari	Dr. Caligari	0.999235987663269
+The Lucky Ones	The Lucky Ones	0.9990488290786743
+Opening Night	Opening Night	0.9991236925125122
+The Philadelphia Experiment	The Philadelphia Experiment	0.9991637468338013
+The Other Sister	The Other Sister	0.9989440441131592
+This Above All	This Above All	0.999159574508667
+Dragonfly	Dragonfly	0.9992274641990662
+The Matrix	The Matrix	0.9989438056945801
+Snow White and the Huntsman	Snow White and the Huntsman	0.998968780040741
+Heartbreak Hotel	Heartbreak Hotel	0.9989752769470215
+Cat on a Hot Tin Roof	Cat on a Hot Tin Roof	0.9992333650588989
+Remember the Titans	Remember the Titans	0.9990100860595703
+White Chicks	White Chicks	0.9990658760070801
+Misty	Misty	0.999157190322876
+Single White Female	Single White Female	0.999144971370697
+The Princess Diaries 2: Royal Engagement	The Princess Diaries 2 - Royal Engagement	2.0752483390583387E-14
+Oklahoma!	Oklahoma!	0.9991227388381958
+Witness	Witness	0.9988782405853271
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Return of the King	8.924355225897306E-15
+Dream Boy	Dream Boy	0.9991669654846191
+Cheaper by the Dozen	Cheaper by the Dozen	0.9990442991256714
+Hellion	Hellion	0.9992057085037231
+Hick	Hick	0.9990143775939941
+Killer Party	Killer Party	0.9991171956062317
+Basic Instinct	Basic Instinct	0.9990543127059937
+xXx	XXX	8.566204793029539E-14
+The Terminal	The Terminal	0.9992552995681763
+The Butterfly Effect	The Butterfly Effect	0.9991042613983154
+Hercules	Hercules	0.9992910623550415
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring (Extended)	1.2375097149276704E-13
+Enemy at the Gates	Enemy at the Gates	0.9992319345474243
+How to Eat Fried Worms	How to Eat Fried Worms	0.9990447759628296
+Uptown Girls	Uptown Girls	0.999199628829956
+Law Abiding Citizen	Law Abiding Citizen	0.9990077018737793
+Billy Madison	Billy Madison	0.9990984201431274
+Hot Tub Time Machine 2	Hot Tub Time Machine	0.0
+Vile	Vile	0.9992727041244507
+Funny Farm	Funny Farm	0.9991626739501953
+Happiness Is	Happiness Is	0.9991899728775024
+Kicking and Screaming	Kicking and Screaming	0.998867392539978
+Police Academy 2: Their First Assignment	Police Academy 2: Their First Assignment	0.9989702701568604
+Bounce	Bounce	0.9993493556976318
+The Exile	The Exile	0.9992482662200928
+Pain & Gain	Pain & Gain	0.999122142791748
+A Face in the Crowd	A Face in the Crowd	0.9990746974945068
+The Perfect Holiday	The Perfect Holiday	0.9990994930267334
+The Legend of Zorro	The Legend of Zorro	0.9989705085754395
+Brubaker	Brubaker	0.9992414712905884
+DuckTales the Movie: Treasure of the Lost Lamp	DuckTales: The Movie - Treasure of the Lost Lamp	6.843427869740806E-14
+Framed	Framed	0.9990203380584717
+Rio 2	Rio	0.0
+Back to the Future Part III	Back to the Future	0.0
+The Waterboy	The Waterboy	0.9992700815200806
+Mysterious Island	Mysterious Island	0.9992847442626953
+Heaven Can Wait	Heaven Can Wait	0.998935341835022
+I Want to Live!	I Want to Live!	0.9991507530212402
+Kiss Me Deadly	Kiss Me Deadly	0.9991141557693481
+The D Train	The D Train	0.9992926120758057
+The Animatrix	The Animatrix	0.9993886947631836
+The Investigator	The Investigator	0.9992227554321289
+The Old Maid	The Old Maid	0.9989433288574219
+Erin Brockovich	Erin Brockovich	0.9991627931594849
+A Teacher	A Teacher	0.999060869216919
+The Bronze	The Bronze	0.99909508228302
+Back to the Future Part III	Back to the Future Part II	1.1276055637181662E-13
+It Happened to Jane	It Happened to Jane	0.9988839626312256
+Con Air	Con Air	0.9992260932922363
+Chasing Ghosts: Beyond the Arcade	Chasing Ghosts: Beyond the Arcade	0.9991756677627563
+Boys and Girls	Boys and Girls	0.9992239475250244
+Jeepers Creepers	Jeepers Creepers	0.9989678859710693
+The Odd Couple	The Odd Couple	0.9990360736846924
+13 Ghosts	13 Ghosts	0.9990402460098267
+Brain Twisters	Brain Twisters	0.9991925954818726
+Indiana Jones and the Kingdom of the Crystal Skull	Indiana Jones and the Kingdom of the Crystal Skull	0.9990087747573853
+Ronin	Ronin	0.9991390705108643
+Magic Mike XXL	Magic Mike XXL	0.9991031289100647
+Rocky III	Rocky III	0.9989756345748901
+Puss in Boots	Puss in Boots	0.999071478843689
+Aliens in the Attic	Aliens in the Attic	0.9992231130599976
+The Prince of Egypt	The Prince of Egypt	0.9989551305770874
+Fighting	Fighting	0.9992309808731079
+Guardians of the Galaxy	Guardians of the Galaxy 2	1.1087706807579706E-15
+Lolita	Lolita	0.9991894960403442
+The Wolverine	The Wolverine	0.9990483522415161
+Anaconda	Anaconda	0.9989334344863892
+Paycheck	Paycheck	0.9989951848983765
+The Pursuit of Happyness	The Pursuit of Happyness	0.9993356466293335
+Don\'t Say a Word	Don\'t Say a Word	0.9991416931152344
+Illicit	Illicit	0.9990336894989014
+Dumb and Dumber To	Dumb and Dumber To	0.9992088079452515
+Sister Act	Sister Act	0.9990818500518799
+Little Women	Little Women	0.9990650415420532
+...And Justice for All.	...And Justice for All	0.0
+The Toolbox Murders	The Toolbox Murders	0.999109148979187
+Singles	Singles	0.9993115663528442
+Cliffhanger	Cliffhanger	0.9992120265960693
+The Da Vinci Code	The Da Vinci Code	0.9991723299026489
+The Wolf Man	The Wolf Man	0.9990879893302917
+Big Fish	Big Fish	0.999138593673706
+The Age of Adaline	The Age of Adaline	0.9992110729217529
+Topaze	Topaze	0.9989041686058044
+Roman Holiday	Roman Holiday	0.9992156028747559
+Paul Blart: Mall Cop 2	Paul Blart: Mall Cop 2	0.9991326332092285
+Devil	Devil	0.9992983341217041
+Every Secret Thing	Every Secret Thing	0.9991952180862427
+Dogfight	Dogfight	0.9992508888244629
+Cop Out	Cop Out	0.999269962310791
+Twister	Twister	0.9991418123245239
+The Giver	The Giver	0.999152421951294
+The Dish & the Spoon	The Dish & The Spoon	3.160165407351326E-14
+Black Shampoo	Black Shampoo	0.999214768409729
+Over the Top	Over the Top	0.9991843700408936
+The Ghost Club	The Ghost Club	0.9990712404251099
+Short Circuit 2	Short Circuit 2	0.999098539352417
+The Unborn	The Unborn	0.9991058707237244
+Toy Story 3	Toy Story 3	0.999142050743103
+The Descendants	The Descendants	0.9990764856338501
+State of Play	State of Play	0.9991142749786377
+Toy Story 3	Toy Story 2	0.0
+Red Riding Hood	Red Riding Hood	0.9991590976715088
+The Hangover	The Hangover	0.999110221862793
+The Thin Man Goes Home	The Thin Man Goes Home	0.9991835355758667
+Saw	Saw	0.9992265701293945
+She\'s Funny That Way	She\'s Funny That Way	0.9992128610610962
+The Ugly Truth	The Ugly Truth	0.9991345405578613
+Last Days in Vietnam	Last Days in Vietnam	0.9990807771682739
+Home Room	Home Room	0.9990122318267822
+The Believers	The Believers	0.998969554901123
+Footloose	Footloose	0.9991433620452881
+The Shawshank Redemption	The Shawshank Redemption	0.9989868402481079
+Mutiny on the Bounty	Mutiny on the Bounty	0.9991223812103271
+Sherlock Holmes	Sherlock Holmes	0.9992631673812866
+G.I. Joe: The Rise of Cobra	G.I. Joe: The Rise of Cobra	0.9989751577377319
+A Christmas Story	A Christmas Story	0.9990741014480591
+Amnesiac	Amnesiac	0.9990425109863281
+Saw II	Saw III	0.0
+The Mighty	The Mighty	0.9992233514785767
+I Saw the Light	I Saw the Light	0.9991610050201416
+Battleship	Battleship	0.9990719556808472
+The Great Gatsby	The Great Gatsby	0.9991689920425415
+Headless	Headless	0.9990308284759521
+That\'s My Boy	That\'s My Boy	0.9992588758468628
+Ned Kelly	Ned Kelly	0.99897301197052
+Empire State	Empire State	0.9989728927612305
+Guardians of the Galaxy Vol. 2	Guardians of the Galaxy	1.1630030705839234E-13
+Bad Boys	Bad Boys	0.9989602565765381
+Last Dance	Last Dance	0.99912428855896
+Public Enemies	Public Enemies	0.9992755651473999
+The Company Men	The Company Men	0.999021053314209
+Green Street Hooligans	Green Street Hooligans	0.9992407560348511
+The Quick and the Dead	The Quick and the Dead	0.999016284942627
+In the Heart of the Sea	In the Heart of the Sea	0.9991750717163086
+The Hound of the Baskervilles	The Hound of the Baskervilles	0.9991315603256226
+Beyond Borders	Beyond Borders	0.9990004301071167
+Back to the Future Part II	Back to the Future Part III	1.3894937175677746E-13
+Hawaii	Hawaii	0.999217689037323
+The Big Wedding	The Big Wedding	0.9991072416305542
+Ivanhoe	Ivanhoe	0.9990133047103882
+Until Death	Until Death	0.9989900588989258
+The Invisible Ray	The Invisible Ray	0.9990715980529785
+Search and Destroy	Search and Destroy	0.9991509914398193
+The Big White	The Big White	0.9992053508758545
+The Blind Side	The Blind Side	0.9991822242736816
+Beverly Hills Cop III	Beverly Hills Cop III	0.9989702701568604
+The Rocky Horror Picture Show	The Rocky Horror Picture Show	0.9990866184234619
+Atonement	Atonement	0.9992660284042358
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King (Extended)	7.658335228998003E-14
+Spy Kids 2: Island of Lost Dreams	Spy Kids 2: The Island of Lost Dreams	9.442406166855488E-14
+Fired Up!	Fired Up	1.9052781000030578E-13
+Grandma\'s Boy	Grandma\'s Boy	0.999151349067688
+National Treasure: Book of Secrets	National Treasure: Book of Secrets	0.9991151094436646
+Constantine	Constantine	0.9992226362228394
+Everly	Everly	0.999173641204834
+42	42	0.9989206790924072
+Amistad	Amistad	0.9990234375
+The Possession of Michael King	The Possession of Michael King	0.9992237091064453
+Child 44	Child 44	0.9990596771240234
+The Ant Bully	The Ant Bully	0.9990890026092529
+Babe	Babe	0.9991044998168945
+Insurgent	Insurgent	0.9991384744644165
+The Core	The Core	0.9991419315338135
+The Sorcerer\'s Apprentice	The Sorcerer\'s Apprentice	0.999032735824585
+Teenage Mutant Ninja Turtles	Teenage Mutant Ninja Turtles	0.9991838932037354
+Area 51	Area 51	0.9990451335906982
+Annabelle	Annabelle	0.9989093542098999
+A Dog\'s Tale	A Dog\'s Tale	0.9991128444671631
+Rabbit Hole	Rabbit Hole	0.9992014169692993
+Tomcats	Tomcats	0.9989211559295654
+Cast Away	Cast Away	0.9992572069168091
+I, Madman	I, Madman	0.9992610216140747
+The Mummy\'s Tomb	The Mummy\'s Tomb	0.9989755153656006
+Elephant	Elephant	0.9992269277572632
+Leather	Leather	0.9990894794464111
+The Blob	The Blob	0.9990301132202148
+Battleground	Battleground	0.9990041255950928
+Roxanne	Roxanne	0.9991109371185303
+Ball of Fire	Ball of Fire	0.9992275238037109
+Signs	Signs	0.9991723299026489
+My Best Friend\'s Girl	My Best Friend\'s Girl	0.9991012811660767
+Love & Mercy	Love & Mercy	0.9992663860321045
+Far North	Far North	0.9991515874862671
+Big Daddy	Big Daddy	0.9990898370742798
+The Hangover Part II	The Hangover Part II	0.9990403652191162
+Any Given Sunday	Any Given Sunday	0.9992401599884033
+The Pretty One	The Pretty One	0.9991647005081177
+Live Free or Die Hard	Live Free or Die Hard	0.9990845918655396
+Rush Hour	Rush Hour	0.999146580696106
+Bachelor Party	Bachelor Party	0.9991297721862793
+Our Brand Is Crisis	Our Brand is Crisis	1.424757257702594E-13
+Eaten Alive	Eaten Alive	0.9991147518157959
+Paths of Glory	Paths of Glory	0.9989644885063171
+Monster House	Monster House	0.9991772174835205
+My Little Pony: Equestria Girls - Rainbow Rocks	My Little Pony: Equestria Girls - Rainbow Rocks	0.9991499185562134
+The Midnight Meat Train	The Midnight Meat Train	0.9992775917053223
+Danny Collins	Danny Collins	0.9991192817687988
+Talladega Nights: The Ballad of Ricky Bobby	Talladega Nights: The Ballad of Ricky Bobby	0.9992364645004272
+Scent of a Woman	Scent of a Woman	0.999101996421814
+Imitation of Life	Imitation of Life	0.9991083145141602
+Man of Steel	Man of Steel	0.9991747140884399
+House of Dracula	House of Dracula	0.9991041421890259
+Jurassic Park	Jurassic Park	0.999038577079773
+To Have and Have Not	To Have and Have Not	0.9991008043289185
+Click	Click	0.9990791082382202
+We Were Here	We Were Here	0.9992913007736206
+Hooper	Hooper	0.9990861415863037
+Pacific Rim	Pacific Rim 2	2.3057544643132616E-14
+Birth of the Living Dead	Birth Of The Living Dead	2.314917192398208E-13
+In a World...	In a World...	0.9990966320037842
+Crimson Peak	Crimson Peak	0.9990493059158325
+Nurse 3D	Nurse	1.204511073131173E-13
+The Bridge on the River Kwai	The Bridge on the River Kwai	0.9991936683654785
+Manos: The Hands of Fate	Manos: The Hands of Fate	0.9991296529769897
+The Grapes of Wrath	The Grapes of Wrath	0.9991793632507324
+No Tell Motel	No Tell Motel	0.9993256330490112
+Who\'s Afraid of Virginia Woolf?	Who\'s Afraid of Virginia Woolf?	0.998924732208252
+When in Rome	When in Rome	0.9991812705993652
+Holes	Holes	0.9991581439971924
+Love Jones	Love Jones	0.9992601871490479
+Beautiful Girls	Beautiful Girls	0.9992135763168335
+Home for the Holidays	Home for the Holidays	0.9990606307983398
+Sahara	Sahara	0.9992173910140991
+RED	Red	0.0
+The House of the Devil	The House of the Devil	0.9989789724349976
+The Lookalike	The Lookalike	0.9991185665130615
+Cop Car	Cop Car	0.9991501569747925
+Broken Arrow	Broken Arrow	0.9989508390426636
+Legend of the Guardians: The Owls of Ga\'Hoole	Legend of the Guardians: The Owls of Ga\'Hoole	0.9991496801376343
+As Above, So Below	As Above, So Below	0.9991912841796875
+Man on Fire	Man on Fire	0.9991226196289062
+Seven Years in Tibet	Seven Years in Tibet	0.999133825302124
+Benji the Hunted	Benji the Hunted	0.9992263317108154
+Space Jam	Space Jam	0.9990478754043579
+Harry Potter and the Sorcerer\'s Stone	Harry Potter and the Chamber of Secrets	2.401397765534885E-13
+The Land Before Time	The Land Before Time	0.9991351366043091
+The Guardian	The Guardian	0.9990772008895874
+3 Ninjas Kick Back	3 Ninjas Kick Back	0.9993418455123901
+Nintendo Quest	Nintendo Quest	0.9990441799163818
+Project X	Project X	0.9990410804748535
+Animal Crackers	Animal Crackers	0.9991304874420166
+The Omen	The Omen	0.9990606307983398
+Bringing Up Baby	Bringing Up Baby	0.9991891384124756
+What Ever Happened to Baby Jane?	What Ever Happened to Baby Jane?	0.9991956949234009
+Wolfen	Wolfen	0.9991782903671265
+Damn Yankees!	Damn Yankees	0.0
+Them!	Them!	0.9991406202316284
+Seeking Justice	Seeking Justice	0.999107837677002
+Ocean\'s Twelve	Ocean\'s Eleven	0.0
+Bad Boys	Bad Boys II	0.0
+A River Runs Through It	A River Runs Through It	0.9990484714508057
+The DUFF	The DUFF	0.999068021774292
+Saturday the 14th	Saturday the 14th Strikes Back	0.0
+The Man in the Iron Mask	The Man in the Iron Mask	0.9989404678344727
+The Getaway	The Getaway	0.9992597103118896
+Ninja Assassin	Ninja Assassin	0.9991974830627441
+Bulletproof	Bulletproof	0.9990353584289551
+Pat Garrett & Billy the Kid	Pat Garrett & Billy the Kid	0.999240517616272
+The Great Race	The Great Race	0.998998761177063
+Not of This Earth	Not of this Earth	1.577478382294717E-13
+Birth	Birth	0.9990707635879517
+Carjacked	Carjacked	0.9990495443344116
+Jumper	Jumper	0.9992892742156982
+Play the Game	Play The Game	0.0
+The Serpent and the Rainbow	The Serpent and the Rainbow	0.9991962909698486
+National Lampoon\'s European Vacation	National Lampoon\'s European Vacation	0.9992715120315552
+Frozen	Frozen	0.9991682767868042
+Volunteers	Volunteers	0.999151349067688
+Poor Little Rich Girl	Poor Little Rich Girl	0.9990952014923096
+Frankenstein	Frankenstein	0.9990084171295166
+2 Guns	2 Guns	0.9991463422775269
+48 Hrs.	48 HRS	3.1132845054130526E-14
+Joe the King	Joe the King	0.9991132020950317
+The Outskirts	The Outskirts	0.9991477727890015
+Lured	Lured	0.9991227388381958
+Midnight Express	Midnight Express	0.9991000890731812
+Black Ribbon	Black Ribbon	0.9992126226425171
+Good Night, and Good Luck.	Good Night, And Good Luck	1.5598729718926257E-13
+Grand Prix	Grand Prix	0.9990180730819702
+Stakeout	Stakeout	0.9989484548568726
+Land of the Dead	Dawn of the Dead	4.123147339502552E-14
+Stolen	Stolen	0.9989808797836304
+Gangs of New York	Gangs of New York	0.9991509914398193
+Firestarter	Firestarter	0.9990780353546143
+Cape Fear	Cape Fear	0.9991213083267212
+Let\'s Be Cops	Let\'s Be Cops	0.9992074966430664
+Weird Science	Weird Science	0.9991395473480225
+Sleeper	Sleeper	0.9990236759185791
+The Prince and Me	The Prince & Me	1.3314363175344346E-13
+Suddenly, Last Summer	Suddenly, Last Summer	0.9992564916610718
+Death Valley	Death Valley	0.9991681575775146
+Street Fighter	Street Fighter	0.9992165565490723
+Day of the Dead	Land of the Dead	0.0
+Needful Things	Needful Things	0.9989373683929443
+Dark Blood	Dark Blood	0.9991059303283691
+The A-Team	The A-Team	0.999167799949646
+Priest	Priest	0.9991503953933716
+The Lost World: Jurassic Park	The Lost World - Jurassic Park	0.0
+Dr. Jekyll and Mr. Hyde	Dr. Jekyll and Mr. Hyde	0.9992176294326782
+Maze Runner: The Scorch Trials	Maze Runner: The Scorch Trials	0.9991153478622437
+Assault on Precinct 13	Assault on Precinct 13	0.9990701675415039
+Wild Hearts Can\'t Be Broken	Wild Hearts Can\'t Be Broken	0.999169111251831
+Key Largo	Key Largo	0.9993349313735962
+Exeter	Exeter	0.9992121458053589
+Horse Crazy	Horse Crazy	0.9992153644561768
+The Mask	The Mask	0.999171257019043
+Shampoo	Shampoo	0.99922776222229
+Independence Day: Resurgence	Independence Day	1.9455709829654944E-13
+Show Boat	Show Boat	0.999077558517456
+Relentless	Relentless	0.9990677833557129
+We Are What We Are	We Are What We Are	0.9990379810333252
+Under Siege 2: Dark Territory	Under Siege 2: Dark Territory	0.9990249872207642
+Highway 301	Highway 301	0.9991576671600342
+You Again	You Again	0.9990596771240234
+The Ten	The Ten	0.9992372989654541
+Fritz the Cat	Fritz the Cat	0.9989299774169922
+Beau Geste	Beau Geste	0.9990323781967163
+Rear Window	Rear Window	0.9992430210113525
+Father of the Bride Part II	Father of the Bride	4.29540809117248E-14
+Happy Christmas	Happy Christmas	0.9992016553878784
+Nine	Nine	0.9989185333251953
+Dirty Deeds	Dirty Deeds	0.9990510940551758
+Dimples	Dimples	0.9989827871322632
+Jack Frost	Jack Frost	0.9991545677185059
+King Solomon\'s Mines	King Solomon\'s Mines	0.9989382028579712
+The Beast Within	The Beast Within	0.9990285634994507
+It\'s a Wonderful Life	It\'s a Wonderful Life	0.9991632699966431
+Spencer\'s Mountain	Spencer\'s Mountain	0.9991253018379211
+The Guns of Navarone	The Guns of Navarone	0.9991838932037354
+Sabotage	Sabotage	0.9990456700325012
+The Big Steal	The Big Steal	0.9991452693939209
+Fire in the Sky	Fire in the Sky	0.9989690780639648
+Steve McQueen: The Man & Le Mans	Steve McQueen: The Man & Le Mans	0.9988980293273926
+Timecop	Timecop	0.9992035627365112
+The Island of Dr. Moreau	The Island of Dr. Moreau	0.9992413520812988
+Why We Fight	Why We Fight	0.9990566968917847
+Macbeth	Macbeth	0.9990154504776001
+Paternity	Paternity	0.9991049766540527
+An Inconvenient Truth	An Inconvenient Truth	0.9992564916610718
+The Quiet	The Quiet	0.9992057085037231
+Cars 2	Cars 2	0.9990017414093018
+Scoop	Scoop	0.9989370107650757
+Pirates of the Caribbean: The Curse of the Black Pearl	Pirates of the Caribbean: The Curse of the Black Pearl	0.9991724491119385
+E.T. the Extra-Terrestrial	E.T. The Extra-Terrestrial	5.364728233587905E-14
+City by the Sea	City by the Sea	0.9991267919540405
+Spy Kids 3-D: Game Over	Spy Kids 3-D - Game Over	0.0
+Parenthood	Parenthood	0.9991322755813599
+Memento	Memento	0.999167799949646
+Casting By	Casting By	0.9990541934967041
+Hans Christian Andersen	Hans Christian Andersen	0.999264121055603
+Land of the Lost	Land of the Lost	0.9992128610610962
+Staying Alive	Staying Alive	0.999049186706543
+Video Games: The Movie	Video Games: The Movie	0.9992207288742065
+The Thin Man	The Thin Man	0.9991143941879272
+The New Kids	The New Kids	0.9991697072982788
+Only the Lonely	Only the Lonely	0.9990676641464233
+S.W.A.T.	S.W.A.T.	0.9991222620010376
+Escape from New York	Escape from New York	0.9991844892501831
+Brewster\'s Millions	Brewster\'s Millions	0.9990941286087036
+Snitch	Snitch	0.9990876913070679
+Trust	Trust	0.9990966320037842
+Holiday	Holiday	0.9991312026977539
+The Godfather	The Godfather, Part II	7.794101057915712E-14
+The Indian in the Cupboard	The Indian in the Cupboard	0.9990459680557251
+Who\'s That Girl	Who\'s That Girl?	3.6437483754000674E-14
+Second Skin	Second Skin	0.9991251230239868
+Star Trek	Star Trek	0.9988958835601807
+Predator	Predator	0.9990273714065552
+Vertigo	Vertigo	0.9992568492889404
+Dark Shadows	Dark Shadows	0.9992842674255371
+F/X	F/X	0.9991375803947449
+Fletch	Fletch	0.9990148544311523
+A Hole in One	A Hole in One	0.9990887641906738
+Date Night	Date Night	0.9991402626037598
+I Was a Male War Bride	I Was a Male War Bride	0.9990593194961548
+The Notebook	The Notebook	0.9991786479949951
+Falling Down	Falling Down	0.9991681575775146
+The Quest	The Quest	0.9990051984786987
+Two Step	Two Step	0.9990795850753784
+Badlands	Badlands	0.9991264343261719
+Cleopatra	Cleopatra	0.9991269707679749
+The Man Who Knew Too Much	The Man Who Knew Too Much	0.9991096258163452
+Paranormal Activity	Paranormal Activity	0.9993122816085815
+Christmas in July	Christmas in July	0.9991708993911743
+Kiss the Girls	Kiss The Girls	1.845503865829587E-13
+Goodbye, Mr. Chips	Goodbye, Mr. Chips	0.9991610050201416
+Nixon	Nixon	0.9993128776550293
+Zapped!	Zapped!	0.9989680051803589
+Wreck-It Ralph	Wreck-it Ralph	1.42809578724222E-13
+Oblivion	Oblivion	0.9992489814758301
+Shrek the Third	Shrek the Third	0.999158501625061
+Bleeders	Bleeders	0.9990266561508179
+7 Chinese Brothers	7 Chinese Brothers	0.9990622997283936
+Trial and Error	Trial and Error	0.9992704391479492
+The Apple Dumpling Gang Rides Again	The Apple Dumpling Gang Rides Again	0.9990105628967285
+Fatal Attraction	Fatal Attraction	0.9992297887802124
+The Elephant Man	The Elephant Man	0.9992256760597229
+Juarez	Juarez	0.9990749359130859
+The Lost Boys	The Lost Boys	0.999120831489563
+The Graduate	The Graduate	0.9991816282272339
+Truth	Truth	0.9991801977157593
+I Spit on Your Grave	I Spit on Your Grave 2	1.130397790888131E-13
+The Cotton Club	The Cotton Club	0.9990929365158081
+The Breakfast Club	The Breakfast Club	0.9989925622940063
+Freakshow	Freakshow	0.9991415739059448
+Fingerprints	Fingerprints	0.9992250800132751
+Graduation Day	Graduation Day	0.9990819692611694
+Adventures in Babysitting	Adventures in Babysitting	0.9991706609725952
+Where the Wild Things Are	Where the Wild Things Are	0.9992629289627075
+Sweeney Todd: The Demon Barber of Fleet Street	Sweeney Todd: The Demon Barber of Fleet Street	0.9991648197174072
+The Scorpion King	The Scorpion King	0.9992151260375977
+Gidget	Gidget	0.9992181062698364
+Starting Over	Starting Over	0.999068021774292
+Network	Network	0.9992924928665161
+War Horse	War Horse	0.9989585876464844
+This Is 40	This is 40	1.7088100953775026E-13
+Gambling Lady	Gambling Lady	0.9989466667175293
+The Patriot	The Patriot	0.9992170333862305
+Johnny Guitar	Johnny Guitar	0.9990451335906982
+Grand Canyon	Grand Canyon	0.9991670846939087
+For Love or Money	For Love or Money	0.9992707967758179
+Walking Tall	Walking Tall	0.9989545345306396
+616: Paranormal Incident	616: Paranormal Incident	0.9990819692611694
+Twilight	Twilight	0.9991873502731323
+Bolt	Bolt	0.9990135431289673
+Goosebumps	Goosebumps	0.9989680051803589
+Harold & Kumar Go to White Castle	Harold & Kumar Go to White Castle	0.9991114139556885
+Three of Hearts	Three of Hearts	0.9993262887001038
+D2: The Mighty Ducks	D2: The Mighty Ducks	0.9993298053741455
+Unleashed	Unleashed	0.999120831489563
+Cool Runnings	Cool Runnings	0.9990830421447754
+Sayonara	Sayonara	0.9990489482879639
+Kill Bill: Vol. 1	Kill Bill: Volume 1	2.1859756030046668E-13
+Daylight	Daylight	0.998981237411499
+Kill Bill: Vol. 2	Kill Bill: Volume 1	1.2699364400781815E-13
+I\'m No Angel	I\'m No Angel	0.9989864826202393
+Ella Enchanted	Ella Enchanted	0.9991459846496582
+Hotel Transylvania 2	Hotel Transylvania	8.069110294219375E-14
+Pitch Perfect 2	Pitch Perfect 2	0.9989801645278931
+If I Were King	If I Were King	0.9991137981414795
+Lloyd	Lloyd	0.9991536736488342
+Andre	Andre	0.9990807771682739
+Anchors Aweigh	Anchors Aweigh	0.9991493225097656
+Fist of the North Star	Fist of the North Star	0.9992578029632568
+Like Crazy	Like Crazy	0.9992741346359253
+No One Lives	No One Lives	0.9991140365600586
+The Hunger Games: Catching Fire	The Hunger Games: Catching Fire	0.9989943504333496
+Now and Forever	Now and Forever	0.9991143941879272
+Tales from the Crypt	Tales from the Crypt	0.9992963075637817
+All the King\'s Men	All the King\'s Men	0.9991066455841064
+Song One	Song One	0.999004602432251
+Pray for Death	Pray for Death	0.9991263151168823
+Braveheart	Braveheart	0.9991252422332764
+Hairspray	Hairspray	0.9990909099578857
+I Still Know What You Did Last Summer	I Still Know What You Did Last Summer	0.9992152452468872
+Lady Killer	Lady Killer	0.9989914894104004
+Big Momma\'s House 2	Big Momma\'s House 2	0.9991873502731323
+Gates of Heaven	Gates of Heaven	0.9991182684898376
+Thor: Ragnarok	Thor: Ragnarok	0.9990534782409668
+The Abyss	The Abyss	0.9991612434387207
+Side Effects	Side Effects	0.9992249011993408
+The Searchers	The Searchers	0.9992767572402954
+Unknown	Unknown	0.9990801811218262
+Face/Off	Face/Off	0.9991409778594971
+The Millionaire Tour	The Millionaire Tour	0.9992775917053223
+The Butterfly Effect 2	The Butterfly Effect 2	0.9992191791534424
+The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation of Smaug	0.9991321563720703
+Superman III	Superman II	0.0
+Trespass	Trespass	0.9991899728775024
+The Surface	The Surface	0.9992072582244873
+Return of the Secaucus Seven	Return of the Secaucus Seven	0.9991167783737183
+Extract	Extract	0.999111533164978
+Beat the Devil	Beat the Devil	0.9990944862365723
+Alien	Alien	0.9991153478622437
+Short Circuit	Short Circuit	0.9992344379425049
+Wizards of the Lost Kingdom	Wizards of the Lost Kingdom	0.9992293119430542
+Big Trouble	Big Trouble	0.998985767364502
+Police Academy	Police Academy	0.9992032051086426
+The Rewrite	The Rewrite	0.9990061521530151
+The Big Lebowski	The Big Lebowski	0.999172568321228
+The 33	The 33	0.9991196393966675
+The Dark Knight Rises	The Dark Knight Rises	0.9990907907485962
+Hostel: Part II	Hostel Part II	1.1729925028253901E-13
+Spotlight	Spotlight	0.9991258382797241
+The Ten Commandments	The Ten Commandments	0.9992365837097168
+The Zero Theorem	The Zero Theorem	0.9991673231124878
+21	21	0.9990322589874268
+Exists	Exists	0.9992460012435913
+Hellboy	Hellboy	0.9990869760513306
+Mission: Impossible - Ghost Protocol	Mission: Impossible Ghost Protocol	2.0024030990186542E-13
+Platoon	Platoon	0.9990344047546387
+Men in Black 3	Men in Black II	0.0
+Conflict	Conflict	0.9990293979644775
+It Could Happen to You	It Could Happen to You	0.9992361068725586
+American Hustle	American Hustle	0.9991886615753174
+Looney Tunes: Back in Action	Looney Tunes: Back in Action	0.9989443421363831
+Bullitt	Bullitt	0.9991027116775513
+Rio Grande	Rio Grande	0.9991438388824463
+Transformers: Revenge of the Fallen	Transformers: Revenge of the Fallen	0.9991531372070312
+The Fourth Kind	The Fourth Kind	0.999274492263794
+The Exorcism of Molly Hartley	The Exorcism of Molly Hartley	0.9992446303367615
+Brother Bear	Brother Bear	0.9990957975387573
+Out of Sight	Out of Sight	0.9990112781524658
+The End of Innocence	The End of Innocence	0.9990489482879639
+The International	The International	0.9992238283157349
+The Indian	The Indian	0.9991213083267212
+The Book of Life	The Book of Life	0.9989545345306396
+Madame Bovary	Madame Bovary	0.99916672706604
+The Exorcist	The Exorcist	0.9991956949234009
+Bug	Bug	0.9992098808288574
+Without Men	Without Men	0.9993019104003906
+What Women Want	What Women Want	0.999181866645813
+Changeling	Changeling	0.998947024345398
+My Girl	My Girl 2	1.628929331915288E-13
+Hulk	Hulk	0.9991501569747925
+Basic Instinct 2	Basic Instinct 2	0.9990249872207642
+Killer Fish	Killer Fish	0.9991216659545898
+Actress	Actress	0.9990625381469727
+Goodfellas	GoodFellas	1.2676914639547787E-13
+Silent Night, Deadly Night Part 2	Silent Night, Deadly Night Part 2	0.9991869926452637
+The Nut Job 2	The Nut Job 2	0.9992202520370483
+Easter Parade	Easter Parade	0.9991806745529175
+Wild Things	Wild Things	0.9991331100463867
+God the Father	God the Father	0.9991849660873413
+Hatchet II	Hatchet II	0.9991613626480103
+Journey 2: The Mysterious Island	Journey 2: The Mysterious Island	0.9991850852966309
+Limitless	Limitless	0.9991703033447266
+Everything Must Go	Everything Must Go	0.9990774393081665
+The Last Leprechaun	The Last Leprechaun	0.9990323781967163
+Just Before I Go	Just Before I Go	0.9991531372070312
+Creature from the Black Lagoon	Creature from the Black Lagoon	0.999114990234375
+The Drop	The Drop	0.9992703199386597
+Little Shop of Horrors	Little Shop of Horrors	0.9991527795791626
+Beauty and the Beast	Beauty and the Beast	0.9991843700408936
+Doctor Zhivago	Doctor Zhivago	0.9991824626922607
+Sylvester	Sylvester	0.9990835189819336
+Sleepover	Sleepover	0.9991719722747803
+The Best Exotic Marigold Hotel	The Best Exotic Marigold Hotel	0.99898362159729
+The Greatest Show on Earth	The Greatest Show on Earth	0.9989285469055176
+City of Angels	City of Angels	0.9991614818572998
+The Presidio	The Presidio	0.9990580081939697
+Hostage	Hostage	0.9990509748458862
+Munchie	Munchie	0.9990715980529785
+Flatliners	Flatliners	0.998982310295105
+The Express	The Express	0.9990966320037842
+The Masque of the Red Death	The Masque of the Red Death	0.9989879131317139
+Star Wars: Episode II - Attack of the Clones	Star Wars: Episode II - Attack of the Clones 3D	0.0
+The Blues Brothers	The Blues Brothers	0.9992151260375977
+The Keeping Room	The Keeping Room	0.9992420673370361
+Jack Reacher	Jack Reacher	0.9989560842514038
+Saturday the 14th	Saturday the 14th	0.9990434646606445
+The Pledge	The Pledge	0.9991104602813721
+The Hustler	The Hustler	0.9990774393081665
+Harry Potter and the Sorcerer\'s Stone	Harry Potter and the Sorcerer\'s Stone	0.9990555047988892
+Rocky V	Rocky	0.0
+This Island Earth	This Island Earth	0.9993098974227905
+A Midnight Clear	A Midnight Clear	0.9991508722305298
+The Expendables 3	The Expendables 3	0.9990196228027344
+Prime Evil	Prime Evil	0.998982310295105
+Out of Africa	Out of Africa	0.9989267587661743
+Sorcerer	Sorcerer	0.9992339611053467
+The African Lion	The African Lion	0.9991471767425537
+15 Minutes	15 Minutes	0.9992283582687378
+The Expendables 2	The Expendables 2	0.9991433620452881
+Cleaner	Cleaner	0.9991962909698486
+AVP: Alien vs. Predator	AVP - Alien Vs. Predator	1.1715822268495296E-13
+Glory Road	Glory Road	0.9991462230682373
+Poltergeist	Poltergeist	0.9992203712463379
+Little Darlings	Little Darlings	0.9992430210113525
+Problem Child	Problem Child	0.9990476369857788
+Beautiful Creatures	Beautiful Creatures	0.9992350339889526
+Dark Mountain	Dark Mountain	0.9989594221115112
+Inherit the Wind	Inherit the Wind	0.9989738464355469
+Wrath of the Titans	Wrath of the Titans	0.998999834060669
+Endless Love	Endless Love	0.9990284442901611
+Charlie Wilson\'s War	Charlie Wilson\'s War	0.9991075992584229
+Let Me In	Let Me In	0.9989928007125854
+Dark Places	Dark Places	0.9990742206573486
+The Air Up There	The Air Up There	0.999009370803833
+Gabriel	Gabriel	0.9990783929824829
+Survival of the Dead	Survival of the Dead	0.9989416599273682
+Pet Sematary II	Pet Sematary	0.0
+London Has Fallen	London Has Fallen	0.9991878271102905
+Dirty Harry	Dirty Harry	0.9993501901626587
+In the Heat of the Night	In the Heat of the Night	0.9991436004638672
+Hugo	Hugo	0.9991843700408936
+Double Team	Double Team	0.9990614652633667
+Highball	Highball	0.9992038011550903
+Star Wars: Episode III - Revenge of the Sith	Star Wars: Episode III - Revenge of the Sith 3D	0.0
+Protocol	Protocol	0.9990363121032715
+D3: The Mighty Ducks	D3: The Mighty Ducks	0.9990062713623047
+Superman	Superman II	1.3026736536258382E-13
+The New Guy	The New Guy	0.9990092515945435
+Repo Man	Repo Man	0.9992088079452515
+Catch a Fire	Catch a Fire	0.9992740154266357
+Critters	Critters	0.9990049600601196
+Trick \'r Treat	Trick \'r Treat	0.9991569519042969
+Alvin and the Chipmunks: The Road Chip	Alvin and the Chipmunks: The Road Chip	0.9991726875305176
+As Good as It Gets	As Good as It Gets	0.999039888381958
+Kansas	Kansas	0.9992461204528809
+Topaz	Topaz	0.9989281892776489
+The Amazing Spider-Man 2	The Amazing Spider-Man	1.9599652575832266E-13
+Cimarron	Cimarron	0.9990503787994385
+The Adventures of Pinocchio	The Adventures of Pinocchio	0.999016284942627
+Caddyshack	Caddyshack	0.9992173910140991
+Urban Legends: Final Cut	Urban Legends: Final Cut	0.9992378950119019
+April Fool\'s Day	April Fool\'s Day	0.9989525079727173
+The Road	The Road	0.9991275072097778
+Old Dogs	Old Dogs	0.9992042779922485
+Illegal	Illegal	0.9991095066070557
+Extraterrestrial	Extraterrestrial	0.9992794990539551
+Duma	Duma	0.9990857839584351
+Let It Ride	Let It Ride	0.9993102550506592
+Big Men	Big Men	0.9991673231124878
+Locke	Locke	0.9992839097976685
+Copper Canyon	Copper Canyon	0.999199628829956
+Bloodsport	Bloodsport	0.9991027116775513
+Ride	Ride	0.9990377426147461
+Planes, Trains & Automobiles	Planes, Trains and Automobiles	2.2457443822859573E-14
+Rocky	Rocky	0.9991046190261841
+The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers	0.9991706609725952
+Wild Card	Wild Card	0.9990962743759155
+Like Mike	Like Mike	0.9991368055343628
+The Fly II	The Fly II	0.9991812705993652
+The Walking Dead	The Walking Dead	0.9991271495819092
+Patton	Patton	0.9990918636322021
+Comet	Comet	0.9989770650863647
+Cave of Forgotten Dreams	Cave of Forgotten Dreams	0.9992741346359253
+Flubber	Flubber	0.9988906383514404
+Brain Damage	Brain Damage	0.9990884065628052
+The Living Daylights	The Living Daylights	0.9990726709365845
+The Thomas Crown Affair	The Thomas Crown Affair	0.9990289211273193
+The Princess Diaries	The Princess Diaries	0.9990595579147339
+Wake in Fright	Wake in Fright	0.99900221824646
+Warrior	Warrior	0.9989101886749268
+South Pacific	South Pacific	0.9991148710250854
+Catch Me If You Can	Catch Me If You Can	0.9989633560180664
+He\'s Just Not That Into You	He\'s Just Not That Into You	0.9990248680114746
+Charlotte\'s Web	Charlotte\'s Web	0.9991821050643921
+Cinderella	Cinderella	0.999082088470459
+Starship Troopers	Starship Troopers	0.9990594387054443
+Deceived	Deceived	0.9991546273231506
+The Love Bug	The Love Bug	0.9991849064826965
+Spider-Man	Spider-Man	0.9991204738616943
+Broken Hill	Broken Hill	0.9991515874862671
+Alaska	Alaska	0.9991124868392944
+Young Guns	Young Guns	0.9989402294158936
+Day of the Dead	Diary of the Dead	6.826031845883276E-14
+The Sandlot	The Sandlot 2	1.9102156922218283E-13
+Trick	Trick	0.9992140531539917
+Turner & Hooch	Turner and Hooch	4.153867784543455E-15
+Aliens vs. Predator: Requiem	Aliens vs. Predator: Requiem (AVP 2)	7.084670984635125E-14
+Prometheus	Prometheus	0.9990808963775635
+Stick	Stick	0.9991065263748169
+Cloak & Dagger	Cloak and Dagger	9.9884808540604E-14
+The Possession	The Possession	0.9991161823272705
+The Young Savages	The Young Savages	0.9991316795349121
+The Ref	The Ref	0.9990421533584595
+Hudson Hawk	Hudson Hawk	0.9990044832229614
+The Golden Compass	The Golden Compass	0.9992656707763672
+The Crazies	The Crazies	0.9989466667175293
+The Body Snatcher	The Body Snatcher	0.9990013837814331
+Frankie and Johnny	Frankie & Johnny	2.0581523681520442E-13
+Hellboy II: The Golden Army	Hellboy II: The Golden Army (Hellboy 2)	3.882326385829145E-14
+The Black Swan	The Black Swan	0.9992614984512329
+Legally Blonde 2: Red, White & Blonde	Legally Blonde 2 - Red, White & Blonde	1.0380552754180039E-13
+Man on a Ledge	Man on a Ledge	0.9991263151168823
+The Killer Elite	The Killer Elite	0.9989463090896606
+American Ninja	American Ninja	0.999059796333313
+Night at the Museum	Night at the Museum	0.999109148979187
+Blade II	Blade II	0.9991092681884766
+Major League	Major League	0.9989405870437622
+Total Recall	Total Recall	0.9991403818130493
+Hotel Transylvania	Hotel Transylvania	0.9992181062698364
+Holy Man	Holy Man	0.9991335868835449
+The Transporter	The Transporter	0.9988771677017212
+Teenage Mutant Ninja Turtles 2	Teenage Mutant Ninja Turtles 2	0.9989782571792603
+Time Out of Mind	Time Out Of Mind	0.0
+Snow White and the Huntsman	Snow White and the Huntsman (Extended Version)	0.0
+3 Ninjas	3 Ninjas	0.9992060661315918
+Eyes Wide Shut	Eyes Wide Shut	0.9990164041519165
+I Spy	I Spy	0.9989967346191406
+Dead Silence	Dead Silence	0.9991366863250732
+The Adventures of Huckleberry Finn	The Adventures Of Huckleberry Finn	2.3713434441443616E-14
+Look Who\'s Talking	Look Who\'s Talking	0.9992868900299072
+The Bear	The Bear	0.999045729637146
+The Robe	The Robe	0.9990884065628052
+Jocks	Jocks	0.9989728927612305
+Waterloo Bridge	Waterloo Bridge	0.9990386962890625
+Dolphin Tale 2	Dolphin Tale	4.6918645726402863E-14
+Spaceballs	Spaceballs	0.9990423917770386
+The Singles 2nd Ward	The Singles 2nd Ward	0.9989765882492065
+National Treasure	National Treasure	0.9989495277404785
+Man of the House	Man of the House	0.9990383386611938
+Parental Guidance	Parental Guidance	0.9991499185562134
+Blues Brothers 2000	Blues Brothers 2000	0.9991699457168579
+Alien: Resurrection	Alien Resurrection	0.0
+The Count of Monte Cristo	The Count of Monte Cristo	0.9991779327392578
+Sweet Dreams	Sweet Dreams	0.9992140531539917
+Song of Love	Song of Love	0.9991098642349243
+The Longest Yard	The Longest Yard	0.9993174076080322
+Battle of the Bulge	Battle of the Bulge	0.9991427659988403
+The Major and the Minor	The Major and the Minor	0.9990323781967163
+One Fine Day	One Fine Day	0.9991039037704468
+Monte Carlo	Monte Carlo	0.999064564704895
+Dune	Dune	0.9990684986114502
+The Wrestler	The Wrestler	0.9991775751113892
+Iron Man 2	Iron Man	8.804333537183393E-14
+Ordinary People	Ordinary People	0.9991676807403564
+Tension	Tension	0.999030590057373
+El Cid	El Cid	0.9991098642349243
+Maps to the Stars	Maps to the Stars	0.9990053176879883
+Tormented	Tormented	0.9991925954818726
+X-Men: Days of Future Past	X-Men: Days of Future Past	0.999366283416748
+Dave	Dave	0.9990620613098145
+The Secret Life of Pets	The Secret Life of Pets	0.9991757869720459
+Ashes and Snow	Ashes and Snow	0.9991990327835083
+Under Suspicion	Under Suspicion	0.9990274906158447
+The Shaggy Dog	The Shaggy Dog	0.9991800785064697
+Land of the Dead	Land of the Dead	0.9989644289016724
+Next	Next	0.999083399772644
+Bedtime Story	Bedtime Story	0.9991856813430786
+The Little Rascals	The Little Rascals	0.9991165995597839
+The Unbelievable Truth	The Unbelievable Truth	0.998942494392395
+99 Homes	99 Homes	0.9990547895431519
+The Recruit	The Recruit	0.9992339611053467
+Final Girl	Final Girl	0.9991285800933838
+Tentacles	Tentacles	0.9991946220397949
+The Dirty Dozen	The Dirty Dozen	0.9989829063415527
+The Corsican Brothers	The Corsican Brothers	0.9990156888961792
+Gigi	Gigi	0.9989616870880127
+MallBrats	Mallrats	1.1845341060020415E-13
+Spare Parts	Spare Parts	0.999176025390625
+A Cinderella Story	A Cinderella Story	0.9992649555206299
+The Guest	The Guest	0.9991226196289062
+Three for the Road	Three For The Road	6.139565174615932E-14
+Frances Ha	Frances Ha	0.9991410970687866
+Deck the Halls	Deck the Halls	0.9990200996398926
+Xtro	Xtro	0.9989750385284424
+The Great Outdoors	The Great Outdoors	0.9989932775497437
+Forbidden Planet	Forbidden Planet	0.9990917444229126
+Night at the Museum: Secret of the Tomb	Night at the Museum: Secret of the Tomb	0.9990659356117249
+License to Drive	License to Drive	0.999214768409729
+The Rookie	The Rookie	0.9991409778594971
+The Day the Earth Stood Still	The Day the Earth Stood Still	0.9991400241851807
+Born to Be Wild	Born to Be Wild	0.9990758895874023
+Pride	Pride	0.9992105960845947
+The Client	The Client	0.999117374420166
+American Gangster	American Gangster	0.9990131855010986
+Garfield: A Tail of Two Kitties	Garfield: A Tail of Two Kitties	0.9990984201431274
+Rich and Famous	Rich and Famous	0.9991418123245239
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King	0.9990276098251343
+Prince of Darkness	Prince of Darkness	0.9990804195404053
+Dark Star	Dark Star	0.9990276098251343
+First Dog	First Dog	0.998947024345398
+Murphy\'s Law	Murphy\'s Law	0.9992016553878784
+A Case of You	A Case of You	0.9991391897201538
+Ticks	Ticks	0.9992400407791138
+Margaret	Margaret	0.9990538358688354
+American Radical: The Trials of Norman Finkelstein	American Radical: The Trials of Norman Finkelstein	0.9991023540496826
+The Italian Job	The Italian Job	0.999122142791748
+Secretariat	Secretariat	0.9990541934967041
+Rent	Rent	0.999154806137085
+Knights of the Round Table	Knights of the Round Table	0.9990921020507812
+About a Boy	About a Boy	0.9990439414978027
+Hidalgo	Hidalgo	0.9993261098861694
+It\'s Alive	It\'s Alive	0.9991083145141602
+Thoroughly Modern Millie	Thoroughly Modern Millie	0.999234676361084
+P.S. I Love You	P.S. I Love You	0.9992390871047974
+The Love Guru	The Love Guru	0.9989852905273438
+Into the Sun	Into the Sun	0.9989848136901855
+A Time of Destiny	A Time of Destiny	0.999316930770874
+Doc Hollywood	Doc Hollywood	0.9991827011108398
+Sweet Home Alabama	Sweet Home Alabama	0.9992949962615967
+Rising Sun	Rising Sun	0.9990030527114868
+Popstar	Popstar	0.9989417791366577
+Miss Julie	Miss Julie	0.9991605281829834
+Grand Hotel	Grand Hotel	0.9992455244064331
+Guys and Dolls	Guys and Dolls	0.999011754989624
+The Stuff	The Stuff	0.9990239143371582
+Savages	Savages	0.9992355108261108
+Ice Princess	Ice Princess	0.9990906715393066
+Dead Girl	Dead Girl	0.9989895820617676
+The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2 The IMAX Experience	1.1000116697515092E-13
+Chaos Theory	Chaos Theory	0.9991441965103149
+The Invisible Boy	The Invisible Boy	0.9990534782409668
+The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 2 The IMAX Experience	4.951092229883887E-15
+Alex of Venice	Alex of Venice	0.9991494417190552
+Cocktail	Cocktail	0.9989707469940186
+Little Big Man	Little Big Man	0.9991117715835571
+30 Days of Night	30 Days of Night	0.9992821216583252
+Leprechaun 2	Leprechaun 2	0.999089241027832
+The Vow	The Vow	0.9990665912628174
+The Big Sleep	The Big Sleep	0.9990583658218384
+Primer	Primer	0.9990568161010742
+Earth vs. the Flying Saucers	Earth vs. the Flying Saucers	0.9991704225540161
+Riddick	Riddick	0.9990267157554626
+The Hard Way	The Hard Way	0.9992471933364868
+Cats & Dogs: The Revenge of Kitty Galore	Cats & Dogs: The Revenge of Kitty Galore	0.9992508888244629
+Desecration	Desecration	0.9991343021392822
+Freedom	Freedom	0.9991501569747925
+Extreme Measures	Extreme Measures	0.9991827011108398
+Son of Frankenstein	Son of Frankenstein	0.9990503191947937
+Lord of the Flies	Lord of the Flies	0.9993200302124023
+Rush	Rush	0.9991275072097778
+Motel Hell	Motel Hell	0.9991230964660645
+Chasing Ice	Chasing Ice	0.9990842342376709
+Bon Voyage!	Bon Voyage!	0.999111533164978
+The Comedy of Terrors	The Comedy of Terrors	0.9990792274475098
+Labor Day	Labor Day	0.9992012977600098
+Rain Man	Rain Man	0.9989997148513794
+Solaris	Solaris	0.9991692304611206
+A Million Ways to Die in the West	A Million Ways to Die in the West	0.9991406202316284
+The Front	The Front	0.9991350769996643
+Valentine	Valentine	0.998961329460144
+Sister Act 2: Back in the Habit	Sister Act 2: Back in the Habit	0.9992587566375732
+Losin\' It	Losin\' It	0.9991054534912109
+Queen of Earth	Queen of Earth	0.999168872833252
+Prophecy	Prophecy	0.9991267919540405
+Land of the Dead	Day of the Dead	0.0
+The Nativity Story	The Nativity Story	0.9991497993469238
+Misery	Misery	0.9990322589874268
+Cowboys & Aliens	Cowboys & Aliens	0.9992508292198181
+Rampage	Rampage	0.999053955078125
+Le Mans	Le Mans	0.998955488204956
+The Mob	The Mob	0.9989923238754272
+Garden State	Garden State	0.9990679025650024
+Surveillance	Surveillance	0.9990507364273071
+Freedomland	Freedomland	0.9990168809890747
+Coming Home	Coming Home	0.9990500807762146
+Chain Letter	Chain Letter	0.9991207122802734
+An American Werewolf in London	An American Werewolf in London	0.999222993850708
+Home Alone	Home Alone	0.9991331100463867
+The Good Earth	The Good Earth	0.9991400241851807
+Paul Blart: Mall Cop	Paul Blart: Mall Cop	0.9991722106933594
+Delivery Man	Delivery Man	0.9989297389984131
+Jimmy Neutron: Boy Genius	Jimmy Neutron - Boy Genius	0.0
+ATL	ATL	0.9989320039749146
+A Walk Among the Tombstones	A Walk Among the Tombstones	0.9991117715835571
+On the Waterfront	On the Waterfront	0.9991083145141602
+The Light in the Forest	The Light in the Forest	0.9990311861038208
+All About Steve	All About Steve	0.9989157915115356
+The Wicker Man	The Wicker Man	0.9991308450698853
+The Grudge	The Grudge 2	2.2354581835810905E-14
+Jane Got a Gun	Jane Got a Gun	0.9991283416748047
+Someone Like You...	Someone Like You	0.0
+A Connecticut Yankee in King Arthur\'s Court	A Connecticut Yankee in King Arthur\'s Court	0.9990172386169434
+Magic in the Moonlight	Magic in the Moonlight	0.9990630149841309
+Pariah	Pariah	0.9991286993026733
+Island of Lost Souls	Island of Lost Souls	0.9992083311080933
+Baby Face	Baby Face	0.9991083145141602
+Sunshine	Sunshine	0.9990240335464478
+Gulliver\'s Travels	Gulliver\'s Travels	0.9990377426147461
+The Caine Mutiny	The Caine Mutiny	0.9990353584289551
+Men in Black	Men in Black	0.9991738796234131
+Blonde Crazy	Blonde Crazy	0.9992820024490356
+Some Kind of Hate	Some Kind of Hate	0.9991565942764282
+The Final Girls	The Final Girls	0.9990898370742798
+The Wild One	The Wild One	0.9992411136627197
+A Free Soul	A Free Soul	0.9991518259048462
+50 First Dates	50 First Dates	0.9991137981414795
+Mirrors	Mirrors	0.9990859031677246
+Bugsy	Bugsy	0.9992395639419556
+Insidious: Chapter 2	Insidious: Chapter 2	0.9990358352661133
+Message in a Bottle	Message in a Bottle	0.999226450920105
+Pineapple Express	Pineapple Express	0.9989242553710938
+Insidious: Chapter 3	Insidious: Chapter 3	0.9991573095321655
+The Vanishing	The Vanishing	0.9991486072540283
+Marty	Marty	0.9988815784454346
+A League of Their Own	A League of Their Own	0.998916506767273
+Reaper	Reaper	0.9992073774337769
+Valiant	Valiant	0.9990541934967041
+The Adventures of Huckleberry Finn	The Adventures of Huckleberry Finn	0.9991257190704346
+J. Edgar	J. Edgar	0.9989316463470459
+American Wedding	American Wedding	0.9991406202316284
+The Last Witch Hunter	The Last Witch Hunter	0.9990578889846802
+The Phantom of the Opera	The Phantom of the Opera	0.999097466468811
+Fun Size	Fun Size	0.999138355255127
+Where Hope Grows	Where Hope Grows	0.9990254640579224
+A Perfect Murder	A Perfect Murder	0.9991034269332886
+Evil Dead	Evil Dead	0.9990812540054321
+Spanglish	Spanglish	0.999118447303772
+Basic	Basic	0.9992614388465881
+Fort Apache	Fort Apache	0.9991518259048462
+Gold Diggers of 1933	Gold Diggers of 1933	0.999107837677002
+Black Robe	Black Robe	0.999253511428833
+Changing Hearts	Changing Hearts	0.9991874694824219
+Mr. Magoo	Mr. Magoo	0.9990187883377075
+Desperado	Desperado	0.9989290237426758
+To Rome with Love	To Rome with Love	0.999229907989502
+The Equalizer	The Equalizer	0.9992003440856934
+Love\'s Labour\'s Lost	Love\'s Labour\'s Lost	0.9992544054985046
+Married Life	Married Life	0.9989367723464966
+The Pearl of Death	The Pearl of Death	0.9993126392364502
+White Heat	White Heat	0.9992868900299072
+Monsters vs. Aliens	Monsters vs. Aliens	0.9992012977600098
+The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 2	1.203036829227136E-13
+Free Willy	Free Willy	0.999024510383606
+Hot Shots!	Hot Shots!	0.99924635887146
+Madagascar 3: Europe\'s Most Wanted	Madagascar 3: Europe\'s Most Wanted	0.9992458820343018
+The One I Love	The One I Love	0.9991946816444397
+The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2	0.9990075826644897
+The Thin Red Line	The Thin Red Line	0.9992249011993408
+Choose	Choose	0.9992051124572754
+Inside Job	Inside Job	0.999212384223938
+The Amazing Spider-Man	The Amazing Spider-Man	0.9991604089736938
+Nick and Norah\'s Infinite Playlist	Nick and Norah\'s Infinite Playlist	0.9990990161895752
+National Gallery	National Gallery	0.9990074038505554
+The Hurricane	The Hurricane	0.9991166591644287
+A Brief History of Time	A Brief History of Time	0.9992331266403198
+Flipper	Flipper	0.9991133213043213
+Elizabeth	Elizabeth	0.9991415739059448
+Field of Dreams	Field of Dreams	0.9990812540054321
+Hostel	Hostel	0.9991211891174316
+The Bachelor and the Bobby-Soxer	The Bachelor and the Bobby-Soxer	0.9991945028305054
+The Fly	The Fly	0.9989763498306274
+Gold Diggers of 1937	Gold Diggers of 1935	1.7564629492625855E-13
+The Apostle	The Apostle	0.9993212223052979
+Tom Sawyer	Tom Sawyer	0.9992688894271851
+Heat	Heat	0.9990451335906982
+The World Is Not Enough	The World Is Not Enough	0.9991104602813721
+The Real McCoy	The Real McCoy	0.9992305040359497
+Just Before Dawn	Just Before Dawn	0.999167799949646
+Phantoms	Phantoms	0.9991886615753174
+The Auteur	The Auteur	0.9991902112960815
+The Hitcher	The Hitcher	0.9990321397781372
+Deep Blue Sea	Deep Blue Sea	0.9992717504501343
+Next Friday	Next Friday	0.9991257190704346
+Rocky III	Rocky II	0.0
+Inspector Gadget	Inspector Gadget	0.9991166591644287
+Patriot Games	Patriot Games	0.9991763830184937
+American Pie	American Pie	0.9991039037704468
+An American Tail	An American Tail	0.9991568326950073
+Great Balls of Fire!	Great Balls of Fire	1.0986827936418798E-14
+Found	Found	0.9990172386169434
+Interior. Leather Bar.	Interior. Leather Bar.	0.999059796333313
+The Hole	The Hole	0.9992669820785522
+The Runner	The Runner	0.9991039037704468
+Learning to Drive	Learning To Drive	1.7590438925341872E-13
+The Master	The Master	0.9989793300628662
+The Jacket	The Jacket	0.9990197420120239
+Ghostbusters	Ghostbusters	0.9990332722663879
+A Day at the Races	A Day at the Races	0.9990513324737549
+Head	Head	0.9992033243179321
+The Yards	The Yards	0.9990079402923584
+Pet Sematary	Pet Sematary Two	1.5435812079477723E-13
+The Singles Ward	The Singles 2nd Ward	1.2333909663996695E-13
+Bananas	Bananas	0.9989691972732544
+She\'s the One	She\'s the One	0.9992828369140625
+Once Upon a Time in America	Once Upon a Time in America	0.9990963935852051
+The Straight Story	The Straight Story	0.9992377758026123
+Gone Girl	Gone Girl	0.9992163181304932
+The Hangover Part III	The Hangover Part III	0.9992973804473877
+Must Love Dogs	Must Love Dogs	0.9993188381195068
+Shiloh	Shiloh	0.9991375207901001
+Alexander	Alexander	0.9990977048873901
+Body Heat	Body Heat	0.9992537498474121
+The King\'s Speech	The King\'s Speech	0.9991596937179565
+The Stanford Prison Experiment	The Stanford Prison Experiment	0.9991215467453003
+Silkwood	Silkwood	0.9993226528167725
+LOL	LOL	0.9991302490234375
+Keeping the Faith	Keeping the Faith	0.9990370273590088
+Son of Flubber	Son of Flubber	0.9991743564605713
+About Alex	About Alex	0.9991427659988403
+The Wild Bunch	The Wild Bunch	0.9991692304611206
+Salt	Salt	0.99924635887146
+Over the Edge	Over the Edge	0.9991161823272705
+Inside Deep Throat	Inside Deep Throat	0.9992142915725708
+A Walk to Remember	A Walk to Remember	0.9992287158966064
+Blowback	Blowback	0.9990859031677246
+Spontaneous Combustion	Spontaneous Combustion	0.9991099834442139
+Cobra	Cobra	0.9992592334747314
+The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey	0.9990711212158203
+Ghoulies II	Ghoulies II	0.9989510774612427
+Rewind This!	Rewind This!	0.9991629123687744
+Kingpin	Kingpin	0.999211311340332
+Ant-Man	Ant-Man	0.9990828037261963
+Long Day\'s Journey Into Night	Long Day\'s Journey Into Night	0.9990723133087158
+The Collection	The Collection	0.9989410042762756
+Hopscotch	Hopscotch	0.999016523361206
+Faster	Faster	0.9991719722747803
+Happiness	Happiness	0.9990898370742798
+Slumber Party Massacre II	Slumber Party Massacre II	0.9992282390594482
+Out in the Silence	Out in the Silence	0.9990715980529785
+Surf\'s Up	Surf\'s Up	0.9990222454071045
+The Walking Dead Girls	The Walking Dead Girls	0.9988898038864136
+North to Alaska	North to Alaska	0.9991612434387207
+The Conversation	The Conversation	0.9991418123245239
+Jennifer\'s Body	Jennifer\'s Body	0.9991754293441772
+The Exterminator	The Exterminator	0.9991143941879272
+My Girl 2	My Girl	3.3285769024957515E-14
+Ernest Scared Stupid	Ernest Scared Stupid	0.9990458488464355
+The Woman in the Window	The Woman in the Window	0.9992918968200684
+The Incredibles	The Incredibles	0.9991343021392822
+A Dog of Flanders	A Dog of Flanders	0.9989920854568481
+The Cave	The Cave	0.9992345571517944
+Tarzan	Tarzan	0.9990323781967163
+Enchanted	Enchanted	0.9991915225982666
+The River	The River	0.9990901947021484
+Lethal Weapon 2	Lethal Weapon 4	0.0
+Lethal Weapon 2	Lethal Weapon 2	0.9989802837371826
+Lethal Weapon 2	Lethal Weapon 3	8.374917987298384E-15
+HouseSitter	Housesitter	1.1490173877192877E-14
+The Hills Have Eyes II	The Hills Have Eyes 2	9.666604945971977E-14
+By the Sea	By The Sea	1.8883973432280016E-13
+Fat, Sick & Nearly Dead 2	Fat, Sick & Nearly Dead 2	0.9990919828414917
+Sweet Smell of Success	Sweet Smell of Success	0.9992035627365112
+Cold Souls	Cold Souls	0.9991663694381714
+The Hunger Games	The Hunger Games	0.999160647392273
+Hereafter	Hereafter	0.9992467164993286
+Speed 2: Cruise Control	Speed 2 - Cruise Control	1.9346545917478704E-14
+Night of the Living Dead	Night of the Living Dead	0.9989789724349976
+A Time to Kill	A Time to Kill	0.9989475011825562
+Minor Details	Minor Details	0.9989967346191406
+Documented	Documented	0.9990872144699097
+Carriers	Carriers	0.9993064403533936
+Kundun	Kundun	0.9991958141326904
+Explorers	Explorers	0.999093770980835
+The Skateboard Kid	The Skateboard Kid	0.9991883039474487
+The Invisible Circus	The Invisible Circus	0.9991663694381714
+Deadpool	Deadpool	0.9991676807403564
+The Fountain	The Fountain	0.9989891648292542
+Invasion U.S.A.	Invasion U.S.A.	0.9991632699966431
+Two Can Play That Game	Two Can Play That Game	0.9991661310195923
+Dangerous Liaisons	Dangerous Liaisons	0.9991155862808228
+A Nightmare on Elm Street 2: Freddy\'s Revenge	A Nightmare on Elm Street 2 - Freddy\'s Revenge	1.3096537472123E-13
+The Bad News Bears	The Bad News Bears	0.9992597103118896
+Shrek 2	Shrek 2	0.9990938901901245
+Intruder	Intruder	0.9990681409835815
+For the Love of Benji	For the Love of Benji	0.999047040939331
+Tamara	Tamara	0.9991738796234131
+A Mighty Heart	A Mighty Heart	0.9992256164550781
+Portrait of Jennie	Portrait of Jennie	0.9991374015808105
+A Perfect Man	A Perfect Man	0.9992470741271973
+Sleeping with Other People	Sleeping with Other People	0.9992109537124634
+Mighty Joe Young	Mighty Joe Young	0.999125599861145
+The Game Plan	The Game Plan	0.9990708827972412
+Marie Antoinette	Marie Antoinette	0.9990298748016357
+True Crime	True Crime	0.9991327524185181
+Kill the Messenger	Kill the Messenger	0.9991166591644287
+Begin Again	Begin Again	0.999125599861145
+The Mating Game	The Mating Game	0.9990257620811462
+Stand Up Guys	Stand Up Guys	0.9992654323577881
+The Order	The Order	0.9990389347076416
+Red Heat	Red Heat	0.9990692138671875
+The Negotiator	The Negotiator	0.999286413192749
+Collateral Damage	Collateral Damage	0.9991124868392944
+King Kong	King Kong	0.9991641044616699
+The Human Centipede III (Final Sequence)	The Human Centipede II (Full Sequence)	1.5747766860061546E-13
+The Texas Chainsaw Massacre	The Texas Chainsaw Massacre	0.999168872833252
+Escape from Alcatraz	Escape From Alcatraz	8.659718585659129E-14
+Shaft	Shaft	0.999091386795044
+One Day	One Day	0.9993206262588501
+The Roost	The Roost	0.9990652799606323
+Vampire	Vampire	0.9990371465682983
+The Verdict	The Verdict	0.9989752769470215
+The Humbling	The Humbling	0.9992682933807373
+Magnificent Obsession	Magnificent Obsession	0.9990143775939941
+The Chronicles of Riddick	The Chronicles of Riddick	0.9989368319511414
+Max	Max	0.9990345239639282
+Courage Under Fire	Courage Under Fire	0.9991692304611206
+Final Destination 3	Final Destination	1.1985208561281907E-13
+Children of the Night	Children of the Night	0.999138355255127
+Eagle Eye	Eagle Eye	0.9991192817687988
+Nim\'s Island	Nim\'s Island	0.9991587400436401
+Watchmen	Watchmen	0.9990679025650024
+Beau Brummell	Beau Brummell	0.9992918968200684
+The Mummy	The Mummy	0.999132513999939
+Die Hard	Die Hard	0.9991350173950195
+Lethal Weapon 4	Lethal Weapon 2	3.5933702438291706E-14
+Lethal Weapon 4	Lethal Weapon 3	1.4519810321526189E-13
+Lethal Weapon 4	Lethal Weapon 4	0.9992339611053467
+Our Lips Are Sealed	Our Lips Are Sealed	0.9991624355316162
+The Yellow Handkerchief	The Yellow Handkerchief	0.999276876449585
+Days of Heaven	Days of Heaven	0.9991930723190308
+Blade Runner	Blade Runner	0.9990676641464233
+Evaporating Borders	Evaporating Borders	0.9990391731262207
+Lethal Weapon 3	Lethal Weapon 3	0.9990541934967041
+Lethal Weapon 3	Lethal Weapon 4	3.2138771217894366E-14
+Lethal Weapon 3	Lethal Weapon 2	9.955973762423853E-14
+Romeo + Juliet	Romeo + Juliet	0.9990787506103516
+Fertile Ground	Fertile Ground	0.9993464946746826
+Sorority Row	Sorority Row	0.9992063045501709
+5 to 7	5 to 7	0.9990981817245483
+Much Ado About Nothing	Much Ado About Nothing	0.9991933107376099
+The General\'s Daughter	The General\'s Daughter	0.999212384223938
+Meet the Fockers	Meet the Fockers	0.9991124868392944
+The Hobbit: The Battle of the Five Armies	The Hobbit: The Battle of the Five Armies	0.9990782737731934
+Major League II	Major League	0.0
+Gravity	Gravity	0.9991418123245239
+The Waiting Room	The Waiting Room	0.9990999698638916
+This Is Spinal Tap	This Is Spinal Tap	0.9992563724517822
+Carol	Carol	0.9992223978042603
+Santa Claus Conquers the Martians	Santa Claus Conquers the Martians	0.9990918636322021
+Contracted: Phase II	Contracted: Phase II	0.9990456104278564
+Men in Black 3	Men in Black III	1.4985963045586331E-13
+Billy Jack	Billy Jack	0.9993106126785278
+Eraserhead	Eraserhead	0.9991133213043213
+Time Lapse	Time Lapse	0.9991830587387085
+Willow	Willow	0.9992325305938721
+Venom	Venom	0.9989155530929565
+Zoolander	Zoolander	0.9992293119430542
+The Hot Chick	The Hot Chick	0.9989995956420898
+Liar Liar	Liar Liar	0.9989314079284668
+Hall Pass	Hall Pass	0.9992949962615967
+Alvin and the Chipmunks: The Squeakquel	Alvin and the Chipmunks: The Squeakquel	0.9989815950393677
+Puss in Boots 2: Nine Lives & 40 Thieves	Puss In Boots 2: Nine Lives & 40 Thieves	2.498061436526089E-14
+A Dirty Shame	A Dirty Shame	0.9992645978927612
+Open Grave	Open Grave	0.9991402626037598
+Knock Knock	Knock Knock	0.9990077018737793
+Spider-Man 3	Spider-Man	5.6369917278897494E-14
+We Were Soldiers	We Were Soldiers	0.9992802143096924
+One Magic Christmas	One Magic Christmas	0.9990066289901733
+Copycat	Copycat	0.9991158246994019
+The Dead Zone	The Dead Zone	0.9991247653961182
+Harvey	Harvey	0.9990543127059937
+The Brave Little Toaster	The Brave Little Toaster	0.9992069005966187
+The American Nightmare	The American Nightmare	0.9992952346801758
+Out on a Limb	Out on a Limb	0.9992252588272095
+Appaloosa	Appaloosa	0.9991270303726196
+The Green Hornet	The Green Hornet	0.9990792274475098
+Screamers	Screamers	0.9990030527114868
+Convoy	Convoy	0.9991415739059448
+Now, Voyager	Now, Voyager	0.9989686012268066
+Fair Game	Fair Game	0.9992282390594482
+Blood and Bone	Blood and Bone	0.9992069005966187
+Scarecrow	Scarecrow	0.9990884065628052
+Intersection	Intersection	0.9990024566650391
+The Odd Couple II	The Odd Couple II	0.9989120960235596
+In the Bedroom	In the Bedroom	0.999332070350647
+Dick Tracy	Dick Tracy	0.9993176460266113
+The Smurfs 2	The Smurfs	1.4085481133514158E-14
+Yogi Bear	Yogi Bear	0.9989959001541138
+David Copperfield	David Copperfield	0.9991272687911987
+Dirty Weekend	Dirty Weekend	0.9992496967315674
+Role Models	Role Models	0.9990249872207642
+Men in Black	Men in Black II	1.6268708385655528E-13
+The R.M.	The R.M.	0.9990506172180176
+Front Page Woman	Front Page Woman	0.9992994070053101
+Cats & Dogs	Cats & Dogs	0.9990905523300171
+Li\'l Abner	Li\'l Abner	0.9990441799163818
+All Roads Lead Home	All Roads Lead Home	0.9988982677459717
+Pete\'s Dragon	Pete\'s Dragon	0.9992775917053223
+Robin Hood	Robin Hood	0.9988869428634644
+Blended	Blended	0.999305248260498
+Nancy Drew	Nancy Drew	0.9989537000656128
+Armageddon	Armageddon	0.999260663986206
+Into the Abyss	Into The Abyss	8.09778947456069E-14
+It Runs in the Family	It Runs in the Family	0.9991099834442139
+Reconstruction	Reconstruction	0.9990410804748535
+The Fortune	The Fortune	0.9990373849868774
+The Cobbler	The Cobbler	0.9990086555480957
+The Mummy\'s Curse	The Mummy\'s Curse	0.9991741180419922
+Coherence	Coherence	0.9992799758911133
+Lullaby of Broadway	Lullaby of Broadway	0.9991253018379211
+Lincoln	Lincoln	0.9992120265960693
+The Princess Bride	The Princess Bride	0.9989457130432129
+My Bill	My Bill	0.9990595579147339
+The Rescuers Down Under	The Rescuers Down Under	0.9989590644836426
+Nanny McPhee Returns	Nanny McPhee Returns	0.9992014169692993
+The Champ	The Champ	0.9991888999938965
+Road Trip	Road Trip	0.9990630149841309
+Lying	Lying	0.9993412494659424
+Stars and Bars	Stars and Bars	0.9991800785064697
+The Secret Life of Walter Mitty	The Secret Life Of Walter Mitty	0.0
+Slaughterhouse-Five	Slaughterhouse-Five	0.9991716146469116
+Ted 2	Ted 2	0.9991681575775146
+Outbreak	Outbreak	0.9990787506103516
+Street Kings	Street Kings	0.9992189407348633
+Invaders from Mars	Invaders from Mars	0.9992345571517944
+It\'s a Boy Girl Thing	It\'s a Boy Girl Thing	0.9991534948348999
+Modern Times	Modern Times	0.9989625215530396
+Bullet	Bullet	0.9991421699523926
+I Confess	I Confess	0.9992088079452515
+See Girl Run	See Girl Run	0.9992421865463257
+The Purge: Anarchy	The Purge: Anarchy	0.9991647005081177
+300: Rise of an Empire	300: Rise of an Empire	0.9989637136459351
+Ace of Hearts	Ace of Hearts	0.999097466468811
+The Net	The Net 2.0	6.37479748960665E-15
+Burying the Ex	Burying the Ex	0.9992028474807739
+Strange Invaders	Strange Invaders	0.9992129802703857
+Kim	Kim	0.9991586208343506
+Madagascar	Madagascar	0.9989644289016724
+Bringing Up Bobby	Bringing Up Bobby	0.9993081092834473
+Don\'t Be a Menace to South Central While Drinking Your Juice in the Hood	Don\'t Be a Menace to South Central While Drinking Your Juice in The Hood	1.8822116987834286E-13
+Brigadoon	Brigadoon	0.9992068409919739
+Burn After Reading	Burn After Reading	0.9990825653076172
+Hit List	Hit List	0.9990787506103516
+Alligator	Alligator	0.9992657899856567
+It Came from Outer Space	It Came from Outer Space	0.9991936087608337
+Friends with Kids	Friends With Kids	6.516475862606078E-14
+42nd Street	42nd Street	0.9991463422775269
+Machete Kills	Machete Kills	0.9989938735961914
+The Santa Clause 2	The Santa Clause 2	0.9990789890289307
+13 Sins	13 Sins	0.9991580247879028
+The Mighty Ducks	The Mighty Ducks	0.9991937875747681
+Gamer	Gamer	0.9991494417190552
+High Crimes	High Crimes	0.9991147518157959
+The Night Before	The Night Before	0.998954176902771
+Strapped	Strapped	0.999169111251831
+The Godfather: Part III	The Godfather	0.0
+Spider-Man 2	Spider-Man	1.7830089618295353E-13
+Boulevard	Boulevard	0.9992393255233765
+Silent Night, Bloody Night	Silent Night, Bloody Night	0.9989968538284302
+To Be or Not to Be	To Be or Not to Be	0.9991456270217896
+Dear God	Dear God	0.9992523789405823
+The Spoilers	The Spoilers	0.9990953207015991
+Poker Night	Poker Night	0.9990572929382324
+Yes Man	Yes Man	0.9990177154541016
+Krampus: The Christmas Devil	Krampus: The Christmas Devil	0.9992249608039856
+The Out-of-Towners	The Out-of-Towners	0.999117374420166
+The Jackal	The Jackal	0.9990644454956055
+Need for Speed	Need For Speed	0.0
+Under Fire	Under Fire	0.9991723299026489
+The Divergent Series: Allegiant	The Divergent Series: Allegiant	0.9993497133255005
+The Boxer	The Boxer	0.9990670680999756
+Shooters	Shooters	0.9991177320480347
+Stanley	Stanley	0.9991545677185059
+Money for Nothing	Money for Nothing	0.9990357160568237
+Gremlins 2: The New Batch	Gremlins 2: The New Batch	0.9990264177322388
+Happily Ever After	Happily Ever After	0.9991631507873535
+The Big Green	The Big Green	0.9992232322692871
+The Invisible Man	The Invisible Man	0.9992291927337646
+Emma	Emma	0.9990959167480469
+Hamlet 2	Hamlet 2	0.9991030693054199
+Vacation	Vacation	0.9990115165710449
+Forbidden Zone	Forbidden Zone	0.9989770650863647
+After Earth	After Earth	0.9992008805274963
+The Brothers Karamazov	The Brothers Karamazov	0.9990029335021973
+Pet Sematary	Pet Sematary	0.999138593673706
+Urban Legend	Urban Legend	0.9990757703781128
+Pitch Perfect	Pitch Perfect	0.999335527420044
+A.P.E.X.	A.P.E.X.	0.9990098476409912
+The Mend	The Mend	0.9990135431289673
+The Resident	The Resident	0.999051570892334
+Salvador	Salvador	0.9988893270492554
+8MM	8MM	0.9989702701568604
+Men of the Fighting Lady	Men of the Fighting Lady (Panther Squadron)	0.0
+King Arthur	King Arthur	0.9991463422775269
+The Innocents	The Innocents	0.9989292621612549
+Natural Born Killers	Natural Born Killers	0.9990836381912231
+Family Affair	Family Affair	0.9991967678070068
+The Raven	The Raven	0.9990752935409546
+Cthulhu	Cthulhu	0.9990137815475464
+Bridge of Spies	Bridge of Spies	0.9993095397949219
+Swordfish	Swordfish	0.9990923404693604
+Twentieth Century	Twentieth Century	0.9991267919540405
+Another Earth	Another Earth	0.9991143941879272
+Heaven\'s Gate	Heaven\'s Gate	0.9992750883102417
+Angels & Demons	Angels & Demons	0.9991472959518433
+Swiss Family Robinson	Swiss Family Robinson	0.999111533164978
+Rio	Rio	0.9992159008979797
+Breathe In	Breathe In	0.9990695714950562
+Jane Eyre	Jane Eyre	0.9991800785064697
+The French Connection	The French Connection	0.9989994764328003
+Impostor	Impostor	0.9990407228469849
+Submarine	Submarine	0.9991534948348999
+The Hive	The Hive	0.9991639852523804
+Leatherheads	Leatherheads	0.9991245269775391
+Road to Singapore	Road To Singapore	0.0
+Three Smart Girls	Three Smart Girls	0.9990748167037964
+The Birds	The Birds	0.9992448091506958
+Major League: Back to the Minors	Major League: Back to the Minors	0.9991666078567505
+The Quiet Man	The Quiet Man	0.9991600513458252
+Anger Management	Anger Management	0.9990488290786743
+The Replacements	The Replacements	0.9990849494934082
+What About Bob?	What About Bob?	0.9990060329437256
+Date Movie	Disaster Movie	1.6369228834824806E-13
+Disaster Movie	Date Movie	0.0
+Diabolique	Diabolique	0.9990100860595703
+Evening	Evening	0.9990406036376953
+Change of Habit	Change of Habit	0.9989578723907471
+16-Love	16-love	3.789047729545712E-14
+Infinitely Polar Bear	Infinitely Polar Bear	0.9990764856338501
+The Cove	The Cove	0.9991791248321533
+The Stream	The Stream	0.9990944862365723
+Zodiac	Zodiac	0.9992103576660156
+Whiteout	Whiteout	0.9990800619125366
+Laura	Laura	0.9990142583847046
+The Godfather: Part II	The Godfather, Part II	3.812601174710013E-15
+Boiler Room	Boiler Room	0.9992169141769409
+The Miracle Woman	The Miracle Woman	0.9992700815200806
+Fast Food	Fast Food	0.9990298748016357
+The Public Enemy	The Public Enemy	0.99912428855896
+Jackie & Ryan	Jackie & Ryan	0.9991763830184937
+Dark Was the Night	Dark Was The Night	9.770176746630443E-14
+Lethal Weapon	Lethal Weapon 3	1.6054823757331166E-13
+Lethal Weapon	Lethal Weapon 2	1.8547567182201213E-13
+Lethal Weapon	Lethal Weapon 4	1.2323482349602816E-13
+Crazy Heart	Crazy Heart	0.9991441965103149
+Double Indemnity	Double Indemnity	0.9991152286529541
+True Story	True Story	0.9991352558135986
+The Rage	The Rage	0.9989097118377686
+Restless	Restless	0.9991309642791748
+Ghost Ship	Ghost Ship	0.9990736246109009
+The Reader	The Reader	0.9991401433944702
+Diary of the Dead	Day of the Dead	0.0
+The Great Escape	The Great Escape	0.9992533922195435
+The Shining	The Shining	0.9991735816001892
+Spectre	Spectre	0.9989180564880371
+It Follows	It Follows	0.9991236925125122
+When Worlds Collide	When Worlds Collide	0.9990594387054443
+Friday	Friday	0.9992090463638306
+Hoot	Hoot	0.9991955757141113
+The Quiet Ones	The Quiet Ones	0.9991539716720581
+The Chase	The Chase	0.9990414381027222
+Jeepers Creepers II	Jeepers Creepers	0.0
+Rebecca	Rebecca	0.9990963935852051
+Monsters University	Monsters University	0.9990593194961548
+Survival of the Dead	Diary of the Dead	9.49147173617132E-14
+Little City	Little City	0.9990701675415039
+High Sierra	High Sierra	0.9991118907928467
+The Alamo	The Alamo	0.9990240335464478
+Black Beauty	Black Beauty	0.9991350173950195
+Hamlet	Hamlet	0.9990549683570862
+The Vatican Tapes	The Vatican Tapes	0.9990957975387573
+Buzzard	Buzzard	0.9991445541381836
+The Curse of Downers Grove	The Curse of Downers Grove	0.9991365671157837
+The Intruder	The Intruder	0.9991443157196045
+Nicholas Nickleby	Nicholas Nickleby	0.9991922378540039
+Adaptation.	Adaptation	6.613544483108705E-14
+The Black Stallion	The Black Stallion	0.999157190322876
+The Razor\'s Edge	The Razor\'s Edge	0.9990708827972412
+Laugh Killer Laugh	Laugh Killer Laugh	0.9991333484649658
+Angels in the Outfield	Angels in the Outfield	0.9989831447601318
+Sphinx	Sphinx	0.9989737272262573
+A Streetcar Named Desire	A Streetcar Named Desire	0.9992542266845703
+Yours, Mine and Ours	Yours, Mine and Ours	0.9991952180862427
+The Boy	The Boy	0.9991827011108398
+Shipwrecked	Shipwrecked	0.9991250038146973
+Old Yeller	Old Yeller	0.9990814924240112
+Hearts and Minds	Hearts & Minds	1.4917864307132517E-13
+Red Dragon	Red Dragon	0.9993743896484375
+Wyatt Earp	Wyatt Earp	0.9991809129714966
+The Martian	The Martian	0.99918532371521
+Extinction	Extinction	0.9991977214813232
+End of Watch	End of Watch	0.9992129802703857
+Dangerous	Dangerous	0.9991180896759033
+Three on a Match	Three on a Match	0.9992717504501343
+Scooby-Doo	Scooby-Doo	0.9991468191146851
+12 Rounds 3: Lockdown	12 Rounds 3: Lockdown	0.9989513158798218
+Aftershock	Aftershock	0.9989784955978394
+Everest	Everest	0.9990929365158081
+Summer School	Summer School	0.9990724325180054
+Kiss of the Spider Woman	Kiss of the Spider Woman	0.9990839958190918
+Robinson Crusoe on Mars	Robinson Crusoe on Mars	0.9990018606185913
+Straw Dogs	Straw Dogs	0.9991779327392578
+Talk Radio	Talk Radio	0.999082088470459
+Judas Kiss	Judas Kiss	0.9990123510360718
+Camp X-Ray	Camp X-Ray	0.9991496801376343
+The Change-Up	The Change-Up	0.9990949630737305
+The Fall of the Roman Empire	The Fall of the Roman Empire	0.9992218017578125
+The Gunman	The Gunman	0.9993587732315063
+The Dark Knight Rises	The Dark Knight	4.975803569087084E-14
+Afflicted	Afflicted	0.999055027961731
+The Funhouse	The Funhouse	0.9991915225982666
+Muppet Treasure Island	Muppet Treasure Island	0.9991167783737183
+Final Destination	Final Destination 3	0.0
+Rango	Rango	0.9992581605911255
+The Fortune Cookie	The Fortune Cookie	0.9991389513015747
+Kiss Kiss Bang Bang	Kiss Kiss, Bang Bang	6.302376426726292E-14
+Southpaw	Southpaw	0.9992318153381348
+Hatchet II	Hatchet	7.759733204300637E-14
+Bird	Bird	0.9989675283432007
+Halloween	Halloween	0.9991413354873657
+Step Up 2: The Streets	Step Up 2 the Streets	0.0
+Sons of the Desert	Sons of the Desert	0.99908447265625
+The Family Tree	The Family Tree	0.9990869760513306
+Tenacious D in The Pick of Destiny	Tenacious D in The Pick of Destiny	0.9989496469497681
+Harriet the Spy	Harriet the Spy	0.9991346597671509
+The Honeymooners	The Honeymooners	0.9992077350616455
+Bad Boys II	Bad Boys	1.2343207205845527E-14
+Willow Creek	Willow Creek	0.9990929365158081
+Return of the Living Dead II	Return of the Living Dead Part II	1.1622477882455157E-13
+The Unforgiven	The Unforgiven	0.9992156028747559
+Malice	Malice	0.9989978075027466
+Stuart Little	Stuart Little 2	1.0717262580867137E-13
+Gator	Gator	0.9991092681884766
+The Addams Family	The Addams Family	0.9992197751998901
+An American in Paris	An American in Paris	0.9991499185562134
+I Love You to Death	I Love You to Death	0.9990556240081787
+Salome	Salome	0.9991052150726318
+Taxi Driver	Taxi Driver	0.9992402791976929
+The Ledge	The Ledge	0.9990015029907227
+The Karate Kid	The Karate Kid	0.9989196062088013
+Trumbo	Trumbo	0.9992130994796753
+Bubble	Bubble	0.999157190322876
+Sleepaway Camp	Sleepaway Camp	0.9991083145141602
+Just Go with It	Just Go with It	0.9989533424377441
+Safe	Safe	0.999299168586731
+Getaway	Getaway	0.9991388320922852
+The Lion King	The Lion King	0.9992402791976929
+The Wedding Date	The Wedding Date	0.9990359544754028
+Serpico	Serpico	0.9992183446884155
+The Sacrament	The Sacrament	0.9992445707321167
+Ciao	Ciao	0.9990350008010864
+Four Sheets to the Wind	Four Sheets to the Wind	0.9991761445999146
+Universal Soldier	Universal Soldier	0.9992272853851318
+Room Service	Room Service	0.9991531372070312
+Be Kind Rewind	Be Kind Rewind	0.9991933107376099
+Thirteen	Thirteen	0.9990519285202026
+Dumb & Dumber	Dumb and Dumber	0.0
+Phenomenon	Phenomenon	0.9991816282272339
+Space Chimps 2: Zartog Strikes Back	Space Chimps 2: Zartog Strikes Back	0.9992064237594604
+Ted	Ted	0.9991915225982666
+Reincarnated	Reincarnated	0.9991239309310913
+For Me and My Gal	For Me and My Gal	0.9990302324295044
+World Without End	World Without End	0.9992877244949341
+Edison, the Man	Edison, the Man	0.9990324974060059
+House of D	House of D	0.999071478843689
+Tootsie	Tootsie	0.9992107152938843
+Tchoupitoulas	Tchoupitoulas	0.9989351034164429
+Hello, Dolly!	Hello, Dolly!	0.9991702437400818
+Screwed	Screwed	0.9990819692611694
+Cruel Intentions	Cruel Intentions 2	1.0107851513251054E-13
+Side Street	Side Street	0.9991369247436523
+A Sound of Thunder	A Sound of Thunder	0.9991482496261597
+Ghostbusters	Ghostbusters 2	1.2512242794865489E-14
+Ghostbusters II	Ghostbusters	1.5506141563901427E-13
+Tex	Tex	0.999014139175415
+Barefoot in the Park	Barefoot in the Park	0.9991421699523926
+13 Hours: The Secret Soldiers of Benghazi	13 Hours: The Secret Soldiers Of Benghazi	9.957957852399502E-14
+Wonder Boys	Wonder Boys	0.9989488124847412
+Father of the Bride Part II	Father of the Bride: Part II	1.3491180286644144E-13
+House on Haunted Hill	House on Haunted Hill	0.9991532564163208
+Quigley	Quigley	0.9992434978485107
+Sinbad: Legend of the Seven Seas	Sinbad: Legend of the Seven Seas	0.9991531372070312
+Mother\'s Day	Mother\'s Day	0.9989079236984253
+The NeverEnding Story	The Neverending Story	2.3199451460917918E-14
+High Road	High Road	0.9990624189376831
+Dawn of the Dead	Day of the Dead	7.527955851998475E-14
+So Fine	So Fine	0.9992944002151489
+Fabled	Fabled	0.9992719888687134
+Rebound	Rebound	0.9990980625152588
+Buddy Buddy	Buddy Buddy	0.999201774597168
+The Godfather: Part III	The Godfather, Part II	0.0
+Stuart Little 2	Stuart Little 2	0.9991297721862793
+The Perfect Man	The Perfect Man	0.9991515874862671
+Jack and the Beanstalk	Jack and the Beanstalk	0.9990599155426025
+Safe House	Safe House	0.9992176294326782
+Valkyrie	Valkyrie	0.9992556571960449
+The Black Hole	The Black Hole	0.9990183115005493
+Set It Off	Set It Off	0.9992775917053223
+Free Birds	Free Birds	0.9993358850479126
+Showgirls	Showgirls	0.9990891218185425
+Dark Tide	Dark Tide	0.9992588758468628
+Closed Circuit	Closed Circuit	0.9989887475967407
+The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation Of Smaug Extended Edition	1.3035334259486192E-13
+The Whole Nine Yards	The Whole Nine Yards	0.9990247488021851
+Life of Crime	Life Of Crime	8.40736375374955E-14
+Troy	Troy	0.9992407560348511
+The Wild	The Wild	0.9991520047187805
+Desperate Living	Desperate Living	0.9990650415420532
+Pirates of the Caribbean: Dead Man\'s Chest	Pirates of the Caribbean: At Worlds End	9.016203582346005E-14
+Reds	Reds	0.999183177947998
+Bigger Than Life	Bigger Than Life (1956)	1.2004260703957909E-13
+The Prestige	The Prestige	0.9991095066070557
+Our Town	Our Town	0.9989899396896362
+Sparks	Sparks	0.9989407658576965
+Die Another Day	Die Another Day	0.9992636442184448
+The Jerk Theory	The Jerk Theory	0.9989656209945679
+Shoot the Moon	Shoot the Moon	0.9990711212158203
+Zizek!	Zizek!	0.9990243911743164
+Milk	Milk	0.9990993738174438
+The Great Dictator	The Great Dictator	0.9991234540939331
+In the Line of Fire	In the Line of Fire	0.9990606307983398
+Jersey Girl	Jersey Girl	0.9991755485534668
+Notorious	Notorious	0.9991718530654907
+Lionheart	Lionheart	0.9992629289627075
+Friday the 13th	Friday the 13th	0.9990793466567993
+Where the Red Fern Grows	Where the Red Fern Grows	0.9991875290870667
+Ice Age: Dawn of the Dinosaurs	Ice Age: Dawn of the Dinosaurs (Ice Age 3)	1.4376519451905073E-13
+An Education	An Education	0.9992555975914001
+Celeste & Jesse Forever	Celeste and Jesse Forever	8.020440458696501E-14
+Men in Black II	Men in Black	0.0
+Better Off Dead...	Better Off Dead	1.1174456406850761E-13
+Serenity	Serenity	0.9993065595626831
+Parallels	Parallels	0.9991331100463867
+Anna and the King	Anna and the King	0.9991874694824219
+Curious George	Curious George	0.9991763830184937
+Judge Dredd	Judge Dredd	0.9991632699966431
+Black Mass	Black Mass	0.9991263747215271
+Interstate	Interstate	0.9991887807846069
+The Sixth Sense	The Sixth Sense	0.999157190322876
+The Twilight Saga: New Moon	The Twilight Saga: New Moon	0.999146580696106
+Elizabeth: The Golden Age	Elizabeth: The Golden Age	0.9990555047988892
+Urban Cowboy	Urban Cowboy	0.999050498008728
+The Grand Budapest Hotel	The Grand Budapest Hotel	0.9990594387054443
+Madman	Madman	0.9990173578262329
+Ride Along	Ride Along	0.9991070032119751
+The Beverly Hillbillies	The Beverly Hillbillies	0.9992132782936096
+Drag Me to Hell	Drag Me to Hell	0.9991683959960938
+Mind the Gap	Mind the Gap	0.9990538358688354
+Back to the Future Part II	Back to the Future Part II	0.9991788864135742
+Manhunter	Manhunter	0.9991109371185303
+Citizen Kane	Citizen Kane	0.9991580247879028
+V/H/S/2	V/H/S/2	0.9991308450698853
+The Last Song	The Last Song	0.9991158246994019
+Eight Below	Eight Below	0.9992411732673645
+Shanghai Express	Shanghai Express	0.999126672744751
+No Way Out	No Way Out	0.9991937875747681
+Radar Men from the Moon	Radar Men from the Moon	0.9991837739944458
+Places in the Heart	Places in the Heart	0.9991549253463745
+War Room	War Room	0.9991838932037354
+Sideways	Sideways	0.9989584684371948
+X-Men: The Last Stand	X-Men: The Last Stand	0.9991904497146606
+The Exorcist III	The Exorcist III	0.999130129814148
+Back to the Future	Back to the Future	0.9992249011993408
+Star Trek Into Darkness	Star Trek Into Darkness	0.9989988803863525
+Parker	Parker	0.999121904373169
+Slither	Slither	0.9991049766540527
+D.A.R.Y.L.	D.A.R.Y.L.	0.9992489814758301
+Missing Link	Missing Link	0.9989945888519287
+Doctor Dolittle	Doctor Dolittle	0.9990110397338867
+Beethoven	Beethoven	0.9990553855895996
+Alone in the Dark	Alone in the Dark	0.9991497993469238
+Feast	Feast	0.9992275238037109
+Sinister 2	Sinister 2	0.9990140199661255
+Malcolm X	Malcolm X	0.9990053176879883
+Hollywood Ending	Hollywood Ending	0.9990333318710327
+Leaving Las Vegas	Leaving Las Vegas	0.9992731809616089
+Dolphin Tale	Dolphin Tale	0.9990650415420532
+The Whole Town\'s Talking	The Whole Town\'s Talking	0.9990838766098022
+Promised Land	Promised Land	0.9990711212158203
+The Legend of Boggy Creek	The Legend of Boggy Creek	0.9993351697921753
+One and Two	One & Two	4.8986581799434145E-14
+The Motivation	The Motivation	0.9992709159851074
+Mr. Wonderful	Mr. Wonderful	0.9990034103393555
+Scary Movie 2	Scary Movie	8.13662898451091E-14
+The Den	The Den	0.9990439414978027
+Kevin Hart: Let Me Explain	Kevin Hart: Let Me Explain	0.9992098808288574
+No Man\'s Land	No Man\'s Land	0.9991103410720825
+Viva Knievel!	Viva Knievel!	0.9991921186447144
+While the City Sleeps	While the City Sleeps	0.9991421699523926
+Raw Deal	Raw Deal	0.9990133047103882
+Rush Hour 2	Rush Hour	7.247119706644059E-14
+Seeking a Friend for the End of the World	Seeking a Friend for the End of the World	0.9990379810333252
+Mr. Holmes	Mr. Holmes	0.9990464448928833
+Grandma	Grandma	0.9990395307540894
+Elephant Walk	Elephant Walk	0.9991036653518677
+Commando	Commando	0.9992709159851074
+Freeheld	Freeheld	0.9991486072540283
+Rush Hour 3	Rush Hour	1.0145811464188845E-13
+Boyhood	Boyhood	0.9991021156311035
+The Blue Lagoon	The Blue Lagoon	0.9991518259048462
+Up	Up	0.9991196393966675
+Bill & Ted\'s Bogus Journey	Bill & Ted\'s Bogus Journey	0.9991167783737183
+Cradle Will Rock	Cradle Will Rock	0.9989974498748779
+W.	W.	0.9989850521087646
+Menace II Society	Menace II Society	0.9991108179092407
+Up Close & Personal	Up Close & Personal	0.9991588592529297
+Fed Up	Fed Up	0.9990240335464478
+Sherlock Holmes and the Secret Weapon	Sherlock Holmes and the Woman in Green	6.742763763783674E-14
+Days of Thunder	Days of Thunder	0.9990501403808594
+Apocalypse Now	Apocalypse Now	0.9991203546524048
+Night Patrol	Night Patrol	0.9990837574005127
+Bedazzled	Bedazzled	0.9990688562393188
+Barbershop	Barbershop	0.9990917444229126
+Is It Just Me?	Is It Just Me?	0.9992192983627319
+Beautiful Boy	Beautiful Boy	0.9992194175720215
+Morning Glory	Morning Glory	0.9991672039031982
+Frequency	Frequency	0.9989374876022339
+The Best Man	The Best Man	0.9991519451141357
+Hook	Hook	0.9992203712463379
+Texas Chainsaw 3D	Texas Chainsaw	9.874279806353428E-14
+Alive	Alive	0.9990973472595215
+Mannequin	Mannequin	0.9991978406906128
+Transcendence	Transcendence	0.9989534616470337
+South of the Border	South of the Border	0.9990072250366211
+Home on the Range	Home on the Range	0.9991812705993652
+Percy Jackson: Sea of Monsters	Percy Jackson: Sea of Monsters	0.999000072479248
+Air Force One	Air Force One	0.9990370273590088
+The Undead	The Undead	0.9989210367202759
+Night Skies	Night Skies	0.9990859031677246
+The Karate Kid, Part II	The Karate Kid Part II	0.0
+Christmas in Wonderland	Christmas in Wonderland	0.9990330934524536
+Cheerleader Camp	Cheerleader Camp	0.9991272687911987
+The Gauntlet	The Gauntlet	0.9992536306381226
+Barnyard	Barnyard	0.9990100860595703
+The Natural	The Natural	0.9990925788879395
+Little Caesar	Little Caesar	0.9989966750144958
+The Peanuts Movie	The Peanuts Movie	0.9992020130157471
+The Last Exorcism Part II	The Last Exorcism Part II	0.9992003440856934
+Above the Law	Above the Law	0.9993250370025635
+Bernie	Bernie	0.9992772340774536
+Little Birds	Little Birds	0.9992129802703857
+Wild Wild West	Wild Wild West	0.9992775917053223
+The Lucky One	The Lucky One	0.9991878271102905
+The Tall T	The Tall T	0.9991182684898376
+All of Me	All of Me	0.9991194009780884
+Cowgirls \'n Angels	Cowgirls n\' Angels	2.356509356139097E-13
+Edgar G. Ulmer - The Man Off-screen	Edgar G. Ulmer: The Man Off Screen	3.699859903584339E-14
+The Polar Express	The Polar Express	0.999122142791748
+The American President	The American President	0.9992303848266602
+Day of the Dead	Dawn of the Dead	5.80058936538834E-14
+Crank	Crank	0.9992117881774902
+Peacemaker	Peacemaker	0.9991897344589233
+Ocean\'s Eleven	Ocean\'s Eleven	0.9990206956863403
+Smokin\' Aces	Smokin\' Aces	0.999186635017395
+Unbroken	Unbroken	0.9991000890731812
+Freaky Friday	Freaky Friday	0.9991214275360107
+Entrapment	Entrapment	0.9991626739501953
+Tick Tock	Tick Tock	0.999089241027832
+Thief	Thief	0.9990836381912231
+Gog	Gog	0.9991824626922607
+Higher Learning	Higher Learning	0.999043345451355
+Slumber Party Massacre III	Slumber Party Massacre III	0.9991592168807983
+Extracted	Extracted	0.9991064071655273
+Oliver & Company	Oliver & Company	0.9991136789321899
+A Bucket of Blood	A Bucket of Blood	0.9990962743759155
+Strait-Jacket	Strait-Jacket	0.9991921186447144
+Comandante	Comandante	0.9990973472595215
+Between the Lines	Between the Lines	0.9990898370742798
+At Middleton	At Middleton	0.9991331100463867
+Dog Gone	Dog Gone	0.9992362260818481
+Blue Thunder	Blue Thunder	0.9991458654403687
+10 Things I Hate About You	10 Things I Hate About You	0.9991800785064697
+A Man Apart	A Man Apart	0.9990559816360474
+Children of Men	Children of Men	0.9992364645004272
+Baby Geniuses	Baby Geniuses	0.9990969896316528
+Buck Privates Come Home	Buck Privates Come Home	0.9990394115447998
+Gerry	Gerry	0.9991825819015503
+Great Expectations	Great Expectations	0.9991059303283691
+The Crying Dead	The Crying Dead	0.9992682933807373
+Universal Soldier: Day of Reckoning	Universal Soldier: Day of Reckoning	0.9991492033004761
+Coach	Coach	0.9990360736846924
+Dogma	Dogma	0.9991685152053833
+The Dictator	The Dictator	0.9991748332977295
+The Perfect Guy	The Perfect Guy	0.9991040229797363
+The Muppet Christmas Carol	The Muppet Christmas Carol	0.9989838600158691
+Husbands and Wives	Husbands and Wives	0.9991397857666016
+Casino	Casino	0.999165415763855
+Two for the Money	Two for the Money	0.9992470741271973
+Stranger Than Fiction	Stranger Than Fiction	0.9990876913070679
+A History of Violence	A History of Violence	0.9989590644836426
+Nine Months	Nine Months	0.9989643096923828
+Private School	Private School	0.9989515542984009
+The Terminator	The Terminator	0.9992141723632812
+Resident Evil: Extinction	Resident Evil: Extinction	0.9990932941436768
+The Informant!	The Informant!	0.9989680051803589
+Robby	Robby	0.9992324113845825
+Whiplash	Whiplash	0.999019980430603
+7th Cavalry	7th Cavalry	0.999250054359436
+Love Happens	Love Happens	0.9991443157196045
+Bonnie and Clyde	Bonnie and Clyde	0.9990954399108887
+Year One	Year One	0.9991735219955444
+Blood Beach	Blood Beach	0.9990553855895996
+The Battery	The Battery	0.9991112947463989
+Far from the Madding Crowd	Far From the Madding Crowd	6.60570705665435E-14
+The Prowler	The Prowler	0.9990699291229248
+Return of the Living Dead III	Return of the Living Dead 3	0.0
+Forrest Gump	Forrest Gump	0.9992688894271851
+The Day of the Dolphin	The Day of the Dolphin	0.9990875720977783
+Spider-Man	Spider-Man 3	1.140797119313433E-13
+Spider-Man	Spider-Man 2	1.6261200285611066E-13
+Somm	Somm	0.9992451667785645
+The Muppets Take Manhattan	The Muppets Take Manhattan	0.999282717704773
+They Drive by Night	They Drive by Night	0.999032735824585
+Primal Fear	Primal Fear	0.9991554021835327
+The Lord of the Rings	The Lord of the Rings	0.999058723449707

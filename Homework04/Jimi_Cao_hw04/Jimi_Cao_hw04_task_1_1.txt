@@ -1,0 +1,22 @@
+select distinct ?uni ?uniLabel ?numAlum ?locLabel where {
+  {
+    select ?uni (count(?alumni) as ?numAlum)  where {
+      ?uni wdt:P31/wdt:P279* wd:Q3918 .
+      ?alumni wdt:P69 ?uni .
+    }
+    group by (?uni)
+    having  (?numAlum > 1000)
+  }
+  ?uni wdt:P276 ?loc .
+  ?loc wdt:P31/wdt:P279* wd:Q702492 .
+  filter not exists { ?uni wdt:P154 ?o }
+
+  OPTIONAL {
+    ?uni rdfs:label ?uniLabel .
+    ?loc rdfs:label ?locLabel .
+    FILTER(LANG(?uniLabel) = "en") .
+    FILTER(LANG(?locLabel) = "en") .
+ }
+}
+order by ?uniLabel
+LIMIT 20

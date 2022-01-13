@@ -1,0 +1,99 @@
+Main question to answer in out project:
+  Q:  Can we find players in solo-queue who have the potential to do well in pro-play
+
+Sub question that help answer main question:
+  Q:  What marks a good pro-player?
+  A:  Player can play multiple roles
+      Player has deep champion pool
+      Player consistently has high cs numbers across all champions and roles (excluding support)
+
+  Q: What requirements are there for a champion to be part of a deep champion pool?
+  A: Player needs to have a high number of games on that champion (e.g. > 20)
+
+
+# filter out everyone that has less than 100 games played total (we only have data of the past 30 days, so we are assuming people who want to go pro play 3-4 games everyday on average)
+
+# get players who played with p1
+MATCH p=(p1)-[r1:in_game]->()<-[r2:in_game]-(p2)
+WHERE p1 <> p2
+RETURN p LIMIT 500
+
+# get players who have not played with p1
+MATCH (p2:Account)
+WHERE NOT EXISTS((:Account{Name: 'DK ShowMaker'})-[:in_game]->()<-[:in_game]-(p2:Account))
+RETURN p2
+LIMIT 25
+
+# get player's champion pool (across different accounts)
+MATCH p=(n:Account {Name: 'BRO Hena'})-[g:in_game]->()-[r:has_champion]->(p2)
+WHERE n.id = r.player
+RETURN p2.Name, COUNT(DISTINCT g) AS counts
+ORDER BY counts DESC
+LIMIT 25
+
+# get player's playable positions (across different accounts)
+MATCH p=(n:Account {Name: 'BRO Hena'})-[g:in_game]->()-[r:has_champion]->(p2)
+WHERE n.id = r.player
+RETURN r.role, COUNT(DISTINCT g) AS counts
+ORDER BY counts DESC
+LIMIT 25
+
+# get player's average kill participation percentage on each role (across different accounts)
+MATCH p=(n:Account {Name: 'BRO Hena'})-[g:in_game]->()-[r:has_champion]->(p2)
+WHERE n.id = r.player
+RETURN r.role, AVG(r.kp)
+LIMIT 50
+
+# get player's cs and cs/min on each champion (across different accounts)
+MATCH p=(n:Account {Name: 'BRO Hena'})-[g:in_game]->()-[r:has_champion]->(p2)
+WHERE n.id = r.player
+RETURN p2.Name, AVG(r.cs)
+LIMIT 50
+
+MATCH p=(n:Account {Name: 'BRO Hena'})-[g:in_game]->()-[r:has_champion]->(p2)
+WHERE n.id = r.player
+RETURN p2.Name, AVG(r.cs_min)
+LIMIT 50
+
+# get player/champion kills/assist pre-15 min (across different accounts) and see if there is a correlation to winning games
+
+CALL {
+    MATCH p1=(n:Account {Name: 'BRO Hena'})-[:in_game]->(g:Match)-[r1:has_event]->(e:Event{type:'CHAMPION_KILL'})-[r2:killer]->(n:Account)
+    WHERE e.min <= 15
+    RETURN g.id, COUNT(*) AS killsPerGame
+    LIMIT 50
+}
+RETURN AVG(killsPerGame) AS killsAt15min
+
+CALL {
+    MATCH p1=(n:Account {Name: 'BRO Hena'})-[:in_game]->(g:Match)-[r1:has_event]->(e:Event{type:'CHAMPION_KILL'})-[r2:assist]->(n:Account)
+    WHERE e.min <= 15
+    RETURN g.id, COUNT(*) AS assistPerGame
+    LIMIT 50
+}
+RETURN AVG(assistPerGame) AS assistAt15min
+
+
+# get a champions win rate against all other champions that it has encountered
+
+# try to recommend that top 3? champions that have the highest chance of winning against the enemy team
+# (what is available currently only helps people chose against their lane opponents and doesn't take into consideration the whole enemy team)
+
+# predict the chance of winnning for a particular champion based off enemy team
+
+vlad  predicted = (30+40+50+55+46)/5
+
+kaisa 30
+jana  40
+ss    60
+cc    55
+ss    46
+
+Masters+
+
+D4 +
+
+If 2 accounts are owned by the same player, the 2 accounts are unlikely to be in the same games
+If 2 accounts have similar champion pools, the 2 accounts are likely owned by the same player
+If 2 accounts play similar roles, the 2 accounts are more likely to be owned by the same players
+If 2 accounts have similar cs/min, the 2 accounts are likely to be owned by the same players

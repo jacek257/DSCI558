@@ -1,0 +1,17 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX linkedmdb: <http://data.linkedmdb.org/movie/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+
+
+SELECT distinct ?actor ?name ?date
+WHERE {
+  ?actor linkedmdb:actor_name ?name .
+  ?actor owl:sameAs ?link .
+  filter regex(str(?link), "dbpedia")
+  service <http://dbpedia.org/sparql> {
+    ?link dbo:birthDate ?date .
+    filter (year(?date) < 1980 && year(?date) > 1970) .
+  }
+}
+order by ?date
+LIMIT 20

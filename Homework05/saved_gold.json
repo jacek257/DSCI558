@@ -1,0 +1,912 @@
+[
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:716:729",
+        "director": "https://www.imdb.com/name/nm0001573::span:598:614",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:740:750",
+        "director": "https://www.imdb.com/name/nm0001573::span:598:614",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:779:807",
+        "director": "https://www.imdb.com/name/nm0001573::span:598:614",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:753:772",
+        "director": "https://www.imdb.com/name/nm0001573::span:598:614",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm6722749::span:296:313",
+        "director": "https://www.imdb.com/name/nm6722749::span:335:347",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2268:2283",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2260:2264",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2212:2221",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2260:2264",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:664:684",
+        "director": "https://www.imdb.com/name/nm2159926::span:641:659",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:664:684",
+        "director": "https://www.imdb.com/name/nm2159926::span:625:635",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:772:785",
+        "director": "https://www.imdb.com/name/nm0001253::span:840:850",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:772:785",
+        "director": "https://www.imdb.com/name/nm0001253::span:824:834",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:772:785",
+        "director": "https://www.imdb.com/name/nm0001253::span:800:812",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2605345::span:846:866",
+        "director": "https://www.imdb.com/name/nm2605345::span:912:923",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2605345::span:846:866",
+        "director": "https://www.imdb.com/name/nm2605345::span:773:784",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2605345::span:846:866",
+        "director": "https://www.imdb.com/name/nm2605345::span:881:897",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:566:578",
+        "director": "https://www.imdb.com/name/nm0403951::span:550:556",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:566:578",
+        "director": "https://www.imdb.com/name/nm0403951::span:581:598",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:566:578",
+        "director": "https://www.imdb.com/name/nm0403951::span:504:516",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:550:563",
+        "director": "https://www.imdb.com/name/nm0403951::span:566:571",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:550:563",
+        "director": "https://www.imdb.com/name/nm0403951::span:581:598",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:550:563",
+        "director": "https://www.imdb.com/name/nm0403951::span:504:516",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:581:605",
+        "director": "https://www.imdb.com/name/nm0403951::span:566:571",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:581:605",
+        "director": "https://www.imdb.com/name/nm0403951::span:550:556",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:581:605",
+        "director": "https://www.imdb.com/name/nm0403951::span:504:516",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:522:547",
+        "director": "https://www.imdb.com/name/nm0403951::span:566:571",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:522:547",
+        "director": "https://www.imdb.com/name/nm0403951::span:550:556",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:522:547",
+        "director": "https://www.imdb.com/name/nm0403951::span:581:598",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:522:547",
+        "director": "https://www.imdb.com/name/nm0403951::span:504:516",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:445:462",
+        "director": "https://www.imdb.com/name/nm0001573::span:423:432",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0938557::span:137:156",
+        "director": "https://www.imdb.com/name/nm0938557::span:171:192",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0938557::span:137:156",
+        "director": "https://www.imdb.com/name/nm0938557::span:121:131",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:85:104",
+        "director": "https://www.imdb.com/name/nm0001253::span:60:71",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2493:2504",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2442:2456",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2493:2504",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2408:2415",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:784:797",
+        "director": "https://www.imdb.com/name/nm0352820::span:716:729",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:784:797",
+        "director": "https://www.imdb.com/name/nm0352820::span:767:782",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:784:797",
+        "director": "https://www.imdb.com/name/nm0352820::span:840:857",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:731:764",
+        "director": "https://www.imdb.com/name/nm0352820::span:716:729",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:731:764",
+        "director": "https://www.imdb.com/name/nm0352820::span:767:782",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:731:764",
+        "director": "https://www.imdb.com/name/nm0352820::span:840:857",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:882:896",
+        "director": "https://www.imdb.com/name/nm0352820::span:716:729",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:882:896",
+        "director": "https://www.imdb.com/name/nm0352820::span:767:782",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:882:896",
+        "director": "https://www.imdb.com/name/nm0352820::span:840:857",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:821:834",
+        "director": "https://www.imdb.com/name/nm0352820::span:716:729",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:821:834",
+        "director": "https://www.imdb.com/name/nm0352820::span:767:782",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:821:834",
+        "director": "https://www.imdb.com/name/nm0352820::span:840:857",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:127:154",
+        "director": "https://www.imdb.com/name/nm2240326::span:169:173",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:127:154",
+        "director": "https://www.imdb.com/name/nm2240326::span:183:199",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:127:154",
+        "director": "https://www.imdb.com/name/nm2240326::span:19:28",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:127:154",
+        "director": "https://www.imdb.com/name/nm2240326::span:62:73",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0938557::span:248:276",
+        "director": "https://www.imdb.com/name/nm0938557::span:242:252",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352268/bio::span:146:170",
+        "director": "https://www.imdb.com/name/nm0352268/bio::span:100:107",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352268/bio::span:125:140",
+        "director": "https://www.imdb.com/name/nm0352268/bio::span:146:148",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352268/bio::span:125:140",
+        "director": "https://www.imdb.com/name/nm0352268/bio::span:100:107",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352268/bio::span:96:114",
+        "director": "https://www.imdb.com/name/nm0352268/bio::span:146:148",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:839:855",
+        "director": "https://www.imdb.com/name/nm2159926::span:891:904",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:839:855",
+        "director": "https://www.imdb.com/name/nm2159926::span:926:937",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:839:855",
+        "director": "https://www.imdb.com/name/nm2159926::span:868:885",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:677:703",
+        "director": "https://www.imdb.com/name/nm0403951::span:632:639",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0403951::span:649:674",
+        "director": "https://www.imdb.com/name/nm0403951::span:632:639",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:523:537",
+        "director": "https://www.imdb.com/name/nm0001253::span:575:590",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:523:537",
+        "director": "https://www.imdb.com/name/nm0001253::span:494:501",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:523:537",
+        "director": "https://www.imdb.com/name/nm0001253::span:551:558",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:470:480",
+        "director": "https://www.imdb.com/name/nm0001253::span:575:590",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:470:480",
+        "director": "https://www.imdb.com/name/nm0001253::span:494:501",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:470:480",
+        "director": "https://www.imdb.com/name/nm0001253::span:551:558",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:479:495",
+        "director": "https://www.imdb.com/name/nm2240326::span:435:438",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:479:495",
+        "director": "https://www.imdb.com/name/nm2240326::span:522:532",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:465:501",
+        "director": "https://www.imdb.com/name/nm0001573::span:514:526",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2337:2345",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2377:2387",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2337:2345",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2305:2311",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1767:1784",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1976:1980",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1767:1784",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1750:1761",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1767:1784",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1873:1887",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:249:266",
+        "director": "https://www.imdb.com/name/nm0449684::span:302:309",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:249:266",
+        "director": "https://www.imdb.com/name/nm0449684::span:341:351",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:249:266",
+        "director": "https://www.imdb.com/name/nm0449684::span:374:386",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:347:360",
+        "director": "https://www.imdb.com/name/nm2240326::span:202:206",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:347:360",
+        "director": "https://www.imdb.com/name/nm2240326::span:273:279",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2240326::span:273:286",
+        "director": "https://www.imdb.com/name/nm2240326::span:202:206",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1269:1288",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1303:1313",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1269:1288",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1171:1182",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1269:1288",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1188:1206",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2605345::span:1090:1113",
+        "director": "https://www.imdb.com/name/nm2605345::span:1074:1083",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1092:1101",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1104:1113",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1092:1101",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1083:1088",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1092:1101",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1144:1157",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1092:1101",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1064:1078",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1118:1141",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1104:1113",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1118:1141",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1083:1088",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1118:1141",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1144:1157",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1118:1141",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1064:1078",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1162:1179",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1104:1113",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1162:1179",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1083:1088",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1162:1179",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1144:1157",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1162:1179",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1064:1078",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2729:2749",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2729:2749",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2796:2813",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2858:2882",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2858:2882",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2752:2767",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2752:2767",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2816:2831",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2816:2831",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2770:2793",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2770:2793",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2834:2855",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2834:2855",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2709:2726",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2888:2902",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2796:2806",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2888:2902",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2709:2719",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm7172297/bio::span:130:159",
+        "director": "https://www.imdb.com/name/nm7172297/bio::span:175:181",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0305558::span:709:728",
+        "director": "https://www.imdb.com/name/nm0305558::span:849:864",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0305558::span:709:728",
+        "director": "https://www.imdb.com/name/nm0305558::span:776:792",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0305558::span:709:728",
+        "director": "https://www.imdb.com/name/nm0305558::span:814:827",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:541:555",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:613:630",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:681:691",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:571:580",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:505:522",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:658:676",
+        "director": "https://www.imdb.com/name/nm0449684::span:476:489",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:541:555",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:613:630",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:681:691",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:571:580",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:505:522",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0449684::span:423:445",
+        "director": "https://www.imdb.com/name/nm0449684::span:476:489",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2940:2959",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:3230:3240",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2940:2959",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:3276:3283",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001573::span:158:168",
+        "director": "https://www.imdb.com/name/nm0001573::span:40:55",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:764:779",
+        "director": "https://www.imdb.com/name/nm2159926::span:718:730",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm2159926::span:764:779",
+        "director": "https://www.imdb.com/name/nm2159926::span:703:712",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0444223::span:669:700",
+        "director": "https://www.imdb.com/name/nm0444223::span:706:716",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:2591:2607",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:2580:2589",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:694:712",
+        "director": "https://www.imdb.com/name/nm0352820::span:675:691",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:591:612",
+        "director": "https://www.imdb.com/name/nm0352820::span:694:705",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:591:612",
+        "director": "https://www.imdb.com/name/nm0352820::span:572:589",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:591:612",
+        "director": "https://www.imdb.com/name/nm0352820::span:675:691",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:633:653",
+        "director": "https://www.imdb.com/name/nm0352820::span:694:705",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:633:653",
+        "director": "https://www.imdb.com/name/nm0352820::span:572:589",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:633:653",
+        "director": "https://www.imdb.com/name/nm0352820::span:675:691",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm1869101::span:221:234",
+        "director": "https://www.imdb.com/name/nm1869101::span:209:227",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm1869101::span:221:234",
+        "director": "https://www.imdb.com/name/nm1869101::span:249:271",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:706:720",
+        "director": "https://www.imdb.com/name/nm0001253::span:734:747",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001253::span:706:720",
+        "director": "https://www.imdb.com/name/nm0001253::span:669:682",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:972:980",
+        "director": "https://www.imdb.com/name/nm0352820::span:900:905",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0938557::span:503:513",
+        "director": "https://www.imdb.com/name/nm0938557::span:354:361",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0938557::span:410:441",
+        "director": "https://www.imdb.com/name/nm0938557::span:354:361",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm1162030::span:243:252",
+        "director": "https://www.imdb.com/name/nm1162030::span:236:245",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:879:906",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:914:918",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:378:396",
+        "director": "https://www.imdb.com/name/nm0352820::span:410:426",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:378:396",
+        "director": "https://www.imdb.com/name/nm0352820::span:499:519",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:378:396",
+        "director": "https://www.imdb.com/name/nm0352820::span:505:523",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:378:396",
+        "director": "https://www.imdb.com/name/nm0352820::span:365:376",
+        "value": 1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:513:530",
+        "director": "https://www.imdb.com/name/nm0352820::span:410:426",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:513:530",
+        "director": "https://www.imdb.com/name/nm0352820::span:499:519",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:513:530",
+        "director": "https://www.imdb.com/name/nm0352820::span:505:523",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0352820::span:513:530",
+        "director": "https://www.imdb.com/name/nm0352820::span:365:376",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1556:1575",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1465:1470",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1556:1575",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1504:1513",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0000997/bio::span:1556:1575",
+        "director": "https://www.imdb.com/name/nm0000997/bio::span:1519:1530",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1263:1274",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1280:1289",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1222:1235",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1340:1344",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1321:1334",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1196:1219",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1182:1191",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1196:1212",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1263:1274",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1280:1289",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1222:1235",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1340:1344",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1321:1334",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1240:1256",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1182:1191",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1196:1212",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1263:1274",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1280:1289",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1222:1235",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1340:1344",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1321:1334",
+        "value": -1
+    },
+    {
+        "performance": "https://www.imdb.com/name/nm0001849/bio::span:1294:1314",
+        "director": "https://www.imdb.com/name/nm0001849/bio::span:1182:1191",
+        "value": -1
+    }
+]

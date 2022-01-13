@@ -1,0 +1,28 @@
+select ?torn ?tornLabel ?date ?teamA ?teamB ?tgoals where {
+  {
+    select ?torn (group_concat(distinct ?teamLabel; separator=",") as ?teams) (sum(?goals) as ?tgoals) {
+      {
+        select distinct ?torn ?team ?goals where {
+        ?torn wdt:P31/wdt:P279* wd:Q16466010 .
+        ?torn p:P1923 ?teamStatement .
+        ?teamStatement ps:P1923 ?team ;
+                       pq:P1351 ?goals .
+        }
+      }
+      optional { 
+        ?team rdfs:label ?teamLabel . 
+        filter(lang(?teamLabel) = "en")
+      }
+    }
+    group by ?torn
+  }
+  bind( strbefore( ?teams, "," ) as ?teamA )
+  bind( strafter( ?teams, "," ) as ?teamB )
+  ?torn wdt:P585 ?date .
+  optional {
+    ?torn rdfs:label ?tornLabel . 
+    filter(lang(?tornLabel) = "en")
+  }
+} 
+order by desc(?tgoals)
+limit 20

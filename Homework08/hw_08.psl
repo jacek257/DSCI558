@@ -1,0 +1,30 @@
+// Look for text similarity.
+40.0: MovieBlock(P1, B) & MovieBlock(P2, B) & MovieTitle(A1, N1) & MovieTitle(A2, N2) & SimMovie(N1, N2) & (A1 != A2) -> SameMovie(A1, A2) ^2
+40.0: DirectorBlock(P1, B) & DirectorBlock(P2, B) & DirectorName(P1, T1) & DirectorName(P2, T2) & SimDir(T1, T2) & (P1 != P2) -> SameDir(P1, P2) ^2
+
+// Pure transitivity
+20.0: DirectorBlock(A1, B) & DirectorBlock(A2, B) & DirectorBlock(A3, B)
+   & SameDir(A1, A2) & SameDir(A2, A3)
+   & (A1 != A3) & (A1 != A2) & (A2 != A3)
+   -> SameDir(A1, A3) ^2
+
+// Coauthor rectangle closure.
+20.0: DirectorBlock(A1, B1) & DirectorBlock(A2, B1) & DirectorBlock(CA1, B2) & DirectorBlock(CA2, B2) &
+   & DirectorOf(A1, P1) & DirectorOf(A2, P2)
+   & DirectorOf(CA1, P1) & DirectorOf(CA2, P2) & SameDir(CA1, CA2)
+   & (A1 != CA1) & (A2 != CA2) & (P1 != P2)
+   -> SameDir(A1, A2) ^2
+
+// Paper rectangle closure.
+10.0: DirectorBlock(A1, B1) & DirectorBlock(A2, B1)
+   & DirectorOf(A1, P1) & DirectorOf(A2, P2)
+   & SameMovie(P1, P2) & (A1 != A2)
+   -> SameDir(A1, A2) ^2
+
+// Self-refernece.
+SameDir(A, A) = 1.0 .
+SameMovie(P, P) = 1.0 .
+
+// Negative priors.
+1.0: !SameDir(A1, A2) ^2
+1.0: !SameMovie(A1, A2) ^2

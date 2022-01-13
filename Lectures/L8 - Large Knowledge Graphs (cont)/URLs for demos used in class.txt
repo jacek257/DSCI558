@@ -1,0 +1,17 @@
+
+https://tagme.d4science.org/tagme/
+
+https://opentapioca.org/
+
+http://wikifier.org/
+
+https://www.dbpedia-spotlight.org/demo/
+
+https://gate.d5.mpi-inf.mpg.de/webaida/
+
+https://demo.allennlp.org/coreference-resolution
+
+https://github.com/explosion/spaCy/tree/master/
+
+https://docs.google.com/presentation/d/1CEc3pTMLX-XV1zgirydhURZdcNlgB2l4TXQv6mxLhy8/edit#slide=id.g5afab164be_0_21
+

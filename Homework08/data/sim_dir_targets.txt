@@ -1,0 +1,2158 @@
+Mark Sandrich	Mark Sandrich	1.0
+Robert Z. Leonard	Robert Z. Leonard	1.0
+Richard Rush	Richard Rush	1.0
+Dan Rush	Dan Rush	1.0
+Frank Capra	Frank Capra	1.0
+John S. Robertson	John S. Robertson	1.0
+Shari Robertson	Mary Robertson	0.8857142857142857
+Sarah Robertson	Mary Robertson	0.8857142857142857
+Rouben Mamoulian	Rouben Mamoulian	1.0
+Victor Heerman	Victor Heerman	1.0
+Andrew Fleming	Andrew Fleming	1.0
+Victor Fleming	Victor Fleming	1.0
+W.S. Van Dyke	W.S. Van Dyke	1.0
+Raja Gosnell	Raja Gosnell	1.0
+Paul McGuigan	Paul McGuigan	1.0
+James Whale	James Whale	1.0
+George Roy Hill	George Roy Hill	1.0
+George Roy Hill	George W. Hill	0.9314285714285714
+Walter Hill	Walter Hill	1.0
+Jack Hill	Jack Hill	1.0
+Jack Hill	James Hill	0.8607407407407408
+Tim Hill	Tim Hill	1.0
+Tod Browning	Tod Browning	1.0
+John Whitesell	John Whitesell	1.0
+John Badham	John Badham	1.0
+Allen Hughes	Albert Hughes	0.8940170940170941
+Allen Hughes	Ken Hughes	0.8833333333333333
+John Hughes	John Hughes	1.0
+Patrick Hughes	Patrick Hughes	1.0
+David Hughes	David A. Hughes	0.96
+Ken Hughes	Ken Hughes	1.0
+Bronwen Hughes	Bronwen Hughes	1.0
+Lewis Milestone	Lewis Milestone	1.0
+Norman Z. McLeod	Norman Z. McLeod	1.0
+Norman Z. McLeod	Norman McLeod	0.9625
+Mervyn LeRoy	Mervyn LeRoy	1.0
+Jonathan Kaplan	Jonathan Kaplan	1.0
+Charles Jarrott	Charles Jarrott	1.0
+Howard Hawks	Howard Hawks	1.0
+King Vidor	King Vidor	1.0
+Charles Vidor	Charles Vidor	1.0
+Rod Lurie	Rod Lurie	1.0
+Franco Zeffirelli	Franco Zeffirelli	1.0
+Dave Green	Dave Green	1.0
+Adam Green	Adam Green	1.0
+Alfred E. Green	Alfred E. Green	1.0
+David Gordon Green	David Gordon Green	1.0
+Frank Hall Green	Frank Hall Green	1.0
+Roy Del Ruth	Roy Del Ruth	1.0
+William A. Wellman	William Wellman	0.9400000000000001
+Alan Brown	Angie Brown	0.8581818181818182
+Alan Brown	Alan Brown	1.0
+Clarence Brown	Clarence Brown	1.0
+Margaret Brown	Mark Brown	0.8674074074074074
+Mark Brown	Mark Brown	1.0
+Alrick Brown	Mark Brown	0.8833333333333333
+Alrick Brown	Arvin Brown	0.8704545454545455
+Worth Keeter	Worth Keeter	1.0
+Michael Mann	Michael Mann	1.0
+Anthony Mann	Anthony Mann	1.0
+Delbert Mann	Delbert Mann	1.0
+Daniel Mann	Daniel Mann	1.0
+Ami Canaan Mann	Ami Canaan Mann	1.0
+Kelly Asbury	Kelly Asbury	1.0
+Wesley Ruggles	Wesley Ruggles	1.0
+Charles Chaplin	Charles Chaplin	1.0
+George Stevens	George Stevens	1.0
+Andrew Stevens	Andrew Stevens	1.0
+Andrew Stevens	Alex Stevens	0.8642857142857143
+Fisher Stevens	Fisher Stevens	1.0
+David Stevens	David Stevens	1.0
+Archie Mayo	Archie Mayo	1.0
+Victor Halperin	Victor Halperin	1.0
+William Castle	William Castle	1.0
+Nikolaj Arcel	Nicolaj Arcel	0.958974358974359
+Stephen Sommers	Stephen Sommers	1.0
+Robert Kurtzman	Robert Kurtzman	1.0
+Alex Kurtzman	Alex Kurtzman	1.0
+Karl Freund	Karl W. Freund	0.9571428571428571
+Paul Weitz	Paul Weitz	1.0
+Chris Weitz	Chris Weitz	1.0
+Edmund Goulding	Edmund Goulding	1.0
+Peter Jackson	Peter Jackson	1.0
+Mick Jackson	Mick Jackson	1.0
+Donald G. Jackson	Douglas Jackson	0.8811865258924082
+Nick Grinde	Nick Grinde	1.0
+Erle C. Kenton	Erle C. Kenton	1.0
+Paul Thomas Anderson	Paul W.S. Anderson	0.8633333333333334
+Paul Thomas Anderson	Paul Thomas Anderson	1.0
+Michael Anderson	Michael Anderson	1.0
+Paul W.S. Anderson	Paul W.S. Anderson	1.0
+Paul W.S. Anderson	Paul Thomas Anderson	0.8633333333333334
+Wes Anderson	Wes Anderson	1.0
+Brad Anderson	Brad Anderson	1.0
+Stephen J. Anderson	Stephen Anderson	0.968421052631579
+Stephen J. Anderson	Stephen John Anderson	0.9164578111946532
+Scott S. Anderson	Scott S. Anderson	1.0
+Stephen Milburn Anderson	Stephen Anderson	0.8958333333333333
+Stephen Milburn Anderson	Stephen John Anderson	0.8880952380952382
+Josef von Sternberg	Josef von Sternberg	1.0
+Tobe Hooper	Tobe Hooper	1.0
+Tobe Hooper	Tom Hooper	0.8655892255892256
+Tom Hooper	Tobe Hooper	0.8655892255892256
+Tom Hooper	Tom Hooper	1.0
+Ernst Lubitsch	Ernst Lubitsch	1.0
+Robert Florey	Robert Florey	1.0
+George Cukor	George Cukor	1.0
+Shawn Levy	Shawn Levy	1.0
+Ralph Levy	Ralph Levy	1.0
+Antonio Margheriti	Antonio Margheriti	1.0
+John Guillermin	John Guillermin	1.0
+William A. Seiter	William A. Seiter	1.0
+Scott Cooper	Scott Cooper	1.0
+Trent Cooper	Trent Cooper	1.0
+Trent Cooper	Matt Cooper	0.8560606060606061
+Ford Beebe	Ford I. Beebe	0.9538461538461538
+Ernest B. Schoedsack	Ernest B. Schoedsack	1.0
+Joe May	Joe May	1.0
+Busby Berkeley	Busby Berkeley	1.0
+Lloyd Bacon	Lloyd Bacon	1.0
+Marielle Heller	Marielle Heller	1.0
+Jack Heller	Jack Heller	1.0
+Jonathan Levine	Jonathan Levine	1.0
+Leo McCarey	Leo McCarey	1.0
+Frank R. Strayer	Frank Strayer	0.9163461538461538
+Hideo Nakata	Hideo Nakata	1.0
+Don Roos	Don Roos	1.0
+Frank Lloyd	Frank Lloyd	1.0
+Phyllida Lloyd	Phyllida Lloyd	1.0
+Brian Levant	Brian Levant	1.0
+John Cassavetes	John Cassavetes	1.0
+Nick Cassavetes	Nick Cassavetes	1.0
+Harry d'Abbadie d'Arrast	Harry d'Abbadie d'Arrast	1.0
+Timothy Armstrong	Timothy Armstrong	1.0
+Samuel Armstrong	Samuel Armstrong	1.0
+Gillian Armstrong	Gillian Armstrong	1.0
+Robert Hall	Robert Hall	1.0
+Klay Hall	Klay Hall	1.0
+Alexander Hall	Alexander Hall	1.0
+Bert I. Gordon	Bert I. Gordon	1.0
+Stuart Gordon	Stuart Gordon	1.0
+Steve Gordon	Seth Gordon	0.8927272727272727
+Steve Gordon	Steve Gordon	1.0
+Steve Gordon	Steven E. Gordon	0.9
+Michael Gordon	Michael Gordon	1.0
+Robert Gordon	Robert Gordon	1.0
+Seth Gordon	Seth Gordon	1.0
+Seth Gordon	Steve Gordon	0.8927272727272727
+Seth Gordon	Keith Gordon	0.914141414141414
+Bette Gordon	Seth Gordon	0.8560606060606061
+Bette Gordon	Steve Gordon	0.8555555555555556
+Keith Gordon	Seth Gordon	0.914141414141414
+Keith Gordon	Keith Gordon	1.0
+Dennie Gordon	Dennie Gordon	1.0
+Harve Foster	Harve Foster	1.0
+Jodie Foster	Jodie Foster	1.0
+Lewis R. Foster	Lewis R. Foster	1.0
+Byron Haskin	Byron Haskin	1.0
+Stuart Walker	Stuart Walker	1.0
+Hal Walker	Hal Walker	1.0
+Nicolas Winding Refn	Nicolas Winding Refn	1.0
+Henry Hathaway	Henry Hathaway	1.0
+Richard Franklin	Richard Franklin	1.0
+Carl Franklin	Howard Franklin	0.8598290598290598
+Carl Franklin	Carl Franklin	1.0
+Howard Franklin	Howard Franklin	1.0
+Howard Franklin	Carl Franklin	0.8598290598290598
+Sidney Franklin	Sidney Franklin	1.0
+Mitch Davis	Mitch Davis	1.0
+Andrew Davis	Andrew Davis	1.0
+Peter Davis	Peter Davis	1.0
+Tamra Davis	Tamra Davis	1.0
+John A. Davis	John A. Davis	1.0
+Desmond Davis	Desmond Davis	1.0
+Michael Curtiz	Michael Curtiz	1.0
+Richard Thorpe	Richard Thorpe	1.0
+John Landis	John Landis	1.0
+John Huston	John Huston	1.0
+Jimmy Huston	Jimmy Huston	1.0
+Baz Luhrmann	Baz Luhrmann	1.0
+Sam Wood	Sam Wood	1.0
+Tim Johnson	Eric Johnson	0.8560606060606061
+Tim Johnson	Neil Johnson	0.8560606060606061
+Tim Johnson	Tim Johnson	1.0
+Matt Johnson	Tim Johnson	0.8808080808080808
+Frank E. Johnson	Rian Johnson	0.8680555555555555
+Frank E. Johnson	Alex R. Johnson	0.8674145299145298
+Kenneth Johnson	Kenneth Johnson	1.0
+Liza Johnson	Clark Johnson	0.8675213675213675
+Liza Johnson	Neil Johnson	0.8555555555555556
+Liza Johnson	Paul Johnson	0.8555555555555556
+Liza Johnson	Tim Johnson	0.8560606060606061
+Mark Steven Johnson	Mark Steven Johnson	1.0
+Josh Johnson	John Johnson	0.8585858585858586
+Josh Johnson	Josh Johnson	1.0
+Rian Johnson	Rian Johnson	1.0
+Rian Johnson	Neil Johnson	0.8555555555555556
+Rian Johnson	Alan Johnson	0.888888888888889
+Rian Johnson	Bryan Johnson	0.9209401709401709
+Clark Johnson	Clark Johnson	1.0
+Alex R. Johnson	Alex R. Johnson	1.0
+Alex R. Johnson	Alan Johnson	0.8666666666666667
+Bryan Johnson	Rian Johnson	0.9209401709401709
+Bryan Johnson	Alan Johnson	0.8675213675213675
+Bryan Johnson	Bryan Johnson	1.0
+Mike Johnson	Eric Johnson	0.8555555555555556
+Mike Johnson	Neil Johnson	0.8555555555555556
+Mike Johnson	Tim Johnson	0.8808080808080808
+Chris Mason Johnson	Chris Mason Johnson	1.0
+Alan Johnson	Rian Johnson	0.888888888888889
+Alan Johnson	Alex R. Johnson	0.8666666666666667
+Alan Johnson	Neil Johnson	0.8555555555555556
+Alan Johnson	Alan Johnson	1.0
+Alan Johnson	Bryan Johnson	0.8675213675213675
+Craig Johnson	Clark Johnson	0.8804195804195803
+Craig Johnson	Eric Johnson	0.8906371406371406
+Michael J. Mantsourani Jr.	Michael Anderson Jr.	0.862905982905983
+Robert A. Emmons Jr.	Robert Downey Jr.	0.8618487394957983
+Jack Haley Jr.	Jack Haley Jr.	1.0
+George Tillman Jr.	George Stevens Jr.	0.888888888888889
+George Tillman Jr.	George Tillman Jr.	1.0
+Gil Cates Jr.	Gil Cates Jr.	1.0
+Arthur Rankin Jr.	Arthur Rankin Jr.	1.0
+Patrick Gambuti Jr.	Patrick Gambuti Jr.	1.0
+Rhys Thomas	Ralph Thomas	0.8704545454545455
+Betty Thomas	Betty Thomas	1.0
+David Thomas	Dave Thomas	0.9398989898989898
+Gregory Nava	Gregory Nava	1.0
+David Ayer	David Ayer	1.0
+Richard Curtis	Richard Curtis	1.0
+Jack Conway	Jack Conway	1.0
+Roger Corman	Roger Corman	1.0
+James McTeigue	James McTeigue	1.0
+Henry Koster	Henry Koster	1.0
+Herbert Ross	Herbert Ross	1.0
+Turner Ross	Turner Ross	1.0
+Gary Ross	Gary Ross	1.0
+Rob Reiner	Rob Reiner	1.0
+Carl Reiner	Carl Reiner	1.0
+Lambert Hillyer	Lambert Hillyer	1.0
+Niels Arden Oplev	Niels Arden Oplev	1.0
+Andy Fickman	Andy Fickman	1.0
+Gregory La Cava	Gregory La Cava	1.0
+Irving Cummings	Irving Cummings	1.0
+George Fitzmaurice	George Fitzmaurice	1.0
+Richard Quine	Richard Quine	1.0
+Preston A. Whitmore II	Preston A. Whitmore II	1.0
+Matthew Robbins	Matthew Robbins	1.0
+Brian Robbins	Brian Robbins	1.0
+Tim Robbins	Tim Robbins	1.0
+Christopher Miller	Chris Miller	0.8833333333333333
+George Miller	George T. Miller	0.9625
+George Miller	George Miller	1.0
+Terry T. Miller	Troy Miller	0.8727272727272727
+Bennett Miller	Bennett Miller	1.0
+Randall Miller	Randall Miller	1.0
+Rebecca Miller	Rebecca Miller	1.0
+Chris Miller	Chris Miller	1.0
+David Miller	David Miller	1.0
+Troy Miller	Troy Miller	1.0
+Tim Miller	Tim Miller	1.0
+Carl Miller	Paul Miller	0.8787878787878789
+James W. Horne	James W. Horne	1.0
+Allan Dwan	Allan Dwan	1.0
+William Wyler	William Wyler	1.0
+Phil Karlson	Phil Karlson	1.0
+Ulu Grosbard	Ulu Grosbard	1.0
+Robert Lieberman	Robert H. Lieberman	0.968421052631579
+Jeff Lieberman	Jeff Lieberman	1.0
+Guy Jenkin	Guy Jenkin	1.0
+Christopher Coppola	Christopher Coppola	1.0
+Francis Ford Coppola	Francis Ford Coppola	1.0
+Sofia Coppola	Sofia Coppola	1.0
+Gia Coppola	Gia Coppola	1.0
+William Keighley	William Keighley	1.0
+Julien Duvivier	Julien Duvivier	1.0
+Mitchell Leisen	Mitchell Leisen	1.0
+Norman Taurog	Norman Taurog	1.0
+Gareth Edwards	Gareth Edwards	1.0
+Blake Edwards	Blake Edwards	1.0
+Donald Petrie	Donald Petrie	1.0
+Daniel Petrie	Daniel Petrie	1.0
+John Farrow	John Farrow	1.0
+David Hugh Jones	David Hugh Jones	1.0
+Kirk Jones	Kirk Jones	1.0
+Kent Jones	Dean Jones	0.8666666666666667
+Kent Jones	Kent Jones	1.0
+Dean Jones	Dean Jones	1.0
+Dean Jones	Andy Jones	0.8962962962962964
+Dean Jones	Kent Jones	0.8666666666666667
+Dean Jones	Andrew Jones	0.8777777777777779
+Andrew R. Jones	Andrew Jones	0.96
+Don Jones	Dean Jones	0.9066666666666667
+Don Jones	Andy Jones	0.8546296296296297
+Chuck Jones	Chuck Jones	1.0
+Andrew P. Jones	Andrew Jones	0.96
+Richard Donner	Richard Donner	1.0
+Robert Zemeckis	Robert Zemeckis	1.0
+Spike Lee	Spike Lee	1.0
+Rowland V. Lee	Rowland V. Lee	1.0
+Dennis Lee	Dennis Lee	1.0
+Ang Lee	Ang Lee	1.0
+Malcolm D. Lee	Malcolm D. Lee	1.0
+Joseph Lee	Jieho Lee	0.8691666666666668
+John Moore	John Moore	1.0
+John Moore	Jason Moore	0.9154545454545455
+Michael Moore	Michael Moore	1.0
+Simon Moore	Simon Moore	1.0
+Jason Moore	John Moore	0.9154545454545455
+Jason Moore	Jason Moore	1.0
+Rich Moore	Nick Moore	0.8666666666666667
+Rich Moore	Rich Moore	1.0
+Rich Moore	Chris Moore	0.903030303030303
+Tom Moore	Tom Moore	1.0
+Chris Moore	Rich Moore	0.903030303030303
+Chris Moore	Chris Moore	1.0
+Nick Moore	Nick Moore	1.0
+Nick Moore	Rich Moore	0.8666666666666667
+Richard Fleischer	Richard Fleischer	1.0
+Dave Fleischer	Dave Fleischer	1.0
+Charles Sturridge	Charles Sturridge	1.0
+Álex de la Iglesia	Eloy de la Iglesia	0.9050925925925926
+Álex de la Iglesia	Álex de la Iglesia	1.0
+Rob Letterman	Rob Letterman	1.0
+Edward Buzzell	Edward N. Buzzell	0.9647058823529411
+Fritz Lang	Fritz Lang	1.0
+Walter Lang	Walter Lang	1.0
+Richard Lang	Richard Lang	1.0
+Alfonso Cuarón	Alfonso Cuarón	1.0
+Terence Fisher	Terence Fisher	1.0
+David Fisher	David Lee Fisher	0.9166666666666667
+Sidney Lanfield	Sidney Lanfield	1.0
+Juan Feldman	Juan Feldman	1.0
+Joseph M. Newman	Joseph Newman	0.9317307692307693
+Anatole Litvak	Anatole Litvak	1.0
+Daniel Haller	Daniel Haller	1.0
+Gordon Douglas	Gordon M. Douglas	0.9647058823529411
+Andrew Douglas	Andrew Douglas	1.0
+John Ford	John Ford	1.0
+Jennifer Blanc	Jean-Pierre Blanc	0.8834733893557423
+Alfred L. Werker	Alfred L. Werker	1.0
+Billy Wilder	Billy Wilder	1.0
+Gene Wilder	Gene Wilder	1.0
+William Dieterle	William Dieterle	1.0
+Edward F. Cline	Edward F. Cline	1.0
+Alfred Hitchcock	Alfred Hitchcock	1.0
+Victor Schertzinger	Victor Schertzinger	1.0
+Declan O'Brien	Declan O'Brien	1.0
+Buster Keaton	Buster Keaton	1.0
+Dorothy Arzner	Dorothy Arzner	1.0
+A. Edward Sutherland	A. Edward Sutherland	1.0
+T. Hee	T. Hee	1.0
+John Sturges	John Sturges	1.0
+Preston Sturges	Preston Sturges	1.0
+Arthur Lubin	Arthur Lubin	1.0
+Earl Barton	Charles Barton	0.8679653679653679
+Charles Barton	Charles Barton	1.0
+Roy William Neill	Roy William Neill	1.0
+John Requa	John Requa	1.0
+Joe Johnston	Joe Johnston	1.0
+Raoul Walsh	Raoul Walsh	1.0
+Matt Walsh	Matt Walsh	1.0
+George Waggner	George Waggner	1.0
+Simon Wincer	Simon Wincer	1.0
+William Brent Bell	William Brent Bell	1.0
+Lake Bell	Lake Bell	1.0
+Jim McBride	Jim McBride	1.0
+Orson Welles	Cory Welles	0.8560606060606061
+Orson Welles	Orson Welles	1.0
+Gregory Ratoff	Gregory Ratoff	1.0
+Tommy Chong	Tommy Chong	1.0
+Steve Martino	Steve Martino	1.0
+Irving Rapper	Irving Rapper	1.0
+Ray Enright	Ray Enright	1.0
+Jesse Hibbs	Jesse Hibbs	1.0
+Brian Pimental	Brian Pimental	1.0
+Harold Young	Harold Young	1.0
+Robert Young	Robert M. Young	0.96
+Robert Young	Roger Young	0.9313131313131312
+David Hand	David D. Hand	0.9138461538461539
+Harold P. Warren	Hal P. Warren	0.95
+John Warren	John Warren	1.0
+Zalman King	Zalman King	1.0
+Henry King	Henry King	1.0
+Bradley King	Bradley King	1.0
+Zoltan Korda	Zoltan Korda	1.0
+Darren Aronofsky	Darren Aronofsky	1.0
+Robert Mandel	Robert Mandel	1.0
+Robert Siodmak	Robert Siodmak	1.0
+Paul Schrader	Paul Schrader	1.0
+Gregg Toland	Gregg Toland	1.0
+Johanna Hamilton	Johanna Hamilton	1.0
+Guy Hamilton	Guy Hamilton	1.0
+Elliott Nugent	Elliott Nugent	1.0
+Leslie Goodwins	Leslie Goodwins	1.0
+Otto Preminger	Otto Preminger	1.0
+Clint Eastwood	Clint Eastwood	1.0
+Les Mayfield	Les Mayfield	1.0
+Alexandre Aja	Alexandre Aja	1.0
+Brett Haley	Brett Haley	1.0
+Martin Weisz	Martin Weisz	1.0
+Buck Henry	Buck Henry	1.0
+Wolfgang Petersen	Wolfgang Petersen	1.0
+Andrew Marton	Andrew Marton	1.0
+David Butler	David Butler	1.0
+Robert Butler	Robert Butler	1.0
+Philip Gardiner	Philip Gardiner	1.0
+Mike Nichols	Mike Nichols	1.0
+Hector Babenco	Hector Babenco	1.0
+George Sidney	George Sidney	1.0
+Ron Howard	Ron Howard	1.0
+Ron Howard	Byron Howard	0.9444444444444445
+Adam Coleman Howard	Adam Coleman Howard	1.0
+Byron Howard	Ron Howard	0.9444444444444445
+Byron Howard	Byron Howard	1.0
+Stanley Donen	Stanley Donen	1.0
+Dwight H. Little	Dwight Little	0.9625
+Ryan Little	Ryan Little	1.0
+Wes Craven	Wes Craven	1.0
+Astra Taylor	Astra Taylor	1.0
+Brian Taylor	Brian Taylor	1.0
+Brian Taylor	Ray Taylor	0.8833333333333333
+Deon Taylor	Don Taylor	0.9727272727272728
+Deon Taylor	Deon Taylor	1.0
+Don Taylor	Don Taylor	1.0
+Don Taylor	Deon Taylor	0.9727272727272728
+Don Taylor	Jud Taylor	0.8666666666666667
+Alan Taylor	Alan Taylor	1.0
+Renée Taylor	Deon Taylor	0.8560606060606061
+Sam Taylor	Sam Taylor	1.0
+Curtis Bernhardt	Curtis Bernhardt	1.0
+Philip Kaufman	Philip Kaufman	1.0
+Charles Kaufman	Charles Kaufman	1.0
+Lloyd Kaufman	Lloyd Kaufman	1.0
+Charlie Kaufman	Charles Kaufman	0.9733333333333334
+Don Siegel	Don Siegel	1.0
+Robert Wise	Robert Wise	1.0
+Kirk Wise	Kirk Wise	1.0
+Jason Wise	Jason Wise	1.0
+Warren Beatty	Warren Beatty	1.0
+Stuart Gilmore	Stuart Gilmore	1.0
+Tom Harper	Tom Harper	1.0
+David Slade	David Slade	1.0
+Jack Bernhard	Jack Bernhard	1.0
+Jacques Tourneur	Jacques Tourneur	1.0
+Kamal Ahmed	Kamal Ahmed	1.0
+John Cromwell	John Cromwell	1.0
+Don Bluth	Don Bluth	1.0
+Andrew V. McLaglen	Andrew V. McLaglen	1.0
+J. Lee Thompson	J. Lee Thompson	1.0
+Matt Thompson	Matthew Thompson	0.9471153846153847
+Lea Thompson	J. Lee Thompson	0.853030303030303
+Caroline Thompson	Caroline Thompson	1.0
+George Seaton	George Seaton	1.0
+John Byrum	John Byrum	1.0
+Bob Rafelson	Bob Rafelson	1.0
+Tay Garnett	Tay Garnett	1.0
+Amy Rice	Amy Rice	1.0
+Peter Bogdanovich	Peter Bogdanovich	1.0
+James Wong	James Wong	1.0
+Delmer Daves	Delmer Daves	1.0
+Stan Ferguson	Dustin Ferguson	0.9076923076923077
+Larry Ferguson	Larry Ferguson	1.0
+Charles Ferguson	Charles Ferguson	1.0
+Max Ophüls	Max Ophüls	1.0
+Douglas Sirk	Douglas Sirk	1.0
+Lee Tamahori	Lee Tamahori	1.0
+Helmut Schleppi	Helmut Schleppi	1.0
+Vincente Minnelli	Vincente Minnelli	1.0
+Frank Tashlin	Frank Tashlin	1.0
+Charles Walters	Charles Walters	1.0
+Fred Zinnemann	Fred Zinnemann	1.0
+Gore Verbinski	Gore Verbinski	1.0
+Fred Gerber	Fred Gerber	1.0
+Fred M. Wilcox	Fred Wilcox	0.9571428571428571
+Fred M. Wilcox	Fred McLeod Wilcox	0.884004884004884
+Agnieszka Holland	Agnieszka Holland	1.0
+Tom Holland	Todd Holland	0.9313131313131312
+Tom Holland	Tom Holland	1.0
+Savage Steve Holland	Savage Steve Holland	1.0
+Todd Holland	Todd Holland	1.0
+Todd Holland	Tom Holland	0.9313131313131312
+John Berry	John Berry	1.0
+Robert Rossen	Robert Rossen	1.0
+Lois Weber	Lois Weber	1.0
+Bill Weber	Bill Weber	1.0
+Steven Zaillian	Steven Zaillian	1.0
+Ron Underwood	Ron Underwood	1.0
+George Marshall	Rob Marshall	0.853030303030303
+George Marshall	George Marshall	1.0
+Garry Marshall	Garry Marshall	1.0
+Frank Marshall	Frank Marshall	1.0
+Penny Marshall	Penny Marshall	1.0
+Rob Marshall	Rob Marshall	1.0
+Rob Marshall	George Marshall	0.853030303030303
+Nicolas Roeg	Nicolas Roeg	1.0
+Kevin Tenney	Kevin Tenney	1.0
+David Koepp	David Koepp	1.0
+Jake Schreier	Jake Schreier	1.0
+Hamilton Luske	Hamilton Luske	1.0
+Kenneth Branagh	Kenneth Branagh	1.0
+Mark Rosman	Mark Rosman	1.0
+Nicholas Ray	Nicholas Ray	1.0
+Fred Olen Ray	Fred Olen Ray	1.0
+Billy Ray	Billy Ray	1.0
+Stephen Hopkins	Stephen Hopkins	1.0
+Oliver Stone	Oliver Stone	1.0
+Andrew L. Stone	Andrew L. Stone	1.0
+Joseph L. Mankiewicz	Joseph L. Mankiewicz	1.0
+Tom Mankiewicz	Tom Mankiewicz	1.0
+David M. Evans	David Evans	0.9571428571428571
+David M. Evans	David Mickey Evans	0.9147741147741147
+Bryn Evans	Brian Evans	0.8655892255892256
+Marc Evans	Marc Evans	1.0
+John Magary	John Magary	1.0
+Adam Shankman	Adam Shankman	1.0
+Barry Sonnenfeld	Barry Sonnenfeld	1.0
+Steve Boyum	Steve Boyum	1.0
+Victor Saville	Victor Saville	1.0
+Charles Shyer	Charles Shyer	1.0
+Edwin L. Marin	Edwin L. Marin	1.0
+Sam Pillsbury	Sam Pillsbury	1.0
+Howard Higgin	Howard Higgin	1.0
+Scott Derrickson	Scott Derrickson	1.0
+Tim Burton	Tim Burton	1.0
+LeVar Burton	LeVar Burton	1.0
+Lee Sholem	Lee Sholem	1.0
+Rudolph Maté	Rudolph Maté	1.0
+Harry A. Pollard	Harry A. Pollard	1.0
+William Dear	William Dear	1.0
+Elia Kazan	Elia Kazan	1.0
+Peter Segal	Peter Segal	1.0
+Laslo Benedek	Laslo Benedek	1.0
+Robert Parrish	Robert Parrish	1.0
+Frank De Felitta	Raymond De Felitta	0.8604497354497355
+Frank De Felitta	Frank De Felitta	1.0
+Michael Crichton	Michael Crichton	1.0
+Michael Crichton	Charles Crichton	0.8690476190476191
+Fred C. Brannon	Fred C. Brannon	1.0
+Gene Kelly	Gene Kelly	1.0
+Richard Kelly	Richard Kelly	1.0
+Peter Markle	Peter Markle	1.0
+Peter Markle	Fletcher Markle	0.8833333333333333
+Fletcher Markle	Peter Markle	0.8833333333333333
+Fletcher Markle	Fletcher Markle	1.0
+Cecil B. DeMille	Cecil B. DeMille	1.0
+Gary J. Tunnicliffe	Gary J. Tunnicliffe	1.0
+Jean Yarbrough	Jean Yarbrough	1.0
+Jeff Blyth	Jeff Blyth	1.0
+Steve Miner	Steve Miner	1.0
+Nicholas Meyer	Nicholas Meyer	1.0
+Nate Meyer	Nate Meyer	1.0
+Russ Meyer	Russ Meyer	1.0
+Frank Borzage	Frank Borzage	1.0
+Joe Lynch	Joe Lynch	1.0
+David Lynch	David Lynch	1.0
+Jennifer Chambers Lynch	Jennifer Chambers Lynch	1.0
+Liam Lynch	Liam Lynch	1.0
+James Algar	James Algar	1.0
+Paul Verhoeven	Paul Verhoeven	1.0
+Carter Smith	Harry Smith	0.8560606060606061
+Carter Smith	Carter B. Smith	0.96
+Carter Smith	Larry Smith	0.8560606060606061
+Charles Martin Smith	Charles Martin Smith	1.0
+Kevin Smith	Kevin Smith	1.0
+John N. Smith	John N. Smith	1.0
+Simon J. Smith	Simon Smith	0.9571428571428571
+Mel Smith	Mel Smith	1.0
+William Tyler Smith	William Tyler Smith	1.0
+Harrison Smith	Harry Smith	0.9046753246753247
+Ryan Smith	Harry Smith	0.869023569023569
+Ryan Smith	Larry Smith	0.869023569023569
+Sarah Adina Smith	Sarah Adina Smith	1.0
+P.J. Hogan	P.J. Hogan	1.0
+Steven Spielberg	Steven Spielberg	1.0
+Mario Van Peebles	Mario Van Peebles	1.0
+Jack Arnold	Jack Arnold	1.0
+Newt Arnold	Newt Arnold	1.0
+David Yates	David Yates	1.0
+Peter Yates	Peter Yates	1.0
+Ridley Scott	Ridley Scott	1.0
+Leigh Scott	Leigh Scott	1.0
+Tony Scott	Tony Scott	1.0
+Tony Scott	Oz Scott	0.8583333333333334
+Oz Scott	Tony Scott	0.8583333333333334
+Oz Scott	Oz Scott	1.0
+Ken Scott	Ken Scott	1.0
+Ken Scott	Jake Scott	0.8962962962962964
+Darin Scott	Darin Scott	1.0
+William Cameron Menzies	William Cameron Menzies	1.0
+André De Toth	André De Toth	1.0
+Jaume Collet-Serra	Jaume Collet-Serra	1.0
+Boris Sagal	Boris Sagal	1.0
+Bruce Beresford	Bruce Beresford	1.0
+James Cruze	James Cruze	1.0
+Tibor Takács	Tibor Takács	1.0
+Sydney Pollack	Sydney Pollack	1.0
+Herbert L. Strock	Herbert L. Strock	1.0
+Bernard Rose	Bernard Rose	1.0
+Sherman A. Rose	Sherman A. Rose	1.0
+Sherrie Rose	Sherman A. Rose	0.87
+Zachary Donohue	Zachary Donohue	1.0
+Jack Donohue	Jack Donohue	1.0
+Bobcat Goldthwait	Bob Goldthwait	0.8754901960784315
+Harry Beaumont	Harry Beaumont	1.0
+Brad Peyton	Brad Peyton	1.0
+Stanley Kubrick	Stanley Kubrick	1.0
+Stanley Kramer	Stanley Kramer	1.0
+Stanley Kramer	Wayne Kramer	0.8704906204906204
+Robert Altman	Robert Altman	1.0
+Edward Dmytryk	Edward Dmytryk	1.0
+David Jacobson	David Jacobson	1.0
+William C. McGann	William McGann	0.9504201680672268
+Woody Allen	Woody Allen	1.0
+Lewis Allen	Lewis Allen	1.0
+Kevin Allen	Kevin Allen	1.0
+Irwin Allen	Irwin Allen	1.0
+Norman Panama	Norman Panama	1.0
+Robert Aldrich	Robert Aldrich	1.0
+Brad Lewis	Brad Lewis	1.0
+Joseph H. Lewis	Joseph H. Lewis	1.0
+David Lewis	David Lewis	1.0
+William Beaudine	William Beaudine	1.0
+Yarrow Cheney	Yarrow Cheney	1.0
+Gina Prince-Bythewood	Gina Prince-Bythewood	1.0
+Richard Brooks	Richard Brooks	1.0
+Mel Brooks	Mel Brooks	1.0
+James L. Brooks	James L. Brooks	1.0
+Albert Brooks	Albert Brooks	1.0
+Adam Brooks	Adam Brooks	1.0
+Stanley M. Brooks	James L. Brooks	0.8713352007469655
+Ben Stiller	Ben Stiller	1.0
+Alex Cox	Alex Cox	1.0
+Courteney Cox	Courteney Cox	1.0
+Richard Rich	Richard Rich	1.0
+Michael Radford	Michael Radford	1.0
+Andrew Niccol	Andrew Niccol	1.0
+Edward Bernds	Edward Bernds	1.0
+Joshua Logan	Joshua Logan	1.0
+Brad Bird	Brad Bird	1.0
+Quentin Tarantino	Quentin Tarantino	1.0
+Bryan Singer	Bryan Singer	1.0
+Craig Singer	Craig Singer	1.0
+Shûsuke Kaneko	Shusuke Kaneko	0.9413919413919414
+Terry O. Morse	Terry O. Morse	1.0
+Franc Roddam	Franc Roddam	1.0
+Kurt Neumann	Kurt Neumann	1.0
+James Mangold	James Mangold	1.0
+Fred F. Sears	Fred F. Sears	1.0
+David Lean	David Lean	1.0
+William Friedkin	William Friedkin	1.0
+Sidney Lumet	Sidney Lumet	1.0
+Robert Stevenson	Robert Stevenson	1.0
+Alex Ross Perry	Alex Ross Perry	1.0
+Frank Perry	Frank Perry	1.0
+Herman Hoffman	Herman Hoffman	1.0
+Michael Hoffman	Michael Hoffman	1.0
+Antony Hoffman	Anthony Hoffman	0.951111111111111
+Mark Levin	Mark Levin	1.0
+Mark Levin	Marc Levin	0.9533333333333333
+Victor Levin	Victor Levin	1.0
+Henry Levin	Henry Levin	1.0
+Steve 'Spaz' Williams	Steve 'Spaz' Williams	1.0
+Richard Williams	Richard Williams	1.0
+Chris Williams	Chris Williams	1.0
+Hunter G. Williams	Hunter G. Williams	1.0
+Rob Williams	Ron Williams	0.9555555555555555
+Rob Williams	Tod Williams	0.888888888888889
+Tod Williams	Ron Williams	0.888888888888889
+Tod Williams	Matt Williams	0.8675213675213675
+Tod Williams	Tod Williams	1.0
+Matt Williams	Matt Williams	1.0
+Matt Williams	Tod Williams	0.8675213675213675
+John H. Williams	Ron Williams	0.8680555555555555
+John H. Williams	John H. Williams	1.0
+John Michael Williams	John H. Williams	0.8903571428571428
+Budd Boetticher	Budd Boetticher	1.0
+Herschel Daugherty	Herschel Daugherty	1.0
+George Pal	George Pal	1.0
+Chuck Russell	Chuck Russell	1.0
+Tiller Russell	Tiller Russell	1.0
+Jay Russell	Jay Russell	1.0
+David O. Russell	David O. Russell	1.0
+Jim Russell	Jay Russell	0.890909090909091
+David Cronenberg	David Cronenberg	1.0
+Melville Shavelson	Melville Shavelson	1.0
+Timur Bekmambetov	Timur Bekmambetov	1.0
+Wolfgang Reitherman	Wolfgang Reitherman	1.0
+George Archainbaud	George Archainbaud	1.0
+Eric Brevig	Eric Brevig	1.0
+Joon-ho Bong	Joon-ho Bong	1.0
+Jeffrey Schwarz	Jeffrey Schwarz	1.0
+William Malone	William Malone	1.0
+Kevin Brodie	Kevin Brodie	1.0
+Peter Werner	Peter Werner	1.0
+Roger Spottiswoode	Roger Spottiswoode	1.0
+Scott Frank	Scott Frank	1.0
+Melvin Frank	Melvin Frank	1.0
+Carol Frank	Carol Frank	1.0
+Paul Wendkos	Paul Wendkos	1.0
+Edward Ludwig	Edward Ludwig	1.0
+Robert Greene	Robert Greene	1.0
+Luis Prieto	Luis Prieto	1.0
+Gus Van Sant	Gus Van Sant	1.0
+Miguel Ángel Vivas	Miguel Ángel Vivas	1.0
+Richard Gray	Richard Gray	1.0
+F. Gary Gray	F. Gary Gray	1.0
+James Gray	James Gray	1.0
+John Gray	John Gray	1.0
+Ken Annakin	Ken Annakin	1.0
+Antoine Fuqua	Antoine Fuqua	1.0
+George McCowan	George McCowan	1.0
+Steve Pink	Steve Pink	1.0
+David Swift	David Swift	1.0
+John Lee Hancock	John Lee Hancock	1.0
+John D. Hancock	John Lee Hancock	0.9358333333333334
+John Carpenter	John Carpenter	1.0
+Ken Carpenter	John Carpenter	0.8772893772893773
+John Frankenheimer	John Frankenheimer	1.0
+Joe Wright	Joe Wright	1.0
+Joe Wright	Jon Wright	0.9466666666666665
+Edgar Wright	Edgar Wright	1.0
+Geoffrey Wright	Geoffrey Wright	1.0
+David DeCoteau	David DeCoteau	1.0
+Frank Oz	Frank Oz	1.0
+John Wayne	John Wayne	1.0
+Steve Beck	Steve Beck	1.0
+Joseph Sargent	Joseph Sargent	1.0
+Jeff Newitt	Jeff Newitt	1.0
+Stephen Herek	Stephen Herek	1.0
+Adrian Lyne	Adrian Lyne	1.0
+Lee Toland Krieger	Lee Toland Krieger	1.0
+Seth Kearsley	Seth Kearsley	1.0
+Jack Clayton	Jack Clayton	1.0
+Martin Scorsese	Martin Scorsese	1.0
+Bob Clark	Bob Clark	1.0
+James B. Clark	James B. Clark	1.0
+James B. Clark	Duane B. Clark	0.8571428571428571
+Greydon Clark	Greydon Clark	1.0
+Larry Clark	Larry Clark	1.0
+Bruce D. Clark	Bruce D. Clark	1.0
+James Neilson	James Neilson	1.0
+David Bowers	David Bowers	1.0
+George Bowers	George Bowers	1.0
+Norman Tokar	Norman Tokar	1.0
+Eugene Marner	Eugene Marner	1.0
+Bill Condon	Bill Condon	1.0
+Gary Nelson	Gary Nelson	1.0
+Ralph Nelson	Ralph Nelson	1.0
+Dan Nelson	David Nelson	0.877037037037037
+Jessie Nelson	Jessie Nelson	1.0
+Maclain Nelson	Maclain Nelson	1.0
+Stanley Nelson	Stanley Nelson	1.0
+Rusty Nelson	Gary Nelson	0.8560606060606061
+Alfonso Gomez-Rejon	Alfonso Gomez-Rejon	1.0
+Martin Ritt	Martin Ritt	1.0
+Michael Lehmann	Michael Lehmann	1.0
+Petra Costa	Petra Costa	1.0
+Geoff Murphy	Geoff Murphy	1.0
+Ryan Murphy	Ryan Murphy	1.0
+Robert Mulligan	Robert Mulligan	1.0
+Harald Zwart	Harald Zwart	1.0
+Duwayne Dunham	Duwayne Dunham	1.0
+Don Chaffey	Don Chaffey	1.0
+Noah Baumbach	Noah Baumbach	1.0
+Nima Nourizadeh	Nima Nourizadeh	1.0
+John Herzfeld	John Herzfeld	1.0
+Peter Cornwell	Stephen Cornwell	0.8624084249084248
+Peter Cornwell	Peter Cornwell	1.0
+Jan de Bont	Jan de Bont	1.0
+Rob Zombie	Rob Zombie	1.0
+Jarrad Paul	Jarrad Paul	1.0
+Nicholas Webster	Nicholas Webster	1.0
+Sidney Salkow	Sidney Salkow	1.0
+Bernhard Wicki	Bernhard Wicki	1.0
+Don Weis	Don Weis	1.0
+Stephen Daldry	Stephen Daldry	1.0
+Randall Wallace	Randall Wallace	1.0
+Tommy Lee Wallace	Tommy Lee Wallace	1.0
+Michelangelo Antonioni	Michelangelo Antonioni	1.0
+Tarsem Singh	Tarsem Singh	1.0
+Sidney J. Furie	Sidney J. Furie	1.0
+Sidney J. Furie	Sydney J. Furie	0.9171428571428571
+Ondi Timoner	Ondi Timoner	1.0
+Zack Snyder	Zack Snyder	1.0
+Christopher Nolan	Christopher Nolan	1.0
+Tom Gries	Tom Gries	1.0
+Denny Harris	Denny Harris	1.0
+Denny Harris	Ed Harris	0.8796296296296297
+Dan Harris	Damien Harris	0.8584615384615385
+Dan Harris	Denny Harris	0.895
+Dan Harris	Ed Harris	0.8546296296296297
+Damian Harris	Damien Harris	0.9358974358974359
+Ed Harris	Denny Harris	0.8796296296296297
+Ed Harris	Ed Harris	1.0
+John Sayles	John Sayles	1.0
+Rory Kennedy	Rory Kennedy	1.0
+Burt Kennedy	Burt Kennedy	1.0
+Steve Trenbirth	Steven Trenbirth	0.9608333333333333
+Lee H. Katzin	Lee H. Katzin	1.0
+Jon Favreau	Jon Favreau	1.0
+Norman Jewison	Norman Jewison	1.0
+Michael Mayer	Michael Mayer	1.0
+Max Mayer	Max Mayer	1.0
+Arthur H. Nadel	Arthur H. Nadel	1.0
+Arthur Penn	Arthur Penn	1.0
+Sean Penn	Sean Penn	1.0
+Franklin J. Schaffner	Franklin J. Schaffner	1.0
+Howard Deutch	Howard Deutch	1.0
+Matt Reeves	Matt Reeves	1.0
+Gene Saks	Gene Saks	1.0
+Mike Figgis	Mike Figgis	1.0
+Genndy Tartakovsky	Genndy Tartakovsky	1.0
+Ralph C. Bluemke	Ralph C. Bluemke	1.0
+George A. Romero	George A. Romero	1.0
+George Cameron Romero	George A. Romero	0.9036904761904762
+Peter Brook	Peter Brook	1.0
+Brian Herzlinger	Brian Herzlinger	1.0
+Peyton Reed	Peyton Reed	1.0
+Carol Reed	Carol Reed	1.0
+Sam Peckinpah	Sam Peckinpah	1.0
+Penelope Spheeris	Penelope Spheeris	1.0
+Dennis Hopper	Dennis Hopper	1.0
+Ethan Coen	Ethan Coen	1.0
+Joel Coen	Joel Coen	1.0
+John McTiernan	John McTiernan	1.0
+George Englund	George Englund	1.0
+Joe Roth	Joe Roth	1.0
+Eli Roth	Eli Roth	1.0
+Phillip J. Roth	Philip J. Roth	0.9866666666666667
+William A. Graham	William A. Graham	1.0
+Joseph Graham	Joseph Graham	1.0
+Curtis Graham	Curtis Graham	1.0
+Peter Medak	Peter Medak	1.0
+Michael Laughlin	Michael Laughlin	1.0
+Tom Laughlin	Tom Laughlin	1.0
+Martin B. Cohen	Martin B. Cohen	1.0
+Rob Cohen	Rob Cohen	1.0
+Rob Cohen	Robert Cohen	0.8898148148148148
+Larry Cohen	Larry Cohen	1.0
+Etan Cohen	Etan Cohen	1.0
+Etan Cohen	Herman Cohen	0.8833333333333333
+Howard R. Cohen	Howard R. Cohen	1.0
+Guy Ferland	Guy Ferland	1.0
+Sean Baker	Sean Baker	1.0
+Roy Ward Baker	Roy Ward Baker	1.0
+Graham Baker	Graham Baker	1.0
+Stuart Orme	Stuart Orme	1.0
+William A. Fraker	William A. Fraker	1.0
+Gary Goldman	Gary Goldman	1.0
+Irvin Kershner	Irvin Kershner	1.0
+Elliot Silverstein	Elliot Silverstein	1.0
+John McKenna	Jon McKenna	0.9777777777777777
+James Franco	Jesús Franco	0.9
+Jesús Franco	Jesús Franco	1.0
+Mike Hodges	Mike Hodges	1.0
+Stephen Kay	Stephen Kay	1.0
+Justin Kurzel	Justin Kurzel	1.0
+Gordon Parks	Gordon Parks	1.0
+George Lucas	George Lucas	1.0
+John Singleton	John Singleton	1.0
+Greg Francis	Greg Francis	1.0
+Freddie Francis	Freddie Francis	1.0
+Marvin J. Chomsky	Marvin J. Chomsky	1.0
+Douglas Trumbull	Douglas Trumbull	1.0
+Arthur Allan Seidelman	Arthur Allan Seidelman	1.0
+Susan Seidelman	Susan Seidelman	1.0
+Kevin Hooks	Kevin Hooks	1.0
+John Boorman	John Boorman	1.0
+Michael Winner	Michael Winner	1.0
+Simon West	Simon West	1.0
+Ti West	Ti West	1.0
+Ronald Neame	Ronald Neame	1.0
+William Grefe	William Grefe	1.0
+Ralph Bakshi	Ralph Bakshi	1.0
+Dennis Iliadis	Dennis Iliadis	1.0
+Charles B. Pierce	Charles B. Pierce	1.0
+Theodore Gershuny	Theodore Gershuny	1.0
+Mark Rydell	Mark Rydell	1.0
+Roger Donaldson	Roger Donaldson	1.0
+Dallas Jenkins	Dallas Jenkins	1.0
+Tamara Jenkins	Tamara Jenkins	1.0
+Randy Barbato	Randy Barbato	1.0
+Peter Farrelly	Peter Farrelly	1.0
+Bobby Farrelly	Bobby Farrelly	1.0
+Ishirô Honda	Ishirô Honda	1.0
+Helen Hunt	Helen Hunt	1.0
+Bruce Hunt	Bruce Hunt	1.0
+Peter H. Hunt	Peter H. Hunt	1.0
+Barry Levinson	Barry Levinson	1.0
+Mark Levinson	Barry Levinson	0.8772893772893773
+Iwao Takamoto	Iwao Takamoto	1.0
+Jerry Schatzberg	Jerry Schatzberg	1.0
+John Irvin	John Irvin	1.0
+Sam Irvin	Sam Irvin	1.0
+Terrence Malick	Terrence Malick	1.0
+William Peter Blatty	William Peter Blatty	1.0
+Renny Harlin	Renny Harlin	1.0
+Gary Winick	Gary Winick	1.0
+Alejandro Jodorowsky	Alejandro Jodorowsky	1.0
+Joseph Ruben	Joseph Ruben	1.0
+Kevin Bray	Kevin Bray	1.0
+Philip D'Antoni	Phil D'Antoni	0.9733333333333334
+Edward Norton	Edward Norton	1.0
+Bill L. Norton	Bill L. Norton	1.0
+Roland Emmerich	Roland Emmerich	1.0
+Buzz Kulik	Buzz Kulik	1.0
+Monte Hellman	Monte Hellman	1.0
+Breck Eisner	Breck Eisner	1.0
+Michel Gondry	Michel Gondry	1.0
+Taylor Sheridan	Taylor Sheridan	1.0
+Jim Sheridan	Jim Sheridan	1.0
+Michael J. Sheridan	Michael J. Sheridan	1.0
+Joshua Safdie	Joshua Safdie	1.0
+Bob Fosse	Bob Fosse	1.0
+J.J. Abrams	J.J. Abrams	1.0
+Justin Lin	Justin Lin	1.0
+Brandon Camp	Brandon Camp	1.0
+Joe Camp	Joe Camp	1.0
+Ralph Ziman	Ralph Ziman	1.0
+Jim Wynorski	Jim Wynorski	1.0
+Steve Carver	Steve Carver	1.0
+Vincent McEveety	Vincent McEveety	1.0
+Jeannot Szwarc	Jeannot Szwarc	1.0
+Jim Sharman	Jim Sharman	1.0
+Hal Ashby	Hal Ashby	1.0
+John Hough	John Hough	1.0
+Michael Flynn	Michael Flynn	1.0
+Paul Bartel	Paul Bartel	1.0
+Jack Smight	Jack Smight	1.0
+John G. Avildsen	John G. Avildsen	1.0
+John Schlesinger	John Schlesinger	1.0
+Carl Rinsch	Carl Erik Rinsch	0.9375
+Richard Linklater	Richard Linklater	1.0
+David Carson	David Carson	1.0
+David Hackl	David Hackl	1.0
+William Girdler	William Girdler	1.0
+Kimberly Peirce	Kimberly Peirce	1.0
+Michael Ritchie	Michael Ritchie	1.0
+Guy Ritchie	Guy Ritchie	1.0
+Melanie Mayron	Melanie Mayron	1.0
+John Waters	John Waters	1.0
+Mark Waters	Mark Waters	1.0
+David Fincher	David Fincher	1.0
+Hugh Wilson	Hugh Wilson	1.0
+Gregory Wilson	Roy Wilson	0.9047619047619048
+Jim Wilson	Jim Wilson	1.0
+Joe Wilson	Joe Wilson	1.0
+Joe Wilson	Roy Wilson	0.8666666666666667
+Kevin Reynolds	Kevin Reynolds	1.0
+Burt Reynolds	Burt Reynolds	1.0
+Stephen Reynolds	Stephen Reynolds	1.0
+Mike Gabriel	Mike Gabriel	1.0
+Jon Turteltaub	Jon Turteltaub	1.0
+Dan Fogelman	Dan Fogelman	1.0
+Victor Salva	Victor Salva	1.0
+Robert Clouse	Robert Clouse	1.0
+Mark L. Lester	Mark L. Lester	1.0
+Elliott Lester	Elliott Lester	1.0
+Richard Lester	Richard Lester	1.0
+Ovidio G. Assonitis	Ovidio G. Assonitis	1.0
+Joan Micklin Silver	Joan Micklin Silver	1.0
+Marc Silver	Marc Silver	1.0
+Marc Silver	Marisa Silver	0.9016083916083916
+Marisa Silver	Marc Silver	0.9016083916083916
+Marisa Silver	Marisa Silver	1.0
+Trey Parker	Trey Parker	1.0
+Trey Parker	Albert Parker	0.8594405594405594
+Alan Parker	Alan Parker	1.0
+Oliver Parker	Oliver Parker	1.0
+Travis Mathews	Travis Mathews	1.0
+Marah Strauch	Marah Strauch	1.0
+Phil Alden Robinson	Phil Alden Robinson	1.0
+Bruce Robinson	Bruce Robinson	1.0
+Angela Robinson	Anna Robinson	0.9261538461538461
+Sean Robinson	Anna Robinson	0.8974358974358975
+Chris Robinson	Chris Robinson	1.0
+Julie Anne Robinson	Julie Ann Robinson	0.9894736842105263
+Karyn Kusama	Karyn Kusama	1.0
+Michael Cimino	Michael Cimino	1.0
+Errol Morris	Errol Morris	1.0
+Bud Townsend	Bud Townsend	1.0
+Dennis Donnelly	Dennis Donnelly	1.0
+Sean Donnelly	Dennis Donnelly	0.8521367521367522
+Noel Nosseck	Noel Nosseck	1.0
+Dan Gilroy	Dan Gilroy	1.0
+Tony Gilroy	Tony Gilroy	1.0
+Steven R. Monroe	Steven R. Monroe	1.0
+Mel Gibson	Mel Gibson	1.0
+Brian Gibson	Brian Gibson	1.0
+Meir Zarchi	Meir Zarchi	1.0
+Joe Dante	Joe Dante	1.0
+Sam Raimi	Sam Raimi	1.0
+Stiles White	Stiles White	1.0
+Susanna White	Sam White	0.8512820512820513
+Susanna White	Susanna White	1.0
+Colin Higgins	Colin Higgins	1.0
+Alan J. Pakula	Alan J. Pakula	1.0
+Sylvester Stallone	Sylvester Stallone	1.0
+Robert Dalva	Robert Dalva	1.0
+James Bobin	James Bobin	1.0
+Jim Henson	Jim Henson	1.0
+Brian Henson	Brian Henson	1.0
+John Schultz	John Schultz	1.0
+Michael Schultz	Michael Schultz	1.0
+Carl Schultz	Carl Schultz	1.0
+Carroll Ballard	Carroll Ballard	1.0
+Conrad Vernon	Conrad Vernon	1.0
+Tyler Benjamin	Tyler Benjamin	1.0
+Richard Benjamin	Richard Benjamin	1.0
+David Schmoeller	David Schmoeller	1.0
+Wayne Wang	Wayne Wang	1.0
+Hal Needham	Hal Needham	1.0
+Tom McCarthy	Tom McCarthy	1.0
+Joseph Kosinski	Joseph Kosinski	1.0
+Eric Walter	Eric Walter	1.0
+Stuart Rosenberg	Stuart Rosenberg	1.0
+Fred Walton	Fred Walton	1.0
+Alejandro Amenábar	Alejandro Amenábar	1.0
+Menahem Golan	Menahem Golan	1.0
+Samuel Fuller	Samuel Fuller	1.0
+Scott Hicks	Scott Hicks	1.0
+Robert Redford	Robert Redford	1.0
+Phil Roman	Phil Roman	1.0
+Kevin Connor	Kevin Connor	1.0
+Allan Arkush	Allan Arkush	1.0
+Gina Kim	Gina Kim	1.0
+Randal Kleiser	Randal Kleiser	1.0
+Jeffrey Bloom	Jeffrey Bloom	1.0
+Rupert Wainwright	Rupert Wainwright	1.0
+Richard Elfman	Richard Elfman	1.0
+Barbara Peeters	Barbara Peeters	1.0
+Jim Abrahams	Jim Abrahams	1.0
+Ken Finkleman	Ken Finkleman	1.0
+Harold Ramis	Harold Ramis	1.0
+Sean S. Cunningham	Sean S. Cunningham	1.0
+James Glickenhaus	James Glickenhaus	1.0
+Eric Karson	Eric Karson	1.0
+Arnold Laven	Arnold Laven	1.0
+Kevin Tancharoen	Kevin Tancharoen	1.0
+Robert Iscove	Robert Iscove	1.0
+Lewis Teague	Lewis Teague	1.0
+Colin Teague	Colin Teague	1.0
+James Bridges	James Bridges	1.0
+Marcus Nispel	Marcus Nispel	1.0
+Darren Lynn Bousman	Darren Lynn Bousman	1.0
+Louis Leterrier	Louis Leterrier	1.0
+Shana Feste	Shana Feste	1.0
+Ken Wiederhorn	Ken Wiederhorn	1.0
+Rick Rosenthal	Rick Rosenthal	1.0
+Robert J. Rosenthal	Robert J. Rosenthal	1.0
+David M. Rosenthal	David M. Rosenthal	1.0
+Lawrence Kasdan	Lawrence Kasdan	1.0
+Jake Kasdan	Jake Kasdan	1.0
+Jon Kasdan	Jon Kasdan	1.0
+Frederik Du Chau	Frederik Du Chau	1.0
+Mark Herman	Mark Herman	1.0
+Michael Wadleigh	Michael Wadleigh	1.0
+Cary Joji Fukunaga	Cary Joji Fukunaga	1.0
+Jason Reitman	Ivan Reitman	0.8675213675213675
+Jason Reitman	Jason Reitman	1.0
+Ivan Reitman	Ivan Reitman	1.0
+Ivan Reitman	Jason Reitman	0.8675213675213675
+Walt Becker	Walter Becker	0.9146853146853147
+Walt Becker	Walt Becker	1.0
+Harold Becker	Harold Becker	1.0
+Joe Swanberg	Joe Swanberg	1.0
+Kris Swanberg	Kris Swanberg	1.0
+Michael Gottlieb	Michael Gottlieb	1.0
+Carl Gottlieb	Carl Gottlieb	1.0
+Lisa Gottlieb	Carl Gottlieb	0.8671328671328671
+Joseph Losey	Joseph Losey	1.0
+Tony Maylam	Tony Maylam	1.0
+Asif Kapadia	Asif Kapadia	1.0
+Nicholas Stoller	Nicholas Stoller	1.0
+Nicholas Stoller	Nick Stoller	0.8652146464646464
+Bryan Michael Stoller	Bryan Michael Stoller	1.0
+Chris Columbus	Chris Columbus	1.0
+Steven Hilliard Stern	Steven Hilliard Stern	1.0
+Fede Alvarez	Fede Alvarez	1.0
+Kyle Patrick Alvarez	Kyle Patrick Alvarez	1.0
+Raoul Peck	Ron Peck	0.8725
+Joseph Zito	Joseph Zito	1.0
+Bruce Malmuth	Bruce Malmuth	1.0
+David Steinberg	David Steinberg	1.0
+Andrew Bergman	Andrew Bergman	1.0
+Michael Apted	Michael Apted	1.0
+Herb Freed	Herb Freed	1.0
+Jason Winer	Jason Winer	1.0
+Iva Radivojevic	Iva Radivojevic	1.0
+Peter Hedges	Peter Hedges	1.0
+Adam Simon	Adam Simon	1.0
+Tony Richardson	Tony Richardson	1.0
+Martin Campbell	Martin Campbell	1.0
+Graeme Campbell	Graeme Campbell	1.0
+Will Gluck	Will Gluck	1.0
+John Milius	John Milius	1.0
+George P. Cosmatos	George P. Cosmatos	1.0
+Ted Kotcheff	Ted Kotcheff	1.0
+Gil Kenan	Gil Kenan	1.0
+Sally Mattison	Sally Mattison	1.0
+Barbara Kopple	Barbara Kopple	1.0
+Liz Garbus	Liz Garbus	1.0
+Catherine Hardwicke	Catherine Hardwicke	1.0
+Roland Joffé	Roland Joffé	1.0
+John Luessenhop	John Luessenhop	1.0
+Tim Hunter	Tim Hunter	1.0
+Steven Lisberger	Steven Lisberger	1.0
+Deborah Brock	Deborah Brock	1.0
+James C. Strouse	James C. Strouse	1.0
+James C. Strouse	Jason Strouse	0.8756410256410256
+Peter Berg	Peter Berg	1.0
+Amy Berg	Amy Berg	1.0
+Gil Junger	Gil Junger	1.0
+Don Coscarelli	Don Coscarelli	1.0
+Rob Diamond	Rob Diamond	1.0
+Joey Travolta	Joey Travolta	1.0
+James Burrows	James Burrows	1.0
+Don Gronquist	Don Gronquist	1.0
+Graeme Clifford	Graeme Clifford	1.0
+Jack Sholder	Jack Sholder	1.0
+Fran Rubel Kuzui	Fran Rubel Kuzui	1.0
+Michael Gornick	Lisa Gornick	0.853030303030303
+Michael Gornick	Michael Gornick	1.0
+Harry Bromley Davenport	Harry Bromley Davenport	1.0
+Mike Newell	Mike Newell	1.0
+Charles Band	Charles Band	1.0
+Albert Band	Albert Band	1.0
+Joe Giannone	Joe Giannone	1.0
+Stuart Gillard	Stuart Gillard	1.0
+Edward Zwick	Edward Zwick	1.0
+Jesse Zwick	Joel Zwick	0.8581818181818182
+Jesse Zwick	Jesse Zwick	1.0
+Joel Zwick	Joel Zwick	1.0
+Joel Zwick	Jesse Zwick	0.8581818181818182
+Michael Bay	Michael Bay	1.0
+Martha Coolidge	Martha Coolidge	1.0
+Curtis Hanson	Curtis Hanson	1.0
+Philippe Mora	Philippe Mora	1.0
+Amy Heckerling	Amy Heckerling	1.0
+Jeremiah S. Chechik	Jeremiah S. Chechik	1.0
+Paul Brickman	Paul Brickman	1.0
+James Signorelli	James Signorelli	1.0
+Douglas McKeown	Douglas McKeown	1.0
+Jean-Luc Godard	Jean-Luc Godard	1.0
+Shane Black	Shane Black	1.0
+Noel Black	Noel Black	1.0
+Michael A. Simpson	Michael A. Simpson	1.0
+Jim Simpson	Jim Simpson	1.0
+John Simpson	John Simpson	1.0
+Robert Hiltzik	Robert Hiltzik	1.0
+James Ivory	James Ivory	1.0
+Sam Firstenberg	Sam Firstenberg	1.0
+Lee Harry	Lee Harry	1.0
+James Cameron	James Cameron	1.0
+Cody Cameron	Cody Cameron	1.0
+McG	McG	1.0
+Paul Feig	Paul Feig	1.0
+Jean-Marc Vallée	Jean-Marc Vallée	1.0
+Martin Brest	Martin Brest	1.0
+Sergio Leone	Sergio Leone	1.0
+Christopher Leone	Christopher Leone	1.0
+John Carl Buechler	John Carl Buechler	1.0
+Richard C. Sarafian	Richard C. Sarafian	1.0
+Jeff Kanew	Jeff Kanew	1.0
+Michael Winterbottom	Michael Winterbottom	1.0
+Jean-Jacques Annaud	Jean-Jacques Annaud	1.0
+Bryan Forbes	Bryan Forbes	1.0
+Maya Forbes	Maya Forbes	1.0
+Josh Forbes	Josh Forbes	1.0
+Craig Brewer	Craig Brewer	1.0
+Samuel Bayer	Samuel Bayer	1.0
+Milos Forman	Milos Forman	1.0
+Luca Bercovici	Luca Bercovici	1.0
+Neal Israel	Neal Israel	1.0
+Jerry Paris	Jerry Paris	1.0
+Richard Tuggle	Richard Tuggle	1.0
+Peter Hyams	Peter Hyams	1.0
+John Hyams	John Hyams	1.0
+Douglas Cheek	Douglas Cheek	1.0
+Jackie Kong	Jackie Kong	1.0
+Stewart Raffill	Stewart Raffill	1.0
+Fred Schepisi	Fred Schepisi	1.0
+Robert Benton	Robert Benton	1.0
+Howard Zieff	Howard Zieff	1.0
+Rob Epstein	Robert Epstein	0.8863636363636364
+Rob Epstein	Rob Epstein	1.0
+Donald P. Borchers	Donald P. Borchers	1.0
+Robert Day	Robert Day	1.0
+Fritz Kiersch	Fritz Kiersch	1.0
+Scott Stewart	Scott Stewart	1.0
+Larry Stewart	Larry Stewart	1.0
+Daniel Attias	Daniel Attias	1.0
+Brian Helgeland	Brian Helgeland	1.0
+Rod Daniel	Rod Daniel	1.0
+T.C. Christensen	T.C. Christensen	1.0
+Peter Weir	Peter Weir	1.0
+Hal Barwood	Hal Barwood	1.0
+Brian Yuzna	Brian Yuzna	1.0
+Curtis Harrington	Curtis Harrington	1.0
+Jim Gillespie	Jim Gillespie	1.0
+Craig Gillespie	Craig Gillespie	1.0
+Dennis Dugan	Dennis Dugan	1.0
+Jerry Dugan	Jerry Dugan	1.0
+John Antonelli	John Antonelli	1.0
+Dan O'Bannon	Dan O'Bannon	1.0
+Phil Morrison	Bill Morrison	0.8974358974358975
+Phil Morrison	Phil Morrison	1.0
+James Foley	James Foley	1.0
+Ken Harrison	Ken Harrison	1.0
+Héctor Olivera	Héctor Olivera	1.0
+Charles B. Griffith	Charles B. Griffith	1.0
+Gordon Hessler	Gordon Hessler	1.0
+Jack Bender	Jack Bender	1.0
+Cedric Sundstrom	Cedric Sundstrom	1.0
+Karel Reisz	Karel Reisz	1.0
+Jayson Thiessen	Jayson Thiessen	1.0
+Aaron Seltzer	Aaron Seltzer	1.0
+David Seltzer	David Seltzer	1.0
+Simon Wells	Simon Wells	1.0
+John Wells	John Wells	1.0
+Kristine Peterson	Kristine Peterson	1.0
+Bob Peterson	Bob Peterson	1.0
+David Anspaugh	David Anspaugh	1.0
+Robert Harmon	Robert Harmon	1.0
+Nancy Meyers	Nancy Meyers	1.0
+Wim Wenders	Wim Wenders	1.0
+Lewis MacAdams	Lewis MacAdams	1.0
+Fielder Cook	Fielder Cook	1.0
+Barry Cook	Barry Cook	1.0
+Donovan Cook	Donovan Cook	1.0
+Alan Metter	Alan Metter	1.0
+Peter Manoogian	Peter Manoogian	1.0
+Mike Marvin	Mike Marvin	1.0
+William Fruet	William Fruet	1.0
+Max Joseph	Max Joseph	1.0
+Oleg Egorov	Oleg Egorov	1.0
+Joel Schumacher	Joel Schumacher	1.0
+John Glen	John Glen	1.0
+Nimród Antal	Nimród Antal	1.0
+Derick Martini	Derick Martini	1.0
+Paul Michael Glaser	Paul Michael Glaser	1.0
+José Padilha	José Padilha	1.0
+Kenny Ortega	Kenny Ortega	1.0
+Emile Ardolino	Emile Ardolino	1.0
+Marc Webb	Jack Webb	0.8518518518518517
+Marc Webb	Marc Webb	1.0
+Joe Chappelle	Joe Chappelle	1.0
+Robert C. Ramirez	Robert Ramirez	0.9647058823529411
+Jerry Rees	Jerry Rees	1.0
+Dee Rees	Dee Rees	1.0
+Tina Hirsch	Bettina Hirsch	0.9285714285714285
+Denis Villeneuve	Denis Villeneuve	1.0
+Gary Sherman	Gary A. Sherman	0.91
+Lowell Sherman	Lowell Sherman	1.0
+Vincent Sherman	Vincent Sherman	1.0
+Valerie Breiman	Valerie Breiman	1.0
+Len Talan	Len Talan	1.0
+Terence H. Winkless	Terence H. Winkless	1.0
+Dorothy Ann Puzo	Dorothy Ann Puzo	1.0
+Russell Mulcahy	Russell Mulcahy	1.0
+Harley Cokeliss	Harley Cokeliss	1.0
+Gavin O'Connor	Gavin O'Connor	1.0
+Pat O'Connor	Pat O'Connor	1.0
+Roger Vadim	Roger Vadim	1.0
+Jorge Michel Grau	Jorge Michel Grau	1.0
+Stephen Frears	Stephen Frears	1.0
+Greg Beeman	Greg Beeman	1.0
+Charles Grosvenor	Charles Grosvenor	1.0
+Alejandro González Iñárritu	Alejandro González Iñárritu	1.0
+Len Wiseman	Len Wiseman	1.0
+Frederick Wiseman	Frederick Wiseman	1.0
+Roger Holzberg	Roger Holzberg	1.0
+Anthony Hickox	Anthony Hickox	1.0
+Corey Yuen	Corey Yuen	1.0
+George Scribner	George Scribner	1.0
+Christopher Cain	Christopher Cain	1.0
+Danny Boyle	Danny Boyle	1.0
+Greg Mottola	Greg Mottola	1.0
+Daniel Barber	Daniel Barber	1.0
+Thom Eberhardt	Thom Eberhardt	1.0
+Ken Kwapis	Ken Kwapis	1.0
+Joseph G. Quinn	John Quinn	0.8666666666666667
+John Quinn	John Quinn	1.0
+Andrew Adamson	Andrew Adamson	1.0
+Frank Henenlotter	Frank Henenlotter	1.0
+John Fasano	John Fasano	1.0
+Tom DeSimone	Tom DeSimone	1.0
+Lizzie Borden	Lizzie Borden	1.0
+Roberta Findlay	Roberta Findlay	1.0
+Sam Shepard	Sam Shepard	1.0
+Kevin R. Hershberger	Kevin R. Hershberger	1.0
+Caleb Deschanel	Caleb Deschanel	1.0
+Florent-Emilio Siri	Florent Emilio Siri	0.9456140350877192
+Tony Randel	Tony Randel	1.0
+Alan Rudolph	Alan Rudolph	1.0
+Verena Paravel	Verena Paravel	1.0
+Paul Sabella	Paul Sabella	1.0
+David S. Ward	David S. Ward	1.0
+Danny DeVito	Danny DeVito	1.0
+George C. Wolfe	George C Wolfe	0.9866666666666667
+Sean Anders	Sean Anders	1.0
+Mary Lambert	Mary Lambert	1.0
+Werner Herzog	Werner Herzog	1.0
+David Webb Peoples	David Webb Peoples	1.0
+Jean Negulesco	Jean Negulesco	1.0
+Rowdy Herrington	Rowdy Herrington	1.0
+Christopher Guest	Christopher Guest	1.0
+Patrick Creadon	Patrick Creadon	1.0
+Scott Spiegel	Scott Spiegel	1.0
+William Lustig	William Lustig	1.0
+Dominique Othenin-Girard	Dominique Othenin-Girard	1.0
+Alfred Sole	Alfred Sole	1.0
+Azazel Jacobs	Azazel Jacobs	1.0
+Gregory Jacobs	Gregory Jacobs	1.0
+Jerry P. Jacobs	Jerry P. Jacobs	1.0
+Stephen Sayadian	Stephen Sayadian	1.0
+Hal Hartley	Hal Hartley	1.0
+Henry Jaglom	Henry Jaglom	1.0
+David Salle	David Salle	1.0
+Ericson Core	Ericson Core	1.0
+Jordan Galland	Jordan Galland	1.0
+Tom Stoppard	Tom Stoppard	1.0
+Joe Pytka	Joe Pytka	1.0
+Joe Pytka	Joseph Pytka	0.9037037037037037
+Al Reinert	Al Reinert	1.0
+Chris Walas	Chris Walas	1.0
+Doug Liman	Doug Liman	1.0
+Harry Hook	Harry Hook	1.0
+David Zucker	David Zucker	1.0
+Jerry Zucker	Jerry Zucker	1.0
+Jonathan Liebesman	Jonathan Liebesman	1.0
+Babak Najafi	Babak Najafi	1.0
+Robert Eggers	Robert Eggers	1.0
+John Howley	John Howley	1.0
+Yvan Attal	Yvan Attal	1.0
+Juan Piquer Simón	Juan Piquer Simón	1.0
+Eric Meza	Eric Meza	1.0
+Michael Caton-Jones	Michael Caton-Jones	1.0
+Nicholas Hytner	Nicholas Hytner	1.0
+Reginald Hudlin	Reggie Hudlin	0.8594560994560995
+Reginald Hudlin	Reginald Hudlin	1.0
+Nils Gaup	Nils Gaup	1.0
+Phil Joanou	Phil Joanou	1.0
+Mimi Leder	Mimi Leder	1.0
+Robby Benson	Robby Benson	1.0
+Franco Amurri	Franco Amurri	1.0
+Robert Resnikoff	Robert Resnikoff	1.0
+David Schwimmer	David Schwimmer	1.0
+Danny Cannon	Dyan Cannon	0.8659090909090907
+Danny Cannon	Danny Cannon	1.0
+Dyan Cannon	Dyan Cannon	1.0
+Dyan Cannon	Danny Cannon	0.8659090909090907
+Sheldon Lettich	Sheldon Lettich	1.0
+Martin Sheen	Martin Sheen	1.0
+Emilio Estevez	Emilio Estevez	1.0
+Michael Pressman	Michael Pressman	1.0
+Luke Greenfield	Luke Greenfield	1.0
+Luke Greenfield	Lauren Greenfield	0.8627731092436974
+Lauren Greenfield	Luke Greenfield	0.8627731092436974
+Lauren Greenfield	Lauren Greenfield	1.0
+John Roberts	John Roberts	1.0
+John Roberts	Johannes Roberts	0.8638888888888888
+Tom Roberts	John Roberts	0.8560606060606061
+Georges Méliès	Georges Méliès	1.0
+Terry Gilliam	Terry Gilliam	1.0
+Kathryn Bigelow	Kathryn Bigelow	1.0
+Paul Weiland	Paul Weiland	1.0
+Jerry Sangiuliano	Jerry Sangiuliano	1.0
+Nancy Savoca	Nancy Savoca	1.0
+James W. Roberson	James W. Roberson	1.0
+Ken Olin	Ken Olin	1.0
+David Twohy	David N. Twohy	0.9571428571428571
+David Twohy	David Twohy	1.0
+Tom DiCillo	Tom DiCillo	1.0
+Stephen Surjik	Stephen Surjik	1.0
+Charles T. Kanganis	Charles T. Kanganis	1.0
+Sean McNamara	Sean McNamara	1.0
+Sam Weisman	Sam Weisman	1.0
+Amos Kollek	Amos Kollek	1.0
+Paris Barclay	Paris Barclay	1.0
+William Dickerson	William Dickerson	1.0
+Ernest R. Dickerson	Ernest R. Dickerson	1.0
+Phillip Noyce	Phillip Noyce	1.0
+Cameron Crowe	Cameron Crowe	1.0
+Barbet Schroeder	Barbet Schroeder	1.0
+Bill Duke	Bill Duke	1.0
+Todd Phillips	Toby Phillips	0.917948717948718
+Todd Phillips	Todd Phillips	1.0
+Lee Unkrich	Lee Unkrich	1.0
+Francis Veber	Francis Veber	1.0
+Fraser Clarke Heston	Fraser C. Heston	0.9241666666666667
+J.B. Rogers	J.B. Rogers	1.0
+Michael Polish	Michael Polish	1.0
+Ted Demme	Ted Demme	1.0
+Jonathan Demme	Jonathan Demme	1.0
+Robert De Niro	Robert De Niro	1.0
+Ole Bornedal	Ole Bornedal	1.0
+Hector Barron	Hector Barron	1.0
+Steve Barron	Steven Barron	0.9346153846153846
+Steve Barron	Steve Barron	1.0
+Joss Whedon	Joss Whedon	1.0
+Yurek Bogayevicz	Yurek Bogayevicz	1.0
+Leon Ichaso	Leon Ichaso	1.0
+Kinji Fukasaku	Kinji Fukasaku	1.0
+Abel Ferrara	Abel Ferrara	1.0
+Zach Helm	Zach Helm	1.0
+Simon Fellows	Simon Fellows	1.0
+Anthony Minghella	Anthony Minghella	1.0
+E. Max Frye	E. Max Frye	1.0
+Peter Hewitt	Peter Hewitt	1.0
+Jean Hewitt	Jason Hewitt	0.9227272727272726
+Larry Swerdlove	Larry Swerdlove	1.0
+Ramón Menéndez	Ramón Menéndez	1.0
+Taylor Hackford	Taylor Hackford	1.0
+Alex Kendrick	Alex Kendrick	1.0
+Gregory Hatanaka	Gregory Hatanaka	1.0
+Jon Watts	Jon Watts	1.0
+George Sluizer	George Sluizer	1.0
+John Dahl	John Dahl	1.0
+Rob Minkoff	Rob Minkoff	1.0
+Russ Parr	Russ Parr	1.0
+Bruce Joel Rubin	Bruce Joel Rubin	1.0
+Luis Llosa	Luis Llosa	1.0
+Terry Zwigoff	Terry Zwigoff	1.0
+Tom Shadyac	Tom Shadyac	1.0
+Frank Darabont	Frank Darabont	1.0
+Michael Lembeck	Michael Lembeck	1.0
+Alex Proyas	Alex Proyas	1.0
+Lynn Shelton	Ron Shelton	0.8560606060606061
+Lynn Shelton	Lynn Shelton	1.0
+Ron Shelton	Ron Shelton	1.0
+Ron Shelton	Lynn Shelton	0.8560606060606061
+Andrew Scheinman	Andrew Scheinman	1.0
+Alex Gibney	Alex Gibney	1.0
+Peter MacDonald	Peter MacDonald	1.0
+John Stockwell	John Stockwell	1.0
+Paul Talbot	Paul Talbot	1.0
+Adam Rifkin	Adam Rifkin	1.0
+David Silverman	David Silverman	1.0
+Gisaburo Sugii	Gisaburo Sugii	1.0
+Andrzej Bartkowiak	Andrzej Bartkowiak	1.0
+Rodman Flender	Rodman Flender	1.0
+Steven E. de Souza	Steven E. de Souza	1.0
+Herb Gardner	Erik Gardner	0.888888888888889
+Jeremy Gardner	Jeremy Gardner	1.0
+Crystal Moselle	Crystal Moselle	1.0
+Paul F. Ryan	Paul F. Ryan	1.0
+Shane Ryan	Shane Ryan	1.0
+John Lasseter	John Lasseter	1.0
+Christian Duguay	Christian Duguay	1.0
+David Mamet	David Mamet	1.0
+Clara Mamet	Clara Mamet	1.0
+Phil Weinstein	Phil Weinstein	1.0
+Holly Goldberg Sloan	Holly Goldberg Sloan	1.0
+Brad Silberling	Brad Silberling	1.0
+Chris Noonan	Chris Noonan	1.0
+Robert Rodriguez	Robert Rodriguez	1.0
+Rosemary Rodriguez	Robert Rodriguez	0.9074074074074073
+Kevin Lima	Kevin Lima	1.0
+John R. Leonetti	John R. Leonetti	1.0
+Stacy Title	Stacy Title	1.0
+Max Winkler	Max Winkler	1.0
+Irwin Winkler	Irwin Winkler	1.0
+Rowan Joffe	Rowan Joffe	1.0
+Victor Sjöström	Victor Sjöström	1.0
+Robert G. Vignola	Robert Vignola	0.9504201680672268
+Andy Tennant	Andy Tennant	1.0
+Andy Tennant	Andrew Tennant	0.9093434343434343
+Jon Amiel	Jon Amiel	1.0
+Nick Broomfield	Nick Broomfield	1.0
+Ian Corson	Ian Corson	1.0
+Jesse Dylan	Jesse Dylan	1.0
+Hark Tsui	Hark Tsui	1.0
+Christopher Ashley	Christopher Ashley	1.0
+Robert Tinnell	Robert Tinnell	1.0
+George Clooney	George Clooney	1.0
+Steven Soderbergh	Steven Soderbergh	1.0
+Jon Avnet	Jon Avnet	1.0
+Andrew Sipes	Andrew Sipes	1.0
+John R. Cherry III	John R. Cherry III	1.0
+Kriv Stenders	Kriv Stenders	1.0
+Christopher McQuarrie	Christopher McQuarrie	1.0
+Gregory Hoblit	Gregory Hoblit	1.0
+Edward Burns	Edward Burns	1.0
+Jared Hess	Jared Hess	1.0
+Elgin James	Elgin James	1.0
+Neil Jordan	Neil Jordan	1.0
+Lawrence Jordan	Lawrence Jordan	1.0
+Gregor Jordan	Gregor Jordan	1.0
+Ralph E. Portillo	Ralph E. Portillo	1.0
+Ralph E. Portillo	Ralph Portillo	0.9647058823529411
+Michael Almereyda	Michael Almereyda	1.0
+Tom Hanks	Tom Hanks	1.0
+Julien Temple	Julien Temple	1.0
+Thomas Carter	Thomas Carter	1.0
+Carter	Carter	1.0
+Karen Moncrieff	Karen Moncrieff	1.0
+Nora Ephron	Nora Ephron	1.0
+Douglas McGrath	Douglas McGrath	1.0
+Tom McGrath	Tom McGrath	1.0
+Tom McGrath	Liam McGrath	0.8560606060606061
+John Woo	John Woo	1.0
+Dale Rosenbloom	Dale Rosenbloom	1.0
+Sandy Tung	Sandy Tung	1.0
+Craig Shapiro	Craig Shapiro	1.0
+Alan Shapiro	Alan Shapiro	1.0
+Robert McCallum	Robert McCallum	1.0
+Jean-Claude Van Damme	Jean-Claude Van Damme	1.0
+Nicole Holofcener	Nicole Holofcener	1.0
+Reginald Le Borg	Reginald Le Borg	1.0
+Peter Kassovitz	Peter Kassovitz	1.0
+Peter Svatek	Peter Svatek	1.0
+Brett Ratner	Brett Ratner	1.0
+Francis Lawrence	Francis Lawrence	1.0
+Francis Lawrence	Marc Lawrence	0.8632478632478633
+Marc Lawrence	Francis Lawrence	0.8632478632478633
+Marc Lawrence	Marc Lawrence	1.0
+Mike Flanagan	Mike Flanagan	1.0
+Guillermo del Toro	Guillermo del Toro	1.0
+Mark Pavia	Mark Pavia	1.0
+Gary Fleder	Gary Fleder	1.0
+Tom Tykwer	Tom Tykwer	1.0
+Kevin Costner	Kevin Costner	1.0
+Theodore Witcher	Theodore Witcher	1.0
+Jean-Pierre Jeunet	Jean-Pierre Jeunet	1.0
+Seth Grossman	Seth Grossman	1.0
+Abe Levitow	Abe Levitow	1.0
+John Pasquin	John Pasquin	1.0
+Stanley Tong	Stanley Tong	1.0
+Tim Story	Tim Story	1.0
+Mark A.Z. Dippé	Mark A.Z. Dippé	1.0
+Roberto Benabib	Roberto Benabib	1.0
+Ronnie Del Carmen	Ronnie del Carmen	1.0
+Harmony Korine	Harmony Korine	1.0
+David Frankel	David Frankel	1.0
+John Keitel	John Keitel	1.0
+Paolo Mazzucato	Paulo Mazzucato	0.9453968253968253
+Robert Duvall	Robert Duvall	1.0
+Jonathan Lynn	Jonathan Lynn	1.0
+Dan Sallitt	Dan Sallitt	1.0
+Leigh Janiak	Leigh Janiak	1.0
+Tony Bancroft	Tony Bancroft	1.0
+Steve Hickner	Stephen Hickner	0.8770512820512821
+David Lister	David Lister	1.0
+Stuart Baird	Stuart Baird	1.0
+Jon S. Baird	Jon S. Baird	1.0
+Spike Jonze	Spike Jonze	1.0
+John McNaughton	John McNaughton	1.0
+Frank Coraci	Frank Coraci	1.0
+Mikael Salomon	Michael Salomon	0.9453968253968253
+Mikael Salomon	Mikael Salomon	1.0
+M. Night Shyamalan	M. Night Shyamalan	1.0
+Neil LaBute	Neil LaBute	1.0
+Bob Saget	Bob Saget	1.0
+Jerry London	Jerry London	1.0
+Jeff London	Jerry London	0.8848484848484849
+Shekhar Kapur	Shekhar Kapur	1.0
+John Sanford	John Sanford	1.0
+Arlene Sanford	Arlene Sanford	1.0
+Sophie Barthes	Sophie Barthes	1.0
+Ryûhei Kitamura	Ryuhei Kitamura	0.9644444444444444
+Todd Solondz	Todd Solondz	1.0
+John Ottman	John Ottman	1.0
+Jamie Blanks	Jamie Blanks	1.0
+Peter Chelsom	Peter Chelsom	1.0
+John Madden	John Madden	1.0
+George Gallo	George Gallo	1.0
+Luis Mandoki	Luis Mandoki	1.0
+Roger Kumble	Roger Kumble	1.0
+Sam Mendes	Sam Mendes	1.0
+Lothar Mendes	Lothar Mendes	1.0
+Jonathan M. Goldstein	Jonathan M. Goldstein	1.0
+John Bruno	John Bruno	1.0
+Steve Rash	Steve Rash	1.0
+Lana Wachowski	Andy Wachowski	0.876984126984127
+Lana Wachowski	Lana Wachowski	1.0
+Sturla Gunnarsson	Sturla Gunnarsson	1.0
+Dean Parisot	Dean Parisot	1.0
+Davis Guggenheim	Davis Guggenheim	1.0
+Shira Piven	Shira Piven	1.0
+Stuart Heisler	Stuart Heisler	1.0
+Ari Sandel	Ari Sandel	1.0
+Anton Corbijn	Anton Corbijn	1.0
+Sergey Bodrov	Sergey Bodrov	1.0
+Steve Kroschel	Steve Kroschel	1.0
+Ashton Root	Ashton Root	1.0
+J.S. Cardone	J.S. Cardone	1.0
+Frank Whaley	Frank Whaley	1.0
+David Kellogg	David Kellogg	1.0
+Michael Dougherty	Michael Dougherty	1.0
+Craig Clyde	Craig Clyde	1.0
+Maurice Joyce	Maurice Joyce	1.0
+Jim Fall	Jim Fall	1.0
+Arthur Hiller	Arthur Hiller	1.0
+Dante Tomaselli	Dante Tomaselli	1.0
+Bruce McCulloch	Bruce McCulloch	1.0
+Jay Roach	Jay Roach	1.0
+Hal Roach	Jay Roach	0.8518518518518517
+Keenen Ivory Wayans	Keenen Ivory Wayans	1.0
+Joe Charbanic	Joe Charbanic	1.0
+Gavin Hood	Gavin Hood	1.0
+Boaz Yakin	Boaz Yakin	1.0
+Mike Thurmeier	Mike Thurmeier	1.0
+Joel Edgerton	Joel Edgerton	1.0
+E. Elias Merhige	E. Elias Merhige	1.0
+Steve Carr	Steve Carr	1.0
+Marcus Raboy	Marcus Raboy	1.0
+Jun Falkenstein	Jun Falkenstein	1.0
+Doug McHenry	Doug McHenry	1.0
+Bill Pohlad	Bill Pohlad	1.0
+Mary Harron	Mary Harron	1.0
+Lars von Trier	Lars von Trier	1.0
+Larry Karaszewski	Larry Karaszewski	1.0
+Des McAnuff	Des McAnuff	1.0
+Paul Sapiano	Paul Sapiano	1.0
+Nick Hurran	Nick Hurran	1.0
+David R. Ellis	David R. Ellis	1.0
+Stephen Metcalfe	Stephen Metcalfe	1.0
+Ben Younger	Ben Younger	1.0
+Michael Dinner	Michael Dinner	1.0
+Eric Hendershot	Eric Hendershot	1.0
+Todd Field	Todd Field	1.0
+Michael Cristofer	Michael Cristofer	1.0
+Raman Hui	Raman Hui	1.0
+Mark Webber	Mark Webber	1.0
+Edgar G. Ulmer	Edgar G. Ulmer	1.0
+Lawrence Guterman	Lawrence Guterman	1.0
+Robert Luketic	Robert Luketic	1.0
+Charles Herman-Wurmfeld	Charles Herman-Wurmfeld	1.0
+Dominic Sena	Dominic Sena	1.0
+Robert Scheerer	Robert Scheerer	1.0
+Michael J. Hein	Michael J. Hein	1.0
+Bob Byington	Bob Byington	1.0
+Megan Griffiths	Mark Griffiths	0.8721428571428571
+Leslye Headland	Leslye Headland	1.0
+Barry Skolnick	Barry Skolnick	1.0
+Tony Goldwyn	Tony Goldwyn	1.0
+David Mirkin	David Mirkin	1.0
+Gregory Poirier	Gregory Poirier	1.0
+Katja von Garnier	Katja von Garnier	1.0
+Patrick Lussier	Patrick Lussier	1.0
+Carlos Saldanha	Carlos Saldanha	1.0
+John Musker	John Musker	1.0
+Kurt Wimmer	Kurt Wimmer	1.0
+Brett Morgen	Brett Morgen	1.0
+Jonas Åkerlund	Jonas Åkerlund	1.0
+Stephen Gaghan	Stephen Gaghan	1.0
+Olivier Megaton	Olivier Megaton	1.0
+Tom Dey	Tom Dey	1.0
+Mark Swan	Mark Swan	1.0
+Kurt Hale	Kurt Hale	1.0
+Marco Schnabel	Marco Schnabel	1.0
+Bilge Ebiri	Bilge Ebiri	1.0
+Kevin Rodney Sullivan	Kevin Rodney Sullivan	1.0
+Jocelyn Moorhouse	Jocelyn Moorhouse	1.0
+Ari Kirschenbaum	Ari Kirschenbaum	1.0
+Arish Fyzee	Arish Fyzee	1.0
+Jonathan Glazer	Jonathan Glazer	1.0
+Adam McKay	Adam McKay	1.0
+Irene Lusztig	Irene Lusztig	1.0
+Rob Schmidt	Rob Schmidt	1.0
+John Schmidt	John Schmidt	1.0
+Steven Shainberg	Steven Shainberg	1.0
+Barry Tubb	Barry Tubb	1.0
+Nick Park	Nick Park	1.0
+Tom Brady	Tom Brady	1.0
+John Erick Dowdle	John Erick Dowdle	1.0
+Mark Robson	Mark Robson	1.0
+Oren Moverman	Oren Moverman	1.0
+Michael Tollin	Michael Tollin	1.0
+Peter Howitt	Peter Howitt	1.0
+Eric Morgret	Eric Morgret	1.0
+Gregg Araki	Gregg Araki	1.0
+Richard Loncraine	Richard Loncraine	1.0
+Chris Messina	Chris Messina	1.0
+Clare Kilner	Clare Kilner	1.0
+Ben Coccio	Ben Coccio	1.0
+Jim Jarmusch	Jim Jarmusch	1.0
+William Byron Hillman	William Byron Hillman	1.0
+Todd Graff	Todd Graff	1.0
+Matia Karrell	Matia Karrell	1.0
+Vicky Jenson	Vicky Jenson	1.0
+James Wan	James Wan	1.0
+Christopher N. Rowley	Christopher N. Rowley	1.0
+Marc Abraham	Marc Abraham	1.0
+Patricia Riggen	Patricia Riggen	1.0
+Damon Santostefano	Damon Santostefano	1.0
+J. Mackye Gruber	J. Mackye Gruber	1.0
+Paul Haggis	Paul Haggis	1.0
+David Dobkin	David Dobkin	1.0
+Zach Braff	Zach Braff	1.0
+Danny Leiner	Danny Leiner	1.0
+Allen Coulter	Allen Coulter	1.0
+Peter Sattler	Peter Sattler	1.0
+Alexander Payne	Alexander Payne	1.0
+Nae Caranfil	Nae Caranfil	1.0
+Robert Vince	Robert Vince	1.0
+Shane Carruth	Shane Carruth	1.0
+Debra Granik	Debra Granik	1.0
+Eric Schaeffer	Eric Schaeffer	1.0
+Michael Palm	Michael Palm	1.0
+Richard Ledes	Richard Ledes	1.0
+Alexander Mackendrick	Alexander Mackendrick	1.0
+Mira Nair	Mira Nair	1.0
+Takashi Shimizu	Takashi Shimizu	1.0
+Forest Whitaker	Forest Whitaker	1.0
+David Jung	David Jung	1.0
+Timothy Björklund	Timothy Björklund	1.0
+Tennyson Bardwell	Tennyson Bardwell	1.0
+Matthew Leutwyler	Matthew Leutwyler	1.0
+Kevin Spacey	Kevin Spacey	1.0
+Joe Nussbaum	Joe Nussbaum	1.0
+John Pogue	John Pogue	1.0
+Jamie Babbit	Jamie Babbit	1.0
+David Duchovny	David Duchovny	1.0
+D.J. Caruso	D.J. Caruso	1.0
+Richard Gabai	Richard Gabai	1.0
+Pete Travis	Pete Travis	1.0
+Marc Forster	Marc Forster	1.0
+Alexandre O. Philippe	Alexandre O. Philippe	1.0
+Tim Fywell	Tim Fywell	1.0
+Kees Van Oostrum	Kees Van Oostrum	1.0
+mink	mink	1.0
+Jay Chandrasekhar	Jay Chandrasekhar	1.0
+Lexi Alexander	Lexi Alexander	1.0
+Thomas Bezucha	Thomas Bezucha	1.0
+John Maybury	John Maybury	1.0
+Gregory Colbert	Gregory Colbert	1.0
+Iain Softley	Iain Softley	1.0
+Bart Freundlich	Bart Freundlich	1.0
+Rachel Boynton	Rachel Boynton	1.0
+Andrew Leman	Andrew H. Leman	0.96
+Jeff Wadlow	Jeff Wadlow	1.0
+Matthew Vaughn	Matthew Vaughn	1.0
+John Gulager	John Gulager	1.0
+Josh Trank	Josh Trank	1.0
+Matthew Chapman	Matthew Chapman	1.0
+Gary Chapman	Gary Chapman	1.0
+Jeremy Haft	Jeremy Haft	1.0
+John Polson	John Polson	1.0
+Matty Beckerman	Matty Beckerman	1.0
+Eric Forsberg	Eric Forsberg	1.0
+David Kendall	David Kendall	1.0
+Burr Steers	Burr Steers	1.0
+Sunu Gonera	Sunu Gonera	1.0
+Andrew Jarecki	Andrew Jarecki	1.0
+Eugene Jarecki	Eugene Jarecki	1.0
+Prachya Pinkaew	Prachya Pinkaew	1.0
+Marshall Curry	Marshall Curry	1.0
+Mark Mylod	Mark Mylod	1.0
+Rob Bowman	Rob Bowman	1.0
+James Orr	James Orr	1.0
+John Curran	John J. Curran	0.9571428571428571
+Joe Carnahan	Joe Carnahan	1.0
+Anthony Stacchi	Anthony Stacchi	1.0
+Joe Ranft	Joe Ranft	1.0
+Karey Kirkpatrick	Karey Kirkpatrick	1.0
+James Gartner	James Gartner	1.0
+Scott Speer	Scott Speer	1.0
+Jon M. Chu	Jon M. Chu	1.0
+Anne Fletcher	Anne Fletcher	1.0
+Patrick McGuinn	Patrick McGuinn	1.0
+Noam Murro	Noam Murro	1.0
+Gabriele Muccino	Gabriele Muccino	1.0
+Alejandro Agresti	Alejandro Agresti	1.0
+Neil Burger	Neil Burger	1.0
+Ringo Lam	Ringo Lam	1.0
+John Fox	Josh Fox	0.9333333333333333
+John Fox	John Fox	1.0
+Daniel Alfredson	Daniel Alfredson	1.0
+Ray Gower	Ray Gower	1.0
+Wil Shriner	Wil Shriner	1.0
+Matthew O'Callaghan	Matthew O'Callaghan	1.0
+Harry Basil	Harry Basil	1.0
+Eric Steel	Eric Steel	1.0
+Mike Binder	Mike Binder	1.0
+James Gunn	James Gunn	1.0
+Fred C. Newmeyer	Fred Newmeyer	0.9625
+Nicholaus Goossen	Nicholaus Goossen	1.0
+BJ McDonnell	B.J. McDonnell	0.9571428571428572
+Josef Rusnak	Josef Rusnak	1.0
+M. Blash	M. Blash	1.0
+Steve Oedekerk	Steve Oedekerk	1.0
+Alejandro Monteverde	Alejandro Monteverde	1.0
+Peter Askin	Peter Askin	1.0
+W. Scott Peake	W. Scott Peake	1.0
+Tommy O'Haver	Tommy O'Haver	1.0
+John Orrichio	John Orrichio	1.0
+Chris Buck	Chris Buck	1.0
+Samantha Buck	Samantha Buck	1.0
+Gabor Csupo	Gabor Csupo	1.0
+Phillip Rhee	Phillip Rhee	1.0
+Lance Rivera	Lance Rivera	1.0
+James R. Gorrie	James R. Gorrie	1.0
+James Frawley	James Frawley	1.0
+Mark Neveldine	Mark Neveldine	1.0
+Denzel Washington	Denzel Washington	1.0
+Mennan Yapo	Mennan Yapo	1.0
+Judd Apatow	Judd Apatow	1.0
+Terry George	Terry George	1.0
+Ira Sachs	Ira Sachs	1.0
+Steven Sawalich	Steven Sawalich	1.0
+Dan Gildark	Dan Gildark	1.0
+George Ratliff	George Ratliff	1.0
+David Auburn	David Auburn	1.0
+Richard LaGravenese	Richard LaGravenese	1.0
+Gary Walkow	Gary Walkow	1.0
+Scott J. Gill	Scott J. Gill	1.0
+Sterlin Harjo	Sterlin Harjo	1.0
+Chris Wedge	Chris Wedge	1.0
+Akiva Schaffer	Akiva Schaffer	1.0
+Jason Friedberg	Jason Friedberg	1.0
+Lenny Abrahamson	Lenny Abrahamson	1.0
+Xavier Gens	Xavier Gens	1.0
+Thomas Mignone	Thomas Mignone	1.0
+Aleksander Bach	Aleksander Bach	1.0
+Oren Peli	Oren Peli	1.0
+Casper Andreas	Casper Andreas	1.0
+Lajos Koltai	Lajos Koltai	1.0
+Marc-Andre Samson	Marc-Andre Samson	1.0
+Roy Knyrim	Roy Knyrim	1.0
+Mitchell Lichtenstein	Mitchell Lichtenstein	1.0
+Juan Carlos Pineiro Escoriaza	Juan Carlos Pineiro Escoriaza	1.0
+David Wain	David Wain	1.0
+Garth Jennings	Garth Jennings	1.0
+Mark Osborne	Mark Osborne	1.0
+Jimmy Hayward	Jimmy Hayward	1.0
+Gregory McClatchy	Gregory McClatchy	1.0
+Dennis Fallon	Dennis Fallon	1.0
+Marcos Siega	Marcos Siega	1.0
+Craig Mazin	Craig Mazin	1.0
+Peter Cattaneo	Peter Cattaneo	1.0
+Evan Oppenheimer	Evan Oppenheimer	1.0
+Danny Pang	Danny Pang	1.0
+James Westby	James Westby	1.0
+Kirk De Micco	Kirk De Micco	1.0
+Kevin Macdonald	Kevin Macdonald	1.0
+Fred Durst	Fred Durst	1.0
+Udayan Prasad	Udayan Prasad	1.0
+Gary David Goldberg	Gary David Goldberg	1.0
+Eric Goldberg	Evan Goldberg	0.8615384615384616
+Ramin Bahrani	Ramin Bahrani	1.0
+Mark Stouffer	Mark Stouffer	1.0
+David Mackay	David Mackay	1.0
+James Bolton	James Bolton	1.0
+Saul Dibb	Saul Dibb	1.0
+Justin Chadwick	Justin Chadwick	1.0
+Charles Kinnane	Charles Kinnane	1.0
+Kevin Greutert	Kevin Greutert	1.0
+Eric Valette	Eric Valette	1.0
+Tom Putnam	Tom Putnam	1.0
+Todor Chapkanov	Todor Chapkanov	1.0
+Adam Gierasch	Adam Gierasch	1.0
+Jonathan Dillon	Jonathan Dillon	1.0
+Yen Tan	Yen Tan	1.0
+Howard McCain	Howard McCain	1.0
+Jonathan Frakes	Jonathan Frakes	1.0
+Louie Psihoyos	Louie Psihoyos	1.0
+Larry Charles	Larry Charles	1.0
+Ben Ramsey	Ben Ramsey	1.0
+Luiso Berdejo	Luis A. Berdejo	0.9446153846153846
+Jonathan Mostow	Jonathan Mostow	1.0
+Nir Paniry	Nir Paniry	1.0
+Mike Judge	Mike Judge	1.0
+Dito Montiel	Dito Montiel	1.0
+Phil Traill	Phil Traill	1.0
+John Lyde	John Lyde	1.0
+Scott Sanders	Scott Sanders	1.0
+Rupert Sanders	Rupert Sanders	1.0
+John Hamburg	John Hamburg	1.0
+Víctor García	Victor García	0.9538461538461539
+Rodrigo García	Rodrigo García	1.0
+Steve Mims	Steve Mims	1.0
+Dagen Merrill	Dagen Merrill	1.0
+Shlomi Eldar	Shlomi Eldar	1.0
+Lee Daniels	Lee Daniels	1.0
+John Hillcoat	John Hillcoat	1.0
+David Gelb	David Gelb	1.0
+Atom Egoyan	Atom Egoyan	1.0
+Andrew Shapter	Andrew Shapter	1.0
+Tom Elkins	Tom Elkins	1.0
+Lone Scherfig	Lone Scherfig	1.0
+Marcus Dunstan	Marcus Dunstan	1.0
+David S. Goyer	David S. Goyer	1.0
+Stewart Hendler	Stewart Hendler	1.0
+Michael Tuchner	Michael Tuchner	1.0
+Marc Fienberg	Marc Fienberg	1.0
+Bill Paxton	Bill Paxton	1.0
+Daniel Espinosa	Daniel Espinosa	1.0
+Gonzalo López-Gallego	Gonzalo López-Gallego	1.0
+Olatunde Osunsanmi	Olatunde Osunsanmi	1.0
+Jonas Pate	Jonas Pate	1.0
+Isaac Florentine	Isaac Florentine	1.0
+Chris Renaud	Chris Renaud	1.0
+Àlex Pastor	Alex Pastor	0.9393939393939394
+Michael Stephenson	Michael Stephenson	1.0
+Michael Stephenson	Michael Paul Stephenson	0.9342995169082126
+Jeff Malmberg	Jeff Malmberg	1.0
+Ben Affleck	Ben Affleck	1.0
+Will Speck	Will Speck	1.0
+Dean DeBlois	Dean DeBlois	1.0
+Jeff Orlowski	Jeff Orlowski	1.0
+Florian Henckel von Donnersmarck	Florian Henckel von Donnersmarck	1.0
+Jay Lowi	Jay Lowi	1.0
+Thor Freudenthal	Thor Freudenthal	1.0
+Shawn Ku	Shawn Ku	1.0
+Ed Gass-Donnelly	Ed Gass-Donnelly	1.0
+Daniel Stamm	Daniel Stamm	1.0
+Kurt Engfehr	Kurt Engfehr	1.0
+Steven Brill	Steven Brill	1.0
+Peter Sollett	Peter Sollett	1.0
+Chico Colvard	Chico Colvard	1.0
+Greg Berlanti	Greg Berlanti	1.0
+Anand Tucker	Anand Tucker	1.0
+Todd Tucker	David Tucker	0.8560606060606061
+John Carney	John Carney	1.0
+Roger Michell	Roger Michell	1.0
+Robert Schwentke	Robert Schwentke	1.0
+Richard Ayoade	Richard Ayoade	1.0
+Roberts Gannaway	Robert Gannaway	0.9874999999999999
+Roberts Gannaway	Roberts Gannaway	1.0
+Chris Lofing	Chris Lofing	1.0
+Leigh Whannell	Leigh Whannell	1.0
+Mark Romanek	Mark Romanek	1.0
+J.C. Calciano	J. C. Calciano	0.9604395604395605
+Tyler Shields	Tyler Shields	1.0
+Tom Six	Tom Six	1.0
+Todd Strauss-Schulson	Todd Strauss-Schulson	1.0
+Mark Duplass	Mark Duplass	1.0
+David Robert Mitchell	David Robert Mitchell	1.0
+John Cameron Mitchell	John Cameron Mitchell	1.0
+John Murlowski	John Murlowski	1.0
+Natalie Bible'	Natalie Bible'	1.0
+Isabel Coixet	Isabel Coixet	1.0
+Emir Kusturica	Emir Kusturica	1.0
+Henrik Ruben Genz	Henrik Ruben Genz	1.0
+Taika Waititi	Taika Waititi	1.0
+Roko Belic	Roko Belic	1.0
+Chris Dowling	Chris Dowling	1.0
+Asger Leth	Asger Leth	1.0
+Mike Cahill	Mike Cahill	1.0
+Gavin Wiesen	Gavin Wiesen	1.0
+Andy Cadiff	Andy Cadiff	1.0
+John Bonito	John Bonito	1.0
+Vivi Friedman	Vivi Friedman	1.0
+Justin Krumb	Justin Krumb	1.0
+Sean Branney	Sean Branney	1.0
+Marcus Graves	Marcus Graves	1.0
+Daniel Barnz	Daniel Barnz	1.0
+Ernie Barbarash	Ernie Barbarash	1.0
+Famke Janssen	Famke Janssen	1.0
+Brian G. Hutton	Brian G. Hutton	1.0
+Bob Hathcock	Bob Hathcock	1.0
+J.T. Tepnapa	J.T. Tepnapa	1.0
+David Chirchirillo	David Chirchirillo	1.0
+Derik Wingo	Derik Wingo	1.0
+Jennifer Westfeldt	Jennifer Westfeldt	1.0
+Danfung Dennis	Danfung Dennis	1.0
+Antti Jokinen	Antti Jokinen	1.0
+Michael Biehn	Michael Biehn	1.0
+Adam Wingard	Adam Wingard	1.0
+Kat Coiro	Kat Coiro	1.0
+Alison Bagnall	Alison Bagnall	1.0
+Kenneth Lonergan	Kenneth Lonergan	1.0
+Drake Doremus	Drake Doremus	1.0
+Sam Jaeger	Sam Jaeger	1.0
+Gabriela Tagliavini	Gabriela Tagliavini	1.0
+Shunji Iwai	Shunji Iwai	1.0
+Kirby Dick	Kirby Dick	1.0
+Michael Sucsy	Michael Sucsy	1.0
+Sara Hirsh Bordo	Sara Hirsh Bordo	1.0
+Kyle Balda	Kyle Balda	1.0
+Nicolás López	Nicolás López	1.0
+Stefan Ruzowitzky	Stefan Ruzowitzky	1.0
+Tom Donahue	Tom Donahue	1.0
+Elizabeth Banks	Elizabeth Banks	1.0
+Hayden Schlossberg	Hayden Schlossberg	1.0
+William Lau	William Lau	1.0
+Heitor Dhalia	Heitor Dhalia	1.0
+Lisa Azuelos	Lisa Azuelos	1.0
+Robert Pulcini	Robert Pulcini	1.0
+Amos Gitai	Amos Gitai	1.0
+Christopher Neil	Christopher Neil	1.0
+Adam Lipsius	Adam Lipsius	1.0
+Charles de Lauzirika	Charles de Lauzirika	1.0
+Baltasar Kormákur	Baltasar Kormákur	1.0
+Todd Haynes	Todd Haynes	1.0
+Tony Aloupis	Tony Aloupis	1.0
+Brian Brough	Brian Brough	1.0
+Seth MacFarlane	Seth MacFarlane	1.0
+Mark Tonderai	Mark Tonderai	1.0
+Scott Schirmer	Scott Schirmer	1.0
+Raoul Ruiz	Raoul Ruiz	1.0
+Ciarán Foy	Ciaran Foy	0.96
+Josh Schwartz	Josh Schwartz	1.0
+Inon Shampanier	Inon Shampanier	1.0
+Nacho Vigalondo	Nacho Vigalondo	1.0
+Brett Donowho	Brett Donowho	1.0
+Jason Eisener	Jason Eisener	1.0
+Andy Capper	Andy Capper	1.0
+Aaron Moorhead	Aaron Scott Moorhead	0.9257142857142857
+Michael D. Akers	Michael Akers	0.9625
+Peter Nicks	Peter Nicks	1.0
+Maxim Korostyshevsky	Maksim Korostyshevsky	0.8630242272347535
+Michael A. Nickles	Michael A. Nickles	1.0
+J.C. Chandor	J.C. Chandor	1.0
+Mikael Håfström	Mikael Håfström	1.0
+Dan Scanlon	Dan Scanlon	1.0
+Tommy Wirkola	Tommy Wirkola	1.0
+Christopher Folino	Christopher Folino	1.0
+David Soren	David Soren	1.0
+Ishi Rudell	Ishi Rudell	1.0
+Neill Blomkamp	Neill Blomkamp	1.0
+Cal Brunker	Cal Brunker	1.0
+Ted Geoghegan	Ted Geoghegan	1.0
+Ann Raffaela Lupo	Ann Raffaela Lupo	1.0
+Scott Waugh	Scott Waugh	1.0
+Ric Roman Waugh	Ric Roman Waugh	1.0
+Dave Moody	Dave Moody	1.0
+James Ponsoldt	James Ponsoldt	1.0
+Rob Kuhns	Rob Kuhns	1.0
+Tim McCann	Tim McCann	1.0
+Daniel Schechter	Daniel Schechter	1.0
+James Ward Byrkit	James Ward Byrkit	1.0
+Jason Hull	Jason Hull	1.0
+Justin Zackham	Justin Zackham	1.0
+Clark Gregg	Clark Gregg	1.0
+Lorene Scafaria	Lorene Scafaria	1.0
+Doug Dearth	Doug Dearth	1.0
+Zal Batmanglij	Zal Batmanglij	1.0
+Adam Rodgers	Adam Rodgers	1.0
+Herschel Faber	Herschel Faber	1.0
+Gus Holwerda	Gus Holwerda	1.0
+John Crowley	John Crowley	1.0
+Michael Tiddes	Michael Tiddes	1.0
+E.L. Katz	E.L. Katz	1.0
+Eric England	Eric England	1.0
+Carlo Nicoletta	Carlo Nicoletta	1.0
+Hiroyuki Okiura	Hiroyuki Okiura	1.0
+Irving Reis	Irving G. Reis	0.9571428571428571
+James Vanderbilt	James Vanderbilt	1.0
+Hannah Fidell	Hannah Fidell	1.0
+D.M.W. Greer	DMW Greer	0.9249999999999999
+Estlin Feigley	Estlin Feigley	1.0
+Jenée LaMarque	Jenée LaMarque	1.0
+Colin Trevorrow	Colin Trevorrow	1.0
+John Krokidas	John Krokidas	1.0
+Clif Prowse	Clif Prowse	1.0
+Courtney Solomon	Courtney Solomon	1.0
+Jim Mickle	Jim Mickle	1.0
+Douglas Aarniokoski	Douglas Aarniokoski	1.0
+Steven Knight	Steven Knight	1.0
+David Heeley	David Heeley	1.0
+Jeff Burr	Jeff Burr	1.0
+Adam Bhala Lough	Adam Bhala Lough	1.0
+James DeMonaco	James DeMonaco	1.0
+Sean McGarry	Sean McGarry	1.0
+Tara Anaïse	Tara Anaïse	1.0
+Nicholas Kalikow	Nicholas Kalikow	1.0
+Anthony DiBlasi	Anthony DiBlasi	1.0
+Irving Pichel	Irving Pichel	1.0
+Lou Howe	Lou Howe	1.0
+Darren Doane	Darren Doane	1.0
+Peter Cousens	Peter Cousens	1.0
+Wally Pfister	Wally Pfister	1.0
+Liv Ullmann	Liv Ullmann	1.0
+Michael Cuesta	Michael Cuesta	1.0
+Peter Lepeniotis	Peter Lepeniotis	1.0
+Nicolas Rossier	Nicolas Rossier	1.0
+Wes Ball	Wes Ball	1.0
+Josh Boone	Josh Boone	1.0
+Kat Candler	Kat Candler	1.0
+William Eubank	Will Eubank	0.9207792207792208
+Colin Minihan	Colin Minihan	1.0
+Nikita Zubarev	Nikita Zubarev	1.0
+Chuck Sheetz	Chuck Sheetz	1.0
+Stephanie Soechtig	Stephanie Soechtig	1.0
+Stuart Beattie	Stuart Beattie	1.0
+Khalil Sullins	Khalil Sullins	1.0
+Phillip Borsos	Phillip Borsos	1.0
+Jody Wheeler	Jody Wheeler	1.0
+Gilles Paquet-Brenner	Gilles Paquet-Brenner	1.0
+Sam Esmail	Sam Esmail	1.0
+Gabe Polsky	Gabe Polsky	1.0
+Wen-Han Shih	Wen-Han Shih	1.0
+Lewis Seiler	Lew Seiler	0.9377777777777778
+Ava DuVernay	Ava DuVernay	1.0
+Damien Chazelle	Damien Chazelle	1.0
+R.J. Cutler	R.J. Cutler	1.0
+Charlie McDowell	Charlie McDowell	1.0
+Brian Avenet-Bradley	Brian Avenet-Bradley	1.0
+Joel Gallen	Joel Gallen	1.0
+Jeremy Snead	Jeremy Snead	1.0
+Tim Garrick	Tim Garrick	1.0
+Miguel Arteta	Miguel Arteta	1.0
+Eduardo Sánchez	Eduardo Sánchez	1.0
+Patrick Brice	Patrick Brice	1.0
+Thomas S. Hammock	Thomas S. Hammock	1.0
+D.A. Pennebaker	D.A. Pennebaker	1.0
+Riley Stearns	Riley Stearns	1.0
+Niki Caro	Niki Caro	1.0
+Kaige Chen	Kaige Chen	1.0
+Joel Potrykus	Joel Potrykus	1.0
+Jesse Moss	Jesse Moss	1.0
+Mark Raso	Mark Raso	1.0
+Chris Rock	Chris Rock	1.0
+Susanna Fogel	Susanna Fogel	1.0
+Angelina Jolie	Angelina Jolie	1.0
+Kate Barker-Froyland	Kate Barker-Froyland	1.0
+Michaël R. Roskam	Michaël R. Roskam	1.0
+Jason Banker	Jason Banker	1.0
+Tyler Gillett	Tyler Gillett	1.0
+Rupert Wyatt	Rupert Wyatt	1.0
+Bob Dolman	Bob Dolman	1.0
+Richard Schenkman	Richard Schenkman	1.0
+David Worth	David Worth	1.0
+Mora Stephens	Mora Stephens	1.0
+David Yarovesky	David Yarovesky	1.0
+Pierre Coffin	Pierre Coffin	1.0
+Rodrigo Ojeda-Beck	Rodrigo Ojeda-Beck	1.0
+Brandon Ho	Brandon Ho	1.0
+Kim Longinotto	Kim Longinotto	1.0
+Lincoln Ruchti	Lincoln Ruchti	1.0
+Jennifer Phang	Jennifer Phang	1.0
+Thomas Vinterberg	Thomas Vinterberg	1.0
+Ryan Coogler	Ryan Coogler	1.0
+Rupert Goold	Rupert Goold	1.0
+Rawson Marshall Thurber	Rawson Marshall Thurber	1.0
+J Blakeson	J Blakeson	1.0
+Bryan Buckley	Bryan Buckley	1.0
+Shaun Monson	Shaun Monson	1.0
+Doug Ellin	Doug Ellin	1.0
+Isaac Feder	Isaac Feder	1.0
+Todd Verow	Todd Verow	1.0
+Don Cheadle	Don Cheadle	1.0
+Andrew Bujalski	Andrew Bujalski	1.0
+Peter Hutchings	Peter Hutchings	1.0
+Menno Meyjes	Menno Meyjes	1.0
+Adam Egypt Mortimer	Adam Egypt Mortimer	1.0
+Omar Ashmawey	Omar Ashmawey	1.0
+Alistair Legrand	Alistair Legrand	1.0
+Christian Cantamessa	Christian Cantamessa	1.0
+Craig William Macneill	Craig William Macneill	1.0
+Will Canon	Will Canon	1.0
+Steve Wolsh	Steve Wolsh	1.0
+Rick Famuyiwa	Rick Famuyiwa	1.0
+Jerry Jameson	Jerry Jameson	1.0
+Shinji Aramaki	Shinji Aramaki	1.0
+Alex Garland	Alex Garland	1.0
+Andrew Droz Palermo	Andrew Droz Palermo	1.0
+Arthur Cullipher	Arthur Cullipher	1.0
+S.F. Brownrigg	S.F. Brownrigg	1.0
+Elizabeth Chai Vasarhelyi	Elizabeth Chai Vasarhelyi	1.0
+Daniel Millican	Daniel Millican	1.0
+Pierre Morel	Pierre Morel	1.0
+Sylvia Soska	Sylvia Soska	1.0
+Austin Stark	Austin Stark	1.0

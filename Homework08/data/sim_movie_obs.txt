@@ -1,0 +1,3493 @@
+So Proudly We Hail!	So Proudly We Hail!	1.0
+Cynthia	Cynthia	1.0
+The Divorcee	The Divorcée	0.9444444444444443
+Everything Must Go	Everything Must Go	1.0
+The Stunt Man	The Stunt Man	1.0
+State of the Union	State of the Union	1.0
+You Can't Take It With You	You Can't Take It With You	1.0
+The Miracle Woman	The Miracle Woman	1.0
+It's a Wonderful Life	It's a Wonderful Life	1.0
+Mr. Deeds Goes to Town	Mr. Deeds Goes to Town	1.0
+Platinum Blonde	Platinum Blonde	1.0
+Lost Horizon	Lost Horizon	1.0
+Mr. Smith Goes to Washington	Mr. Smith Goes to Washington	1.0
+Dr. Jekyll and Mr. Hyde	Dr. Jekyll and Mr. Hyde	1.0
+Cleopatra	Cleopatra	1.0
+Animal Crackers	Animal Crackers	1.0
+Nancy Drew	Nancy Drew	1.0
+The Virginian	The Virginian	1.0
+The Craft	The Craft	1.0
+The Good Earth	The Good Earth	1.0
+Hamlet 2	Hamlet 2	1.0
+Red Dust	Red Dust	1.0
+Treasure Island	Treasure Island	1.0
+Captains Courageous	Captains Courageous	1.0
+Barefoot	Barefoot	1.0
+Trader Horn	Trader Horn	1.0
+The Prisoner of Zenda	The Prisoner of Zenda	1.0
+The Thin Man	The Thin Man	1.0
+Scooby-Doo 2: Monsters Unleashed	Scooby-Doo 2: Monsters Unleashed	1.0
+Big Momma's House	Big Momma's House	1.0
+Yours, Mine & Ours	Yours, Mine & Ours	1.0
+Scooby-Doo	Scooby-Doo	1.0
+The Smurfs	The Smurfs 2	0.9444444444444445
+The Smurfs	The Smurfs	1.0
+The Smurfs 2	The Smurfs 2	1.0
+The Smurfs 2	The Smurfs	0.9444444444444445
+Frankenstein	Frankenstein	1.0
+Waterloo Bridge	Waterloo Bridge	1.0
+The Old Dark House	The Old Dark House	1.0
+The Invisible Man	The Invisible Man	1.0
+Hawaii	Hawaii	1.0
+Butch Cassidy and the Sundance Kid	Butch Cassidy and the Sundance Kid	1.0
+Funny Farm	Funny Farm	1.0
+Brewster's Millions	Brewster's Millions	1.0
+48 Hrs.	48 HRS	0.9523809523809524
+Last Man Standing	Last Man Standing	1.0
+The Sting	The Sting	1.0
+Thoroughly Modern Millie	Thoroughly Modern Millie	1.0
+Alvin and the Chipmunks	Alvin and the Chipmunks	1.0
+Slaughterhouse-Five	Slaughterhouse-Five	1.0
+Red Heat	Red Heat	1.0
+Garfield: A Tail of Two Kitties	Garfield: A Tail of Two Kitties	1.0
+Another 48 Hrs.	Another 48 Hrs.	1.0
+Dracula	Dracula	1.0
+Freaks	Freaks	1.0
+Deck the Halls	Deck the Halls	1.0
+Thunderstruck	Thunderstruck	1.0
+Big Momma's House 2	Big Momma's House 2	1.0
+Blue Thunder	Blue Thunder	1.0
+Drop Zone	Drop Zone	1.0
+American Flyers	American Flyers	1.0
+Bird on a Wire	Bird on a Wire	1.0
+The Hard Way	The Hard Way	1.0
+Stakeout	Stakeout	1.0
+Short Circuit	Short Circuit	1.0
+Menace II Society	Menace II Society	1.0
+The Breakfast Club	The Breakfast Club	1.0
+The Expendables 3	The Expendables 3	1.0
+Missing Link	Missing Link	1.0
+From Hell	From Hell	1.0
+Weird Science	Weird Science	1.0
+Planes, Trains & Automobiles	Planes, Trains and Automobiles	0.9424162257495591
+Harriet the Spy	Harriet the Spy	1.0
+Forces of Nature	Forces of Nature	1.0
+City Girl	City Girl	1.0
+All Quiet on the Western Front	All Quiet on the Western Front	1.0
+The Paleface	The Paleface	1.0
+Monkey Business	Monkey Business	1.0
+Pennies from Heaven	Pennies From Heaven	1.0
+Topper	Topper	1.0
+My Favorite Spy	My Favorite Spy	1.0
+The World Changes	The World Changes	1.0
+Gold Diggers of 1933	Gold Diggers of 1933	1.0
+Little Women	Little Women	1.0
+Three on a Match	Three on a Match	1.0
+Little Caesar	Little Caesar	1.0
+Over the Edge	Over the Edge	1.0
+Bad Girls	Bad Girls	1.0
+The Last Flight of Noah's Ark	The Last Flight of Noah's Ark	1.0
+Rio Bravo	Rio Bravo	1.0
+I Was a Male War Bride	I Was a Male War Bride	1.0
+Bringing Up Baby	Bringing Up Baby	1.0
+Ball of Fire	Ball of Fire	1.0
+El Dorado	El Dorado	1.0
+Twentieth Century	Twentieth Century	1.0
+Air Force	Air Force	1.0
+The Big Sleep	The Big Sleep	1.0
+To Have and Have Not	To Have and Have Not	1.0
+The Champ	The Champ	1.0
+Hans Christian Andersen	Hans Christian Andersen	1.0
+War and Peace	War and Peace	1.0
+Love Me or Leave Me	Love Me Or Leave Me	1.0
+Gilda	Gilda	1.0
+Cover Girl	Cover Girl	1.0
+Straw Dogs	Straw Dogs	1.0
+Nothing But the Truth	Nothing But the Truth	1.0
+Hamlet	Hamlet	1.0
+Teenage Mutant Ninja Turtles 2	Teenage Mutant Ninja Turtles 2	1.0
+Hatchet	Hatchet	1.0
+Hatchet	Hatchet II	0.9
+Baby Face	Baby Face	1.0
+Joe	Joe	1.0
+Wildlike	Wildlike	1.0
+Pineapple Express	Pineapple Express	1.0
+Frozen	Frozen	1.0
+Hatchet II	Hatchet	0.9
+Hatchet II	Hatchet II	1.0
+The Sitter	The Sitter	1.0
+Smart Money	Smart Money	1.0
+Our Brand Is Crisis	Our Brand is Crisis	1.0
+Dangerous	Dangerous	1.0
+The Little Giant	The Little Giant	1.0
+On Moonlight Bay	On Moonlight Bay	1.0
+Blonde Crazy	Blonde Crazy	1.0
+Lady Killer	Lady Killer	1.0
+The Conquerors	The Conquerors	1.0
+Beau Geste	Beau Geste	1.0
+Nothing Sacred	Nothing Sacred	1.0
+Battleground	Battleground	1.0
+The Public Enemy	The Public Enemy	1.0
+Five Dances	Five Dances	1.0
+The Eagle	The Eagle	1.0
+Angels in the Outfield	Angels in the Outfield	1.0
+Edison, the Man	Edison, the Man	1.0
+The Yearling	The Yearling	1.0
+A Free Soul	A Free Soul	1.0
+Two Can Play That Game	Two Can Play That Game	1.0
+Song of Love	Song of Love	1.0
+Manhunter	Manhunter	1.0
+Devil's Doorway	Devil's Doorway	1.0
+Marty	Marty	1.0
+El Cid	El Cid	1.0
+The Last of the Mohicans	The Last of the Mohicans	1.0
+Side Street	Side Street	1.0
+Ada	Ada	1.0
+Jackie & Ryan	Jackie & Ryan	1.0
+Heat	Heat	1.0
+Public Enemies	Public Enemies	1.0
+The Fall of the Roman Empire	The Fall of the Roman Empire	1.0
+The Tall Target	The Tall Target	1.0
+Miami Vice	Miami Vice	1.0
+Thief	Thief	1.0
+Ali	Ali	1.0
+Collateral	Collateral	1.0
+Shrek 2	Shrek 2	1.0
+True Confession	True Confession	1.0
+I'm No Angel	I'm No Angel	1.0
+Cimarron	Cimarron	1.0
+The Great Dictator	The Great Dictator	1.0
+City Lights	City Lights	1.0
+Modern Times	Modern Times	1.0
+The Skateboard Kid II	The Skateboard Kid II	1.0
+Just a Kiss	Just a Kiss	1.0
+Kansas	Kansas	1.0
+Stand Up Guys	Stand Up Guys	1.0
+Crazy Love	Crazy Love	1.0
+A Night in Casablanca	A Night in Casablanca	1.0
+Gambling Lady	Gambling Lady	1.0
+The Petrified Forest	The Petrified Forest	1.0
+Bordertown	Bordertown	1.0
+Illicit	Illicit	1.0
+White Zombie	White Zombie	1.0
+The Tingler	The Tingler	1.0
+13 Ghosts	13 Ghosts	1.0
+Strait-Jacket	Strait-Jacket	1.0
+The Mummy	The Mummy	1.0
+G.I. Joe: The Rise of Cobra	G.I. Joe: The Rise of Cobra	1.0
+Catch Me If You Can	Catch Me If You Can	1.0
+Odd Thomas	Odd Thomas	1.0
+The Mummy Returns	The Mummy Returns	1.0
+Van Helsing	Van Helsing	1.0
+Deep Rising	Deep Rising	1.0
+The Rage	The Rage	1.0
+People Like Us	People Like Us	1.0
+Grandma	Grandma	1.0
+The Golden Compass	The Golden Compass	1.0
+American Pie	American Pie	1.0
+About a Boy	About a Boy	1.0
+The Twilight Saga: New Moon	The Twilight Saga: New Moon	1.0
+Grand Hotel	Grand Hotel	1.0
+The Old Maid	The Old Maid	1.0
+The Razor's Edge	The Razor's Edge	1.0
+The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers (Extended)	0.9236111111111112
+The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers	1.0
+The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey Extended Edition	0.8866666666666667
+The Hobbit: An Unexpected Journey	The Hobbit: An Unexpected Journey	1.0
+L.A. Story	L.A. Story	1.0
+The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation Of Smaug Extended Edition	0.8910256410256411
+The Hobbit: The Desolation of Smaug	The Hobbit: The Desolation of Smaug	1.0
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King	1.0
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Fellowship of the Ring	0.860071806500378
+The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King (Extended)	0.9345238095238096
+The Hobbit: The Battle of the Five Armies	The Hobbit: The Battle of the Five Armies	1.0
+Volcano	Volcano	1.0
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Return of the King	0.860071806500378
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	1.0
+The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring (Extended)	0.9388888888888888
+King Kong	King Kong	1.0
+The Frighteners	The Frighteners	1.0
+The Bodyguard	The Bodyguard	1.0
+Shopworn	Shopworn	1.0
+Island of Lost Souls	Island of Lost Souls	1.0
+House of Dracula	House of Dracula	1.0
+There Will Be Blood	There Will Be Blood	1.0
+Shake Hands with the Devil	Shake Hands With the Devil	1.0
+Magnolia	Magnolia	1.0
+Death Race	Death Race	1.0
+The Master	The Master	1.0
+Rushmore	Rushmore	1.0
+Soldier	Soldier	1.0
+Bottle Rocket	Bottle Rocket	1.0
+Pompeii	Pompeii	1.0
+1984	1984	1.0
+Resident Evil: Retribution	Resident Evil: Retribution	1.0
+The Jerk Theory	The Jerk Theory	1.0
+Resident Evil	Resident Evil	1.0
+The Grand Budapest Hotel	The Grand Budapest Hotel	1.0
+South Central	South Central	1.0
+AVP: Alien vs. Predator	AVP - Alien Vs. Predator	0.881971892841458
+Mortal Kombat	Mortal Kombat	1.0
+Boogie Nights	Boogie Nights	1.0
+Shanghai Express	Shanghai Express	1.0
+Poltergeist	Poltergeist	1.0
+The Danish Girl	The Danish Girl	1.0
+The Texas Chain Saw Massacre	The Texas Chainsaw Massacre	0.9634038800705468
+The King's Speech	The King's Speech	1.0
+The Mangler	The Mangler	1.0
+Eaten Alive	Eaten Alive	1.0
+Lifeforce	Lifeforce	1.0
+Invaders from Mars	Invaders from Mars	1.0
+Spontaneous Combustion	Spontaneous Combustion	1.0
+The Funhouse	The Funhouse	1.0
+The Texas Chainsaw Massacre 2	The Texas Chainsaw Massacre	0.9770114942528735
+To Be or Not to Be	To Be or Not to Be	1.0
+Heaven Can Wait	Heaven Can Wait	1.0
+Trouble in Paradise	Trouble in Paradise	1.0
+The Patriot	The Patriot	1.0
+Murders in the Rue Morgue	Murders in the Rue Morgue	1.0
+The Philadelphia Story	The Philadelphia Story	1.0
+Les Girls	Les Girls	1.0
+Holiday	Holiday	1.0
+My Fair Lady	My Fair Lady	1.0
+Camille	Camille	1.0
+Rich and Famous	Rich and Famous	1.0
+David Copperfield	David Copperfield	1.0
+Let's Make Love	Let's Make Love	1.0
+Adam's Rib	Adam's Rib	1.0
+Big Fat Liar	Big Fat Liar	1.0
+Cheaper by the Dozen	Cheaper by the Dozen	1.0
+Bedtime Story	Bedtime Story	1.0
+The Pink Panther	The Pink Panther	1.0
+Date Night	Date Night	1.0
+Night at the Museum: Battle of the Smithsonian	Night at the Museum: Secret of the Tomb	0.8648581692059953
+Night at the Museum: Battle of the Smithsonian	Night at the Museum 2: Battle of the Smithsonian	0.9353864734299518
+Night at the Museum	Night at the Museum	1.0
+Night at the Museum: Secret of the Tomb	Night at the Museum: Secret of the Tomb	1.0
+Killer Fish	Killer Fish	1.0
+King Kong Lives	King Kong	0.8666666666666667
+The Bridge at Remagen	The Bridge at Remagen	1.0
+Room Service	Room Service	1.0
+Sons of the Desert	Sons of the Desert	1.0
+Stowaway	Stowaway	1.0
+Dimples	Dimples	1.0
+Crazy Heart	Crazy Heart	1.0
+Black Mass	Black Mass	1.0
+The Invisible Man's Revenge	The Invisible Man's Revenge	1.0
+Mighty Joe Young	Mighty Joe Young	1.0
+The Invisible Man Returns	The Invisible Man Returns	1.0
+Take Me Out to the Ball Game	Take Me Out to the Ball Game	1.0
+For Me and My Gal	For Me and My Gal	1.0
+42nd Street	42nd Street	1.0
+Gold Diggers of 1937	Gold Diggers of 1935	0.9666666666666667
+The Diary of a Teenage Girl	The Diary Of A Teenage Girl	1.0
+Dark Was the Night	Dark Was The Night	1.0
+All the Boys Love Mandy Lane	All the Boys Love Mandy Lane	1.0
+Going My Way	Going My Way	1.0
+Duck Soup	Duck Soup	1.0
+The Ring Two	The Ring Two	1.0
+Bounce	Bounce	1.0
+The Opposite of Sex	The Opposite of Sex	1.0
+If I Were King	If I Were King	1.0
+Cavalcade	Cavalcade	1.0
+Mutiny on the Bounty	Mutiny on the Bounty	1.0
+Mamma Mia!	Mamma Mia!	1.0
+The Flintstones	The Flintstones	1.0
+Are We There Yet?	Are We There Yet?	1.0
+Jingle All the Way	Jingle All the Way	1.0
+Beethoven	Beethoven	1.0
+Opening Night	Opening Night	1.0
+Big Trouble	Big Trouble	1.0
+John Q	John Q	1.0
+The Other Woman	The Other Woman	1.0
+The Notebook	The Notebook	1.0
+Topaze	Topaze	1.0
+Cowgirls 'n Angels	Cowgirls n' Angels	0.9814814814814815
+Planes	Planes	1.0
+Little Miss Marker	Little Miss Marker	1.0
+Laid to Rest	Laid to Rest	1.0
+The Food of the Gods	The Food of the Gods	1.0
+The Pit and the Pendulum	The Pit and the Pendulum	1.0
+Arthur	Arthur	1.0
+Tormented	Tormented	1.0
+Re-Animator	Re-Animator	1.0
+From Beyond	From Beyond	1.0
+Horrible Bosses	Horrible Bosses	1.0
+A Midnight Clear	A Midnight Clear	1.0
+Joe Dirt	Joe Dirt	1.0
+Fortress	Fortress	1.0
+Song of the South	Song of the South	1.0
+Money Monster	Money Monster	1.0
+The Beaver	The Beaver	1.0
+Home for the Holidays	Home for the Holidays	1.0
+The War of the Worlds	The War of the Worlds	1.0
+Robinson Crusoe on Mars	Robinson Crusoe on Mars	1.0
+The Eagle and the Hawk	The Eagle and the Hawk	1.0
+Werewolf of London	Werewolf of London	1.0
+Brother Bear	Brother Bear	1.0
+Drive	Drive	1.0
+Only God Forgives	Only God Forgives	1.0
+Niagara	Niagara	1.0
+North to Alaska	North to Alaska	1.0
+True Grit	True Grit	1.0
+Now and Forever	Now and Forever	1.0
+Cloak & Dagger	Cloak and Dagger	0.8880494505494506
+Out of Time	Out of Time	1.0
+Larger Than Life	Larger Than Life	1.0
+Psycho II	Psycho II	1.0
+The Barretts of Wimpole Street	The Barretts of Wimpole Street	1.0
+High Crimes	High Crimes	1.0
+The Other Side of Heaven	The Other Side of Heaven	1.0
+Chain Reaction	Chain Reaction	1.0
+A Perfect Murder	A Perfect Murder	1.0
+Collateral Damage	Collateral Damage	1.0
+Hearts and Minds	Hearts and Minds	1.0
+Hearts and Minds	Hearts & Minds	0.8624084249084248
+Holes	Holes	1.0
+The Guardian	The Guardian	1.0
+The Fugitive	The Fugitive	1.0
+Billy Madison	Billy Madison	1.0
+Jimmy Neutron: Boy Genius	Jimmy Neutron - Boy Genius	0.9332478632478632
+Under Siege	Under Siege	1.0
+The Ant Bully	The Ant Bully	1.0
+Above the Law	Above the Law	1.0
+Half Baked	Half Baked	1.0
+Clash of the Titans	Clash of the Titans	1.0
+Night and Day	Night and Day	1.0
+The Walking Dead	The Walking Dead	1.0
+Black Fury	Black Fury	1.0
+Casablanca	Casablanca	1.0
+Dodge City	Dodge City	1.0
+Mildred Pierce	Mildred Pierce	1.0
+The Adventures of Huckleberry Finn	The Adventures of Huckleberry Finn	1.0
+Kid Galahad	Kid Galahad	1.0
+Front Page Woman	Front Page Woman	1.0
+The Unknown Man	The Unknown Man	1.0
+The Thin Man Goes Home	The Thin Man Goes Home	1.0
+Ivanhoe	Ivanhoe	1.0
+Knights of the Round Table	Knights of the Round Table	1.0
+The Adventures of Huckleberry Finn	The Adventures Of Huckleberry Finn	1.0
+Innocent Blood	Innocent Blood	1.0
+Schlock	Schlock	1.0
+Coming to America	Coming to America	1.0
+The Blues Brothers	The Blues Brothers	1.0
+The Stupids	The Stupids	1.0
+¡Three Amigos!	Three Amigos!	0.9761904761904763
+Beverly Hills Cop III	Beverly Hills Cop III	1.0
+An American Werewolf in London	An American Werewolf in London	1.0
+Blues Brothers 2000	Blues Brothers 2000	1.0
+Beat the Devil	Beat the Devil	1.0
+Final Exam	Final Exam	1.0
+The Maltese Falcon	The Maltese Falcon	1.0
+The Man Who Would Be King	The Man Who Would Be King	1.0
+The Misfits	The Misfits	1.0
+The Unforgiven	The Unforgiven	1.0
+The Treasure of the Sierra Madre	The Treasure of the Sierra Madre	1.0
+Annie	Annie	1.0
+Key Largo	Key Largo	1.0
+Moulin Rouge!	Moulin Rouge!	1.0
+The Great Gatsby	The Great Gatsby	1.0
+Australia	Australia	1.0
+Romeo + Juliet	Romeo + Juliet	1.0
+Our Town	Our Town	1.0
+A Day at the Races	A Day at the Races	1.0
+Short Circuit 2	Short Circuit 2	1.0
+Daredevil	Daredevil	1.0
+When in Rome	When in Rome	1.0
+Rewind This!	Rewind This!	1.0
+Looper	Looper	1.0
+The Sentinel	The Sentinel	1.0
+S.W.A.T.	S.W.A.T.	1.0
+Two Step	Two Step	1.0
+Vulgar	Vulgar	1.0
+Test	Test	1.0
+Ghost Rider	Ghost Rider	1.0
+Sinbad: Legend of the Seven Seas	Sinbad: Legend of the Seven Seas	1.0
+That's Entertainment!	That's Entertainment, Part 2	0.8888888888888888
+The Surface	The Surface	1.0
+The Blob	The Blob	1.0
+At the Edge of the World	At the Edge of the World	1.0
+Faster	Faster	1.0
+I Spy	I Spy	1.0
+Alvin and the Chipmunks: The Squeakquel	Alvin and the Chipmunks: The Squeakquel	1.0
+28 Days	28 Days	1.0
+A Time of Destiny	A Time of Destiny	1.0
+Sabotage	Sabotage	1.0
+Fury	Fury	1.0
+Street Kings	Street Kings	1.0
+End of Watch	End of Watch	1.0
+Love Actually	Love Actually	1.0
+Love Crazy	Love Crazy	1.0
+Libeled Lady	Libeled Lady	1.0
+The Undead	The Undead	1.0
+Tales of Terror	Tales of Terror	1.0
+The Intruder	The Intruder	1.0
+The Masque of the Red Death	The Masque of the Red Death	1.0
+A Bucket of Blood	A Bucket of Blood	1.0
+The Raven	The Raven	1.0
+Ninja Assassin	Ninja Assassin	1.0
+Survivor	Survivor	1.0
+The Robe	The Robe	1.0
+Harvey	Harvey	1.0
+Three Smart Girls	Three Smart Girls Grow Up	0.8933333333333334
+Three Smart Girls	Three Smart Girls	1.0
+Steel Magnolias	Steel Magnolias	1.0
+Tchoupitoulas	Tchoupitoulas	1.0
+My Blue Heaven	My Blue Heaven	1.0
+Footloose	Footloose	1.0
+The Hunger Games	The Hunger Games	1.0
+Goodbye, Mr. Chips	Goodbye, Mr. Chips	1.0
+Protocol	Protocol	1.0
+True Colors	True Colors	1.0
+Seabiscuit	Seabiscuit	1.0
+The Story of Us	The Story of Us	1.0
+The Princess Bride	The Princess Bride	1.0
+All of Me	All of Me	1.0
+Misery	Misery	1.0
+The Jerk	The Jerk	1.0
+The American President	The American President	1.0
+This Is Spinal Tap	This Is Spinal Tap	1.0
+Stand by Me	Stand by Me	1.0
+Summer School	Summer School	1.0
+A Few Good Men	A Few Good Men	1.0
+The Invisible Ray	The Invisible Ray	1.0
+Dracula's Daughter	Dracula's Daughter	1.0
+The Game Plan	The Game Plan	1.0
+You Again	You Again	1.0
+She's the Man	She's the Man	1.0
+Paul Blart: Mall Cop 2	Paul Blart: Mall Cop 2	1.0
+Parental Guidance	Parental Guidance	1.0
+My Man Godfrey	My Man Godfrey	1.0
+Poor Little Rich Girl	Poor Little Rich Girl	1.0
+Suzy	Suzy	1.0
+It Happened to Jane	It Happened to Jane	1.0
+Crossover	Crossover	1.0
+*batteries not included	*batteries not included	1.0
+The Shaggy Dog	The Shaggy Dog	1.0
+Meet Dave	Meet Dave	1.0
+Dead Man Walking	Dead Man Walking	1.0
+Cradle Will Rock	Cradle Will Rock	1.0
+Class Act	Class Act	1.0
+Puss in Boots 2: Nine Lives & 40 Thieves	Puss In Boots 2: Nine Lives & 40 Thieves	1.0
+Back Street	Back Street	1.0
+Jack Frost	Jack Frost	1.0
+The Neverending Story II: The Next Chapter	The Neverending Story II: The Next Chapter	1.0
+Puss in Boots	Puss in Boots	1.0
+Deadpool	Deadpool	1.0
+Capote	Capote	1.0
+Mad Max: Fury Road	Mad Max: Fury Road	1.0
+Andre	Andre	1.0
+Way Out West	Way Out West	1.0
+Heidi	Heidi	1.0
+Rebecca of Sunnybrook Farm	Rebecca of Sunnybrook Farm	1.0
+Ben-Hur	Ben-Hur	1.0
+The Heiress	The Heiress	1.0
+Roman Holiday	Roman Holiday	1.0
+How to Steal a Million	How to Steal a Million	1.0
+Dead End	Dead End	1.0
+Walking Tall	Walking Tall	1.0
+Framed	Framed	1.0
+Fire in the Sky	Fire in the Sky	1.0
+D3: The Mighty Ducks	D3: The Mighty Ducks	1.0
+Just Before Dawn	Just Before Dawn	1.0
+All I Want for Christmas	All I Want for Christmas	1.0
+The Godfather: Part III	The Godfather, Part II	0.955862977602108
+The Godfather: Part III	The Godfather, Part III	0.9710144927536232
+The Godfather: Part III	The Godfather	0.8550724637681159
+Gardens of Stone	Gardens of Stone	1.0
+Palo Alto	Palo Alto	1.0
+Marie Antoinette	Marie Antoinette	1.0
+The Conversation	The Conversation	1.0
+The Godfather: Part II	The Godfather, Part II	0.9696969696969697
+The Godfather: Part II	The Godfather, Part III	0.955862977602108
+The Godfather: Part II	The Godfather	0.8636363636363636
+The Cotton Club	The Cotton Club	1.0
+Apocalypse Now	Apocalypse Now Redux	0.9
+Apocalypse Now	Apocalypse Now	1.0
+The Rainmaker	The Rainmaker	1.0
+The Godfather	The Godfather, Part II	0.8636363636363636
+The Godfather	The Godfather, Part III	0.8550724637681159
+The Godfather	The Godfather	1.0
+The Bling Ring	The Bling Ring	1.0
+Lady in the Dark	Lady in the Dark	1.0
+The Big Broadcast of 1938	The Big Broadcast of 1937	0.9733333333333333
+Godzilla	Godzilla	1.0
+Victor Victoria	Victor Victoria	1.0
+The Great Race	The Great Race	1.0
+Lassie	Lassie	1.0
+Miss Congeniality	Miss Congeniality	1.0
+Copper Canyon	Copper Canyon	1.0
+My Bill	My Bill	1.0
+Nanny McPhee	Nanny McPhee	1.0
+Hitchcock/Truffaut	Hitchcock/Truffaut	1.0
+Dark Awakening	Dark Awakening	1.0
+The Animatrix	The Animatrix	1.0
+Lethal Weapon 2	Lethal Weapon 2	1.0
+Lethal Weapon 2	Lethal Weapon	0.9555555555555556
+Lethal Weapon 2	Lethal Weapon 4	0.9555555555555556
+Lethal Weapon 2	Lethal Weapon 3	0.9555555555555556
+Maverick	Maverick	1.0
+Conspiracy Theory	Conspiracy Theory	1.0
+Superman II	Superman II	1.0
+The Omen	The Omen	1.0
+Lethal Weapon	Lethal Weapon 2	0.9555555555555556
+Lethal Weapon	Lethal Weapon	1.0
+Lethal Weapon	Lethal Weapon 4	0.9555555555555556
+Lethal Weapon	Lethal Weapon 3	0.9555555555555556
+Lethal Weapon 4	Lethal Weapon 2	0.9555555555555556
+Lethal Weapon 4	Lethal Weapon	0.9555555555555556
+Lethal Weapon 4	Lethal Weapon 4	1.0
+Lethal Weapon 4	Lethal Weapon 3	0.9555555555555556
+Assassins	Assassins	1.0
+Superman	Superman II	0.9090909090909092
+Scrooged	Scrooged	1.0
+Lethal Weapon 3	Lethal Weapon 2	0.9555555555555556
+Lethal Weapon 3	Lethal Weapon	0.9555555555555556
+Lethal Weapon 3	Lethal Weapon 4	0.9555555555555556
+Lethal Weapon 3	Lethal Weapon 3	1.0
+Back to the Future	Back to the Future Part III	0.8888888888888888
+Back to the Future	Back to the Future Part II	0.8974358974358975
+Back to the Future	Back to the Future	1.0
+Back to the Future Part II	Back to the Future Part III	0.9876543209876543
+Back to the Future Part II	Back to the Future Part II	1.0
+Back to the Future Part II	Back to the Future	0.8974358974358975
+Beowulf	Beowulf	1.0
+Who Framed Roger Rabbit	Who Framed Roger Rabbit	1.0
+Cast Away	Cast Away	1.0
+Back to the Future Part III	Back to the Future Part III	1.0
+Back to the Future Part III	Back to the Future Part II	0.9876543209876543
+Back to the Future Part III	Back to the Future	0.8888888888888888
+The Polar Express	The Polar Express	1.0
+Forrest Gump	Forrest Gump	1.0
+Contact	Contact	1.0
+The Walk	The Walk	1.0
+Son of Frankenstein	Son of Frankenstein	1.0
+Tower of London	Tower of London	1.0
+Do the Right Thing	Do the Right Thing	1.0
+Fireflies in the Garden	Fireflies in the Garden	1.0
+25th Hour	25th Hour	1.0
+Inside Man	Inside Man	1.0
+Life of Pi	Life of Pi	1.0
+The Best Man	The Best Man	1.0
+Hulk	Hulk	1.0
+Get on the Bus	Get on the Bus	1.0
+Malcolm X	Malcolm X	1.0
+A Good Day to Die Hard	A Good Day To Die Hard	1.0
+Under Suspicion	Under Suspicion	1.0
+The Big One	The Big One	1.0
+Behind Enemy Lines	Behind Enemy Lines	1.0
+Pitch Perfect	Pitch Perfect	1.0
+Wreck-It Ralph	Wreck-it Ralph	1.0
+'night, Mother	'Night Mother	0.9761904761904763
+Wild Child	Wild Child	1.0
+Gulliver's Travels	Gulliver's Travels	1.0
+Fantastic Voyage	Fantastic Voyage	1.0
+Doctor Dolittle	Doctor Dolittle	1.0
+Red Sonja	Red Sonja	1.0
+Goosebumps	Goosebumps	1.0
+Go West	Go West	1.0
+At the Circus	At the Circus	1.0
+While the City Sleeps	While the City Sleeps	1.0
+The Woman in the Window	The Woman in the Window	1.0
+With a Song in My Heart	With a Song in My Heart	1.0
+The King and I	The King and I	1.0
+A Little Princess	A Little Princess	1.0
+Gravity	Gravity	1.0
+Children of Men	Children of Men	1.0
+Great Expectations	Great Expectations	1.0
+The Hound of the Baskervilles	The Hound of the Baskervilles	1.0
+After Words	After Words	1.0
+This Island Earth	This Island Earth	1.0
+Anastasia	Anastasia	1.0
+This Above All	This Above All	1.0
+The Dunwich Horror	The Dunwich Horror	1.0
+Them!	Them!	1.0
+The Amityville Horror	The Amityville Horror	1.0
+Viva Knievel!	Viva Knievel!	1.0
+Stagecoach	Stagecoach	1.0
+Rio Grande	Rio Grande	1.0
+Fort Apache	Fort Apache	1.0
+The Grapes of Wrath	The Grapes of Wrath	1.0
+The Quiet Man	The Quiet Man	1.0
+The Searchers	The Searchers	1.0
+The Whole Town's Talking	The Whole Town's Talking	1.0
+The Adventures of Sherlock Holmes	The Adventures of Sherlock Holmes	1.0
+Double Indemnity	Double Indemnity	1.0
+Avanti!	Avanti!	1.0
+The Front Page	The Front Page	1.0
+Love in the Afternoon	Love in the Afternoon	1.0
+The Fortune Cookie	The Fortune Cookie	1.0
+A Foreign Affair	A Foreign Affair	1.0
+The Apartment	The Apartment	1.0
+One, Two, Three	One, Two, Three	1.0
+Some Like It Hot	Some Like It Hot	1.0
+Buddy Buddy	Buddy Buddy	1.0
+Sabrina	Sabrina	1.0
+The Seven Year Itch	The Seven Year Itch	1.0
+The Major and the Minor	The Major and the Minor	1.0
+Love Letters	Love Letters	1.0
+Elephant Walk	Elephant Walk	1.0
+Salome	Salome	1.0
+Juarez	Juarez	1.0
+Portrait of Jennie	Portrait of Jennie	1.0
+You Can't Cheat an Honest Man	You Can't Cheat an Honest Man	1.0
+Topaz	Topaz	1.0
+Shadow of a Doubt	Shadow of a Doubt	1.0
+Psycho	Psycho	1.0
+Foreign Correspondent	Foreign Correspondent	1.0
+The Birds	The Birds	1.0
+The Man Who Knew Too Much	The Man Who Knew Too Much	1.0
+The Wrong Man	The Wrong Man	1.0
+I Confess	I Confess	1.0
+Notorious	Notorious	1.0
+Vertigo	Vertigo	1.0
+Dial M for Murder	Dial M for Murder	1.0
+Rope	Rope	1.0
+Marnie	Marnie	1.0
+Rebecca	Rebecca	1.0
+Spellbound	Spellbound	1.0
+Rear Window	Rear Window	1.0
+Road to Singapore	Road to Singapore	1.0
+Road to Singapore	Road To Singapore	1.0
+The Invisible Woman	The Invisible Woman	1.0
+The Great Escape	The Great Escape	1.0
+The Magnificent Seven	The Magnificent Seven	1.0
+Christmas in July	Christmas in July	1.0
+Francis	Francis	1.0
+Phantom of the Opera	Phantom of the Opera	1.0
+Buck Privates	Buck Privates	1.0
+Buck Privates Come Home	Buck Privates Come Home	1.0
+Frankenstein Meets the Wolf Man	Frankenstein Meets the Wolf Man	1.0
+The Pearl of Death	The Pearl of Death	1.0
+Black Angel	Black Angel	1.0
+Sherlock Holmes and the Secret Weapon	Sherlock Holmes and the Spider Woman	0.9058831558831559
+Sherlock Holmes and the Secret Weapon	Sherlock Holmes and the Woman in Green	0.8606567093409199
+Crazy, Stupid, Love.	Crazy, Stupid, Love.	1.0
+Hidalgo	Hidalgo	1.0
+Jurassic Park III	Jurassic Park III	1.0
+Jumanji	Jumanji	1.0
+High Sierra	High Sierra	1.0
+They Drive by Night	They Drive by Night	1.0
+White Heat	White Heat	1.0
+High Road	High Road	1.0
+The Wolf Man	The Wolf Man	1.0
+Operation Dumbo Drop	Operation Dumbo Drop	1.0
+D.A.R.Y.L.	D.A.R.Y.L.	1.0
+Free Willy	Free Willy	1.0
+In a World...	In a World...	1.0
+The Devil Inside	The Devil Inside	1.0
+Great Balls of Fire!	Great Balls of Fire	0.9833333333333334
+The Lady from Shanghai	The Lady From Shanghai	1.0
+Touch of Evil	Touch of Evil	1.0
+Citizen Kane	Citizen Kane	1.0
+The Corsican Brothers	The Corsican Brothers	1.0
+Up in Smoke	Up in Smoke	1.0
+The Peanuts Movie	The Peanuts Movie	1.0
+Now, Voyager	Now, Voyager	1.0
+The Spoilers	The Spoilers	1.0
+Bambi II	Bambi II	1.0
+The Mummy's Tomb	The Mummy's Tomb	1.0
+Manos: The Hands of Fate	Manos: The Hands of Fate	1.0
+Major League: Back to the Minors	Major League: Back to the Minors	1.0
+Two Moon Junction	Two Moon Junction	1.0
+Twelve O'Clock High	Twelve O'Clock High	1.0
+Wilson	Wilson	1.0
+Time Lapse	Time Lapse	1.0
+The Black Swan	The Black Swan	1.0
+Jungle Book	Jungle Book	1.0
+Requiem for a Dream	Requiem for a Dream	1.0
+Black Swan	Black Swan	1.0
+The Fountain	The Fountain	1.0
+The Wrestler	The Wrestler	1.0
+Noah	Noah	1.0
+Pi	Pi	1.0
+F/X	F/X	1.0
+Son of Dracula	Son of Dracula	1.0
+Cat People	Cat People	1.0
+1971	1971	1.0
+Goldfinger	Goldfinger	1.0
+The Crystal Ball	The Crystal Ball	1.0
+The Mummy's Curse	The Mummy's Curse	1.0
+Laura	Laura	1.0
+Anatomy of a Murder	Anatomy of a Murder	1.0
+Fallen Angel	Fallen Angel	1.0
+Unforgiven	Unforgiven	1.0
+American Sniper	American Sniper	1.0
+Space Cowboys	Space Cowboys	1.0
+Bird	Bird	1.0
+Changeling	Changeling	1.0
+Firefox	Firefox	1.0
+Sudden Impact	Sudden Impact	1.0
+True Crime	True Crime	1.0
+Absolute Power	Absolute Power	1.0
+The Outlaw Josey Wales	The Outlaw Josey Wales	1.0
+J. Edgar	J. Edgar	1.0
+Blood Work	Blood Work	1.0
+Hereafter	Hereafter	1.0
+The Gauntlet	The Gauntlet	1.0
+Million Dollar Baby	Million Dollar Baby	1.0
+A Perfect World	A Perfect World	1.0
+The Rookie	The Rookie	1.0
+Flubber	Flubber	1.0
+Miracle on 34th Street	Miracle on 34th Street	1.0
+American Outlaws	American Outlaws	1.0
+Horns	Horns	1.0
+Mirrors	Mirrors	1.0
+The Hills Have Eyes	The Hills Have Eyes	1.0
+I'll See You in My Dreams	I'll See You in My Dreams	1.0
+The Hills Have Eyes II	The Hills Have Eyes 2	0.9538239538239538
+The NeverEnding Story	The Neverending Story	1.0
+Outbreak	Outbreak	1.0
+Air Force One	Air Force One	1.0
+In the Line of Fire	In the Line of Fire	1.0
+Poseidon	Poseidon	1.0
+The Perfect Storm	The Perfect Storm	1.0
+Troy	Troy	1.0
+Men of the Fighting Lady	Men of the Fighting Lady (Panther Squadron)	0.8527131782945737
+King Solomon's Mines	King Solomon's Mines	1.0
+Lullaby of Broadway	Lullaby of Broadway	1.0
+The Story of Seabiscuit	The Story of Seabiscuit	1.0
+The Barefoot Executive	The Barefoot Executive	1.0
+Catch-22	Catch-22	1.0
+Closer	Closer	1.0
+Working Girl	Working Girl	1.0
+Silkwood	Silkwood	1.0
+The Day of the Dolphin	The Day of the Dolphin	1.0
+The Fortune	The Fortune	1.0
+Charlie Wilson's War	Charlie Wilson's War	1.0
+The Birdcage	The Birdcage	1.0
+Who's Afraid of Virginia Woolf?	Who's Afraid of Virginia Woolf?	1.0
+The Graduate	The Graduate	1.0
+Kiss of the Spider Woman	Kiss of the Spider Woman	1.0
+Show Boat	Show Boat	1.0
+Anchors Aweigh	Anchors Aweigh	1.0
+Scaramouche	Scaramouche	1.0
+Rush	Rush	1.0
+In the Heart of the Sea	In the Heart of the Sea	1.0
+Frost/Nixon	Frost/Nixon	1.0
+The Dilemma	The Dilemma	1.0
+Ransom	Ransom	1.0
+Dead Girl	Dead Girl	1.0
+Angels & Demons	Angels & Demons	1.0
+The Da Vinci Code	The Da Vinci Code	1.0
+Willow	Willow	1.0
+Parenthood	Parenthood	1.0
+Splash	Splash	1.0
+Far and Away	Far and Away	1.0
+Tangled	Tangled	1.0
+Apollo 13	Apollo 13	1.0
+Cinderella Man	Cinderella Man	1.0
+Deep in My Heart	Deep in My Heart	1.0
+Charade	Charade	1.0
+Damn Yankees!	Damn Yankees	0.9743589743589745
+Funny Face	Funny Face	1.0
+Marked for Death	Marked for Death	1.0
+Anacondas: The Hunt for the Blood Orchid	Anacondas: The Hunt for the Blood Orchid	1.0
+The Last House on the Left	The Last House on the Left	1.0
+The Hills Have Eyes Part II	The Hills Have Eyes	0.9012345679012346
+The Serpent and the Rainbow	The Serpent and the Rainbow	1.0
+Scream 4	Scream 3	0.9166666666666666
+Scream 4	Scream 4	1.0
+Scream 4	Scream	0.9166666666666666
+Scream 4	Scream 2	0.9166666666666666
+Scream	Scream 3	0.9166666666666666
+Scream	Scream 4	0.9166666666666666
+Scream	Scream	1.0
+Scream	Scream 2	0.9166666666666666
+Scream 2	Scream 3	0.9166666666666666
+Scream 2	Scream 4	0.9166666666666666
+Scream 2	Scream	0.9166666666666666
+Scream 2	Scream 2	1.0
+A Nightmare on Elm Street	A Nightmare on Elm Street	1.0
+Scream 3	Scream 3	1.0
+Scream 3	Scream 4	0.9166666666666666
+Scream 3	Scream	0.9166666666666666
+Scream 3	Scream 2	0.9166666666666666
+Zizek!	Zizek!	1.0
+Crank	Crank	1.0
+Chain Letter	Chain Letter	1.0
+Tom Sawyer	Tom Sawyer	1.0
+Gamer	Gamer	1.0
+Crank: High Voltage	Crank 2: High Voltage	0.9156223893065998
+Terminator Genisys	Terminator Genisys	1.0
+Thor: The Dark World	Thor: The Dark World	1.0
+The Island of Dr. Moreau	The Island of Dr. Moreau	1.0
+Conflict	Conflict	1.0
+Beau Brummell	Beau Brummell	1.0
+Invasion of the Body Snatchers	Invasion of the Body Snatchers	1.0
+Mother's Day	Mother's Day	1.0
+Rising Sun	Rising Sun	1.0
+Twisted	Twisted	1.0
+Dirty Harry	Dirty Harry	1.0
+Escape from Alcatraz	Escape From Alcatraz	1.0
+The Big Steal	The Big Steal	1.0
+The Sound of Music	The Sound of Music	1.0
+The Hunchback of Notre Dame	The Hunchback of Notre Dame	1.0
+The Body Snatcher	The Body Snatcher	1.0
+Atlantis: The Lost Empire	Atlantis - The Lost Empire	0.9054700854700855
+I Want to Live!	I Want to Live!	1.0
+The Day the Earth Stood Still	The Day the Earth Stood Still	1.0
+The Haunting	The Haunting	1.0
+Somm	Somm	1.0
+Reds	Reds	1.0
+Dick Tracy	Dick Tracy	1.0
+The Woman in Black 2: Angel of Death	The Woman in Black 2 Angel of Death	0.9907407407407408
+30 Days of Night	30 Days of Night	1.0
+The Twilight Saga: Eclipse	The Twilight Saga: Eclipse	1.0
+Decoy	Decoy	1.0
+Nightfall	Nightfall	1.0
+The Comedy of Terrors	The Comedy of Terrors	1.0
+Out of the Past	Out of the Past	1.0
+Laugh Killer Laugh	Laugh Killer Laugh	1.0
+The Land Before Time	The Land Before Time	1.0
+The Secret of NIMH	The Secret of NIMH	1.0
+An American Tail	An American Tail	1.0
+The Undefeated	The Undefeated	1.0
+Cahill U.S. Marshal	Cahill U.S. Marshal	1.0
+The Guns of Navarone	The Guns of Navarone	1.0
+Cape Fear	Cape Fear	1.0
+Kings of the Sun	Kings of the Sun	1.0
+Murphy's Law	Murphy's Law	1.0
+Black Beauty	Black Beauty	1.0
+The Postman Always Rings Twice	The Postman Always Rings Twice	1.0
+Head	Head	1.0
+A Connecticut Yankee in King Arthur's Court	A Connecticut Yankee in King Arthur's Court	1.0
+Hurricane of Fun: The Making of Wet Hot	Hurricane Of Fun: The Making Of Wet Hot	1.0
+The Thing Called Love	The Thing Called Love	1.0
+She's Funny That Way	She's Funny That Way	1.0
+Final Destination 3	Final Destination 3	1.0
+Final Destination 3	Final Destination	0.9649122807017544
+Final Destination	Final Destination 3	0.9649122807017544
+Final Destination	Final Destination	1.0
+Dark Passage	Dark Passage	1.0
+3:10 to Yuma	3:10 to Yuma	1.0
+Spencer's Mountain	Spencer's Mountain	1.0
+Beyond the Law	Beyond the Law	1.0
+Inside Job	Inside Job	1.0
+The Exile	The Exile	1.0
+Caught	Caught	1.0
+Imitation of Life	Imitation of Life	1.0
+Lured	Lured	1.0
+Magnificent Obsession	Magnificent Obsession	1.0
+Next	Next	1.0
+xXx: State of the Union	xXx: State of the Union	1.0
+Die Another Day	Die Another Day	1.0
+An American in Paris	An American in Paris	1.0
+Father of the Bride	Father of the Bride	1.0
+Brigadoon	Brigadoon	1.0
+Gigi	Gigi	1.0
+Son of Paleface	Son of Paleface	1.0
+High Society	High Society	1.0
+Easter Parade	Easter Parade	1.0
+The Nun's Story	The Nun's Story	1.0
+High Noon	High Noon	1.0
+Act of Violence	Act of Violence	1.0
+From Here to Eternity	From Here to Eternity	1.0
+Oklahoma!	Oklahoma!	1.0
+Rango	Rango	1.0
+Pirates of the Caribbean: Dead Man's Chest	Pirates of the Caribbean: At Worlds End	0.8721611721611722
+The Lone Ranger	The Lone Ranger	1.0
+Pirates of the Caribbean: At World's End	Pirates of the Caribbean: At Worlds End	0.9916666666666667
+The Mexican	The Mexican	1.0
+Pirates of the Caribbean: The Curse of the Black Pearl	Pirates of the Caribbean: The Curse of the Black Pearl	1.0
+Family Plan	Family Plan	1.0
+Forbidden Planet	Forbidden Planet	1.0
+The Secret Garden	The Secret Garden	1.0
+Better Off Dead...	Better Off Dead	0.9444444444444445
+The Wizard	The Wizard	1.0
+Thinner	Thinner	1.0
+Tension	Tension	1.0
+All the King's Men	All the King's Men	1.0
+The Hustler	The Hustler	1.0
+We Were Here	We Were Here	1.0
+Speechless	Speechless	1.0
+City Slickers	City Slickers	1.0
+Tremors	Tremors	1.0
+The Mating Game	The Mating Game	1.0
+Frankie and Johnny	Frankie & Johnny	0.8791666666666668
+Eight Below	Eight Below	1.0
+Overboard	Overboard	1.0
+The Princess Diaries	The Princess Diaries	1.0
+A League of Their Own	A League of Their Own	1.0
+Pretty Woman	Pretty Woman	1.0
+Chicago	Chicago	1.0
+Awakenings	Awakenings	1.0
+Valentine's Day	Valentine's Day	1.0
+The Other Sister	The Other Sister	1.0
+Congo	Congo	1.0
+Nine	Nine	1.0
+The Princess Diaries 2: Royal Engagement	The Princess Diaries 2 - Royal Engagement	0.9497654784240149
+Dear God	Dear God	1.0
+Beaches	Beaches	1.0
+New Year's Eve	New Year's Eve	1.0
+Alive	Alive	1.0
+Tick Tock	Tick Tock	1.0
+The Cellar	The Cellar	1.0
+Peacemaker	Peacemaker	1.0
+Paper Towns	Paper Towns	1.0
+101 Dalmatians	101 Dalmatians	1.0
+Love's Labour's Lost	Love's Labour's Lost	1.0
+Thor	Thor	1.0
+Cinderella	Cinderella	1.0
+Much Ado About Nothing	Much Ado About Nothing	1.0
+A Cinderella Story	A Cinderella Story	1.0
+The Perfect Man	The Perfect Man	1.0
+Johnny Guitar	Johnny Guitar	1.0
+Bigger Than Life	Bigger Than Life (1956)	0.8985507246376812
+Secret in Their Eyes	Secret in Their Eyes	1.0
+In a Lonely Place	In a Lonely Place	1.0
+Predator 2	Predator 2	1.0
+Talk Radio	Talk Radio	1.0
+Natural Born Killers	Natural Born Killers	1.0
+Comandante	Comandante	1.0
+World Trade Center	World Trade Center	1.0
+Savages	Savages	1.0
+Highway 301	Highway 301	1.0
+Platoon	Platoon	1.0
+The Doors	The Doors	1.0
+JFK	JFK	1.0
+Any Given Sunday	Any Given Sunday	1.0
+Alexander	Alexander	1.0
+Salvador	Salvador	1.0
+Nixon	Nixon	1.0
+South of the Border	South of the Border	1.0
+W.	W.	1.0
+U Turn	U-Turn	0.888888888888889
+Wall Street	Wall Street	1.0
+All About Eve	All About Eve	1.0
+Delirious	Delirious	1.0
+Suddenly, Last Summer	Suddenly, Last Summer	1.0
+Guys and Dolls	Guys and Dolls	1.0
+First Kid	First Kid	1.0
+The Sandlot	The Sandlot 2	0.9487179487179488
+The Sandlot	The Sandlot	1.0
+My Little Eye	My Little Eye	1.0
+The Mend	The Mend	1.0
+Hairspray	Hairspray	1.0
+The Wedding Planner	The Wedding Planner	1.0
+Cheaper by the Dozen 2	Cheaper by the Dozen 2	1.0
+A Walk to Remember	A Walk to Remember	1.0
+Bedtime Stories	Bedtime Stories	1.0
+For Love or Money	For Love or Money	1.0
+Addams Family Values	Addams Family Values	1.0
+Men in Black II	Men in Black II	1.0
+Men in Black II	Men in Black III	0.9791666666666666
+Men in Black II	Men in Black	0.9333333333333332
+Men in Black 3	Men in Black II	0.9317460317460317
+Men in Black 3	Men in Black III	0.9136904761904763
+Men in Black 3	Men in Black	0.9523809523809524
+RV	RV	1.0
+Men in Black	Men in Black II	0.9333333333333332
+Men in Black	Men in Black III	0.9166666666666666
+Men in Black	Men in Black	1.0
+Wild Wild West	Wild Wild West	1.0
+The Addams Family	The Addams Family	1.0
+Kim	Kim	1.0
+Father of the Bride	Father of the Bride: Part II	0.8928571428571429
+Father of the Bride Part II	Father of the Bride: Part II	0.9880952380952381
+Father of the Bride Part II	Father of the Bride	0.9012345679012346
+Fort Worth	Fort Worth	1.0
+Free Willy 3: The Rescue	Free Willy 3: The Rescue	1.0
+Deliver Us from Evil	Deliver Us from Evil	1.0
+Sinister	Sinister	1.0
+Big Eyes	Big Eyes	1.0
+Frankenweenie	Frankenweenie	1.0
+Blizzard	Blizzard	1.0
+Sweeney Todd: The Demon Barber of Fleet Street	Sweeney Todd: The Demon Barber of Fleet Street	1.0
+Mars Attacks!	Mars Attacks!	1.0
+Ed Wood	Ed Wood	1.0
+Batman	Batman	1.0
+Dark Shadows	Dark Shadows	1.0
+Big Fish	Big Fish	1.0
+Edward Scissorhands	Edward Scissorhands	1.0
+Sleepy Hollow	Sleepy Hollow	1.0
+Batman Returns	Batman Returns	1.0
+Planet of the Apes	Planet of the Apes	1.0
+Alice in Wonderland	Alice in Wonderland	1.0
+Superman and the Mole-Men	Superman and the Mole-Men	1.0
+When Worlds Collide	When Worlds Collide	1.0
+Miracle in the Rain	Miracle in the Rain	1.0
+A Face in the Crowd	A Face in the Crowd	1.0
+On the Waterfront	On the Waterfront	1.0
+A Streetcar Named Desire	A Streetcar Named Desire	1.0
+Get Smart	Get Smart	1.0
+Anger Management	Anger Management	1.0
+The Longest Yard	The Longest Yard	1.0
+50 First Dates	50 First Dates	1.0
+The Wild One	The Wild One	1.0
+Death of a Salesman	Death of a Salesman	1.0
+The Mob	The Mob	1.0
+Scissors	Scissors	1.0
+Coma	Coma	1.0
+Runaway	Runaway	1.0
+Radar Men from the Moon	Radar Men from the Moon	1.0
+Hello, Dolly!	Hello, Dolly!	1.0
+Donnie Darko	Donnie Darko	1.0
+Singin' in the Rain	Singin' in the Rain	1.0
+Youngblood	Youngblood	1.0
+The Incredible Journey	The Incredible Journey	1.0
+The Greatest Show on Earth	The Greatest Show on Earth	1.0
+The Ten Commandments	The Ten Commandments	1.0
+Jack and the Beanstalk	Jack and the Beanstalk	1.0
+Cheetah	Cheetah	1.0
+Soul Man	Soul Man	1.0
+Wild Hearts Can't Be Broken	Wild Hearts Can't Be Broken	1.0
+Lake Placid	Lake Placid	1.0
+Day of the Dead	Day of the Dead	1.0
+Forever Young	Forever Young	1.0
+Time After Time	Time After Time	1.0
+Volunteers	Volunteers	1.0
+See Girl Run	See Girl Run	1.0
+Everly	Everly	1.0
+Lost Highway	Lost Highway	1.0
+Wild at Heart	Wild At Heart	1.0
+Dune	Dune	1.0
+The Elephant Man	The Elephant Man	1.0
+Surveillance	Surveillance	1.0
+The Straight Story	The Straight Story	1.0
+Eraserhead	Eraserhead	1.0
+Tenacious D in The Pick of Destiny	Tenacious D in The Pick of Destiny	1.0
+The Living Desert	The Living Desert	1.0
+The African Lion	The African Lion	1.0
+The Vanishing Prairie	The Vanishing Prairie	1.0
+Hollow Man	Hollow Man	1.0
+RoboCop	RoboCop	1.0
+Total Recall	Total Recall	1.0
+Basic Instinct	Basic Instinct	1.0
+Showgirls	Showgirls	1.0
+Starship Troopers	Starship Troopers	1.0
+Dolphin Tale	Dolphin Tale	1.0
+Dolphin Tale	Dolphin Tale 2	0.9523809523809524
+Chasing Amy	Chasing Amy	1.0
+Clerks II	Clerks	0.8888888888888888
+Clerks II	Clerks II	1.0
+Dangerous Minds	Dangerous Minds	1.0
+Dolphin Tale 2	Dolphin Tale	0.9523809523809524
+Dolphin Tale 2	Dolphin Tale 2	1.0
+Cop Out	Cop Out	1.0
+Dogma	Dogma	1.0
+Clerks	Clerks	1.0
+Clerks	Clerks II	0.8888888888888888
+Tusk	Tusk	1.0
+Bean	Bean	1.0
+MallBrats	Mallrats	0.9629629629629629
+Kiss Me Again	Kiss Me Again	1.0
+Jersey Girl	Jersey Girl	1.0
+Air Bud	Air Bud	1.0
+Mallrats	Mallrats	1.0
+The Midnight Swim	The Midnight Swim	1.0
+Peter Pan	Peter Pan	1.0
+Mental	Mental	1.0
+Saving Private Ryan	Saving Private Ryan	1.0
+The Lost World: Jurassic Park	The Lost World - Jurassic Park	0.918664477285167
+Munich	Munich	1.0
+Empire of the Sun	Empire of the Sun	1.0
+Minority Report	Minority Report	1.0
+Indiana Jones and the Kingdom of the Crystal Skull	Indiana Jones and the Kingdom of the Crystal Skull	1.0
+Jurassic Park	Jurassic Park	1.0
+Lincoln	Lincoln	1.0
+1941	1941	1.0
+Hook	Hook	1.0
+Amistad	Amistad	1.0
+The Adventures of Tintin	The Adventures of Tintin	1.0
+Bridge of Spies	Bridge of Spies	1.0
+Firelight	Firelight	1.0
+Always	Always	1.0
+War of the Worlds	War of the Worlds	1.0
+The Terminal	The Terminal	1.0
+Close Encounters of the Third Kind	Close Encounters of the Third Kind	1.0
+E.T. the Extra-Terrestrial	E.T. The Extra-Terrestrial	1.0
+War Horse	War Horse	1.0
+Jaws	Jaws	1.0
+Raiders of the Lost Ark	Raiders of the Lost Ark	1.0
+Love Kills	Love Kills	1.0
+Posse	Posse	1.0
+Tarantula	Tarantula	1.0
+The Incredible Shrinking Man	The Incredible Shrinking Man	1.0
+It Came from Outer Space	It Came from Outer Space	1.0
+Bloodsport	Bloodsport	1.0
+Creature from the Black Lagoon	Creature from the Black Lagoon	1.0
+Harry Potter and the Half-Blood Prince	Harry Potter and the Half-Blood Prince	1.0
+Tarzan	Tarzan	1.0
+Bullitt	Bullitt	1.0
+The Deep	The Deep	1.0
+Harry Potter and the Order of the Phoenix	Harry Potter and the Order of the Phoenix	1.0
+Harry Potter and the Order of the Phoenix	Harry Potter And The Order Of The Phoenix: The IMAX Experience	0.8870967741935484
+Man on Fire	Man on Fire	1.0
+Hannibal	Hannibal	1.0
+Top Gun	Top Gun	1.0
+Black Hawk Down	Black Hawk Down	1.0
+Delivery Man	Delivery Man	1.0
+Unfinished Business	Unfinished Business	1.0
+The Martian	The Martian	1.0
+Alien	Alien	1.0
+Gladiator	Gladiator	1.0
+Days of Thunder	Days of Thunder	1.0
+Spy Game	Spy Game	1.0
+Something Wicked	Something Wicked	1.0
+Thelma & Louise	Thelma & Louise	1.0
+Robin Hood	Robin Hood	1.0
+Unstoppable	Unstoppable	1.0
+Beverly Hills Cop II	Beverly Hills Cop II	1.0
+G.I. Jane	G.I. Jane	1.0
+American Gangster	American Gangster	1.0
+Prometheus	Prometheus	1.0
+Blade Runner	Blade Runner	1.0
+House of Wax	House of Wax	1.0
+Crime Wave	Crime Wave	1.0
+Unknown	Unknown	1.0
+Non-Stop	Non-Stop	1.0
+Orphan	Orphan	1.0
+Double Jeopardy	Double Jeopardy	1.0
+Peace, Love, & Misunderstanding	Peace, Love, & Misunderstanding	1.0
+Last Dance	Last Dance	1.0
+Black Robe	Black Robe	1.0
+The Contract	The Contract	1.0
+I, Madman	I, Madman	1.0
+The Firm	The Firm	1.0
+Out of Africa	Out of Africa	1.0
+Tootsie	Tootsie	1.0
+Gog	Gog	1.0
+Target Earth	Target Earth	1.0
+Immortal Beloved	Immortal Beloved	1.0
+Candyman	Candyman	1.0
+The Den	The Den	1.0
+Lucky Me	Lucky Me	1.0
+Call Me Lucky	Call Me Lucky	1.0
+Willow Creek	Willow Creek	1.0
+San Andreas	San Andreas	1.0
+Cats & Dogs: The Revenge of Kitty Galore	Cats & Dogs: The Revenge of Kitty Galore	1.0
+Journey 2: The Mysterious Island	Journey 2: The Mysterious Island	1.0
+Killer's Kiss	Killer's Kiss	1.0
+Full Metal Jacket	Full Metal Jacket	1.0
+Eyes Wide Shut	Eyes Wide Shut	1.0
+Spartacus	Spartacus	1.0
+Lolita	Lolita	1.0
+The Shining	The Shining	1.0
+Paths of Glory	Paths of Glory	1.0
+2001: A Space Odyssey	2001: A Space Odyssey	1.0
+2001: A Space Odyssey	2001: A Space Odyssey Re-release	0.8854166666666666
+A Clockwork Orange	A Clockwork Orange	1.0
+Inherit the Wind	Inherit the Wind	1.0
+It's a Mad, Mad, Mad, Mad World	It's a Mad, Mad, Mad, Mad World	1.0
+Popeye	Popeye	1.0
+Streamers	Streamers	1.0
+The Player	The Player	1.0
+The Gingerbread Man	The Gingerbread Man	1.0
+The Carpetbaggers	The Carpetbaggers	1.0
+The Caine Mutiny	The Caine Mutiny	1.0
+Down in the Valley	Down in the Valley	1.0
+Hollywood Ending	Hollywood Ending	1.0
+To Rome with Love	To Rome with Love	1.0
+Bananas	Bananas	1.0
+Husbands and Wives	Husbands and Wives	1.0
+Love and Death	Love and Death	1.0
+Agent Cody Banks 2: Destination London	Agent Cody Banks 2: Destination London	1.0
+Melinda and Melinda	Melinda and Melinda	1.0
+Stardust Memories	Stardust Memories	1.0
+Crimes and Misdemeanors	Crimes and Misdemeanors	1.0
+Illegal	Illegal	1.0
+Sleeper	Sleeper	1.0
+Magic in the Moonlight	Magic in the Moonlight	1.0
+Interiors	Interiors	1.0
+Manhattan	Manhattan	1.0
+Celebrity	Celebrity	1.0
+Scoop	Scoop	1.0
+The Court Jester	The Court Jester	1.0
+Kiss Me Deadly	Kiss Me Deadly	1.0
+What Ever Happened to Baby Jane?	What Ever Happened to Baby Jane?	1.0
+The Dirty Dozen	The Dirty Dozen	1.0
+Cars 2	Cars 2	1.0
+7th Cavalry	7th Cavalry	1.0
+Redwoods	Redwoods	1.0
+Westward Ho, the Wagons!	Westward Ho the Wagons!	0.9861111111111112
+The Secret Life of Pets	The Secret Life of Pets	1.0
+The Brothers Karamazov	The Brothers Karamazov	1.0
+The Producers	The Producers	1.0
+Spanglish	Spanglish	1.0
+Spaceballs	Spaceballs	1.0
+The Catered Affair	The Catered Affair	1.0
+Lost in America	Lost in America	1.0
+As Good as It Gets	As Good as It Gets	1.0
+Cat on a Hot Tin Roof	Cat on a Hot Tin Roof	1.0
+Definitely, Maybe	Definitely, Maybe	1.0
+The Invisible Circus	The Invisible Circus	1.0
+The Cable Guy	The Cable Guy	1.0
+Zoolander	Zoolander	1.0
+The Secret Life of Walter Mitty	The Secret Life Of Walter Mitty	1.0
+Repo Man	Repo Man	1.0
+Just Before I Go	Just Before I Go	1.0
+The Swan Princess: Escape from Castle Mountain	The Swan Princess II: Escape from Castle Mountain	0.9071280686187518
+The Swan Princess	The Swan Princess	1.0
+Good Kill	Good Kill	1.0
+Lord of War	Lord of War	1.0
+The Host	The Host	1.0
+World Without End	World Without End	1.0
+Bus Stop	Bus Stop	1.0
+South Pacific	South Pacific	1.0
+Sayonara	Sayonara	1.0
+Mission: Impossible - Ghost Protocol	Mission: Impossible Ghost Protocol	0.9520697167755992
+The Incredibles 2	The Incredibles	0.9607843137254902
+The Incredibles	The Incredibles	1.0
+Tomorrowland	Tomorrowland	1.0
+The Iron Giant	The Iron Giant	1.0
+Kill Bill: Vol. 1	Kill Bill: Volume 1	0.9277605779153767
+Pulp Fiction	Pulp Fiction	1.0
+Death Proof	Death Proof	1.0
+Reservoir Dogs	Reservoir Dogs	1.0
+Kill Bill: Vol. 2	Kill Bill: Volume 1	0.8906088751289989
+The Usual Suspects	The Usual Suspects	1.0
+Dark Ride	Dark Ride	1.0
+Superman Returns	Superman Returns	1.0
+X-Men: Days of Future Past	X-Men: Days of Future Past	1.0
+X-Men	X-Men	1.0
+Valkyrie	Valkyrie	1.0
+Godzilla, King of the Monsters!	Godzilla, King of the Monsters!	1.0
+The Bride	The Bride	1.0
+The Fly	The Fly	1.0
+Kronos	Kronos	1.0
+Identity	Identity	1.0
+Untitled Wolverine Sequel	Untitled Wolverine Sequel	1.0
+Knight and Day	Knight & Day	0.8704906204906204
+The Wolverine	The Wolverine	1.0
+Earth vs. the Flying Saucers	Earth vs. the Flying Saucers	1.0
+The Bridge on the River Kwai	The Bridge on the River Kwai	1.0
+Doctor Zhivago	Doctor Zhivago	1.0
+Sorcerer	Sorcerer	1.0
+The French Connection	The French Connection	1.0
+The Exorcist	The Exorcist	1.0
+Rampage	Rampage	1.0
+Cruising	Cruising	1.0
+To Live and Die in L.A.	To Live and Die in L.A.	1.0
+Bug	Bug	1.0
+The Verdict	The Verdict	1.0
+Network	Network	1.0
+Long Day's Journey Into Night	Long Day's Journey Into Night	1.0
+Serpico	Serpico	1.0
+Running on Empty	Running on Empty	1.0
+Mary Poppins	Mary Poppins	1.0
+Son of Flubber	Son of Flubber	1.0
+Old Yeller	Old Yeller	1.0
+The Love Bug	The Love Bug	1.0
+Queen of Earth	Queen of Earth	1.0
+The Invisible Boy	The Invisible Boy	1.0
+The Best of Me	The Best Of Me	1.0
+One Fine Day	One Fine Day	1.0
+Red Planet	Red Planet	1.0
+Nim's Island	Nim's Island	1.0
+5 to 7	5 to 7	1.0
+April Love	April Love	1.0
+Journey to the Center of the Earth	Journey to the Center of the Earth	1.0
+The Wild	The Wild	1.0
+Raggedy Ann & Andy: A Musical Adventure	Raggedy Ann & Andy: A Musical Adventure	1.0
+The Crying Dead	The Crying Dead	1.0
+Bolt	Bolt	1.0
+Paranormal Activity 2	Paranormal Activity 2	1.0
+Where the Heart Is	Where the Heart Is	1.0
+Space Chimps 2: Zartog Strikes Back	Space Chimps 2: Zartog Strikes Back	1.0
+The Tall T	The Tall T	1.0
+The Light in the Forest	The Light in the Forest	1.0
+tom thumb	tom thumb	1.0
+The Time Machine	The Time Machine	1.0
+Eraser	Eraser	1.0
+American Hustle	American Hustle	1.0
+Three Kings	Three Kings	1.0
+The Mask	The Mask	1.0
+The Scorpion King	The Scorpion King	1.0
+Tuck Everlasting	Tuck Everlasting	1.0
+The Fighter	The Fighter	1.0
+A History of Violence	A History of Violence	1.0
+Maps to the Stars	Maps to the Stars	1.0
+The Dead Zone	The Dead Zone	1.0
+Yours, Mine and Ours	Yours, Mine and Ours	1.0
+Houseboat	Houseboat	1.0
+Wanted	Wanted	1.0
+The Jungle Book	The Jungle Book	1.0
+Yogi Bear	Yogi Bear	1.0
+House on Haunted Hill	House On Haunted Hill	1.0
+House on Haunted Hill	House on Haunted Hill	1.0
+A Dog of Flanders	A Dog of Flanders	1.0
+No Man's Land	No Man's Land	1.0
+Turner & Hooch	Turner and Hooch	0.9136904761904763
+Under Fire	Under Fire	1.0
+Terror Train	Terror Train	1.0
+Air America	Air America	1.0
+A Walk Among the Tombstones	A Walk Among the Tombstones	1.0
+Li'l Abner	Li'l Abner	1.0
+Sorority House Massacre	Sorority House Massacre	1.0
+Gidget	Gidget	1.0
+Actress	Actress	1.0
+Kidnap	Kidnap	1.0
+Gerry	Gerry	1.0
+Milk	Milk	1.0
+Promised Land	Promised Land	1.0
+Last Days	Last Days	1.0
+Elephant	Elephant	1.0
+Restless	Restless	1.0
+Extinction	Extinction	1.0
+The Lookalike	The Lookalike	1.0
+Law Abiding Citizen	Law Abiding Citizen	1.0
+The Italian Job	The Italian Job	1.0
+The Yards	The Yards	1.0
+Born to Be Wild	Born to Be Wild	1.0
+Be Cool	Be Cool	1.0
+Friday	Friday	1.0
+A Man Apart	A Man Apart	1.0
+Set It Off	Set It Off	1.0
+The Negotiator	The Negotiator	1.0
+Battle of the Bulge	Battle of the Bulge	1.0
+Swiss Family Robinson	Swiss Family Robinson	1.0
+King Arthur	King Arthur	1.0
+Shooter	Shooter	1.0
+Southpaw	Southpaw	1.0
+The Equalizer	The Equalizer	1.0
+The Magnificent Seven Ride!	The Magnificent Seven Ride!	1.0
+Frogs	Frogs	1.0
+Accepted	Accepted	1.0
+Hot Tub Time Machine	Hot Tub Time Machine	1.0
+Hot Tub Time Machine	Hot Tub Time Machine 2	0.9696969696969697
+Hot Tub Time Machine 2	Hot Tub Time Machine	0.9696969696969697
+Hot Tub Time Machine 2	Hot Tub Time Machine 2	1.0
+The Parent Trap	The Parent Trap	1.0
+Pollyanna	Pollyanna	1.0
+The Blind Side	The Blind Side	1.0
+The Alamo	The Alamo	1.0
+Starman	Starman	1.0
+Village of the Damned	Village of the Damned	1.0
+Dark Star	Dark Star	1.0
+Big Trouble in Little China	Big Trouble in Little China	1.0
+Assault on Precinct 13	Assault on Precinct 13	1.0
+Christine	Christine	1.0
+The Fog	The Fog	1.0
+Prince of Darkness	Prince of Darkness	1.0
+Escape from New York	Escape from New York	1.0
+Grand Prix	Grand Prix	1.0
+Prophecy	Prophecy	1.0
+The Young Savages	The Young Savages	1.0
+Ronin	Ronin	1.0
+Atonement	Atonement	1.0
+Pan	Pan	1.0
+The World's End	The World's End	1.0
+HouseSitter	Housesitter	1.0
+What About Bob?	What About Bob?	1.0
+The Muppets Take Manhattan	The Muppets Take Manhattan	1.0
+The Indian in the Cupboard	The Indian in the Cupboard	1.0
+Little Shop of Horrors	Little Shop of Horrors	1.0
+The Score	The Score	1.0
+Ghost Ship	Ghost Ship	1.0
+Gods and Generals	Gods and Generals	1.0
+Little Darlings	Little Darlings	1.0
+Copperhead	Copperhead	1.0
+Gettysburg	Gettysburg	1.0
+White Lightning	White Lightning	1.0
+Mysterious Island	Mysterious Island	1.0
+The Pirates! Band of Misfits	The Pirates! Band of Misfits	1.0
+Holy Man	Holy Man	1.0
+Critters	Critters	1.0
+The Three Musketeers	The Three Musketeers	1.0
+The Chaperone	The Chaperone	1.0
+Don't Tell Mom the Babysitter's Dead	Don't Tell Mom the Babysitter's Dead	1.0
+The Mighty Ducks	The Mighty Ducks	1.0
+Man of the House	Man of the House	1.0
+Fatal Attraction	Fatal Attraction	1.0
+Unfaithful	Unfaithful	1.0
+Foxes	Foxes	1.0
+The Age of Adaline	The Age of Adaline	1.0
+Celeste & Jesse Forever	Celeste and Jesse Forever	0.9455072463768116
+The Innocents	The Innocents	1.0
+The Age of Innocence	The Age of Innocence	1.0
+The Wolf of Wall Street	The Wolf of Wall Street	1.0
+Mean Streets	Mean Streets	1.0
+Gangs of New York	Gangs of New York	1.0
+Casino	Casino	1.0
+The Departed	The Departed	1.0
+After Hours	After Hours	1.0
+Kundun	Kundun	1.0
+The Aviator	The Aviator	1.0
+Shutter Island	Shutter Island	1.0
+Goodfellas	GoodFellas	1.0
+Taxi Driver	Taxi Driver	1.0
+The King of Comedy	The King of Comedy	1.0
+Raging Bull	Raging Bull	1.0
+Hugo	Hugo	1.0
+Porky's	Porky's	1.0
+Baby Geniuses	Baby Geniuses	1.0
+Porky's II: The Next Day	Porky's II: The Next Day	1.0
+Black Shampoo	Black Shampoo	1.0
+Misty	Misty	1.0
+Wacko	Wacko	1.0
+A Christmas Story	A Christmas Story	1.0
+It Runs in the Family	It Runs in the Family	1.0
+Wassup Rockers	Wassup Rockers	1.0
+Bully	Bully	1.0
+Final Justice	Final Justice	1.0
+Summer Magic	Summer Magic	1.0
+Bon Voyage!	Bon Voyage!	1.0
+Diary of a Wimpy Kid: Dog Days	Diary of a Wimpy Kid: Dog Days	1.0
+My Tutor	My Tutor	1.0
+Diary of a Wimpy Kid: Rodrick Rules	Diary of a Wimpy Kid: Dog Days	0.8570207570207571
+Diary of a Wimpy Kid: Rodrick Rules	Diary of a Wimpy Kid 2: Rodrick Rules	0.9343629343629344
+Big Red	Big Red	1.0
+Where the Red Fern Grows	Where the Red Fern Grows	1.0
+Rascal	Rascal	1.0
+The Apple Dumpling Gang	The Apple Dumpling Gang	1.0
+Beauty and the Beast	Beauty and the Beast	1.0
+Dreamgirls	Dreamgirls	1.0
+The Twilight Saga: Breaking Dawn - Part 2	The Twilight Saga: Breaking Dawn Part 2	0.966645820304357
+The Twilight Saga: Breaking Dawn - Part 1	The Twilight Saga: Breaking Dawn Part 2	0.9495188879014296
+Mr. Holmes	Mr. Holmes	1.0
+The Black Hole	The Black Hole	1.0
+Lilies of the Field	Lilies of the Field	1.0
+I Am Sam	I Am Sam	1.0
+Freaky Friday	Freaky Friday	1.0
+Soldier in the Rain	Soldier in the Rain	1.0
+Once I Was a Beehive	Once I Was A Beehive	1.0
+The Town That Dreaded Sundown	The Town That Dreaded Sundown	1.0
+Me and Earl and the Dying Girl	Me and Earl and the Dying Girl	1.0
+The Front	The Front	1.0
+Sounder	Sounder	1.0
+Hud	Hud	1.0
+Heathers	Heathers	1.0
+Hudson Hawk	Hudson Hawk	1.0
+Elena	Elena	1.0
+Young Guns II	Young Guns II	1.0
+Under Siege 2: Dark Territory	Under Siege 2: Dark Territory	1.0
+To Kill a Mockingbird	To Kill A Mockingbird	1.0
+Agent Cody Banks	Agent Cody Banks	1.0
+The Karate Kid	The Karate Kid	1.0
+Homeward Bound: The Incredible Journey	Homeward Bound - The Incredible Journey	0.9110709900183585
+Pete's Dragon	Pete's Dragon	1.0
+Jason and the Argonauts	Jason and the Argonauts	1.0
+Greenberg	Greenberg	1.0
+Mistress America	Mistress America	1.0
+Kicking and Screaming	Kicking and Screaming	1.0
+Frances Ha	Frances Ha	1.0
+Highball	Highball	1.0
+American Ultra	American Ultra	1.0
+Project X	Project X	1.0
+15 Minutes	15 Minutes	1.0
+The Haunting in Connecticut	The Haunting in Connecticut	1.0
+Speed	Speed	1.0
+Lara Croft Tomb Raider: The Cradle of Life	Lara Croft Tomb Raider - The Cradle of Life	0.9196490469888087
+Twister	Twister	1.0
+Speed 2: Cruise Control	Speed 2 - Cruise Control	0.9122749231444884
+Halloween	Halloween	1.0
+Halloween	H2: Halloween II	0.8541666666666666
+The Devil's Rejects	The Devil's Rejects	1.0
+Halloween II	Halloween	0.9166666666666666
+The D Train	The D Train	1.0
+Santa Claus Conquers the Martians	Santa Claus Conquers the Martians	1.0
+The Last Man on Earth	The Last Man on Earth	1.0
+Morituri	Morituri	1.0
+Billie	Billie	1.0
+The Reader	The Reader	1.0
+The Man in the Iron Mask	The Man in the Iron Mask	1.0
+Halloween III: Season of the Witch	Halloween III - Season of the Witch	0.9004413886766827
+We Were Soldiers	We Were Soldiers	1.0
+Secretariat	Secretariat	1.0
+Blow-Up	Blow-Up	1.0
+Self/less	Self/less	1.0
+The Cell	The Cell	1.0
+The Appaloosa	The Appaloosa	1.0
+Brand: A Second Coming	Brand: A Second Coming	1.0
+Man of Steel	Man of Steel	1.0
+Dawn of the Dead	Dawn of the Dead	1.0
+Watchmen	Watchmen	1.0
+Batman v Superman: Dawn of Justice	Batman v Superman: Dawn of Justice	1.0
+Legend of the Guardians: The Owls of Ga'Hoole	Legend of the Guardians: The Owls of Ga'Hoole	1.0
+300	300	1.0
+Interstellar	Interstellar	1.0
+Insomnia	Insomnia	1.0
+Batman Begins	Batman Begins	1.0
+Memento	Memento	1.0
+The Dark Knight	The Dark Knight	1.0
+The Dark Knight	The Dark Knight Rises	0.9047619047619048
+The Dark Knight Rises	The Dark Knight	0.9047619047619048
+The Dark Knight Rises	The Dark Knight Rises	1.0
+The Prestige	The Prestige	1.0
+Will Penny	Will Penny	1.0
+The Silent Scream	The Silent Scream	1.0
+Deceived	Deceived	1.0
+Appaloosa	Appaloosa	1.0
+Return of the Secaucus Seven	Return of the Secaucus Seven	1.0
+Last Days in Vietnam	Last Days in Vietnam	1.0
+The Train Robbers	The Train Robbers	1.0
+The Jungle Book 2	The Jungle Book 2	1.0
+Le Mans	Le Mans	1.0
+Iron Man	Iron Man 2	0.9333333333333332
+Iron Man	Iron Man	1.0
+Elf	Elf	1.0
+Cowboys & Aliens	Cowboys & Aliens	1.0
+Iron Man 2	Iron Man 2	1.0
+Iron Man 2	Iron Man	0.9333333333333332
+Bogus	Bogus	1.0
+The Thomas Crown Affair	The Thomas Crown Affair	1.0
+In the Heat of the Night	In the Heat of the Night	1.0
+...And Justice for All.	...And Justice for All	0.9855072463768115
+Fiddler on the Roof	Fiddler on the Roof	1.0
+The Hurricane	The Hurricane	1.0
+Flicka	Flicka	1.0
+The Guru	The Guru	1.0
+Adam	Adam	1.0
+Clambake	Clambake	1.0
+Little Big Man	Little Big Man	1.0
+The Pledge	The Pledge	1.0
+Bonnie and Clyde	Bonnie and Clyde	1.0
+The Boys from Brazil	The Boys from Brazil	1.0
+Patton	Patton	1.0
+Sphinx	Sphinx	1.0
+The Great Outdoors	The Great Outdoors	1.0
+The Replacements	The Replacements	1.0
+The Odd Couple II	The Odd Couple II	1.0
+Some Kind of Wonderful	Some Kind of Wonderful	1.0
+My Best Friend's Girl	My Best Friend's Girl	1.0
+Let Me In	Let Me In	1.0
+Dawn of the Planet of the Apes	Dawn Of The Planet Of The Apes	1.0
+Barefoot in the Park	Barefoot in the Park	1.0
+Mame	Mame	1.0
+The Odd Couple	The Odd Couple	1.0
+Leaving Las Vegas	Leaving Las Vegas	1.0
+Hotel Transylvania	Hotel Transylvania 2	0.9666666666666667
+Hotel Transylvania	Hotel Transylvania	1.0
+Hotel Transylvania 2	Hotel Transylvania 2	1.0
+Hotel Transylvania 2	Hotel Transylvania	0.9666666666666667
+Robby	Robby	1.0
+Land of the Dead	Land of the Dead	1.0
+Land of the Dead	Dawn of the Dead	0.9361111111111112
+Land of the Dead	Diary of the Dead	0.8757002801120448
+Land of the Dead	Day of the Dead	0.9123015873015873
+Night of the Living Dead	Night of the Living Dead	1.0
+The Crazies	The Crazies	1.0
+Auteur	Auteur	1.0
+Survival of the Dead	Survival of the Dead	1.0
+Survival of the Dead	Diary of the Dead	0.8552287581699346
+Day of the Dead	Land of the Dead	0.9123015873015873
+Day of the Dead	Dawn of the Dead	0.9361111111111112
+Day of the Dead	Diary of the Dead	0.9607843137254902
+Diary of the Dead	Land of the Dead	0.8757002801120448
+Diary of the Dead	Dawn of the Dead	0.8995098039215685
+Diary of the Dead	Survival of the Dead	0.8552287581699346
+Diary of the Dead	Diary of the Dead	1.0
+Diary of the Dead	Day of the Dead	0.9607843137254902
+Creepshow	Creepshow	1.0
+Dawn of the Dead	Land of the Dead	0.9361111111111112
+Dawn of the Dead	Diary of the Dead	0.8995098039215685
+Dawn of the Dead	Day of the Dead	0.9361111111111112
+Tell Me Lies	Tell Me Lies	1.0
+Baby on Board	Baby on Board	1.0
+Yes Man	Yes Man	1.0
+Ant-Man	Ant-Man	1.0
+Pat Garrett & Billy the Kid	Pat Garrett & Billy the Kid	1.0
+The Getaway	The Getaway	1.0
+Convoy	Convoy	1.0
+The Killer Elite	The Killer Elite	1.0
+The Wild Bunch	The Wild Bunch	1.0
+The Beverly Hillbillies	The Beverly Hillbillies	1.0
+Black Sheep	Black Sheep	1.0
+Wayne's World	Wayne's World	1.0
+The Little Rascals	The Little Rascals	1.0
+Easy Rider	Easy Rider	1.0
+Fargo	Fargo	1.0
+The Ladykillers	The Ladykillers	1.0
+The Big Lebowski	The Big Lebowski	1.0
+The Man Who Wasn't There	The Man Who Wasn't There	1.0
+Burn After Reading	Burn After Reading	1.0
+Inside Llewyn Davis	Inside Llewyn Davis	1.0
+Basic	Basic	1.0
+Medicine Man	Medicine Man	1.0
+Predator	Predator	1.0
+Die Hard	Die Hard	1.0
+Freedomland	Freedomland	1.0
+Hostel: Part II	Hostel Part II	0.9777777777777779
+Hostel	Hostel	1.0
+Cabin Fever	Cabin Fever	1.0
+America's Sweethearts	America's Sweethearts	1.0
+A.P.E.X.	A.P.E.X.	1.0
+Revenge of the Nerds II: Nerds in Paradise	Revenge of the Nerds II: Nerds in Paradise	1.0
+Knock Knock	Knock Knock	1.0
+Change of Habit	Change of Habit	1.0
+Strapped	Strapped	1.0
+The Investigator	The Investigator	1.0
+Billy Jack	Billy Jack	1.0
+Strange Invaders	Strange Invaders	1.0
+xXx	XXX	1.0
+It's Alive	It's Alive	1.0
+The Fast and the Furious	The Fast and the Furious	1.0
+Get Hard	Get Hard	1.0
+The Stuff	The Stuff	1.0
+DragonHeart	Dragonheart	1.0
+Saturday the 14th	Saturday the 14th Strikes Back	0.8555555555555555
+Saturday the 14th	Saturday the 14th	1.0
+Daylight	Daylight	1.0
+Dirty Dancing: Havana Nights	Dirty Dancing: Havana Nights	1.0
+Tangerine	Tangerine	1.0
+The Vampire Lovers	The Vampire Lovers	1.0
+The Puppet Masters	The Puppet Masters	1.0
+Monte Walsh	Monte Walsh	1.0
+Thumbelina	Thumbelina	1.0
+RoboCop 2	Robocop 2	1.0
+A Man Called Horse	A Man Called Horse	1.0
+Steve McQueen: The Man & Le Mans	Steve McQueen: The Man & Le Mans	1.0
+Get Carter	Get Carter	1.0
+Macbeth	Macbeth	1.0
+Shaft	Shaft	1.0
+American Graffiti	American Graffiti	1.0
+THX 1138	THX 1138	1.0
+Star Wars: Episode III - Revenge of the Sith	Star Wars: Episode III - Revenge of the Sith 3D	0.9787234042553191
+Star Wars: Episode II - Attack of the Clones	Star Wars: Episode II - Attack of the Clones 3D	0.9787234042553191
+2 Fast 2 Furious	2 Fast 2 Furious	1.0
+Higher Learning	Higher Learning	1.0
+Baby Boy	Baby Boy	1.0
+Poker Night	Poker Night	1.0
+Tales from the Crypt	Tales from the Crypt	1.0
+Evel Knievel	Evel Knievel	1.0
+Silent Running	Silent Running	1.0
+Deliverance	Deliverance	1.0
+The Mechanic	The Mechanic	1.0
+Wild Card	Wild Card	1.0
+When a Stranger Calls	When a Stranger Calls	1.0
+The Sacrament	The Sacrament	1.0
+The General's Daughter	The General's Daughter	1.0
+The House of the Devil	The House of the Devil	1.0
+Con Air	Con Air	1.0
+Lara Croft: Tomb Raider	Lara Croft - Tomb Raider	0.9274264382960036
+Stolen	Stolen	1.0
+The Expendables 2	The Expendables 2	1.0
+The Roost	The Roost	1.0
+Hopscotch	Hopscotch	1.0
+Stanley	Stanley	1.0
+The Lord of the Rings	The Lord of the Rings	1.0
+Fritz the Cat	Fritz the Cat	1.0
+The Legend of Boggy Creek	The Legend of Boggy Creek	1.0
+Silent Night, Bloody Night	Silent Night, Bloody Night	1.0
+The Cowboys	The Cowboys	1.0
+The River	The River	1.0
+Intersection	Intersection	1.0
+Thirteen Days	Thirteen Days	1.0
+Cocktail	Cocktail	1.0
+No Way Out	No Way Out	1.0
+Seeking Justice	Seeking Justice	1.0
+Species	Species	1.0
+The Recruit	The Recruit	1.0
+The Savages	The Savages	1.0
+Inside Deep Throat	Inside Deep Throat	1.0
+Kingpin	Kingpin	1.0
+Me, Myself & Irene	Me, Myself & Irene	1.0
+Fever Pitch	Fever Pitch	1.0
+Dumb and Dumber To	Dumb and Dumber To	1.0
+Dumb and Dumber To	Dumb and Dumber	0.9444444444444445
+Dumb & Dumber	Dumb and Dumber	0.8799145299145299
+The Heartbreak Kid	The Heartbreak Kid	1.0
+Hall Pass	Hall Pass	1.0
+Stuck on You	Stuck on You	1.0
+Ride	Ride	1.0
+The Cave	The Cave	1.0
+1776	1776	1.0
+Bandits	Bandits	1.0
+Man of the Year	Man of the Year	1.0
+Bugsy	Bugsy	1.0
+Disclosure	Disclosure	1.0
+Sleepers	Sleepers	1.0
+Envy	Envy	1.0
+Sphere	Sphere	1.0
+The Natural	The Natural	1.0
+Rain Man	Rain Man	1.0
+Toys	Toys	1.0
+The Humbling	The Humbling	1.0
+Charlotte's Web	Charlotte's Web	1.0
+Scarecrow	Scarecrow	1.0
+My Santa	My Santa	1.0
+Raw Deal	Raw Deal	1.0
+Badlands	Badlands	1.0
+Days of Heaven	Days of Heaven	1.0
+The New World	The New World	1.0
+The Tree of Life	The Tree of Life	1.0
+To the Wonder	To The Wonder	1.0
+The Thin Red Line	The Thin Red Line	1.0
+The Exorcist III	The Exorcist III	1.0
+Cleaner	Cleaner	1.0
+Deep Blue Sea	Deep Blue Sea	1.0
+12 Rounds	12 Rounds	1.0
+Prison	Prison	1.0
+Cliffhanger	Cliffhanger	1.0
+Born American	Born American	1.0
+Letters to Juliet	Letters to Juliet	1.0
+Bride Wars	Bride Wars	1.0
+The Holy Mountain	The Holy Mountain	1.0
+The Seven-Ups	The Seven-Ups	1.0
+Keeping the Faith	Keeping the Faith	1.0
+More American Graffiti	More American Graffiti	1.0
+Three for the Road	Three For The Road	1.0
+2012	2012	1.0
+Stargate	Stargate	1.0
+10,000 BC	10,000 B.C.	0.9393939393939394
+Universal Soldier	Universal Soldier	1.0
+Independence Day: Resurgence	Independence Day	0.8571428571428571
+Independence Day: Resurgence	Independence Day Resurgence	0.9880952380952381
+The Day After Tomorrow	The Day After Tomorrow	1.0
+Independence Day	Independence Day	1.0
+Independence Day	Independence Day Resurgence	0.8641975308641975
+Stonewall	Stonewall	1.0
+Shamus	Shamus	1.0
+Cockfighter	Cockfighter	1.0
+Sahara	Sahara	1.0
+The Last Witch Hunter	The Last Witch Hunter	1.0
+The Green Hornet	The Green Hornet	1.0
+Be Kind Rewind	Be Kind Rewind	1.0
+Vile	Vile	1.0
+In the Name of the Father	In the Name of the Father	1.0
+That's Entertainment! III	That's Entertainment! III	1.0
+The Boxer	The Boxer	1.0
+Heaven Knows What	Heaven Knows What	1.0
+Lenny	Lenny	1.0
+Star Trek Into Darkness	Star Trek Into Darkness	1.0
+Star Trek	Star Trek	1.0
+Super 8	Super 8	1.0
+Fast Five	Fast Five	1.0
+Fast & Furious	Fast & Furious 6	0.9583333333333334
+Love Happens	Love Happens	1.0
+Benji	Benji	1.0
+Benji the Hunted	Benji the Hunted	1.0
+For the Love of Benji	For the Love of Benji	1.0
+Kite	Kite	1.0
+Munchie Strikes Back	Munchie Strikes Back	1.0
+Not of This Earth	Not of this Earth	1.0
+Munchie	Munchie	1.0
+Jocks	Jocks	1.0
+Big Bad Mama	Big Bad Mama	1.0
+The Apple Dumpling Gang Rides Again	The Apple Dumpling Gang Rides Again	1.0
+Supergirl	Supergirl	1.0
+Jaws 2	Jaws 2	1.0
+The Rocky Horror Picture Show	The Rocky Horror Picture Show	1.0
+Coming Home	Coming Home	1.0
+Shampoo	Shampoo	1.0
+Escape to Witch Mountain	Escape to Witch Mountain	1.0
+Midway to Heaven	Midway to Heaven	1.0
+Death Race 2000	Death Race 2000	1.0
+Midway	Midway	1.0
+For Keeps?	For Keeps	0.9666666666666667
+Rocky V	Rocky	0.9047619047619048
+The Karate Kid, Part II	The Karate Kid	0.8695652173913043
+The Karate Kid, Part II	The Karate Kid Part II	0.9855072463768115
+The Karate Kid	The Karate Kid Part II	0.8787878787878788
+The Karate Kid, Part III	The Karate Kid	0.8611111111111112
+The Karate Kid, Part III	The Karate Kid Part II	0.9722222222222222
+Neighbors	Neighbors	1.0
+Rocky	Rocky	1.0
+Marathon Man	Marathon Man	1.0
+The Believers	The Believers	1.0
+47 Ronin	47 Ronin	1.0
+Bernie	Bernie	1.0
+School of Rock	School of Rock	1.0
+Boyhood	Boyhood	1.0
+Star Trek: Generations	Star Trek Generations	0.9848484848484849
+Into the Grizzly Maze	Into The Grizzly Maze	1.0
+Saw V	Saw V	1.0
+The Manitou	The Manitou	1.0
+Grizzly	Grizzly	1.0
+Carrie	Carrie	1.0
+Fletch Lives	Fletch Lives	1.0
+The Bad News Bears	The Bad News Bears	1.0
+Snatch.	Snatch	0.9523809523809524
+Wildcats	Wildcats	1.0
+Sherlock Holmes	Sherlock Holmes	1.0
+The Man from U.N.C.L.E.	The Man From U.N.C.L.E.	1.0
+Fletch	Fletch	1.0
+Desperate Living	Desperate Living	1.0
+A Dirty Shame	A Dirty Shame	1.0
+Cry-Baby	Cry-Baby	1.0
+Gone Girl	Gone Girl	1.0
+Zodiac	Zodiac	1.0
+Fight Club	Fight Club	1.0
+The Girl with the Dragon Tattoo	The Girl with the Dragon Tattoo	1.0
+The Social Network	The Social Network	1.0
+Death Riders	Death Riders	1.0
+Blast from the Past	Blast From the Past	1.0
+Out in the Silence	Out in the Silence	1.0
+Police Academy	Police Academy	1.0
+Head Above Water	Head Above Water	1.0
+Fandango	Fandango	1.0
+Stick	Stick	1.0
+The Count of Monte Cristo	The Count of Monte Cristo	1.0
+Robin Hood: Prince of Thieves	Robin Hood: Prince of Thieves	1.0
+Waterworld	Waterworld	1.0
+12 Rounds 3: Lockdown	12 Rounds 3: Lockdown	1.0
+Gator	Gator	1.0
+The Rescuers Down Under	The Rescuers Down Under	1.0
+3 Ninjas	3 Ninjas	1.0
+Phenomenon	Phenomenon	1.0
+The Sorcerer's Apprentice	The Sorcerer's Apprentice	1.0
+Cool Runnings	Cool Runnings	1.0
+National Treasure: Book of Secrets	National Treasure: Book of Secrets	1.0
+National Treasure	National Treasure	1.0
+Danny Collins	Danny Collins	1.0
+Jeepers Creepers	Jeepers Creepers	1.0
+Jeepers Creepers	Jeepers Creepers 2	0.9629629629629629
+Jeepers Creepers II	Jeepers Creepers	0.9473684210526315
+Jeepers Creepers II	Jeepers Creepers 2	0.9463937621832358
+The Pack	The Pack	1.0
+Extreme Justice	Extreme Justice	1.0
+Hitman's Run	Hitman's Run	1.0
+Armed and Dangerous	Armed and Dangerous	1.0
+Firestarter	Firestarter	1.0
+Blowback	Blowback	1.0
+Commando	Commando	1.0
+Stunts	Stunts	1.0
+Superman III	Superman II	0.9722222222222222
+Superman III	Superman III	1.0
+Misbegotten	Misbegotten	1.0
+Tentacles	Tentacles	1.0
+Between the Lines	Between the Lines	1.0
+Permanent Record	Permanent Record	1.0
+Team America: World Police	Team America: World Police	1.0
+Fame	Fame	1.0
+Johnny English Reborn	Johnny English Reborn	1.0
+Othello	Othello	1.0
+Shoot the Moon	Shoot the Moon	1.0
+Midnight Express	Midnight Express	1.0
+Interior. Leather Bar.	Interior. Leather Bar.	1.0
+Sunshine Superman	Sunshine Superman	1.0
+Field of Dreams	Field of Dreams	1.0
+ATL	ATL	1.0
+The Last Song	The Last Song	1.0
+Jennifer's Body	Jennifer's Body	1.0
+The Deer Hunter	The Deer Hunter	1.0
+Heaven's Gate	Heaven's Gate	1.0
+Year of the Dragon	Year of the Dragon	1.0
+Tabloid	Tabloid	1.0
+A Brief History of Time	A Brief History of Time	1.0
+Gates of Heaven	Gates of Heaven	1.0
+The Unknown Known	The Unknown Known	1.0
+The Thin Blue Line	The Thin Blue Line	1.0
+The Beach Girls	The Beach Girls	1.0
+Coach	Coach	1.0
+The Toolbox Murders	The Toolbox Murders	1.0
+Nightcrawler	Nightcrawler	1.0
+Duplicity	Duplicity	1.0
+The Exorcism of Molly Hartley	The Exorcism of Molly Hartley	1.0
+I Spit on Your Grave	I Spit on Your Grave 2	0.9696969696969697
+I Spit on Your Grave	I Spit On Your Grave	1.0
+I Spit on Your Grave 2	I Spit on Your Grave 2	1.0
+I Spit on Your Grave 2	I Spit On Your Grave	0.9696969696969697
+Braveheart	Braveheart	1.0
+The Juror	The Juror	1.0
+Piranha	Piranha	1.0
+Explorers	Explorers	1.0
+Gremlins	Gremlins	1.0
+Gremlins 2: The New Batch	Gremlins 2: The New Batch	1.0
+Looney Tunes: Back in Action	Looney Tunes: Back in Action	1.0
+The Hole	The Hole	1.0
+Burying the Ex	Burying the Ex	1.0
+Spider-Man	Spider-Man 3	0.9444444444444445
+Spider-Man	Spider-Man 2	0.9444444444444445
+Spider-Man	Spider-Man	1.0
+The Evil Dead	The Evil Dead	1.0
+Spider-Man 3	Spider-Man 3	1.0
+Spider-Man 3	Spider-Man 2	0.9444444444444443
+Spider-Man 3	Spider-Man	0.9444444444444445
+Drag Me to Hell	Drag Me to Hell	1.0
+For Love of the Game	For Love of the Game	1.0
+The Gift	The Gift	1.0
+The Quick and the Dead	The Quick and the Dead	1.0
+A Simple Plan	A Simple Plan	1.0
+Spider-Man 2	Spider-Man 3	0.9444444444444443
+Spider-Man 2	Spider-Man 2	1.0
+Spider-Man 2	Spider-Man	0.9444444444444445
+Ouija	Ouija	1.0
+Nanny McPhee Returns	Nanny McPhee Returns	1.0
+Foul Play	Foul Play	1.0
+The Devil's Own	The Devil's Own	1.0
+Starting Over	Starting Over	1.0
+Rocky IV	Rocky III	0.8842592592592592
+Rocky IV	Rocky II	0.9166666666666666
+Staying Alive	Staying Alive	1.0
+Rocky III	Rocky III	1.0
+Rocky III	Rocky II	0.9629629629629629
+The Expendables	The Expendables	1.0
+Rocky II	Rocky III	0.9629629629629629
+Rocky II	Rocky II	1.0
+The Black Stallion Returns	The Black Stallion Returns	1.0
+The Muppets	The Muppets	1.0
+Muppets Most Wanted	Muppets Most Wanted	1.0
+Labyrinth	Labyrinth	1.0
+Muppet Treasure Island	Muppet Treasure Island	1.0
+The Muppet Christmas Carol	The Muppet Christmas Carol	1.0
+The Honeymooners	The Honeymooners	1.0
+Aliens in the Attic	Aliens in the Attic	1.0
+Like Mike	Like Mike	1.0
+Duma	Duma	1.0
+The Black Stallion	The Black Stallion	1.0
+Monsters vs. Aliens	Monsters vs. Aliens	1.0
+The Walking Dead Girls	The Walking Dead Girls	1.0
+The Money Pit	The Money Pit	1.0
+Tourist Trap	Tourist Trap	1.0
+Maid in Manhattan	Maid in Manhattan	1.0
+Hooper	Hooper	1.0
+Spotlight	Spotlight	1.0
+The Cobbler	The Cobbler	1.0
+Win Win	Win Win	1.0
+TRON: Legacy	Tron Legacy	0.9722222222222222
+Oblivion	Oblivion	1.0
+My Amityville Horror	My Amityville Horror	1.0
+Brubaker	Brubaker	1.0
+When a Stranger Calls	When a Stranger Calls Back	0.9358974358974358
+April Fool's Day	April Fool's Day	1.0
+Regression	Regression	1.0
+The Apple	The Apple	1.0
+Over the Top	Over the Top	1.0
+The Big Red One	The Big Red One	1.0
+The Lucky One	The Lucky One	1.0
+No Reservations	No Reservations	1.0
+Ordinary People	Ordinary People	1.0
+Quiz Show	Quiz Show	1.0
+A River Runs Through It	A River Runs Through It	1.0
+Tom and Jerry: The Movie	Tom and Jerry: The Movie	1.0
+Bon Voyage, Charlie Brown (and Don't Come Back!!)	Bon Voyage, Charlie Brown (And Don't Come Back)	0.9863945578231292
+Motel Hell	Motel Hell	1.0
+Caddyshack II	Caddyshack II	1.0
+Never Forever	Never Forever	1.0
+The Blue Lagoon	The Blue Lagoon	1.0
+It's My Party	It's My Party	1.0
+White Fang	White Fang	1.0
+Blood Beach	Blood Beach	1.0
+Forbidden Zone	Forbidden Zone	1.0
+Hot Shots!	Hot Shots!	1.0
+Hot Shots! Part Deux	Hot Shots! Part Deux	1.0
+Airplane II: The Sequel	Airplane 2 - The Sequel	0.8797101449275363
+Year One	Year One	1.0
+Analyze That	Analyze That	1.0
+Analyze That	Analyze This	0.888888888888889
+Analyze This	Analyze That	0.888888888888889
+Analyze This	Analyze This	1.0
+National Lampoon's Vacation	National Lampoon's Vacation	1.0
+Caddyshack	Caddyshack	1.0
+Bedazzled	Bedazzled	1.0
+Friday the 13th	Friday the 13th	1.0
+The New Kids	The New Kids	1.0
+The Exterminator	The Exterminator	1.0
+The Octagon	The Octagon	1.0
+Boys and Girls	Boys and Girls	1.0
+Alligator	Alligator	1.0
+The Jewel of the Nile	The Jewel of the Nile	1.0
+Navy Seals	Navy Seals	1.0
+Shooters	Shooters	1.0
+Urban Cowboy	Urban Cowboy	1.0
+The Texas Chainsaw Massacre	The Texas Chainsaw Massacre	1.0
+Exeter	Exeter	1.0
+Saw III	Saw III	1.0
+Saw II	Saw III	0.9523809523809524
+The Incredible Hulk	The Incredible Hulk	1.0
+Now You See Me	Now You See Me	1.0
+Unleashed	Unleashed	1.0
+Endless Love	Endless Love	1.0
+Eyes of a Stranger	Eyes of a Stranger	1.0
+Return of the Living Dead II	Return of the Living Dead Part II	0.9494949494949495
+Bad Boys	Bad Boys	1.0
+Zapped!	Zapped!	1.0
+Halloween II	Halloween II	1.0
+The Perfect Guy	The Perfect Guy	1.0
+Body Heat	Body Heat	1.0
+Wyatt Earp	Wyatt Earp	1.0
+Bad Teacher	Bad Teacher	1.0
+Sex Tape	Sex Tape	1.0
+Silverado	Silverado	1.0
+I Love You to Death	I Love You to Death	1.0
+Grand Canyon	Grand Canyon	1.0
+French Kiss	French Kiss	1.0
+Orange County	Orange County	1.0
+The First Time	The First Time	1.0
+Quest for Camelot	Quest For Camelot	1.0
+Racing Stripes	Racing Stripes	1.0
+Underdog	Underdog	1.0
+Hope Springs	Hope Springs	1.0
+Wolfen	Wolfen	1.0
+Jane Eyre	Jane Eyre	1.0
+Men, Women & Children	Men, Women & Children	1.0
+Twins	Twins	1.0
+Stripes	Stripes	1.0
+Junior	Junior	1.0
+Junior	Juno	0.8888888888888888
+Up in the Air	Up in the Air	1.0
+Fathers' Day	Fathers' Day	1.0
+No Strings Attached	No Strings Attached	1.0
+Labor Day	Labor Day	1.0
+Evolution	Evolution	1.0
+Ghostbusters	Ghostbusters	1.0
+Ghostbusters	Ghostbusters 2	0.9523809523809524
+Ghostbusters II	Ghostbusters	0.9333333333333332
+Ghostbusters II	Ghostbusters 2	0.9317460317460317
+Juno	Junior	0.8888888888888888
+Juno	Juno	1.0
+Dave	Dave	1.0
+Old Dogs	Old Dogs	1.0
+City Hall	City Hall	1.0
+Taps	Taps	1.0
+Malice	Malice	1.0
+Alvin and the Chipmunks: The Road Chip	Alvin and the Chipmunks: The Road Chip	1.0
+Sea of Love	Sea of Love	1.0
+Drinking Buddies	Drinking Buddies	1.0
+Unexpected	Unexpected	1.0
+Happy Christmas	Happy Christmas	1.0
+Caveman	Caveman	1.0
+Mannequin	Mannequin	1.0
+The Burning	The Burning	1.0
+Senna	Senna	1.0
+Amy	Amy	1.0
+Forgetting Sarah Marshall	Forgetting Sarah Marshall	1.0
+First Dog	First Dog	1.0
+Adventures in Babysitting	Adventures in Babysitting	1.0
+Harry Potter and the Chamber of Secrets	Harry Potter and the Sorcerer's Stone	0.8534592284592284
+Harry Potter and the Chamber of Secrets	Harry Potter and the Chamber of Secrets	1.0
+Home Alone	Home Alone	1.0
+Pixels	Pixels	1.0
+Percy Jackson & the Olympians: The Lightning Thief	Percy Jackson & the Olympians: The Lightning Thief	1.0
+Nine Months	Nine Months	1.0
+Heartbreak Hotel	Heartbreak Hotel	1.0
+Only the Lonely	Only the Lonely	1.0
+Home Alone 2: Lost in New York	Home Alone 2: Lost in New York	1.0
+Harry Potter and the Sorcerer's Stone	Harry Potter and the Sorcerer's Stone	1.0
+Harry Potter and the Sorcerer's Stone	Harry Potter and the Chamber of Secrets	0.8534592284592284
+Rent	Rent	1.0
+The Devil and Max Devlin	The Devil & Max Devlin	0.8638167388167388
+Evil Dead	Evil Dead	1.0
+The Stanford Prison Experiment	The Stanford Prison Experiment	1.0
+Invasion U.S.A.	Invasion U.S.A.	1.0
+The Prowler	The Prowler	1.0
+Hard to Kill	Hard to Kill	1.0
+Paternity	Paternity	1.0
+Striptease	Striptease	1.0
+So Fine	So Fine	1.0
+It Could Happen to You	It Could Happen to You	1.0
+Blink	Blink	1.0
+Continental Divide	Continental Divide	1.0
+Amazing Grace	Amazing Grace	1.0
+Class Action	Class Action	1.0
+The World Is Not Enough	The World Is Not Enough	1.0
+Extreme Measures	Extreme Measures	1.0
+Tomboy	Tomboy	1.0
+Graduation Day	Graduation Day	1.0
+Evaporating Borders	Evaporating Borders	1.0
+Pieces of April	Pieces of April	1.0
+The American Nightmare	The American Nightmare	1.0
+Blue Sky	Blue Sky	1.0
+The Border	The Border	1.0
+Green Lantern	Green Lantern	1.0
+Nico the Unicorn	Nico The Unicorn	1.0
+Edge of Darkness	Edge of Darkness	1.0
+GoldenEye	GoldenEye	1.0
+Beyond Borders	Beyond Borders	1.0
+The Legend of Zorro	The Legend of Zorro	1.0
+Casino Royale	Casino Royale	1.0
+Easy A	Easy A	1.0
+Friends with Benefits	Friends With Benefits	1.0
+Alpha and Omega	Alpha and Omega	1.0
+Fired Up!	Fired Up	0.9629629629629629
+Conan the Barbarian	Conan the Barbarian	1.0
+Rambo: First Blood Part II	Rambo: First Blood Part II	1.0
+Cobra	Cobra	1.0
+Of Unknown Origin	Of Unknown Origin	1.0
+Leviathan	Leviathan	1.0
+Wake in Fright	Wake in Fright	1.0
+First Blood	First Blood	1.0
+Monster House	Monster House	1.0
+Slumber Party Massacre III	Slumber Party Massacre III	1.0
+Thirteen	Thirteen	1.0
+Twilight	Twilight	1.0
+The Nativity Story	The Nativity Story	1.0
+Red Riding Hood	Red Riding Hood	1.0
+The Scarlet Letter	The Scarlet Letter	1.0
+Texas Chainsaw 3D	Texas Chainsaw	0.9411764705882352
+River's Edge	River's Edge	1.0
+Tex	Tex	1.0
+Sylvester	Sylvester	1.0
+TRON	TRON	1.0
+Slumber Party Massacre II	Slumber Party Massacre II	1.0
+People Places Things	People Places Things	1.0
+Hancock	Hancock	1.0
+Battleship	Battleship	1.0
+Every Secret Thing	Every Secret Thing	1.0
+10 Things I Hate About You	10 Things I Hate About You	1.0
+The Beastmaster	The Beastmaster	1.0
+The Last Straw	The Last Straw	1.0
+Partners	Partners	1.0
+Unhinged	Unhinged	1.0
+Frances	Frances	1.0
+Alone in the Dark	Alone in the Dark	1.0
+A Nightmare on Elm Street 2: Freddy's Revenge	A Nightmare on Elm Street 2 - Freddy's Revenge	0.9477968086663738
+Death Valley	Death Valley	1.0
+Buffy the Vampire Slayer	Buffy the Vampire Slayer	1.0
+Creepshow 2	Creepshow 2	1.0
+Xtro	Xtro	1.0
+Harry Potter and the Goblet of Fire	Harry Potter and the Goblet of Fire	1.0
+Trancers	Trancers	1.0
+Ghoulies II	Ghoulies II	1.0
+Robot Wars	Robot Wars	1.0
+Parasite	Parasite	1.0
+Madman	Madman	1.0
+RocketMan	RocketMan	1.0
+Legends of the Fall	Legends of the Fall	1.0
+Pawn Sacrifice	Pawn Sacrifice	1.0
+About Alex	About Alex	1.0
+Courage Under Fire	Courage Under Fire	1.0
+Defiance	Defiance	1.0
+Fat Albert	Fat Albert	1.0
+The Siege	The Siege	1.0
+Glory	Glory	1.0
+Love & Other Drugs	Love and Other Drugs	0.8530501089324618
+Blood Diamond	Blood Diamond	1.0
+Jack Reacher 2	Jack Reacher 2	1.0
+Second Sight	Second Sight	1.0
+The Last Samurai	The Last Samurai	1.0
+Bad Boys	Bad Boys II	0.9090909090909092
+Transformers	Transformers	1.0
+The Island	The Island	1.0
+Transformers: Revenge of the Fallen	Transformers: Revenge of the Fallen	1.0
+13 Hours: The Secret Soldiers of Benghazi	13 Hours: The Secret Soldiers Of Benghazi	1.0
+Armageddon	Armageddon	1.0
+Pearl Harbor	Pearl Harbor	1.0
+Bad Boys II	Bad Boys II	1.0
+Bad Boys II	Bad Boys	0.9090909090909092
+Pain & Gain	Pain & Gain	1.0
+Transformers: Age of Extinction	Transformers: Age of Extinction	1.0
+Angie	Angie	1.0
+The Prince and Me	The Prince & Me	0.918954248366013
+Valley Girl	Valley Girl	1.0
+Wonder Boys	Wonder Boys	1.0
+Losin' It	Losin' It	1.0
+8 Mile	8 Mile	1.0
+The Hand That Rocks the Cradle	The Hand that Rocks the Cradle	1.0
+The Beast Within	The Beast Within	1.0
+National Lampoon's European Vacation	National Lampoon's European Vacation	1.0
+Look Who's Talking	Look Who's Talking	1.0
+Look Who's Talking	Look Who's Talking, Too	0.927536231884058
+Loser	Loser	1.0
+Clueless	Clueless	1.0
+National Lampoon's Christmas Vacation	National Lampoon's Christmas Vacation	1.0
+Diabolique	Diabolique	1.0
+Risky Business	Risky Business	1.0
+Easy Money	Easy Money	1.0
+King Lear	King Lear	1.0
+Kiss Kiss Bang Bang	Kiss Kiss, Bang Bang	0.9833333333333334
+Private School	Private School	1.0
+Iron Man 3	Iron Man 3	1.0
+Sleepaway Camp II: Unhappy Campers	Sleepaway Camp II: Unhappy Campers	1.0
+The Guys	The Guys	1.0
+Fast Food	Fast Food	1.0
+Sleepaway Camp III: Teenage Wasteland	Sleepaway Camp III: Teenage Wasteland	1.0
+Amusement	Amusement	1.0
+Sleepaway Camp	Sleepaway Camp	1.0
+The Bostonians	The Bostonians	1.0
+Avenging Force	Avenging Force	1.0
+Revenge of the Ninja	Revenge of the Ninja	1.0
+American Ninja	American Ninja	1.0
+Silent Night, Deadly Night Part 2	Silent Night, Deadly Night Part 2	1.0
+The Abyss	The Abyss	1.0
+The Terminator	The Terminator	1.0
+Aliens	Aliens	1.0
+Titanic	Titanic	1.0
+Terminator 2: Judgment Day	Terminator 2: Judgment Day	1.0
+Avatar	Avatar	1.0
+Terminator Salvation	Terminator Salvation	1.0
+Spy	Spy	1.0
+Bridesmaids	Bridesmaids	1.0
+Demolition	Demolition	1.0
+The Young Victoria	The Young Victoria	1.0
+Beverly Hills Cop	Beverly Hills Cop	1.0
+Scent of a Woman	Scent of a Woman	1.0
+Parallels	Parallels	1.0
+Once Upon a Time in America	Once Upon a Time in America	1.0
+Troll	Troll	1.0
+The Bear	The Bear	1.0
+Revenge of the Nerds	Revenge of the Nerds	1.0
+A Mighty Heart	A Mighty Heart	1.0
+Seven Years in Tibet	Seven Years in Tibet	1.0
+Enemy at the Gates	Enemy at the Gates	1.0
+Infinitely Polar Bear	Infinitely Polar Bear	1.0
+Contracted: Phase II	Contracted: Phase II	1.0
+Amadeus	Amadeus	1.0
+Man on the Moon	Man on the Moon	1.0
+Dark Tide	Dark Tide	1.0
+Ghoulies	Ghoulies	1.0
+Bachelor Party	Bachelor Party	1.0
+Police Academy 2: Their First Assignment	Police Academy 2: Their First Assignment	1.0
+Tightrope	Tightrope	1.0
+Timecop	Timecop	1.0
+2010	2010	1.0
+End of Days	End of Days	1.0
+The Relic	The Relic	1.0
+The Presidio	The Presidio	1.0
+Sudden Death	Sudden Death	1.0
+Universal Soldier: Day of Reckoning	Universal Soldier: Day of Reckoning	1.0
+A Sound of Thunder	A Sound of Thunder	1.0
+Night Patrol	Night Patrol	1.0
+The Philadelphia Experiment	The Philadelphia Experiment	1.0
+Iceman	Iceman	1.0
+Roxanne	Roxanne	1.0
+Places in the Heart	Places in the Heart	1.0
+Unfaithfully Yours	Unfaithfully Yours	1.0
+My Girl 2	My Girl 2	1.0
+My Girl 2	My Girl	0.9259259259259259
+My Girl	My Girl 2	0.9259259259259259
+My Girl	My Girl	1.0
+The Times of Harvey Milk	The Times of Harvey Milk	1.0
+Children of the Corn	Children of the Corn	1.0
+Priest	Priest	1.0
+Legion	Legion	1.0
+The Initiation	The Initiation	1.0
+Payback	Payback	1.0
+The Order	The Order	1.0
+42	42	1.0
+A Knight's Tale	A Knight's Tale	1.0
+The Cokeville Miracle	The Cokeville Miracle	1.0
+Witness	Witness	1.0
+The Way Back	The Way Back	1.0
+Warning Sign	Warning Sign	1.0
+Progeny	Progeny	1.0
+Return of the Living Dead III	Return of the Living Dead 3	0.9531715623669647
+Mata Hari	Mata Hari	1.0
+The Finest Hours	The Finest Hours	1.0
+Venom	Venom	1.0
+Shark Lake	Shark Lake	1.0
+I Now Pronounce You Chuck & Larry	I Now Pronounce You Chuck & Larry	1.0
+Big Daddy	Big Daddy	1.0
+Grown Ups	Grown Ups	1.0
+Grown Ups 2	Grown Ups	0.9393939393939394
+Just Go with It	Just Go with It	1.0
+Problem Child	Problem Child	1.0
+The Return of the Living Dead	The Return of the Living Dead	1.0
+Junebug	Junebug	1.0
+Who's That Girl	Who's That Girl?	0.9791666666666666
+Perfect Stranger	Perfect Stranger	1.0
+The Chamber	The Chamber	1.0
+Two Bits	Two Bits	1.0
+On Valentine's Day	On Valentine's Day	1.0
+1918	1918	1.0
+Wizards of the Lost Kingdom	Wizards of the Lost Kingdom	1.0
+Rage of Honor	Rage of Honor	1.0
+Pray for Death	Pray for Death	1.0
+Sweet Dreams	Sweet Dreams	1.0
+My Little Pony: Equestria Girls - Friendship Games	My Little Pony: Equestria Girls	0.8733333333333334
+Disaster Movie	Date Movie	0.9047619047619048
+Lucas	Lucas	1.0
+Balto	Balto	1.0
+An American Tail: Fievel Goes West	An American Tail - Fievel Goes West	0.9105423987776929
+The Company Men	The Company Men	1.0
+Critters 3	Critters 3	1.0
+Up	Up	1.0
+Hoosiers	Hoosiers	1.0
+Rudy	Rudy	1.0
+The Hitcher	The Hitcher	1.0
+Nowhere to Run	Nowhere to Run	1.0
+What Women Want	What Women Want	1.0
+It's Complicated	It's Complicated	1.0
+The Holiday	The Holiday	1.0
+The Intern	The Intern	1.0
+What Happened to Kerouac?	What Happened to Kerouac?	1.0
+Seize the Day	Seize the Day	1.0
+Arthur Christmas	Arthur Christmas	1.0
+Back to School	Back to School	1.0
+Eliminators	Eliminators	1.0
+The Wraith	The Wraith	1.0
+Killer Party	Killer Party	1.0
+We Are Your Friends	We Are Your Friends	1.0
+Osa	Osa	1.0
+Flatliners	Flatliners	1.0
+Falling Down	Falling Down	1.0
+8MM	8MM	1.0
+The Client	The Client	1.0
+A Time to Kill	A Time to Kill	1.0
+Phone Booth	Phone Booth	1.0
+The Lost Boys	The Lost Boys	1.0
+Trespass	Trespass	1.0
+The Phantom of the Opera	The Phantom of the Opera	1.0
+The Living Daylights	The Living Daylights	1.0
+Vacancy	Vacancy	1.0
+Predators	Predators	1.0
+The Curse of Downers Grove	The Curse of Downers Grove	1.0
+Hick	Hick	1.0
+The Air Up There	The Air Up There	1.0
+The Running Man	The Running Man	1.0
+Hocus Pocus	Hocus Pocus	1.0
+The Nutcracker	The Nutcracker	1.0
+Dirty Dancing	Dirty Dancing	1.0
+Sister Act	Sister Act	1.0
+(500) Days of Summer	500 Days of Summer	0.9666666666666667
+The Amazing Spider-Man 2	The Amazing Spider-Man	0.9722222222222222
+The Amazing Spider-Man 2	The Amazing Spider-Man 2	1.0
+The Amazing Spider-Man	The Amazing Spider-Man	1.0
+The Amazing Spider-Man	The Amazing Spider-Man 2	0.9722222222222222
+Phantoms	Phantoms	1.0
+Pariah	Pariah	1.0
+The Brave Little Toaster	The Brave Little Toaster	1.0
+Munchies	Munchies	1.0
+Prisoners	Prisoners	1.0
+Sicario	Sicario	1.0
+Wanted: Dead or Alive	Wanted: Dead or Alive	1.0
+Going Overboard	Going Overboard	1.0
+Hansel and Gretel	Hansel and Gretel	1.0
+The Nest	The Nest	1.0
+Cold Steel	Cold Steel	1.0
+Resident Evil: Extinction	Resident Evil: Extinction	1.0
+The Real McCoy	The Real McCoy	1.0
+Malone	Malone	1.0
+Jane Got a Gun	Jane Got a Gun	1.0
+Sweet November	Sweet November	1.0
+Warrior	Warrior	1.0
+Stars and Bars	Stars and Bars	1.0
+Big Sky	Big Sky	1.0
+The Queen	The Queen	1.0
+The Grifters	The Grifters	1.0
+Dangerous Liaisons	Dangerous Liaisons	1.0
+The Van	The Van	1.0
+License to Drive	License to Drive	1.0
+The Revenant	The Revenant	1.0
+Babel	Babel	1.0
+Live Free or Die Hard	Live Free or Die Hard	1.0
+National Gallery	National Gallery	1.0
+Underworld	Underworld	1.0
+Midnight Crossing	Midnight Crossing	1.0
+Waxwork	Waxwork	1.0
+The Transporter	The Transporter	1.0
+Oliver & Company	Oliver & Company	1.0
+Young Guns	Young Guns	1.0
+Sunshine	Sunshine	1.0
+The Beach	The Beach	1.0
+Steve Jobs	Steve Jobs	1.0
+A Life Less Ordinary	A Life Less Ordinary	1.0
+Superbad	Superbad	1.0
+The Keeping Room	The Keeping Room	1.0
+The Night Before	The Night Before	1.0
+He's Just Not That Into You	He's Just Not That Into You	1.0
+A Walk in the Woods	A Walk In The Woods	1.0
+Vibes	Vibes	1.0
+Cheerleader Camp	Cheerleader Camp	1.0
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	The Chronicles of Narnia: The Lion, The Witch and The Wardrobe	1.0
+Brain Damage	Brain Damage	1.0
+Angel III: The Final Chapter	Angel III: The Final Chapter	1.0
+Prime Evil	Prime Evil	1.0
+Far North	Far North	1.0
+Crusoe	Crusoe	1.0
+Hostage	Hostage	1.0
+Action Jackson	Action Jackson	1.0
+One Good Turn	One Good Turn	1.0
+Fist of the North Star	Fist of the North Star	1.0
+Children of the Night	Children of the Night	1.0
+Ticks	Ticks	1.0
+Hellbound: Hellraiser II	Hellbound: Hellraiser II	1.0
+The Moderns	The Moderns	1.0
+Choose Me	Choose Me	1.0
+All Dogs Go to Heaven 2	All Dogs Go To Heaven 2	1.0
+Major League	Major League II	0.9333333333333332
+Major League	Major League	1.0
+Major League II	Major League II	1.0
+Major League II	Major League	0.9333333333333332
+Matilda	Matilda	1.0
+Hoffa	Hoffa	1.0
+The War of the Roses	The War of the Roses	1.0
+You're Not You	You're Not You	1.0
+That's My Boy	That's My Boy	1.0
+Horrible Bosses 2	Horrible Bosses 2	1.0
+Pet Sematary	Pet Sematary Two	0.9166666666666666
+Pet Sematary	Pet Sematary	1.0
+Pet Sematary II	Pet Sematary Two	0.8930555555555556
+Pet Sematary II	Pet Sematary	0.9333333333333332
+Into the Abyss	Into The Abyss	1.0
+Rescue Dawn	Rescue Dawn	1.0
+Cave of Forgotten Dreams	Cave of Forgotten Dreams	1.0
+Road House	Road House	1.0
+The Big Picture	The Big Picture	1.0
+If You Build It	If You Build It	1.0
+Intruder	Intruder	1.0
+Hit List	Hit List	1.0
+Relentless	Relentless	1.0
+Alice Sweet Alice	Alice, Sweet Alice (Communion)	0.8555555555555555
+Terri	Terri	1.0
+Magic Mike XXL	Magic Mike XXL	1.0
+A Dangerous Place	A Dangerous Place	1.0
+Dr. Caligari	Dr. Caligari	1.0
+Flirt	Flirt	1.0
+The Unbelievable Truth	The Unbelievable Truth	1.0
+Amateur	Amateur	1.0
+The Book of Life	The Book of Life	1.0
+Trust	Trust	1.0
+Search and Destroy	Search and Destroy	1.0
+Point Break	Point Break	1.0
+Invincible	Invincible	1.0
+Rosencrantz & Guildenstern Are Dead	Rosencrantz and Guildenstern Are Dead	0.8556060261942614
+Space Jam	Space Jam	1.0
+Let It Ride	Let It Ride	1.0
+For All Mankind	For All Mankind	1.0
+The Vagrant	The Vagrant	1.0
+The Fly II	The Fly II	1.0
+Fair Game	Fair Game	1.0
+The Bourne Identity	The Bourne Identity	1.0
+Mr. & Mrs. Smith	Mr. & Mrs. Smith	1.0
+Jumper	Jumper	1.0
+Aliens vs. Predator: Requiem	Aliens vs. Predator: Requiem (AVP 2)	0.9259259259259259
+Skyline	Skyline	1.0
+Lord of the Flies	Lord of the Flies	1.0
+Scary Movie 3	Scary Movie 3	1.0
+Scary Movie 3	Scary Movie 4	0.9487179487179488
+Rat Race	Rat Race	1.0
+Scary Movie 4	Scary Movie 3	0.9487179487179488
+Scary Movie 4	Scary Movie 4	1.0
+First Knight	First Knight	1.0
+The Naked Gun 2½: The Smell of Fear	The Naked Gun 2 1/2: The Smell of Fear	0.8867610201975528
+Ghost	Ghost	1.0
+Scary Movie 5	Scary Movie 3	0.9487179487179488
+Scary Movie 5	Scary Movie 4	0.9487179487179488
+The Texas Chainsaw Massacre: The Beginning	The Texas Chainsaw Massacre: The Beginning	1.0
+Wrath of the Titans	Wrath of the Titans	1.0
+Teenage Mutant Ninja Turtles	Teenage Mutant Ninja Turtles	1.0
+London Has Fallen	London Has Fallen	1.0
+The Witch	The Witch	1.0
+Happily Ever After	Happily Ever After	1.0
+House Party 3	House Party 3	1.0
+Memphis Belle	Memphis Belle	1.0
+Basic Instinct 2	Basic Instinct 2	1.0
+The Jackal	The Jackal	1.0
+City by the Sea	City by the Sea	1.0
+Doc Hollywood	Doc Hollywood	1.0
+The Crucible	The Crucible	1.0
+Boomerang	Boomerang	1.0
+House Party	House Party	1.0
+The Ladies Man	The Ladies Man	1.0
+Shipwrecked	Shipwrecked	1.0
+State of Grace	State of Grace	1.0
+The Peacemaker	The Peacemaker	1.0
+Modern Love	Modern Love	1.0
+Flashback	Flashback	1.0
+The First Power	The First Power	1.0
+Judge Dredd	Judge Dredd	1.0
+I Still Know What You Did Last Summer	I Still Know What You Did Last Summer	1.0
+The End of Innocence	The End of Innocence	1.0
+Lionheart	Lionheart	1.0
+Cadence	Cadence	1.0
+Men at Work	Men at Work	1.0
+The Queen of Versailles	The Queen of Versailles	1.0
+Let's Be Cops	Let's Be Cops	1.0
+The Animal	The Animal	1.0
+The Girl Next Door	The Girl Next Door	1.0
+Paulie	Paulie	1.0
+The Brothers Grimm	The Brothers Grimm	1.0
+The Fisher King	The Fisher King	1.0
+The Zero Theorem	The Zero Theorem	1.0
+Zero Dark Thirty	Zero Dark Thirty	1.0
+The Hurt Locker	The Hurt Locker	1.0
+Made of Honor	Made of Honor	1.0
+Brain Twisters	Brain Twisters	1.0
+Dogfight	Dogfight	1.0
+White Fang 2: Myth of the White Wolf	White Fang 2: Myth of the White Wolf	1.0
+Below	Below	1.0
+Riddick	Riddick	1.0
+The Arrival	The Arrival	1.0
+Pitch Black	Pitch Black	1.0
+The Chronicles of Riddick	The Chronicles of Riddick	1.0
+Wayne's World 2	Wayne's World 2	1.0
+3 Ninjas Kick Back	3 Ninjas Kick Back	1.0
+Spare Parts	Spare Parts	1.0
+Space Warriors	Space Warriors	1.0
+3 Ninjas: High Noon at Mega Mountain	3 Ninjas: High Noon at Mega Mountain	1.0
+Race to Space	Race to Space	1.0
+D2: The Mighty Ducks	D2: The Mighty Ducks	1.0
+The Out-of-Towners	The Out-of-Towners	1.0
+George of the Jungle	George of the Jungle	1.0
+Double Edge	Double Edge	1.0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood	Don't Be a Menace to South Central While Drinking Your Juice in The Hood	1.0
+Don't Look Back	Don't Look Back	1.0
+Juice	Juice	1.0
+Bulletproof	Bulletproof	1.0
+Patriot Games	Patriot Games	1.0
+The Giver	The Giver	1.0
+Salt	Salt	1.0
+The Quiet American	The Quiet American	1.0
+Catch a Fire	Catch a Fire	1.0
+Singles	Singles	1.0
+Aloha	Aloha	1.0
+Almost Famous	Almost Famous	1.0
+Kiss of Death	Kiss of Death	1.0
+Single White Female	Single White Female	1.0
+Sister Act 2: Back in the Habit	Sister Act 2: Back in the Habit	1.0
+The Hangover	The Hangover	1.0
+The Hangover	The Hangover Part II	0.8666666666666667
+The Hangover	The Hangover Part III	0.8571428571428571
+The Hangover Part III	The Hangover	0.8571428571428571
+The Hangover Part III	The Hangover Part II	0.9841269841269842
+The Hangover Part III	The Hangover Part III	1.0
+Old School	Old School	1.0
+The Hangover Part II	The Hangover	0.8666666666666667
+The Hangover Part II	The Hangover Part II	1.0
+The Hangover Part II	The Hangover Part III	0.9841269841269842
+Road Trip	Road Trip	1.0
+Toy Story 3	Toy Story 2	0.9393939393939394
+Toy Story 3	Toy Story 3	1.0
+Out on a Limb	Out on a Limb	1.0
+Alaska	Alaska	1.0
+Needful Things	Needful Things	1.0
+American Pie 2	American Pie 2	1.0
+Big Sur	Big Sur	1.0
+Amnesiac	Amnesiac	1.0
+Blow	Blow	1.0
+Beautiful Girls	Beautiful Girls	1.0
+The Manchurian Candidate	The Manchurian Candidate	1.0
+The Silence of the Lambs	The Silence of the Lambs	1.0
+Philadelphia	Philadelphia	1.0
+The Ref	The Ref	1.0
+A Bronx Tale	A Bronx Tale	1.0
+The Possession	The Possession	1.0
+Lloyd	Lloyd	1.0
+The Adventures of Pinocchio	The Adventures of Pinocchio	1.0
+Coneheads	Coneheads	1.0
+Avengers: Age of Ultron	Avengers: Age of Ultron	1.0
+Serenity	Serenity	1.0
+Three of Hearts	Three of Hearts	1.0
+Sugar Hill	Sugar Hill	1.0
+Body Snatchers	Body Snatchers	1.0
+Dangerous Game	Dangerous Game	1.0
+Mr. Magorium's Wonder Emporium	Mr. Magorium's Wonder Emporium	1.0
+God the Father	God the Father	1.0
+Until Death	Until Death	1.0
+Breaking and Entering	Breaking and Entering	1.0
+Mr. Wonderful	Mr. Wonderful	1.0
+Amos & Andrew	Amos & Andrew	1.0
+Tom and Huck	Tom and Huck	1.0
+Bill & Ted's Bogus Journey	Bill & Ted's Bogus Journey	1.0
+Zoom	Zoom	1.0
+The Borrowers	The Borrowers	1.0
+The Skateboard Kid	The Skateboard Kid	1.0
+Money for Nothing	Money for Nothing	1.0
+Proof of Life	Proof of Life	1.0
+The Devil's Advocate	The Devil's Advocate	1.0
+Ray	Ray	1.0
+Parker	Parker	1.0
+War Room	War Room	1.0
+Cop Car	Cop Car	1.0
+Dark Blood	Dark Blood	1.0
+The Vanishing	The Vanishing	1.0
+Rounders	Rounders	1.0
+The Last Seduction	The Last Seduction	1.0
+Stuart Little	Stuart Little 2	0.9555555555555556
+Stuart Little	Stuart Little	1.0
+The Lion King	The Lion King	1.0
+The Haunted Mansion	The Haunted Mansion	1.0
+Mr. Peabody & Sherman	Mr. Peabody & Sherman	1.0
+Stuart Little 2	Stuart Little 2	1.0
+Stuart Little 2	Stuart Little	0.9555555555555556
+35 and Ticking	35 And Ticking	1.0
+My Life	My Life	1.0
+Anaconda	Anaconda	1.0
+The Specialist	The Specialist	1.0
+Crumb	Crumb	1.0
+Ace Ventura: Pet Detective	Ace Ventura: Pet Detective	1.0
+Liar Liar	Liar Liar	1.0
+The Nutty Professor	The Nutty Professor	1.0
+Dragonfly	Dragonfly	1.0
+The Majestic	The Majestic	1.0
+The Shawshank Redemption	The Shawshank Redemption	1.0
+The Mist	The Mist	1.0
+The Santa Clause 3: The Escape Clause	The Santa Clause 3: The Escape Clause	1.0
+Tooth Fairy	The Tooth Fairy	0.8505050505050505
+The Santa Clause 2	The Santa Clause 2	1.0
+I, Robot	I, Robot	1.0
+Knowing	Knowing	1.0
+Dark City	Dark City	1.0
+The Crow	The Crow	1.0
+Your Sister's Sister	Your Sister's Sister	1.0
+Cobb	Cobb	1.0
+Dark Blue	Dark Blue	1.0
+Little Big League	Little Big League	1.0
+Client 9: The Rise and Fall of Eliot Spitzer	Client 9: The Rise and Fall of Eliot Spitzer	1.0
+The Neverending Story III	The NeverEnding Story III	1.0
+Freakshow	Freakshow	1.0
+The Chase	The Chase	1.0
+The Simpsons Movie	The Simpsons Movie	1.0
+Doom	Doom	1.0
+Leprechaun 2	Leprechaun 2	1.0
+Street Fighter	Street Fighter	1.0
+The Battery	The Battery	1.0
+The Wolfpack	The Wolfpack	1.0
+Home Room	Home Room	1.0
+Amateur Porn Star Killer	Amateur Porn Star Killer	1.0
+Amateur Porn Star Killer	Amateur Porn Star Killer 2	0.9743589743589745
+Toy Story	Toy Story	1.0
+Screamers	Screamers	1.0
+Heist	Heist	1.0
+Two-Bit Waltz	Two-Bit Waltz	1.0
+Curious George 3: Back to the Jungle	Curious George 3: Back to the Jungle	1.0
+The Big Green	The Big Green	1.0
+City of Angels	City of Angels	1.0
+Casper	Casper	1.0
+Land of the Lost	Land of the Lost	1.0
+Babe	Babe	1.0
+From Dusk Till Dawn	From Dusk Till Dawn	1.0
+Spy Kids	Spy Kids	1.0
+Spy Kids 3-D: Game Over	Spy Kids 3-D - Game Over	0.9274264382960036
+Machete	Machete	1.0
+Spy Kids 2: Island of Lost Dreams	Spy Kids 2: The Island of Lost Dreams	0.8831558831558831
+Desperado	Desperado	1.0
+Spy Kids: All the Time in the World in 4D	Spy Kids: All the Time in the World in 4D	1.0
+Machete Kills	Machete Kills	1.0
+Enchanted	Enchanted	1.0
+A Goofy Movie	A Goofy Movie	1.0
+Mortal Kombat: Annihilation	Mortal Kombat: Annihilation	1.0
+The Butterfly Effect 2	The Butterfly Effect 2	1.0
+Annabelle	Annabelle	1.0
+The Last Supper	The Last Supper	1.0
+Ceremony	Ceremony	1.0
+The Net	The Net	1.0
+The Net	The Net 2.0	0.8787878787878788
+Before I Go to Sleep	Before I Go to Sleep	1.0
+Sweet Home Alabama	Sweet Home Alabama	1.0
+Anna and the King	Anna and the King	1.0
+Fool's Gold	Fool's Gold	1.0
+It Takes Two	It Takes Two	1.0
+Hitch	Hitch	1.0
+The Bounty Hunter	The Bounty Hunter	1.0
+Copycat	Copycat	1.0
+Entrapment	Entrapment	1.0
+The Core	The Core	1.0
+Tales of the Grim Sleeper	Tales Of The Grim Sleeper	1.0
+Malicious	Malicious	1.0
+How High	How High	1.0
+American Wedding	American Wedding	1.0
+Kicking & Screaming	Kicking & Screaming	1.0
+Double Team	Double Team	1.0
+Jeffrey	Jeffrey	1.0
+Kids of the Round Table	Kids of the Round Table	1.0
+Good Night, and Good Luck.	Good Night, And Good Luck	0.9871794871794872
+Leatherheads	Leatherheads	1.0
+Confessions of a Dangerous Mind	Confessions of a Dangerous Mind	1.0
+Traffic	Traffic	1.0
+The Informant!	The Informant!	1.0
+Out of Sight	Out of Sight	1.0
+Bubble	Bubble	1.0
+Contagion	Contagion	1.0
+Ocean's Eleven	Ocean's Eleven	1.0
+The Underneath	The Underneath	1.0
+Erin Brockovich	Erin Brockovich	1.0
+Solaris	Solaris	1.0
+Ocean's Twelve	Ocean's Eleven	0.876984126984127
+Ocean's Thirteen	Ocean's Thirteen	1.0
+Side Effects	Side Effects	1.0
+Magic Mike	Magic Mike	1.0
+Up Close & Personal	Up Close & Personal	1.0
+Ernest Scared Stupid	Ernest Scared Stupid	1.0
+Kill Me Three Times	Kill Me Three Times	1.0
+Mission: Impossible - Rogue Nation	Mission: Impossible Rogue Nation	0.9491421568627452
+Jack Reacher	Jack Reacher	1.0
+Primal Fear	Primal Fear	1.0
+Fallen	Fallen	1.0
+Frequency	Frequency	1.0
+Fracture	Fracture	1.0
+She's the One	She's the One	1.0
+Sidewalks of New York	Sidewalks of New York	1.0
+Masterminds	Masterminds	1.0
+Little Birds	Little Birds	1.0
+Ned Kelly	Ned Kelly	1.0
+The Brave One	The Brave One	1.0
+The Ghost Club	The Ghost Club	1.0
+Undercover Kids	Undercover Kids	1.0
+Experimenter	Experimenter	1.0
+That Thing You Do!	That Thing You Do!	1.0
+Bullet	Bullet	1.0
+Maladies	Maladies	1.0
+Michael	Michael	1.0
+Emma	Emma	1.0
+Nicholas Nickleby	Nicholas Nickleby	1.0
+Megamind	Megamind	1.0
+Madagascar 3: Europe's Most Wanted	Madagascar 3: Europe's Most Wanted	1.0
+Madagascar	Madagascar	1.0
+Face/Off	Face/Off	1.0
+Broken Arrow	Broken Arrow	1.0
+Paycheck	Paycheck	1.0
+Shiloh	Shiloh	1.0
+Our Lips Are Sealed	Our Lips Are Sealed	1.0
+Flipper	Flipper	1.0
+Nintendo Quest	Nintendo Quest	1.0
+The Quest	The Quest	1.0
+Walking and Talking	Walking and Talking	1.0
+Jakob the Liar	Jakob the Liar	1.0
+Bleeders	Bleeders	1.0
+The Family Man	The Family Man	1.0
+Red Dragon	Red Dragon	1.0
+Rush Hour 2	Rush Hour 2	1.0
+Rush Hour 2	Rush Hour	0.9393939393939394
+Rush Hour 2	Rush Hour 3	0.9393939393939394
+Hercules	Hercules	1.0
+Rush Hour 3	Rush Hour 2	0.9393939393939394
+Rush Hour 3	Rush Hour	0.9393939393939394
+Rush Hour 3	Rush Hour 3	1.0
+Rush Hour	Rush Hour 2	0.9393939393939394
+Rush Hour	Rush Hour	1.0
+Rush Hour	Rush Hour 3	0.9393939393939394
+X-Men: The Last Stand	X-Men: The Last Stand	1.0
+Constantine	Constantine	1.0
+The Hunger Games: Catching Fire	The Hunger Games: Catching Fire	1.0
+The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 2	0.981981981981982
+The Hunger Games: Mockingjay - Part 1	The Hunger Games: Mockingjay - Part 2 The IMAX Experience	0.8681839734471314
+I Am Legend	I Am Legend	1.0
+The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2	1.0
+The Hunger Games: Mockingjay - Part 2	The Hunger Games: Mockingjay - Part 2 The IMAX Experience	0.8830409356725145
+The Rewrite	The Rewrite	1.0
+Mimic	Mimic	1.0
+Crimson Peak	Crimson Peak	1.0
+Pacific Rim	Pacific Rim	1.0
+Pacific Rim	Pacific Rim 2	0.9487179487179488
+Blade II	Blade II	1.0
+Hellboy	Hellboy	1.0
+Hellboy II: The Golden Army	Hellboy II: The Golden Army (Hellboy 2)	0.8974358974358975
+The Express	The Express	1.0
+Impostor	Impostor	1.0
+Don't Say a Word	Don't Say a Word	1.0
+Homefront	Homefront	1.0
+Kiss the Girls	Kiss The Girls	1.0
+The International	The International	1.0
+The Postman	The Postman	1.0
+Love Jones	Love Jones	1.0
+Alien: Resurrection	Alien Resurrection	0.9824561403508771
+Miss Congeniality 2: Armed and Fabulous	Miss Congeniality 2 - Armed and Fabulous	0.9309266756635178
+Jungle 2 Jungle	Jungle 2 Jungle	1.0
+Mr. Magoo	Mr. Magoo	1.0
+Barbershop	Barbershop	1.0
+Ride Along	Ride Along	1.0
+Ride Along	Ride Along 2	0.9444444444444445
+Kevin Hart: Let Me Explain	Kevin Hart: Let Me Explain	1.0
+Think Like a Man	Think Like a Man	1.0
+Think Like a Man	Think Like a Man Too	0.9333333333333332
+Think Like a Man Too	Think Like a Man	0.9333333333333332
+Think Like a Man Too	Think Like a Man Too	1.0
+Fantastic 4: Rise of the Silver Surfer	Fantastic Four: Rise of the Silver Surfer	0.8505996368640784
+Fantastic Four	Fantastic Four	1.0
+Spawn	Spawn	1.0
+Little City	Little City	1.0
+Inside Out	Inside Out	1.0
+Gummo	Gummo	1.0
+Marley & Me	Marley & Me	1.0
+Defying Gravity	Defying Gravity	1.0
+Moonbase	Moonbase	1.0
+The Apostle	The Apostle	1.0
+Trial and Error	Trial and Error	1.0
+The Whole Nine Yards	The Whole Nine Yards	1.0
+The Unspeakable Act	The Unspeakable Act	1.0
+Honeymoon	Honeymoon	1.0
+The Prince of Egypt	The Prince of Egypt	1.0
+Askari	Askari	1.0
+The Last Leprechaun	The Last Leprechaun	1.0
+Filth	Filth	1.0
+U.S. Marshals	U.S. Marshals	1.0
+Where the Wild Things Are	Where the Wild Things Are	1.0
+Adaptation.	Adaptation	0.9696969696969697
+Wild Things	Wild Things	1.0
+The Harvest	The Harvest	1.0
+Blended	Blended	1.0
+Zookeeper	Zookeeper	1.0
+Click	Click	1.0
+Around the World in 80 Days	Around the World in 80 Days	1.0
+The Waterboy	The Waterboy	1.0
+Hard Rain	Hard Rain	1.0
+Unbreakable	Unbreakable	1.0
+Wide Awake	Wide Awake	1.0
+After Earth	After Earth	1.0
+Signs	Signs	1.0
+The Village	The Village	1.0
+The Sixth Sense	The Sixth Sense	1.0
+The Visit	The Visit	1.0
+The Last Airbender	The Last Airbender	1.0
+Your Friends & Neighbors	Your Friends & Neighbors	1.0
+Dirty Weekend	Dirty Weekend	1.0
+The Wicker Man	The Wicker Man	1.0
+Dirty Work	Dirty Work	1.0
+Elizabeth	Elizabeth	1.0
+Elizabeth: The Golden Age	Elizabeth: The Golden Age	1.0
+The Four Feathers	The Four Feathers	1.0
+Home on the Range	Home on the Range	1.0
+I'll Be Home for Christmas	I'll Be Home for Christmas	1.0
+Madame Bovary	Madame Bovary	1.0
+Cold Souls	Cold Souls	1.0
+No One Lives	No One Lives	1.0
+The Midnight Meat Train	The Midnight Meat Train	1.0
+Happiness	Happiness	1.0
+Urban Legends: Final Cut	Urban Legends: Final Cut	1.0
+Valentine	Valentine	1.0
+Urban Legend	Urban Legend	1.0
+The Mighty	The Mighty	1.0
+Shall We Dance	Shall We Dance	1.0
+Serendipity	Serendipity	1.0
+The Second Best Exotic Marigold Hotel	The Second Best Exotic Marigold Hotel	1.0
+Shakespeare in Love	Shakespeare in Love	1.0
+The Best Exotic Marigold Hotel	The Best Exotic Marigold Hotel	1.0
+Message in a Bottle	Message in a Bottle	1.0
+Trapped	Trapped	1.0
+College Road Trip	College Road Trip	1.0
+Cruel Intentions	Cruel Intentions	1.0
+Cruel Intentions	Cruel Intentions 2	0.9629629629629629
+American Beauty	American Beauty	1.0
+Spectre	Spectre	1.0
+Vacation	Vacation	1.0
+Virus	Virus	1.0
+The Matrix	The Matrix	1.0
+Jupiter Ascending	Jupiter Ascending	1.0
+RED 2	Red 2	1.0
+Galaxy Quest	Galaxy Quest	1.0
+An Inconvenient Truth	An Inconvenient Truth	1.0
+Welcome to Me	Welcome to Me	1.0
+The DUFF	The DUFF	1.0
+Control	Control	1.0
+Life	Life	1.0
+Running Free	Running Free	1.0
+The Beautiful Truth	The Beautiful Truth	1.0
+Durango Kids	Durango Kids	1.0
+Joe the King	Joe the King	1.0
+The Jimmy Show	The Jimmy Show	1.0
+Inspector Gadget	Inspector Gadget	1.0
+Krampus	Krampus	1.0
+Trick 'r Treat	Trick 'r Treat	1.0
+The Wild Stallion	The Wild Stallion	1.0
+A Dog's Tale	A Dog's Tale	1.0
+Doug's 1st Movie	Doug's 1st Movie	1.0
+Trick	Trick	1.0
+Desecration	Desecration	1.0
+Torture Chamber	Torture Chamber	1.0
+Superstar	Superstar	1.0
+The Campaign	The Campaign	1.0
+Trumbo	Trumbo	1.0
+Meet the Parents	Meet the Parents	1.0
+Meet the Fockers	Meet the Fockers	1.0
+White Chicks	White Chicks	1.0
+Scary Movie 2	Scary Movie	0.9487179487179488
+Scary Movie	Scary Movie	1.0
+The Watcher	The Watcher	1.0
+X-Men Origins: Wolverine	X-Men Origins - Wolverine	0.9594444444444444
+Remember the Titans	Remember the Titans	1.0
+Max	Max	1.0
+Safe	Safe	1.0
+Uptown Girls	Uptown Girls	1.0
+Ice Age: Dawn of the Dinosaurs	Ice Age: Dawn of the Dinosaurs (Ice Age 3)	0.9047619047619048
+Shadow of the Vampire	Shadow of the Vampire	1.0
+Next Friday	Next Friday	1.0
+Rebound	Rebound	1.0
+Paul Blart: Mall Cop	Paul Blart: Mall Cop	1.0
+Are We Done Yet?	Are We Done Yet?	1.0
+Friday After Next	Friday After Next	1.0
+The Tigger Movie	The Tigger Movie	1.0
+Love & Mercy	Love & Mercy	1.0
+American Psycho	American Psycho	1.0
+Dancer in the Dark	Dancer in the Dark	1.0
+Screwed	Screwed	1.0
+The Adventures of Rocky & Bullwinkle	The Adventures of Rocky & Bullwinkle	1.0
+It's a Boy Girl Thing	It's a Boy Girl Thing	1.0
+Asylum	Asylum	1.0
+Shark Night 3D	Shark Night 3D	1.0
+The Final Destination	The Final Destination	1.0
+Homeward Bound II: Lost in San Francisco	Homeward Bound II - Lost in San Francisco	0.9241244527829894
+Beautiful Joe	Beautiful Joe	1.0
+Boiler Room	Boiler Room	1.0
+The Crew	The Crew	1.0
+Horse Crazy	Horse Crazy Too	0.9111111111111111
+Horse Crazy	Horse Crazy	1.0
+In the Bedroom	In the Bedroom	1.0
+Original Sin	Original Sin	1.0
+Shrek the Third	Shrek the Third	1.0
+The End of Love	The End of Love	1.0
+Cats & Dogs	Cats & Dogs	1.0
+Legally Blonde	Legally Blonde	1.0
+21	21	1.0
+Killers	Killers	1.0
+The Ugly Truth	The Ugly Truth	1.0
+Legally Blonde 2: Red, White & Blonde	Legally Blonde 2 - Red, White & Blonde	0.9178915757863128
+Whiteout	Whiteout	1.0
+Season of the Witch	Season of the Witch	1.0
+Swordfish	Swordfish	1.0
+How to Beat the High Co$t of Living	How to Beat the High Cost of Living	0.980952380952381
+Biohazardous	Biohazardous	1.0
+7 Chinese Brothers	7 Chinese Brothers	1.0
+Somebody Up There Likes Me	Somebody Up There Likes Me	1.0
+Marlene Dietrich: Her Own Song	Marlene Dietrich: Her Own Song	1.0
+Sleeping with Other People	Sleeping with Other People	1.0
+Mean Machine	Mean Machine	1.0
+Someone Like You...	Someone Like You	0.9473684210526315
+Heartbreakers	Heartbreakers	1.0
+Tomcats	Tomcats	1.0
+My Bloody Valentine	My Bloody Valentine 3-D	0.9420289855072465
+Drive Angry	Drive Angry	1.0
+Igor	Igor	1.0
+Ice Age	Ice Age	1.0
+Rio	Rio	1.0
+Rio	Rio 2	0.8666666666666667
+Rio 2	Rio	0.8666666666666667
+Rio 2	Rio 2	1.0
+Treasure Planet	Treasure Planet	1.0
+Ultraviolet	Ultraviolet	1.0
+Equilibrium	Equilibrium	1.0
+Spun	Spun	1.0
+Abandon	Abandon	1.0
+Transporter 3	Transporter 3	1.0
+Showtime	Showtime	1.0
+The Singles 2nd Ward	The Singles Ward	0.8916666666666666
+The Singles 2nd Ward	The Singles 2nd Ward	1.0
+The Singles Ward	The Singles Ward	1.0
+The Singles Ward	The Singles 2nd Ward	0.8916666666666666
+The R.M.	The R.M.	1.0
+The Love Guru	The Love Guru	1.0
+New Guy	New Guy	1.0
+The New Guy	The New Guy	1.0
+Fabled	Fabled	1.0
+Birth	Birth	1.0
+Under the Skin	Under the Skin	1.0
+Step Brothers	Step Brothers	1.0
+Talladega Nights: The Ballad of Ricky Bobby	Talladega Nights: The Ballad of Ricky Bobby	1.0
+The Other Guys	The Other Guys	1.0
+Reconstruction	Reconstruction	1.0
+Wrong Turn	Wrong Turn	1.0
+The Climb	The Climb	1.0
+Secretary	Secretary	1.0
+Grand Champion	Grand Champion	1.0
+The Hot Chick	The Hot Chick	1.0
+The Comebacks	The Comebacks	1.0
+As Above, So Below	As Above, So Below	1.0
+Quarantine	Quarantine	1.0
+No Escape	No Escape	1.0
+Devil	Devil	1.0
+Time Out of Mind	Time Out Of Mind	1.0
+Radio	Radio	1.0
+Reasonable Doubt	Reasonable Doubt	1.0
+Johnny English	Johnny English	1.0
+The Thing on the Doorstep	The Thing at the Doorstep	0.9176811594202898
+White Bird in a Blizzard	White Bird in a Blizzard	1.0
+5 Flights Up	5 Flights Up	1.0
+Firewall	Firewall	1.0
+Alex of Venice	Alex of Venice	1.0
+The Wedding Date	The Wedding Date	1.0
+How to Deal	How to Deal	1.0
+Zero Day	Zero Day	1.0
+Coffee and Cigarettes	Coffee and Cigarettes	1.0
+Quigley	Quigley	1.0
+Camp	Camp	1.0
+Behind the Red Door	Behind the Red Door	1.0
+Shark Tale	Shark Tale	1.0
+The Conjuring	The Conjuring	1.0
+Insidious: Chapter 2	Insidious: Chapter 2	1.0
+Insidious	Insidious	1.0
+Saw	Saw	1.0
+Furious 7	Furious 7	1.0
+Dead Silence	Dead Silence	1.0
+I Saw the Light	I Saw the Light	1.0
+The 33	The 33	1.0
+The Butterfly Effect	The Butterfly Effect	1.0
+Crash	Crash	1.0
+Wedding Crashers	Wedding Crashers	1.0
+The Judge	The Judge	1.0
+The Change-Up	The Change-Up	1.0
+Wish I Was Here	Wish I Was Here	1.0
+Garden State	Garden State	1.0
+Harold & Kumar Go to White Castle	Harold & Kumar Go to White Castle	1.0
+Remember Me	Remember Me	1.0
+Camp X-Ray	Camp X-Ray	1.0
+Nebraska	Nebraska	1.0
+Sideways	Sideways	1.0
+The Descendants	The Descendants	1.0
+Closer to the Moon	Closer To The Moon	1.0
+Chestnut: Hero of Central Park	Chestnut: Hero of Central Park	1.0
+Primer	Primer	1.0
+Winter's Bone	Winter's Bone	1.0
+Down to the Bone	Down to the Bone	1.0
+Mind the Gap	Mind the Gap	1.0
+Edgar G. Ulmer - The Man Off-screen	Edgar G. Ulmer: The Man Off Screen	0.920643408878703
+Edgar G. Ulmer - The Man Off-screen	Edgar G. Ulmer: The Man Off-Screen	0.920643408878703
+A Hole in One	A Hole in One	1.0
+Sweet Smell of Success	Sweet Smell of Success	1.0
+Vanity Fair	Vanity Fair	1.0
+The Grudge 2	The Grudge 2	1.0
+The Grudge	The Grudge 2	0.9444444444444445
+First Daughter	First Daughter	1.0
+The Possession of Michael King	The Possession of Michael King	1.0
+Teacher's Pet	Teacher's Pet	1.0
+Dorian Blues	Dorian Blues	1.0
+Beyond the Sea	Beyond the Sea	1.0
+Sleepover	Sleepover	1.0
+Prom	Prom	1.0
+The Quiet Ones	The Quiet Ones	1.0
+The Quiet	The Quiet	1.0
+House of D	House of D	1.0
+Two for the Money	Two for the Money	1.0
+Disturbia	Disturbia	1.0
+Eagle Eye	Eagle Eye	1.0
+Popstar	Popstar	1.0
+Vantage Point	Vantage Point	1.0
+Dredd	Dredd	1.0
+Quantum of Solace	Quantum of Solace	1.0
+Stranger Than Fiction	Stranger Than Fiction	1.0
+World War Z	World War Z	1.0
+Stay	Stay	1.0
+Ice Princess	Ice Princess	1.0
+A Perfect Man	A Perfect Man	1.0
+Into the Sun	Into the Sun	1.0
+The Dukes of Hazzard	The Dukes of Hazzard	1.0
+Green Street Hooligans	Green Street Hooligans	1.0
+Monte Carlo	Monte Carlo	1.0
+The Family Stone	The Family Stone	1.0
+The Jacket	The Jacket	1.0
+Ashes and Snow	Ashes and Snow	1.0
+The Skeleton Key	The Skeleton Key	1.0
+Our Brand Is Crisis	Our Brand Is Crisis	1.0
+Big Men	Big Men	1.0
+The Call of Cthulhu	The Call of Cthulhu	1.0
+Never Back Down	Never Back Down	1.0
+Kick-Ass 2	Kick-Ass 2	1.0
+Kick-Ass	Kick-Ass	1.0
+Feast	Feast	1.0
+The Ledge	The Ledge	1.0
+Valiant	Valiant	1.0
+Tamara	Tamara	1.0
+Hide and Seek	Hide and Seek	1.0
+Alien Abduction	Alien Abduction	1.0
+Dirty Deeds	Dirty Deeds	1.0
+Pride and Prejudice and Zombies	Pride and Prejudice and Zombies	1.0
+Pride	Pride	1.0
+All Good Things	All Good Things	1.0
+Why We Fight	Why We Fight	1.0
+The Protector	The Protector	1.0
+Street Fight	Street Fight	1.0
+The Big White	The Big White	1.0
+What's Your Number?	What's Your Number?	1.0
+Elektra	Elektra	1.0
+Christmas in Wonderland	Christmas in Wonderland	1.0
+The Painted Veil	The Painted Veil	1.0
+The A-Team	The A-Team	1.0
+Smokin' Aces	Smokin' Aces	1.0
+The Grey	The Grey	1.0
+Cars	Cars	1.0
+Imagine That	Imagine That	1.0
+Over the Hedge	Over the Hedge	1.0
+Glory Road	Glory Road	1.0
+Step Up Revolution	Step Up Revolution	1.0
+Step Up 2: The Streets	Step Up 2 the Streets	0.9848484848484849
+The Proposal	The Proposal	1.0
+Step Up	Step Up	1.0
+Hot Pursuit	Hot Pursuit	1.0
+Leather	Leather	1.0
+300: Rise of an Empire	300: Rise of an Empire	1.0
+The Pursuit of Happyness	The Pursuit of Happyness	1.0
+Playing for Keeps	Playing for Keeps	1.0
+The Lake House	The Lake House	1.0
+The Lucky Ones	The Lucky Ones	1.0
+Divergent	Divergent	1.0
+The Illusionist	The Illusionist	1.0
+Limitless	Limitless	1.0
+Dark Corners	Dark Corners	1.0
+Hoot	Hoot	1.0
+Curious George	Curious George	1.0
+Cloud 9	Cloud 9	1.0
+Fingerprints	Fingerprints	1.0
+The Bridge	The Bridge	1.0
+Man About Town	Man About Town	1.0
+Guardians of the Galaxy	Guardians of the Galaxy 2	0.9733333333333333
+Guardians of the Galaxy	Guardians of the Galaxy	1.0
+Slither	Slither	1.0
+Guardians of the Galaxy Vol. 2	Guardians of the Galaxy 2	0.9444444444444445
+Guardians of the Galaxy Vol. 2	Guardians of the Galaxy	0.9222222222222222
+Grandma's Boy	Grandma's Boy	1.0
+Hatchet III	Hatchet III	1.0
+The Wait	The Wait	1.0
+Lying	Lying	1.0
+Barnyard	Barnyard	1.0
+Little Boy	Little Boy	1.0
+Permanent Vacation	Permanent Vacation	1.0
+Ella Enchanted	Ella Enchanted	1.0
+Black Ribbon	Black Ribbon	1.0
+Surf's Up	Surf's Up	1.0
+Best Kept Secret	Best Kept Secret	1.0
+Bridge to Terabithia	Bridge to Terabithia	1.0
+Underdog Kids	Underdog Kids	1.0
+The Perfect Holiday	The Perfect Holiday	1.0
+The Indian	The Indian	1.0
+The Vatican Tapes	The Vatican Tapes	1.0
+The Great Debaters	The Great Debaters	1.0
+Premonition	Premonition	1.0
+The 40-Year-Old Virgin	The 40 Year Old Virgin	0.8727272727272727
+Funny People	Funny People	1.0
+This Is 40	This is 40	1.0
+Trainwreck	Trainwreck	1.0
+Knocked Up	Knocked Up	1.0
+Married Life	Married Life	1.0
+Music Within	Music Within	1.0
+Cthulhu	Cthulhu	1.0
+Joshua	Joshua	1.0
+The Girl in the Park	The Girl in the Park	1.0
+P.S. I Love You	P.S. I Love You	1.0
+Beautiful Creatures	Beautiful Creatures	1.0
+Crashing	Crashing	1.0
+The Mars Underground	The Mars Underground	1.0
+Four Sheets to the Wind	Four Sheets to the Wind	1.0
+Epic	Epic	1.0
+Hot Rod	Hot Rod	1.0
+The Watch	The Watch	1.0
+Date Movie	Disaster Movie	0.9047619047619048
+Frank	Frank	1.0
+Hitman	Hitman	1.0
+On the Doll	On the Doll	1.0
+Hitman: Agent 47	Hitman: Agent 47	1.0
+Paranormal Activity	Paranormal Activity	1.0
+Area 51	Area 51	1.0
+A Four Letter Word	A Four Letter Word	1.0
+Evening	Evening	1.0
+Interstate	Interstate	1.0
+Night Skies	Night Skies	1.0
+Teeth	Teeth	1.0
+Second Skin	Second Skin	1.0
+Role Models	Role Models	1.0
+Wanderlust	Wanderlust	1.0
+The Ten	The Ten	1.0
+Free Birds	Free Birds	1.0
+Soccer Mom	Soccer Mom	1.0
+All Roads Lead Home	All Roads Lead Home	1.0
+Chaos Theory	Chaos Theory	1.0
+Superhero Movie	Superhero Movie	1.0
+The Rocker	The Rocker	1.0
+A Little Game	A Little Game	1.0
+Bangkok Dangerous	Bangkok Dangerous	1.0
+The Auteur	The Auteur	1.0
+Space Chimps	Space Chimps	1.0
+State of Play	State of Play	1.0
+The Longshots	The Longshots	1.0
+The Yellow Handkerchief	The Yellow Handkerchief	1.0
+Must Love Dogs	Must Love Dogs	1.0
+99 Homes	99 Homes	1.0
+Dog Gone	Dog Gone	1.0
+Ace of Hearts	Ace of Hearts	1.0
+Dream Boy	Dream Boy	1.0
+The Duchess	The Duchess	1.0
+The Other Boleyn Girl	The Other Boleyn Girl	1.0
+The Human Experience	The Human Experience	1.0
+Saw VI	Saw VI	1.0
+One Missed Call	One Missed Call	1.0
+The Hottie & the Nottie	The Hottie and the Nottie	0.9000527009222662
+Fertile Ground	Fertile Ground	1.0
+Autopsy	Autopsy	1.0
+Pit Stop	Pit Stop	1.0
+Ciao	Ciao	1.0
+Outlander	Outlander	1.0
+World War Z 2	World War Z 2	1.0
+Star Trek: First Contact	Star Trek: First Contact	1.0
+The Cove	The Cove	1.0
+Racing Extinction	Racing Extinction	1.0
+The Dictator	The Dictator	1.0
+Brüno	Brüno	1.0
+Blood and Bone	Blood and Bone	1.0
+The New Daughter	The New Daughter	1.0
+Surrogates	Surrogates	1.0
+Extracted	Extracted	1.0
+Extract	Extract	1.0
+The Son of No One	The Son of No One	1.0
+Fighting	Fighting	1.0
+Empire State	Empire State	1.0
+Boulevard	Boulevard	1.0
+All About Steve	All About Steve	1.0
+Minor Details	Minor Details	1.0
+Daybreakers	Daybreakers	1.0
+Black Dynamite	Black Dynamite	1.0
+Snow White and the Huntsman	Snow White and the Huntsman (Extended Version)	0.8623188405797101
+Snow White and the Huntsman	Snow White and the Huntsman	1.0
+I Love You, Man	I Love You, Man	1.0
+Hellraiser: Revelations	Hellraiser: Revelations	1.0
+Mother and Child	Mother and Child	1.0
+Arlo and Julie	Arlo and Julie	1.0
+Broken Hill	Broken Hill	1.0
+Precious Life	Precious Life	1.0
+The Paperboy	The Paperboy	1.0
+The Road	The Road	1.0
+Lawless	Lawless	1.0
+Chloe	Chloe	1.0
+Happiness Is	Happiness Is	1.0
+The Haunting in Connecticut 2: Ghosts of Georgia	The Haunting in Connecticut 2: Ghosts of Georgia	1.0
+An Education	An Education	1.0
+One Day	One Day	1.0
+The Uninvited	The Uninvited	1.0
+The Collection	The Collector	0.9267399267399267
+The Collection	The Collection	1.0
+The Collector	The Collector	1.0
+The Collector	The Collection	0.9267399267399267
+The Unborn	The Unborn	1.0
+Sorority Row	Sorority Row	1.0
+Play the Game	Play The Game	1.0
+The Greatest Game Ever Played	The Greatest Game Ever Played	1.0
+Child 44	Child 44	1.0
+Safe House	Safe House	1.0
+Open Grave	Open Grave	1.0
+The Fourth Kind	The Fourth Kind	1.0
+Shrink	Shrink	1.0
+Ninja	Ninja	1.0
+Despicable Me 2	Despicable Me	0.9555555555555556
+Despicable Me 2	Despicable Me 2	1.0
+Despicable Me	Despicable Me	1.0
+Despicable Me	Despicable Me 2	0.9555555555555556
+Carriers	Carriers	1.0
+Best Worst Movie	Best Worst Movie	1.0
+The American Scream	The American Scream	1.0
+Marwencol	Marwencol	1.0
+Argo	Argo	1.0
+The Town	The Town	1.0
+The Switch	The Switch	1.0
+How to Train Your Dragon 2	How To Train Your Dragon 3	0.9743589743589745
+How to Train Your Dragon 2	How to Train Your Dragon 2	1.0
+How to Train Your Dragon 3	How To Train Your Dragon 3	1.0
+How to Train Your Dragon 3	How to Train Your Dragon 2	0.9743589743589745
+Chasing Ice	Chasing Ice	1.0
+The Tourist	The Tourist	1.0
+Diary of a Wimpy Kid	Diary of a Wimpy Kid	1.0
+Percy Jackson: Sea of Monsters	Percy Jackson: Sea of Monsters	1.0
+Beautiful Boy	Beautiful Boy	1.0
+The Last Exorcism Part II	The Last Exorcism Part II	1.0
+The Last Exorcism	The Last Exorcism	1.0
+13 Sins	13 Sins	1.0
+Fat, Sick & Nearly Dead	Fat, Sick & Nearly Dead 2	0.9733333333333333
+Fat, Sick & Nearly Dead	Fat, Sick and Nearly Dead	0.8697496706192359
+Fat, Sick & Nearly Dead 2	Fat, Sick & Nearly Dead 2	1.0
+Little Nicky	Little Nicky	1.0
+Nick and Norah's Infinite Playlist	Nick and Norah's Infinite Playlist	1.0
+Freeheld	Freeheld	1.0
+Family Affair	Family Affair	1.0
+Life as We Know It	Life as We Know It	1.0
+Leap Year	Leap Year	1.0
+Begin Again	Begin Again	1.0
+Morning Glory	Morning Glory	1.0
+Insurgent	Insurgent	1.0
+The Divergent Series: Allegiant	The Divergent Series: Ascendant	0.9016328156113103
+The Divergent Series: Allegiant	The Divergent Series: Allegiant	1.0
+RED	Red	1.0
+Submarine	Submarine	1.0
+Captain America: The Winter Soldier	Captain America: The Winter Soldier	1.0
+The Gallows	The Gallows	1.0
+Insidious: Chapter 3	Insidious: Chapter 3	1.0
+Never Let Me Go	Never Let Me Go	1.0
+Is It Just Me?	Is It Just Me?	1.0
+Final Girl	Final Girl	1.0
+The Human Centipede II (Full Sequence)	The Human Centipede II (Full Sequence)	1.0
+The Human Centipede II (Full Sequence)	The Human Centipede III (Final Sequence)	0.9398635477582845
+The Human Centipede III (Final Sequence)	The Human Centipede II (Full Sequence)	0.9398635477582845
+The Human Centipede III (Final Sequence)	The Human Centipede III (Final Sequence)	1.0
+The Final Girls	The Final Girls	1.0
+Cyrus	Cyrus	1.0
+It Follows	It Follows	1.0
+Rabbit Hole	Rabbit Hole	1.0
+Windsor Drive	Windsor Drive	1.0
+Learning to Drive	Learning To Drive	1.0
+Good People	Good People	1.0
+Thor: Ragnarok	Thor: Ragnarok	1.0
+Happy	Happy	1.0
+Where Hope Grows	Where Hope Grows	1.0
+Man on a Ledge	Man on a Ledge	1.0
+Another Earth	Another Earth	1.0
+The Art of Getting By	The Art of Getting By	1.0
+Leave It to Beaver	Leave It to Beaver	1.0
+Carjacked	Carjacked	1.0
+The Family Tree	The Family Tree	1.0
+Minds in the Water	Minds In The Water	1.0
+The Whisperer in Darkness	The Whisperer In Darkness	1.0
+Choose	Choose	1.0
+Beastly	Beastly	1.0
+Cake	Cake	1.0
+Assassination Games	Assassination Games	1.0
+Bringing Up Bobby	Bringing Up Bobby	1.0
+DuckTales the Movie: Treasure of the Lost Lamp	DuckTales: The Movie - Treasure of the Lost Lamp	0.8701690821256038
+Judas Kiss	Judas Kiss	1.0
+616: Paranormal Incident	616: Paranormal Incident	1.0
+Coffin	Coffin	1.0
+Friends with Kids	Friends With Kids	1.0
+Hell and Back Again	Hell and Back Again	1.0
+The Resident	The Resident	1.0
+The Victim	The Victim	1.0
+The Guest	The Guest	1.0
+You're Next	You're Next	1.0
+A Case of You	A Case of You	1.0
+The Dish & the Spoon	The Dish & The Spoon	1.0
+Margaret	Margaret	1.0
+Breathe In	Breathe In	1.0
+Like Crazy	Like Crazy	1.0
+Take Me Home	Take Me Home	1.0
+Without Men	Without Men	1.0
+Vampire	Vampire	1.0
+The Invisible War	The Invisible War	1.0
+The Vow	The Vow	1.0
+A Brave Heart: The Lizzie Velasquez Story	A Brave Heart: The Lizzie Velasquez Story	1.0
+Aftershock	Aftershock	1.0
+Deadfall	Deadfall	1.0
+Casting By	Casting By	1.0
+Pitch Perfect 2	Pitch Perfect 2	1.0
+American Reunion	American Reunion	1.0
+Gone	Gone	1.0
+LOL	LOL	1.0
+Girl Most Likely	Girl Most Likely	1.0
+Goats	Goats	1.0
+16-Love	16-love	1.0
+Crave	Crave	1.0
+Everest	Everest	1.0
+Contraband	Contraband	1.0
+2 Guns	2 Guns	1.0
+Carol	Carol	1.0
+Safelight	Safelight	1.0
+Changing Hearts	Changing Hearts	1.0
+A Million Ways to Die in the West	A Million Ways to Die in the West	1.0
+Ted 2	Ted	0.8666666666666667
+Ted 2	Ted 2	1.0
+Ted	Ted	1.0
+Ted	Ted 2	0.8666666666666667
+House at the End of the Street	House at the End of the Street	1.0
+Found	Found	1.0
+Sinister 2	Sinister 2	1.0
+Fun Size	Fun Size	1.0
+The Millionaire Tour	The Millionaire Tour	1.0
+Open Windows	Open Windows	1.0
+No Tell Motel	No Tell Motel	1.0
+V/H/S/2	V/H/S/2	1.0
+Reincarnated	Reincarnated	1.0
+Resolution	Resolution	1.0
+Morgan	Morgan	1.0
+The Waiting Room	The Waiting Room	1.0
+Soldiers of Fortune	Soldiers of Fortune	1.0
+Playback	Playback	1.0
+All Is Lost	All Is Lost	1.0
+Escape Plan	Escape Plan	1.0
+Monsters University	Monsters University	1.0
+Hansel & Gretel: Witch Hunters	Hansel and Gretel: Witch Hunters	0.9576388888888889
+Sparks	Sparks	1.0
+Turbo	Turbo	1.0
+My Little Pony: Equestria Girls - Rainbow Rocks	My Little Pony: Equestria Girls - Rainbow Rocks	1.0
+Elysium	Elysium	1.0
+The Nut Job 2	The Nut Job 2	1.0
+Escape from Planet Earth	Escape From Planet Earth	1.0
+We Are Still Here	We Are Still Here	1.0
+Documented	Documented	1.0
+Need for Speed	Need For Speed	1.0
+Snitch	Snitch	1.0
+Season of Miracles	Season of Miracles	1.0
+The End of the Tour	The End Of The Tour	1.0
+Birth of the Living Dead	Birth Of The Living Dead	1.0
+White Rabbit	White Rabbit	1.0
+Life of Crime	Life Of Crime	1.0
+Coherence	Coherence	1.0
+Krampus: The Christmas Devil	Krampus: The Christmas Devil	1.0
+The Big Wedding	The Big Wedding	1.0
+Trust Me	Trust Me	1.0
+Seeking a Friend for the End of the World	Seeking a Friend for the End of the World	1.0
+Underdogs	Underdogs	1.0
+The East	The East	1.0
+At Middleton	At Middleton	1.0
+Cavemen	Cavemen	1.0
+The Unbelievers	The Unbelievers	1.0
+Closed Circuit	Closed Circuit	1.0
+A Haunted House	A Haunted House	1.0
+A Haunted House	A Haunted House 2	0.9607843137254902
+A Haunted House 2	A Haunted House	0.9607843137254902
+A Haunted House 2	A Haunted House 2	1.0
+Cheap Thrills	Cheap Thrills	1.0
+Contracted	Contracted	1.0
+As I Stand	As I Stand	1.0
+The Bachelor and the Bobby-Soxer	The Bachelor and the Bobby-Soxer	1.0
+Truth	Truth	1.0
+A Teacher	A Teacher	1.0
+6 Years	6 Years	1.0
+Sox	Sox	1.0
+Burning Blue	Burning Blue	1.0
+The Stream	The Stream	1.0
+The Pretty One	The Pretty One	1.0
+Jurassic World	Jurassic World	1.0
+Kill Your Darlings	Kill Your Darlings	1.0
+Afflicted	Afflicted	1.0
+Getaway	Getaway	1.0
+We Are What We Are	We Are What We Are	1.0
+Nurse 3D	Nurse	0.875
+Locke	Locke	1.0
+Leatherface: Texas Chainsaw Massacre III	Leatherface: The Texas Chainsaw Massacre III	0.878030303030303
+The Motivation	The Motivation	1.0
+The Purge	The Purge 3	0.9393939393939394
+The Purge	The Purge	1.0
+The Purge: Anarchy	The Purge: Anarchy	1.0
+Hallows' Eve	Hallows' Eve	1.0
+Dark Mountain	Dark Mountain	1.0
+Concrete Blondes	Concrete Blondes	1.0
+Last Shift	Last Shift	1.0
+Gabriel	Gabriel	1.0
+Freedom	Freedom	1.0
+Transcendence	Transcendence	1.0
+Miss Julie	Miss Julie	1.0
+Kill the Messenger	Kill the Messenger	1.0
+The Nut Job	The Nut Job	1.0
+American Radical: The Trials of Norman Finkelstein	American Radical: The Trials of Norman Finkelstein	1.0
+Maze Runner: The Scorch Trials	Maze Runner: The Scorch Trials	1.0
+The Maze Runner	The Maze Runner	1.0
+The Fault in Our Stars	The Fault In Our Stars	1.0
+Hellion	Hellion	1.0
+The Signal	The Signal	1.0
+Extraterrestrial	Extraterrestrial	1.0
+The Current	The Current	1.0
+Fed Up	Fed Up	1.0
+I, Frankenstein	I, Frankenstein	1.0
+Listening	Listening	1.0
+One Magic Christmas	One Magic Christmas	1.0
+The Dark Place	The Dark Place	1.0
+Dark Places	Dark Places	1.0
+Comet	Comet	1.0
+Red Army	Red Army	1.0
+Reaper	Reaper	1.0
+Selma	Selma	1.0
+Whiplash	Whiplash	1.0
+If I Stay	If I Stay	1.0
+The One I Love	The One I Love	1.0
+Not Another Teen Movie	Not Another Teen Movie	1.0
+Video Games: The Movie	Video Games: The Movie	1.0
+Behaving Badly	Behaving Badly	1.0
+Exists	Exists	1.0
+Creep	Creep	1.0
+The Overnight	The Overnight	1.0
+The Last Survivors	The Last Survivors (The Well)	0.8735632183908045
+Faults	Faults	1.0
+Buzzard	Buzzard	1.0
+The Overnighters	The Overnighters	1.0
+Copenhagen	Copenhagen	1.0
+Top Five	Top Five	1.0
+Life Partners	Life Partners	1.0
+St. Vincent	St. Vincent	1.0
+By the Sea	By The Sea	1.0
+Unbroken	Unbroken	1.0
+Song One	Song One	1.0
+The Drop	The Drop	1.0
+Felt	Felt	1.0
+Devil's Due	Devil's Due	1.0
+The Gambler	The Gambler	1.0
+How to Eat Fried Worms	How to Eat Fried Worms	1.0
+Zipper	Zipper	1.0
+The Hive	The Hive	1.0
+Minions	Minions	1.0
+God Bless the Child	God Bless The Child	1.0
+Missed Connections	Missed Connections	1.0
+Dreamcatcher	Dreamcatcher	1.0
+Chasing Ghosts: Beyond the Arcade	Chasing Ghosts: Beyond the Arcade	1.0
+Advantageous	Advantageous	1.0
+Far from the Madding Crowd	Far From the Madding Crowd	1.0
+Creed	Creed	1.0
+True Story	True Story	1.0
+Dodgeball: A True Underdog Story	Dodgeball - A True Underdog Story	0.8833598077549691
+The Bronze	The Bronze	1.0
+Unity	Unity	1.0
+Entourage	Entourage	1.0
+Miles Ahead	Miles Ahead	1.0
+Results	Results	1.0
+The Outskirts	The Outskirts	1.0
+Martian Child	Martian Child	1.0
+Some Kind of Hate	Some Kind of Hate	1.0
+Boiling Pot	Boiling Pot	1.0
+The Diabolical	The Diabolical	1.0
+Air	Air	1.0
+The Boy	The Boy	1.0
+Demonic	Demonic	1.0
+Muck	Muck	1.0
+Dope	Dope	1.0
+Captive	Captive	1.0
+Ex Machina	Ex Machina	1.0
+One and Two	One & Two	0.872053872053872
+Headless	Headless	1.0
+Meru	Meru	1.0
+The Gunman	The Gunman	1.0
+Vendetta	Vendetta	1.0
+The Runner	The Runner	1.0

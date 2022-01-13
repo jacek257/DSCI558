@@ -1,0 +1,297 @@
+Prefix(:=<http://www.semanticweb.org/jimi/ontologies/2021/2/pizza#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.semanticweb.org/jimi/ontologies/2021/2/pizza>
+<http://www.semanticweb.org/jimi/ontologies/2021/2/pizza>
+
+Declaration(Class(:OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06))
+Declaration(Class(:OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f))
+Declaration(Class(:OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843))
+Declaration(Class(:OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9))
+Declaration(Class(:OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18))
+Declaration(Class(:OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf))
+Declaration(Class(:OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3))
+Declaration(Class(:OWLClass_35ef09d2_f584_43f8_926a_4ecffbd6c064))
+Declaration(Class(:OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607))
+Declaration(Class(:OWLClass_4c6a4342_2628_4c5e_989c_99bc2721315a))
+Declaration(Class(:OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004))
+Declaration(Class(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048))
+Declaration(Class(:OWLClass_6e91966b_41eb_4840_8dab_dc5d25b91dd7))
+Declaration(Class(:OWLClass_71ba86dd_d3f4_494c_951d_14765f695733))
+Declaration(Class(:OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88))
+Declaration(Class(:OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5))
+Declaration(Class(:OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3))
+Declaration(Class(:OWLClass_9303d169_e6c0_4295_9ad6_61f303917c2a))
+Declaration(Class(:OWLClass_97ca8409_40f7_4256_9aad_66c19c0119cc))
+Declaration(Class(:OWLClass_98cbaf0f_0a7b_41f6_9790_05c442311e1e))
+Declaration(Class(:OWLClass_a5164236_e956_4329_85e0_ec20e6aad77e))
+Declaration(Class(:OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7))
+Declaration(Class(:OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505))
+Declaration(Class(:OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043))
+Declaration(Class(:OWLClass_b4e2b6e9_2e19_45fe_8c07_d30157587e6c))
+Declaration(Class(:OWLClass_b71fedfe_e50a_470f_9018_1f32b860bd6b))
+Declaration(Class(:OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045))
+Declaration(Class(:OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505))
+Declaration(Class(:OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8))
+Declaration(Class(:OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0))
+Declaration(Class(:OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81))
+Declaration(Class(:OWLClass_dee5af43_e0dd_48e9_9401_e353bc120c18))
+Declaration(Class(:OWLClass_f5ca9502_5b61_4eb4_9bad_e108899ad96f))
+Declaration(Class(:OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5))
+Declaration(Class(:OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f))
+Declaration(ObjectProperty(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4))
+Declaration(ObjectProperty(:OWLObjectProperty_376d1344_a58c_44c5_848e_beaccbfd81c5))
+Declaration(ObjectProperty(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381))
+Declaration(ObjectProperty(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93))
+Declaration(ObjectProperty(:OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628))
+
+############################
+#   Object Properties
+############################
+
+# Object Property: :OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 (has_topping)
+
+AnnotationAssertion(rdfs:label :OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 "has_topping"@en)
+SubObjectPropertyOf(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628)
+InverseFunctionalObjectProperty(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4)
+ObjectPropertyDomain(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+ObjectPropertyRange(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+# Object Property: :OWLObjectProperty_376d1344_a58c_44c5_848e_beaccbfd81c5 (modifier_property)
+
+AnnotationAssertion(rdfs:label :OWLObjectProperty_376d1344_a58c_44c5_848e_beaccbfd81c5 "modifier_property"@en)
+SubObjectPropertyOf(:OWLObjectProperty_376d1344_a58c_44c5_848e_beaccbfd81c5 owl:topObjectProperty)
+
+# Object Property: :OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 (has_spiciness)
+
+AnnotationAssertion(rdfs:label :OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 "has_spiciness"@en)
+SubObjectPropertyOf(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLObjectProperty_376d1344_a58c_44c5_848e_beaccbfd81c5)
+FunctionalObjectProperty(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381)
+ObjectPropertyDomain(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+ObjectPropertyRange(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88)
+
+# Object Property: :OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93 (has_base)
+
+AnnotationAssertion(rdfs:label :OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93 "has_base"@en)
+SubObjectPropertyOf(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93 :OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628)
+FunctionalObjectProperty(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93)
+InverseFunctionalObjectProperty(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93)
+ObjectPropertyDomain(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+ObjectPropertyRange(:OWLObjectProperty_559e4d30_cc7f_4be9_8265_42ecfbcaaa93 :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8)
+
+# Object Property: :OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628 (relational_property)
+
+AnnotationAssertion(rdfs:label :OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628 "relational_property"@en)
+SubObjectPropertyOf(:OWLObjectProperty_f7201f05_8a6a_4166_9ab7_1ddc462fe628 owl:topObjectProperty)
+
+
+
+############################
+#   Classes
+############################
+
+# Class: :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06 (Mozarralla_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06 "Mozarralla_topping"@en)
+SubClassOf(:OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06 :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505)
+
+# Class: :OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f (Medium_value)
+
+AnnotationAssertion(rdfs:label :OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f "Medium_value"@en)
+SubClassOf(:OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88)
+
+# Class: :OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843 (Meat_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843 "Meat_topping"@en)
+SubClassOf(:OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+# Class: :OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 (Hot_and_spicy_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 "Hot_and_spicy_pizza"@en)
+SubClassOf(:OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+SubClassOf(:OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06))
+SubClassOf(:OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004))
+
+# Class: :OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18 (Vegetable_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18 "Vegetable_topping"@en)
+SubClassOf(:OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+# Class: :OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf (Spicy_beef_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf "Spicy_beef_topping"@en)
+SubClassOf(:OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf :OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843)
+SubClassOf(:OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf ObjectSomeValuesFrom(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505))
+DisjointClasses(:OWLClass_355c1d2a_a233_491a_8d9b_00cd004de9cf :OWLClass_4c6a4342_2628_4c5e_989c_99bc2721315a)
+
+# Class: :OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3 (Independent_entity)
+
+AnnotationAssertion(rdfs:label :OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3 "Independent_entity"@en)
+SubClassOf(:OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3 :OWLClass_71ba86dd_d3f4_494c_951d_14765f695733)
+DisjointClasses(:OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3 :OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81)
+
+# Class: :OWLClass_35ef09d2_f584_43f8_926a_4ecffbd6c064 (Gorganzalla_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_35ef09d2_f584_43f8_926a_4ecffbd6c064 "Gorganzalla_topping"@en)
+SubClassOf(:OWLClass_35ef09d2_f584_43f8_926a_4ecffbd6c064 :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505)
+
+# Class: :OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607 (Spicy_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607 "Spicy_topping"@en)
+SubClassOf(:OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+# Class: :OWLClass_4c6a4342_2628_4c5e_989c_99bc2721315a (Perpperoni_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_4c6a4342_2628_4c5e_989c_99bc2721315a "Perpperoni_topping"@en)
+SubClassOf(:OWLClass_4c6a4342_2628_4c5e_989c_99bc2721315a :OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843)
+
+# Class: :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004 (Tomato_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004 "Tomato_topping"@en)
+SubClassOf(:OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004 :OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18)
+SubClassOf(:OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004 ObjectSomeValuesFrom(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5))
+DisjointClasses(:OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004 :OWLClass_a5164236_e956_4329_85e0_ec20e6aad77e)
+
+# Class: :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 (Pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 "Pizza"@en)
+SubClassOf(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 :OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3)
+
+# Class: :OWLClass_6e91966b_41eb_4840_8dab_dc5d25b91dd7 (Ricotta_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_6e91966b_41eb_4840_8dab_dc5d25b91dd7 "Ricotta_topping"@en)
+SubClassOf(:OWLClass_6e91966b_41eb_4840_8dab_dc5d25b91dd7 :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505)
+
+# Class: :OWLClass_71ba86dd_d3f4_494c_951d_14765f695733 (Domain_entity)
+
+AnnotationAssertion(rdfs:label :OWLClass_71ba86dd_d3f4_494c_951d_14765f695733 "Domain_entity"@en)
+
+# Class: :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88 (Spiciness_value)
+
+AnnotationAssertion(rdfs:label :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88 "Spiciness_value"@en)
+SubClassOf(:OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88 :OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81)
+SubClassOf(:OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88 ObjectUnionOf(:OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f :OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505 :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5))
+
+# Class: :OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 (Cheesy_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 "Cheesy_pizza"@en)
+EquivalentClasses(:OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 ObjectIntersectionOf(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 ObjectMinCardinality(2 :OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505)))
+SubClassOf(:OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+SubClassOf(:OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06))
+SubClassOf(:OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004))
+
+# Class: :OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 (Marguritta_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 "Marguritta_pizza"@en)
+SubClassOf(:OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+SubClassOf(:OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06))
+SubClassOf(:OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004))
+
+# Class: :OWLClass_9303d169_e6c0_4295_9ad6_61f303917c2a (Pineapple_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_9303d169_e6c0_4295_9ad6_61f303917c2a "Pineapple_topping"@en)
+SubClassOf(:OWLClass_9303d169_e6c0_4295_9ad6_61f303917c2a :OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f)
+
+# Class: :OWLClass_97ca8409_40f7_4256_9aad_66c19c0119cc (Vegetarian_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_97ca8409_40f7_4256_9aad_66c19c0119cc "Vegetarian_pizza"@en)
+EquivalentClasses(:OWLClass_97ca8409_40f7_4256_9aad_66c19c0119cc ObjectIntersectionOf(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 ObjectComplementOf(ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 ObjectUnionOf(:OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843 :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0)))))
+
+# Class: :OWLClass_98cbaf0f_0a7b_41f6_9790_05c442311e1e (Thin_crust)
+
+AnnotationAssertion(rdfs:label :OWLClass_98cbaf0f_0a7b_41f6_9790_05c442311e1e "Thin_crust"@en)
+SubClassOf(:OWLClass_98cbaf0f_0a7b_41f6_9790_05c442311e1e :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8)
+DisjointClasses(:OWLClass_98cbaf0f_0a7b_41f6_9790_05c442311e1e :OWLClass_b71fedfe_e50a_470f_9018_1f32b860bd6b)
+
+# Class: :OWLClass_a5164236_e956_4329_85e0_ec20e6aad77e (Onion_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_a5164236_e956_4329_85e0_ec20e6aad77e "Onion_topping"@en)
+SubClassOf(:OWLClass_a5164236_e956_4329_85e0_ec20e6aad77e :OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18)
+
+# Class: :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7 (Pizza_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7 "Pizza_topping"@en)
+SubClassOf(:OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7 :OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3)
+
+# Class: :OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505 (Hot_value)
+
+AnnotationAssertion(rdfs:label :OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505 "Hot_value"@en)
+SubClassOf(:OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505 :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88)
+
+# Class: :OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043 (Anchovy_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043 "Anchovy_topping"@en)
+SubClassOf(:OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043 :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0)
+SubClassOf(:OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043 ObjectSomeValuesFrom(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5))
+DisjointClasses(:OWLClass_ac077931_8f58_4c5c_b800_1a8c9c4de043 :OWLClass_f5ca9502_5b61_4eb4_9bad_e108899ad96f)
+
+# Class: :OWLClass_b4e2b6e9_2e19_45fe_8c07_d30157587e6c (Parmesan_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_b4e2b6e9_2e19_45fe_8c07_d30157587e6c "Parmesan_topping"@en)
+SubClassOf(:OWLClass_b4e2b6e9_2e19_45fe_8c07_d30157587e6c :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505)
+
+# Class: :OWLClass_b71fedfe_e50a_470f_9018_1f32b860bd6b (Thick_crust)
+
+AnnotationAssertion(rdfs:label :OWLClass_b71fedfe_e50a_470f_9018_1f32b860bd6b "Thick_crust"@en)
+SubClassOf(:OWLClass_b71fedfe_e50a_470f_9018_1f32b860bd6b :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8)
+
+# Class: :OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 (Tuna_anchovy_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 "Tuna_anchovy_pizza"@en)
+SubClassOf(:OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 :OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048)
+SubClassOf(:OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06))
+SubClassOf(:OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_5af3300b_1543_46d3_9b2f_425246ef9004))
+
+# Class: :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505 (Cheese_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505 "Cheese_topping"@en)
+SubClassOf(:OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+SubClassOf(:OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505 ObjectSomeValuesFrom(:OWLObjectProperty_3fea2bf0_87d6_42ca_b175_fd1f4f44f381 :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5))
+
+# Class: :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8 (Pizza_base)
+
+AnnotationAssertion(rdfs:label :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8 "Pizza_base"@en)
+SubClassOf(:OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8 :OWLClass_3588f6e5_79fc_4a53_90cb_4dccf6d74dc3)
+
+# Class: :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0 (Seafood_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0 "Seafood_topping"@en)
+SubClassOf(:OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+# Class: :OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81 (Value)
+
+AnnotationAssertion(rdfs:label :OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81 "Value"@en)
+SubClassOf(:OWLClass_dd98cf6a_7301_441e_b406_97fdf603fd81 :OWLClass_71ba86dd_d3f4_494c_951d_14765f695733)
+
+# Class: :OWLClass_dee5af43_e0dd_48e9_9401_e353bc120c18 (Spicy_pizza)
+
+AnnotationAssertion(rdfs:label :OWLClass_dee5af43_e0dd_48e9_9401_e353bc120c18 "Spicy_pizza"@en)
+EquivalentClasses(:OWLClass_dee5af43_e0dd_48e9_9401_e353bc120c18 ObjectIntersectionOf(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 ObjectSomeValuesFrom(:OWLObjectProperty_0b6806f8_6e48_4c62_889f_d4db975b8fb4 :OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607)))
+
+# Class: :OWLClass_f5ca9502_5b61_4eb4_9bad_e108899ad96f (Tuna_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_f5ca9502_5b61_4eb4_9bad_e108899ad96f "Tuna_topping"@en)
+SubClassOf(:OWLClass_f5ca9502_5b61_4eb4_9bad_e108899ad96f :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0)
+
+# Class: :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5 (Mild_value)
+
+AnnotationAssertion(rdfs:label :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5 "Mild_value"@en)
+SubClassOf(:OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5 :OWLClass_74ddf7af_f7a9_4f4b_bc80_306192faee88)
+
+# Class: :OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f (Fruit_topping)
+
+AnnotationAssertion(rdfs:label :OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f "Fruit_topping"@en)
+SubClassOf(:OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7)
+
+
+DisjointClasses(:OWLClass_00a9f6ef_5113_426d_b415_6a1d2785cd06 :OWLClass_35ef09d2_f584_43f8_926a_4ecffbd6c064 :OWLClass_6e91966b_41eb_4840_8dab_dc5d25b91dd7 :OWLClass_b4e2b6e9_2e19_45fe_8c07_d30157587e6c)
+DisjointClasses(:OWLClass_0209cd83_057d_4ce0_bfa0_d1ea2ebc352f :OWLClass_a8e28912_4ec1_46ed_a2fe_353e722e5505 :OWLClass_f8a63d20_0329_4b46_ada8_c8b437de83f5)
+DisjointClasses(:OWLClass_04d74297_e5b8_4cd8_9c3b_6460355f8843 :OWLClass_2dac171c_7445_42c1_a97a_d601206a8b18 :OWLClass_3c35343c_1abd_4eb3_b375_3d8cc1fe5607 :OWLClass_cd289796_4a42_4dde_84e1_7428b5c86505 :OWLClass_dc11fd0b_46a8_486a_a05a_c6b7002175e0 :OWLClass_f9e21b5d_05b8_4e08_b42a_73f3873e6a1f)
+DisjointClasses(:OWLClass_1aa37217_1a70_4d8d_bd74_318cdf2cacf9 :OWLClass_7bf8a8c9_1797_46a5_b74a_e8bef8ce92a5 :OWLClass_8a142f8f_c040_4848_b2d8_16478092abb3 :OWLClass_97ca8409_40f7_4256_9aad_66c19c0119cc :OWLClass_bcf20c6d_1b52_4a62_852f_b9039f453045 :OWLClass_dee5af43_e0dd_48e9_9401_e353bc120c18)
+DisjointClasses(:OWLClass_62b9010e_9035_4fbb_8ea8_97a50d8c0048 :OWLClass_a626e970_6fa1_41ed_b4be_ff04f4cb2ea7 :OWLClass_dab96e99_ac85_4d45_8fcd_b70ce9f8b9f8)
+)
